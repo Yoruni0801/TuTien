@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: c9ffbadbf1d0ed34a8b07feacfebff1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8580222337629830409
+    second: LordCyclePhase2ATK2FX_0
+  - first:
+      213: -9093324933147280181
+    second: LordCyclePhase2ATK2FX_1
+  - first:
+      213: -6682518162262037935
+    second: LordCyclePhase2ATK2FX_2
+  - first:
+      213: 2446714524764952678
+    second: LordCyclePhase2ATK2FX_3
+  - first:
+      213: 6722607594522588067
+    second: LordCyclePhase2ATK2FX_4
+  - first:
+      213: 5625208402049236024
+    second: LordCyclePhase2ATK2FX_5
+  - first:
+      213: -8899028807577736222
+    second: LordCyclePhase2ATK2FX_6
+  - first:
+      213: -4847674353868610140
+    second: LordCyclePhase2ATK2FX_7
+  - first:
+      213: -6010161226442471611
+    second: LordCyclePhase2ATK2FX_8
+  - first:
+      213: -9004245653116733775
+    second: LordCyclePhase2ATK2FX_9
+  - first:
+      213: -8920259868728136106
+    second: LordCyclePhase2ATK2FX_10
+  - first:
+      213: 7328692739939964239
+    second: LordCyclePhase2ATK2FX_11
+  - first:
+      213: -6486600935676873758
+    second: LordCyclePhase2ATK2FX_12
+  - first:
+      213: 8604389110643653773
+    second: LordCyclePhase2ATK2FX_13
+  - first:
+      213: 8576119356849193427
+    second: LordCyclePhase2ATK2FX_14
+  - first:
+      213: -1408323819108336494
+    second: LordCyclePhase2ATK2FX_15
+  - first:
+      213: -4031571290795357418
+    second: LordCyclePhase2ATK2FX_16
+  - first:
+      213: -2697162978035309850
+    second: LordCyclePhase2ATK2FX_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LordCyclePhase2ATK2FX_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273
+        width: 124
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2c3bf6e3dece880800000000000000
+      internalID: -8580222337629830409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCyclePhase2ATK2FX_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 273
+        width: 124
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccbd8cd6250ec180800000000000000
+      internalID: -9093324933147280181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCyclePhase2ATK2FX_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 273
+        width: 124
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a664d032de243a0800000000000000
+      internalID: -6682518162262037935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCyclePhase2ATK2FX_3
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 273
+        width: 124
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6685763a5e974f120800000000000000
+      internalID: 2446714524764952678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCyclePhase2ATK2FX_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 273
+        width: 124
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3bcd34dff7b4d50800000000000000
+      internalID: 6722607594522588067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCyclePhase2ATK2FX_5
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 273
+        width: 124
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cffafec31c01e40800000000000000
+      internalID: 5625208402049236024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCyclePhase2ATK2FX_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149
+        width: 124
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb6c56d27c408480800000000000000
+      internalID: -8899028807577736222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCyclePhase2ATK2FX_7
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 149
+        width: 124
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5e3e6fbd999bcb0800000000000000
+      internalID: -4847674353868610140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCyclePhase2ATK2FX_8
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 149
+        width: 124
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547021f253e979ca0800000000000000
+      internalID: -6010161226442471611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCyclePhase2ATK2FX_9
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 149
+        width: 124
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b63f97f84e7a0380800000000000000
+      internalID: -9004245653116733775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCyclePhase2ATK2FX_10
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 149
+        width: 124
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e694439eed43480800000000000000
+      internalID: -8920259868728136106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCyclePhase2ATK2FX_11
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 149
+        width: 125
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f451b18c73fb4b560800000000000000
+      internalID: 7328692739939964239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCyclePhase2ATK2FX_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 25
+        width: 122
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3734501d6faf5a0800000000000000
+      internalID: -6486600935676873758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCyclePhase2ATK2FX_13
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 25
+        width: 126
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c7721ee4ee86770800000000000000
+      internalID: 8604389110643653773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCyclePhase2ATK2FX_14
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 25
+        width: 122
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d10958ed1f740770800000000000000
+      internalID: 8576119356849193427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCyclePhase2ATK2FX_15
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 25
+        width: 126
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c7359b2f0a47ce0800000000000000
+      internalID: -1408323819108336494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCyclePhase2ATK2FX_16
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 25
+        width: 122
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bca7d654bfc08c0800000000000000
+      internalID: -4031571290795357418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCyclePhase2ATK2FX_17
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 25
+        width: 125
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2eed8cf80c19ad0800000000000000
+      internalID: -2697162978035309850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LordCyclePhase2ATK2FX_0: -8580222337629830409
+      LordCyclePhase2ATK2FX_1: -9093324933147280181
+      LordCyclePhase2ATK2FX_10: -8920259868728136106
+      LordCyclePhase2ATK2FX_11: 7328692739939964239
+      LordCyclePhase2ATK2FX_12: -6486600935676873758
+      LordCyclePhase2ATK2FX_13: 8604389110643653773
+      LordCyclePhase2ATK2FX_14: 8576119356849193427
+      LordCyclePhase2ATK2FX_15: -1408323819108336494
+      LordCyclePhase2ATK2FX_16: -4031571290795357418
+      LordCyclePhase2ATK2FX_17: -2697162978035309850
+      LordCyclePhase2ATK2FX_2: -6682518162262037935
+      LordCyclePhase2ATK2FX_3: 2446714524764952678
+      LordCyclePhase2ATK2FX_4: 6722607594522588067
+      LordCyclePhase2ATK2FX_5: 5625208402049236024
+      LordCyclePhase2ATK2FX_6: -8899028807577736222
+      LordCyclePhase2ATK2FX_7: -4847674353868610140
+      LordCyclePhase2ATK2FX_8: -6010161226442471611
+      LordCyclePhase2ATK2FX_9: -9004245653116733775
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

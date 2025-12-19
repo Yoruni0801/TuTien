@@ -1,0 +1,3094 @@
+fileFormatVersion: 2
+guid: 2c9f1e232821aaf43b618c98ec58869e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2242329369939328114
+    second: WoodZhibao_0
+  - first:
+      213: 5538952872420088467
+    second: WoodZhibao_1
+  - first:
+      213: 1545414800791443006
+    second: WoodZhibao_2
+  - first:
+      213: 2347215608830659284
+    second: WoodZhibao_3
+  - first:
+      213: -4951300839827609634
+    second: WoodZhibao_4
+  - first:
+      213: 8992564257305803597
+    second: WoodZhibao_5
+  - first:
+      213: 4460621238020876761
+    second: WoodZhibao_6
+  - first:
+      213: -7407355801901264496
+    second: WoodZhibao_7
+  - first:
+      213: 1380894723469667901
+    second: WoodZhibao_8
+  - first:
+      213: 7193582293475579843
+    second: WoodZhibao_9
+  - first:
+      213: -8870959316711730800
+    second: WoodZhibao_10
+  - first:
+      213: -2437994938548890994
+    second: WoodZhibao_11
+  - first:
+      213: 428987957009253400
+    second: WoodZhibao_12
+  - first:
+      213: 4275384264714912030
+    second: WoodZhibao_13
+  - first:
+      213: -8226890297164551754
+    second: WoodZhibao_14
+  - first:
+      213: 1537868938663179892
+    second: WoodZhibao_15
+  - first:
+      213: -816923590152515260
+    second: WoodZhibao_16
+  - first:
+      213: -5062789111554269127
+    second: WoodZhibao_17
+  - first:
+      213: 4305910965281584433
+    second: WoodZhibao_18
+  - first:
+      213: 1958951850117133190
+    second: WoodZhibao_19
+  - first:
+      213: -4581977099365899703
+    second: WoodZhibao_20
+  - first:
+      213: 1172367632620229089
+    second: WoodZhibao_21
+  - first:
+      213: 3190802987875388152
+    second: WoodZhibao_22
+  - first:
+      213: 3907382357642322768
+    second: WoodZhibao_23
+  - first:
+      213: 232563786315354073
+    second: WoodZhibao_24
+  - first:
+      213: 4079967599875056225
+    second: WoodZhibao_25
+  - first:
+      213: -4681200558848148687
+    second: WoodZhibao_26
+  - first:
+      213: -3426783144366084087
+    second: WoodZhibao_27
+  - first:
+      213: 4559628501067371001
+    second: WoodZhibao_28
+  - first:
+      213: -879560473920353450
+    second: WoodZhibao_29
+  - first:
+      213: 6665250059173504593
+    second: WoodZhibao_30
+  - first:
+      213: 978251798045132543
+    second: WoodZhibao_31
+  - first:
+      213: 8289892417714423999
+    second: WoodZhibao_32
+  - first:
+      213: -6755707501825654048
+    second: WoodZhibao_33
+  - first:
+      213: -4789704486833162768
+    second: WoodZhibao_34
+  - first:
+      213: -1584732490291343336
+    second: WoodZhibao_35
+  - first:
+      213: 2807653167232214176
+    second: WoodZhibao_36
+  - first:
+      213: 6047575835382468107
+    second: WoodZhibao_37
+  - first:
+      213: -7169530646653165469
+    second: WoodZhibao_38
+  - first:
+      213: -3882107588852030206
+    second: WoodZhibao_39
+  - first:
+      213: 568277190151190010
+    second: WoodZhibao_40
+  - first:
+      213: -2248630855469745333
+    second: WoodZhibao_41
+  - first:
+      213: -1180877805903936096
+    second: WoodZhibao_42
+  - first:
+      213: -510520405200450300
+    second: WoodZhibao_43
+  - first:
+      213: -4596523695969799473
+    second: WoodZhibao_44
+  - first:
+      213: -5463520479926930825
+    second: WoodZhibao_45
+  - first:
+      213: 6270299568314710004
+    second: WoodZhibao_46
+  - first:
+      213: -2693966065535982303
+    second: WoodZhibao_47
+  - first:
+      213: 6398899427347415696
+    second: WoodZhibao_48
+  - first:
+      213: 4817197425803442239
+    second: WoodZhibao_49
+  - first:
+      213: 1548322426320003151
+    second: WoodZhibao_50
+  - first:
+      213: 4725687925983812937
+    second: WoodZhibao_51
+  - first:
+      213: -1592212812913723032
+    second: WoodZhibao_52
+  - first:
+      213: 7239675592622934394
+    second: WoodZhibao_53
+  - first:
+      213: 1186823165347772828
+    second: WoodZhibao_54
+  - first:
+      213: -7569870543471132366
+    second: WoodZhibao_55
+  - first:
+      213: -8425420956250490360
+    second: WoodZhibao_56
+  - first:
+      213: -1736283201563949550
+    second: WoodZhibao_57
+  - first:
+      213: -9056750847142846581
+    second: WoodZhibao_58
+  - first:
+      213: -2630042895828645020
+    second: WoodZhibao_59
+  - first:
+      213: -4316517227070055617
+    second: WoodZhibao_60
+  - first:
+      213: 3479825145984765104
+    second: WoodZhibao_61
+  - first:
+      213: -3960077440891244724
+    second: WoodZhibao_62
+  - first:
+      213: 447863937422809557
+    second: WoodZhibao_63
+  - first:
+      213: -8131426536280990742
+    second: WoodZhibao_64
+  - first:
+      213: 3719463766827442161
+    second: WoodZhibao_65
+  - first:
+      213: 2900318559772484066
+    second: WoodZhibao_66
+  - first:
+      213: 1513361933585388568
+    second: WoodZhibao_67
+  - first:
+      213: -4140762415554286758
+    second: WoodZhibao_68
+  - first:
+      213: -2889337481320721316
+    second: WoodZhibao_69
+  - first:
+      213: -3694649529948891425
+    second: WoodZhibao_70
+  - first:
+      213: -1153658063983785550
+    second: WoodZhibao_71
+  - first:
+      213: -8275829003016910422
+    second: WoodZhibao_72
+  - first:
+      213: -7208704793006125616
+    second: WoodZhibao_73
+  - first:
+      213: -5059240032273788552
+    second: WoodZhibao_74
+  - first:
+      213: -6214176979576901075
+    second: WoodZhibao_75
+  - first:
+      213: -4065714427691504757
+    second: WoodZhibao_76
+  - first:
+      213: -8148991356331903697
+    second: WoodZhibao_77
+  - first:
+      213: 8603343936596078700
+    second: WoodZhibao_78
+  - first:
+      213: -8111676023880971529
+    second: WoodZhibao_79
+  - first:
+      213: 836713149272407847
+    second: WoodZhibao_80
+  - first:
+      213: -529394355180188393
+    second: WoodZhibao_81
+  - first:
+      213: 4055002458775584420
+    second: WoodZhibao_82
+  - first:
+      213: -4249343710044686897
+    second: WoodZhibao_83
+  - first:
+      213: -3594130956574590179
+    second: WoodZhibao_84
+  - first:
+      213: -2129961032281111727
+    second: WoodZhibao_85
+  - first:
+      213: -633895013250433633
+    second: WoodZhibao_86
+  - first:
+      213: -4638684696313199661
+    second: WoodZhibao_87
+  - first:
+      213: 8858085330612004619
+    second: WoodZhibao_88
+  - first:
+      213: -2651120040981060563
+    second: WoodZhibao_89
+  - first:
+      213: 5805198456321397037
+    second: WoodZhibao_90
+  - first:
+      213: 4235198016589225484
+    second: WoodZhibao_91
+  - first:
+      213: 1873144205085194923
+    second: WoodZhibao_92
+  - first:
+      213: 1040432239813309517
+    second: WoodZhibao_93
+  - first:
+      213: 6207273756941740325
+    second: WoodZhibao_94
+  - first:
+      213: -8275314390888799402
+    second: WoodZhibao_95
+  - first:
+      213: -1505563194822763499
+    second: WoodZhibao_96
+  - first:
+      213: 5869060959211953342
+    second: WoodZhibao_97
+  - first:
+      213: 1939301510495683374
+    second: WoodZhibao_98
+  - first:
+      213: -5772707056360626094
+    second: WoodZhibao_99
+  - first:
+      213: -6354576369464860086
+    second: WoodZhibao_100
+  - first:
+      213: 5975138931711338997
+    second: WoodZhibao_101
+  - first:
+      213: -2924268480050914317
+    second: WoodZhibao_102
+  - first:
+      213: 9104036555666194884
+    second: WoodZhibao_103
+  - first:
+      213: 6670586181502584992
+    second: WoodZhibao_104
+  - first:
+      213: 212337582744303252
+    second: WoodZhibao_105
+  - first:
+      213: -5701466037233846843
+    second: WoodZhibao_106
+  - first:
+      213: 7028141459324711432
+    second: WoodZhibao_107
+  - first:
+      213: 5785647145799443186
+    second: WoodZhibao_108
+  - first:
+      213: 4719187147832978823
+    second: WoodZhibao_109
+  - first:
+      213: 8500338477264557863
+    second: WoodZhibao_110
+  - first:
+      213: -6740725261906724189
+    second: WoodZhibao_111
+  - first:
+      213: -4878028217276587288
+    second: WoodZhibao_112
+  - first:
+      213: -7194777457674975268
+    second: WoodZhibao_113
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WoodZhibao_0
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 597
+        width: 100
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cb8ac7eaa5e1f10800000000000000
+      internalID: 2242329369939328114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_1
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 563
+        width: 220
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a9a347a405edc40800000000000000
+      internalID: 5538952872420088467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_2
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 653
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e361ec7c29a627510800000000000000
+      internalID: 1545414800791443006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_3
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 619
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da8a9ff82cf29020800000000000000
+      internalID: 2347215608830659284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 547
+        width: 159
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed76bf98e12794bb0800000000000000
+      internalID: -4951300839827609634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_5
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 642
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b36902c810ccc70800000000000000
+      internalID: 8992564257305803597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_6
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 631
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d92cc1f16f47ed30800000000000000
+      internalID: 4460621238020876761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 619
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0911fbed429c33990800000000000000
+      internalID: -7407355801901264496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 606
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3eee984f6ce92310800000000000000
+      internalID: 1380894723469667901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_9
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 603
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7d6219bfcb4d360800000000000000
+      internalID: 7193582293475579843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 596
+        width: 35
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0919476708504e480800000000000000
+      internalID: -8870959316711730800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_11
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 582
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82d79b35808a2ed0800000000000000
+      internalID: -2437994938548890994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_12
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 581
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8140576264214f500800000000000000
+      internalID: 428987957009253400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_13
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 575
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1180a83657355b30800000000000000
+      internalID: 4275384264714912030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_14
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 558
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b92667dcd634dd80800000000000000
+      internalID: -8226890297164551754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_15
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 536
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4763028d6ab975510800000000000000
+      internalID: 1537868938663179892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_16
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 539
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4419250b254b9a4f0800000000000000
+      internalID: -816923590152515260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_17
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 519
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930a719702c5db9b0800000000000000
+      internalID: -5062789111554269127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_18
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 471
+        width: 72
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1357110953ba1cb30800000000000000
+      internalID: 4305910965281584433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_19
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 458
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683735624589f2b10800000000000000
+      internalID: 1958951850117133190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_20
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 276
+        width: 300
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942225fba1c8960c0800000000000000
+      internalID: -4581977099365899703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_21
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 468
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e19e708626154010800000000000000
+      internalID: 1172367632620229089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_22
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 426
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa41907962084c20800000000000000
+      internalID: 3190802987875388152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_23
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 412
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05326e45d8fc93630800000000000000
+      internalID: 3907382357642322768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_24
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 455
+        width: 129
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df42fe088b3a3300800000000000000
+      internalID: 232563786315354073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_25
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 318
+        width: 168
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162e7ad5ae4fe9830800000000000000
+      internalID: 4079967599875056225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_26
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 438
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bfe7fc4e8090fb0800000000000000
+      internalID: -4681200558848148687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_27
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 451
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90073c5d2ee9170d0800000000000000
+      internalID: -3426783144366084087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_28
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 443
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f11ed9b6fd074f30800000000000000
+      internalID: 4559628501067371001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_29
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 447
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bc089b86c2bc3f0800000000000000
+      internalID: -879560473920353450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_30
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 450
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15620346d99bf7c50800000000000000
+      internalID: 6665250059173504593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_31
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 410
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff60e5bc3d2739d00800000000000000
+      internalID: 978251798045132543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_32
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 424
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb882107b3d9b0370800000000000000
+      internalID: 8289892417714423999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_33
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 422
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e28d3302d7ee32a0800000000000000
+      internalID: -6755707501825654048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_34
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 442
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5f63b652d878db0800000000000000
+      internalID: -4789704486833162768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_35
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 431
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8101a244236e10ae0800000000000000
+      internalID: -1584732490291343336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_36
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 428
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a460651ea9c6f620800000000000000
+      internalID: 2807653167232214176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_37
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 383
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e453c4e2e4de350800000000000000
+      internalID: 6047575835382468107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_38
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 398
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36026f7dcd5b08c90800000000000000
+      internalID: -7169530646653165469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_39
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 410
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20560aa57bbff1ac0800000000000000
+      internalID: -3882107588852030206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_40
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 331
+        width: 27
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af53be4f71de2e700800000000000000
+      internalID: 568277190151190010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_41
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 414
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b3eb496224bc0e0800000000000000
+      internalID: -2248630855469745333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_42
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 388
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a504ff54edac9fe0800000000000000
+      internalID: -1180877805903936096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_43
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 397
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d407575644ae8f0800000000000000
+      internalID: -510520405200450300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_44
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 356
+        width: 13
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2fd0c4d0ed530c0800000000000000
+      internalID: -4596523695969799473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_45
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 383
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77232ea021dad24b0800000000000000
+      internalID: -5463520479926930825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_46
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 389
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7fea46c34940750800000000000000
+      internalID: 6270299568314710004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_47
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 389
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12565caf22c1d9ad0800000000000000
+      internalID: -2693966065535982303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_48
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 378
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0924e7850257dc850800000000000000
+      internalID: 6398899427347415696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_49
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 357
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38b0f1498f1ad240800000000000000
+      internalID: 4817197425803442239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_50
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 371
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40239a1b0fbc7510800000000000000
+      internalID: 1548322426320003151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_51
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 371
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d1e938124059140800000000000000
+      internalID: 4725687925983812937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_52
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 301
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869b37fe1e257e9e0800000000000000
+      internalID: -1592212812913723032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_53
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 355
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a790b53189e787460800000000000000
+      internalID: 7239675592622934394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_54
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 340
+        width: 13
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9932cd7161787010800000000000000
+      internalID: 1186823165347772828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_55
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 284
+        width: 75
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231c5bcf8da62f690800000000000000
+      internalID: -7569870543471132366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_56
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 297
+        width: 73
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80abe83b744e21b80800000000000000
+      internalID: -8425420956250490360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_57
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 318
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2168d4d90ab77e7e0800000000000000
+      internalID: -1736283201563949550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_58
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 333
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f15d8d615ff4280800000000000000
+      internalID: -9056750847142846581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_59
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 325
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b081abbe5308bd0800000000000000
+      internalID: -2630042895828645020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_60
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 19
+        width: 223
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b92ada376a814c0800000000000000
+      internalID: -4316517227070055617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_61
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 313
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcc4ea8882da4030800000000000000
+      internalID: 3479825145984765104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_62
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 304
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fa3a48c8afa09c0800000000000000
+      internalID: -3960077440891244724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_63
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 294
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d95bc1d0e1273600800000000000000
+      internalID: 447863937422809557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_64
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 276
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb59cbb5ae572f80800000000000000
+      internalID: -8131426536280990742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_65
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 271
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff9fa0e6903e9330800000000000000
+      internalID: 3719463766827442161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_66
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 278
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e126b21d50004820800000000000000
+      internalID: 2900318559772484066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_67
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 271
+        width: 99
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81494f319aa800510800000000000000
+      internalID: 1513361933585388568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_68
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 223
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b2991958e0986c0800000000000000
+      internalID: -4140762415554286758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_69
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 230
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5418ad7ed207e7d0800000000000000
+      internalID: -2889337481320721316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_70
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 225
+        width: 76
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd615ddd3d7f9bcc0800000000000000
+      internalID: -3694649529948891425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_71
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 234
+        width: 33
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b94bf76a126dffe0800000000000000
+      internalID: -1153658063983785550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_72
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 228
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa94d457e59562d80800000000000000
+      internalID: -8275829003016910422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_73
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 232
+        width: 57
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddc6322f2985fb90800000000000000
+      internalID: -7208704793006125616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_74
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 213
+        width: 63
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87192e2eef7f9c9b0800000000000000
+      internalID: -5059240032273788552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_75
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 215
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22b8e016fec2c9a0800000000000000
+      internalID: -6214176979576901075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_76
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 210
+        width: 47
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b6443e44ea397c0800000000000000
+      internalID: -4065714427691504757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_77
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 197
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25bb106987f8ee80800000000000000
+      internalID: -8148991356331903697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_78
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 205
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60f1555ab7356770800000000000000
+      internalID: 8603343936596078700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_79
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 180
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa858f32a98d6f80800000000000000
+      internalID: -8111676023880971529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_80
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 150
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fb7491d2a9c9b00800000000000000
+      internalID: 836713149272407847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_81
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 156
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d436983a637a8f0800000000000000
+      internalID: -529394355180188393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_82
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 157
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae77ae7043464830800000000000000
+      internalID: 4055002458775584420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_83
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 171
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5fe32e86c4705c0800000000000000
+      internalID: -4249343710044686897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_84
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 170
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bf22100f41f1ec0800000000000000
+      internalID: -3594130956574590179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_85
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 115
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153c575e9bbd072e0800000000000000
+      internalID: -2129961032281111727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_86
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 172
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9df05e08d3f337f0800000000000000
+      internalID: -633895013250433633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_87
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 132
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3063378d410afb0800000000000000
+      internalID: -4638684696313199661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_88
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 149
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b072a311dad3eea70800000000000000
+      internalID: 8858085330612004619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_89
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 90
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24a7647e54553bd0800000000000000
+      internalID: -2651120040981060563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_90
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 121
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21deaf1d35309050800000000000000
+      internalID: 5805198456321397037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_91
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 53
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e5d34382276ca30800000000000000
+      internalID: 4235198016589225484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_92
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 74
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa3f2deabebef910800000000000000
+      internalID: 1873144205085194923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_93
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 72
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44bfe21c9b507e00800000000000000
+      internalID: 1040432239813309517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_94
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 69
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529ed1a289aa42650800000000000000
+      internalID: 6207273756941740325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_95
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 63
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653256ee76d282d80800000000000000
+      internalID: -8275314390888799402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_96
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 80
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cdfa9404a2b1be0800000000000000
+      internalID: -1505563194822763499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_97
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 55
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc11f6c8d7137150800000000000000
+      internalID: 5869060959211953342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_98
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 42
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23497de278c9ea10800000000000000
+      internalID: 1939301510495683374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_99
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 41
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258eb31748933efa0800000000000000
+      internalID: -5772707056360626094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_100
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 48
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42a4ffb57200d7a0800000000000000
+      internalID: -6354576369464860086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_101
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 64
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9e2446335fbe250800000000000000
+      internalID: 5975138931711338997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_102
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 58
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb91b29f49ea67d0800000000000000
+      internalID: -2924268480050914317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_103
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 34
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c187aa1309085e70800000000000000
+      internalID: 9104036555666194884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_104
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 16
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a847103acea29c50800000000000000
+      internalID: 6670586181502584992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_105
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 37
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49670ff08ef52f200800000000000000
+      internalID: 212337582744303252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_106
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 25
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5f8b7c8d250e0b0800000000000000
+      internalID: -5701466037233846843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_107
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 42
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802be3aab69f88160800000000000000
+      internalID: 7028141459324711432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_108
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 21
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2e029ec6fba4050800000000000000
+      internalID: 5785647145799443186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_109
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 16
+        width: 46
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d6c2725bbed7140800000000000000
+      internalID: 4719187147832978823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_110
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 25
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72750ffeec447f570800000000000000
+      internalID: 8500338477264557863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_111
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 12
+        width: 71
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa3c8396122472a0800000000000000
+      internalID: -6740725261906724189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_112
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 10
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2a5e86e23cd4cb0800000000000000
+      internalID: -4878028217276587288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodZhibao_113
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 13
+        width: 46
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd78b459504072c90800000000000000
+      internalID: -7194777457674975268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WoodZhibao_0: 2242329369939328114
+      WoodZhibao_1: 5538952872420088467
+      WoodZhibao_10: -8870959316711730800
+      WoodZhibao_100: -6354576369464860086
+      WoodZhibao_101: 5975138931711338997
+      WoodZhibao_102: -2924268480050914317
+      WoodZhibao_103: 9104036555666194884
+      WoodZhibao_104: 6670586181502584992
+      WoodZhibao_105: 212337582744303252
+      WoodZhibao_106: -5701466037233846843
+      WoodZhibao_107: 7028141459324711432
+      WoodZhibao_108: 5785647145799443186
+      WoodZhibao_109: 4719187147832978823
+      WoodZhibao_11: -2437994938548890994
+      WoodZhibao_110: 8500338477264557863
+      WoodZhibao_111: -6740725261906724189
+      WoodZhibao_112: -4878028217276587288
+      WoodZhibao_113: -7194777457674975268
+      WoodZhibao_12: 428987957009253400
+      WoodZhibao_13: 4275384264714912030
+      WoodZhibao_14: -8226890297164551754
+      WoodZhibao_15: 1537868938663179892
+      WoodZhibao_16: -816923590152515260
+      WoodZhibao_17: -5062789111554269127
+      WoodZhibao_18: 4305910965281584433
+      WoodZhibao_19: 1958951850117133190
+      WoodZhibao_2: 1545414800791443006
+      WoodZhibao_20: -4581977099365899703
+      WoodZhibao_21: 1172367632620229089
+      WoodZhibao_22: 3190802987875388152
+      WoodZhibao_23: 3907382357642322768
+      WoodZhibao_24: 232563786315354073
+      WoodZhibao_25: 4079967599875056225
+      WoodZhibao_26: -4681200558848148687
+      WoodZhibao_27: -3426783144366084087
+      WoodZhibao_28: 4559628501067371001
+      WoodZhibao_29: -879560473920353450
+      WoodZhibao_3: 2347215608830659284
+      WoodZhibao_30: 6665250059173504593
+      WoodZhibao_31: 978251798045132543
+      WoodZhibao_32: 8289892417714423999
+      WoodZhibao_33: -6755707501825654048
+      WoodZhibao_34: -4789704486833162768
+      WoodZhibao_35: -1584732490291343336
+      WoodZhibao_36: 2807653167232214176
+      WoodZhibao_37: 6047575835382468107
+      WoodZhibao_38: -7169530646653165469
+      WoodZhibao_39: -3882107588852030206
+      WoodZhibao_4: -4951300839827609634
+      WoodZhibao_40: 568277190151190010
+      WoodZhibao_41: -2248630855469745333
+      WoodZhibao_42: -1180877805903936096
+      WoodZhibao_43: -510520405200450300
+      WoodZhibao_44: -4596523695969799473
+      WoodZhibao_45: -5463520479926930825
+      WoodZhibao_46: 6270299568314710004
+      WoodZhibao_47: -2693966065535982303
+      WoodZhibao_48: 6398899427347415696
+      WoodZhibao_49: 4817197425803442239
+      WoodZhibao_5: 8992564257305803597
+      WoodZhibao_50: 1548322426320003151
+      WoodZhibao_51: 4725687925983812937
+      WoodZhibao_52: -1592212812913723032
+      WoodZhibao_53: 7239675592622934394
+      WoodZhibao_54: 1186823165347772828
+      WoodZhibao_55: -7569870543471132366
+      WoodZhibao_56: -8425420956250490360
+      WoodZhibao_57: -1736283201563949550
+      WoodZhibao_58: -9056750847142846581
+      WoodZhibao_59: -2630042895828645020
+      WoodZhibao_6: 4460621238020876761
+      WoodZhibao_60: -4316517227070055617
+      WoodZhibao_61: 3479825145984765104
+      WoodZhibao_62: -3960077440891244724
+      WoodZhibao_63: 447863937422809557
+      WoodZhibao_64: -8131426536280990742
+      WoodZhibao_65: 3719463766827442161
+      WoodZhibao_66: 2900318559772484066
+      WoodZhibao_67: 1513361933585388568
+      WoodZhibao_68: -4140762415554286758
+      WoodZhibao_69: -2889337481320721316
+      WoodZhibao_7: -7407355801901264496
+      WoodZhibao_70: -3694649529948891425
+      WoodZhibao_71: -1153658063983785550
+      WoodZhibao_72: -8275829003016910422
+      WoodZhibao_73: -7208704793006125616
+      WoodZhibao_74: -5059240032273788552
+      WoodZhibao_75: -6214176979576901075
+      WoodZhibao_76: -4065714427691504757
+      WoodZhibao_77: -8148991356331903697
+      WoodZhibao_78: 8603343936596078700
+      WoodZhibao_79: -8111676023880971529
+      WoodZhibao_8: 1380894723469667901
+      WoodZhibao_80: 836713149272407847
+      WoodZhibao_81: -529394355180188393
+      WoodZhibao_82: 4055002458775584420
+      WoodZhibao_83: -4249343710044686897
+      WoodZhibao_84: -3594130956574590179
+      WoodZhibao_85: -2129961032281111727
+      WoodZhibao_86: -633895013250433633
+      WoodZhibao_87: -4638684696313199661
+      WoodZhibao_88: 8858085330612004619
+      WoodZhibao_89: -2651120040981060563
+      WoodZhibao_9: 7193582293475579843
+      WoodZhibao_90: 5805198456321397037
+      WoodZhibao_91: 4235198016589225484
+      WoodZhibao_92: 1873144205085194923
+      WoodZhibao_93: 1040432239813309517
+      WoodZhibao_94: 6207273756941740325
+      WoodZhibao_95: -8275314390888799402
+      WoodZhibao_96: -1505563194822763499
+      WoodZhibao_97: 5869060959211953342
+      WoodZhibao_98: 1939301510495683374
+      WoodZhibao_99: -5772707056360626094
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

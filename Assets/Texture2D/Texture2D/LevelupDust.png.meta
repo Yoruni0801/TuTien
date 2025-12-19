@@ -1,0 +1,1274 @@
+fileFormatVersion: 2
+guid: 6720223fd4d662e46946b1081328fd11
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6060213957954680437
+    second: LevelupDust_0
+  - first:
+      213: -4501036408493709219
+    second: LevelupDust_1
+  - first:
+      213: -1722339530242934633
+    second: LevelupDust_2
+  - first:
+      213: -6480900751101419643
+    second: LevelupDust_3
+  - first:
+      213: -3341673777301902921
+    second: LevelupDust_4
+  - first:
+      213: -2850687279615156493
+    second: LevelupDust_5
+  - first:
+      213: 2775678204518965417
+    second: LevelupDust_6
+  - first:
+      213: 9214486260334560037
+    second: LevelupDust_7
+  - first:
+      213: -1815847230410063904
+    second: LevelupDust_8
+  - first:
+      213: -1859181304437201953
+    second: LevelupDust_9
+  - first:
+      213: -3107622070450450935
+    second: LevelupDust_10
+  - first:
+      213: 3363006672708886594
+    second: LevelupDust_11
+  - first:
+      213: -3957592193418655441
+    second: LevelupDust_12
+  - first:
+      213: 3002425497875510235
+    second: LevelupDust_13
+  - first:
+      213: 1749993281599105419
+    second: LevelupDust_14
+  - first:
+      213: -2260863910821537854
+    second: LevelupDust_15
+  - first:
+      213: 8294039100311796642
+    second: LevelupDust_16
+  - first:
+      213: -5165416892896048989
+    second: LevelupDust_17
+  - first:
+      213: 5476663288900909934
+    second: LevelupDust_18
+  - first:
+      213: 6787072679278192177
+    second: LevelupDust_19
+  - first:
+      213: 4392549512232334006
+    second: LevelupDust_20
+  - first:
+      213: 8553549001055533018
+    second: LevelupDust_21
+  - first:
+      213: -3667295036746438837
+    second: LevelupDust_22
+  - first:
+      213: 8238139950852154664
+    second: LevelupDust_23
+  - first:
+      213: -6575907748082537134
+    second: LevelupDust_24
+  - first:
+      213: -146088330673174963
+    second: LevelupDust_25
+  - first:
+      213: -3163003273273079490
+    second: LevelupDust_26
+  - first:
+      213: -610122372512561568
+    second: LevelupDust_27
+  - first:
+      213: 2112298067108819688
+    second: LevelupDust_28
+  - first:
+      213: -1289138729064610680
+    second: LevelupDust_29
+  - first:
+      213: -2098533319656753280
+    second: LevelupDust_30
+  - first:
+      213: -1653258862164822976
+    second: LevelupDust_31
+  - first:
+      213: -3722668001298005186
+    second: LevelupDust_32
+  - first:
+      213: 5985472030658507628
+    second: LevelupDust_33
+  - first:
+      213: -7501458236079864679
+    second: LevelupDust_34
+  - first:
+      213: 7779388761397814889
+    second: LevelupDust_35
+  - first:
+      213: 6586855338220558553
+    second: LevelupDust_36
+  - first:
+      213: 4239641053252181923
+    second: LevelupDust_37
+  - first:
+      213: 733885278551727648
+    second: LevelupDust_38
+  - first:
+      213: -5919831575265537204
+    second: LevelupDust_39
+  - first:
+      213: -1403081850866048663
+    second: LevelupDust_40
+  - first:
+      213: 3854787837022997353
+    second: LevelupDust_41
+  - first:
+      213: -1213604809479812757
+    second: LevelupDust_42
+  - first:
+      213: 7211324041870890583
+    second: LevelupDust_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LevelupDust_0
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 143
+        width: 100
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b894f3d738bc5eba0800000000000000
+      internalID: -6060213957954680437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_1
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 25
+        width: 215
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58e1a6eb3b1981c0800000000000000
+      internalID: -4501036408493709219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_2
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 140
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798b14592550918e0800000000000000
+      internalID: -1722339530242934633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_3
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 144
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f990aaa173f06a0800000000000000
+      internalID: -6480900751101419643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_4
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 161
+        width: 48
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9aeac876dff91d0800000000000000
+      internalID: -3341673777301902921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_5
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 141
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe50d4d5035078d0800000000000000
+      internalID: -2850687279615156493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_6
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 129
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0a52fee90358620800000000000000
+      internalID: 2775678204518965417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_7
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 33
+        width: 184
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52385feee6e60ef70800000000000000
+      internalID: 9214486260334560037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_8
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 139
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eff7019090dcc6e0800000000000000
+      internalID: -1815847230410063904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_9
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 93
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd329f7347cd236e0800000000000000
+      internalID: -1859181304437201953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_10
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 91
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e03aa11328fd4d0800000000000000
+      internalID: -3107622070450450935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_11
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 135
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240e41830cccbae20800000000000000
+      internalID: 3363006672708886594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_12
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 90
+        width: 90
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f290c694edec319c0800000000000000
+      internalID: -3957592193418655441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_13
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 122
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3f1713512caa920800000000000000
+      internalID: 3002425497875510235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_14
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 47
+        width: 124
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89e8052e99394810800000000000000
+      internalID: 1749993281599105419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_15
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 94
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c75bfd604ccf90e0800000000000000
+      internalID: -2260863910821537854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_16
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 128
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abf8473e985a1370800000000000000
+      internalID: 8294039100311796642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_17
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 113
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8012614b0c058b0800000000000000
+      internalID: -5165416892896048989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_18
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 109
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b7c51ae34010c40800000000000000
+      internalID: 5476663288900909934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_19
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 111
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136a22174a6803e50800000000000000
+      internalID: 6787072679278192177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_20
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 105
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b27ce6328875fc30800000000000000
+      internalID: 4392549512232334006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_21
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 102
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7ffc07f7f44b670800000000000000
+      internalID: 8553549001055533018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_22
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 75
+        width: 88
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47ec2028962b1dc0800000000000000
+      internalID: -3667295036746438837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_23
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 115
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8252f7443a0c35270800000000000000
+      internalID: 8238139950852154664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_24
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 104
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d2dc76ebeadb4a0800000000000000
+      internalID: -6575907748082537134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_25
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 98
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d464560ff6df8fdf0800000000000000
+      internalID: -146088330673174963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_26
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 85
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3909210841ca14d0800000000000000
+      internalID: -3163003273273079490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 99
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066cedc4fe86887f0800000000000000
+      internalID: -610122372512561568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_28
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 97
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2f3cd86e3605d10800000000000000
+      internalID: 2112298067108819688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_29
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 77
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884c7e3f72f0c1ee0800000000000000
+      internalID: -1289138729064610680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_30
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 54
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087b984701380e2e0800000000000000
+      internalID: -2098533319656753280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_31
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 83
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04436eef2d17e09e0800000000000000
+      internalID: -1653258862164822976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_32
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 75
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e334be52d2d665cc0800000000000000
+      internalID: -3722668001298005186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_33
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 81
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63bf68791ba01350800000000000000
+      internalID: 5985472030658507628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_34
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 75
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994080d8a7775e790800000000000000
+      internalID: -7501458236079864679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_35
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 81
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96668cc8cd0f5fb60800000000000000
+      internalID: 7779388761397814889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_36
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 65
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8958d0806396b50800000000000000
+      internalID: 6586855338220558553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_37
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 61
+        width: 69
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af524a431b36da30800000000000000
+      internalID: 4239641053252181923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_38
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 65
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ed6f5c5c84f2a00800000000000000
+      internalID: 733885278551727648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_39
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 44
+        width: 76
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4318220c8888dda0800000000000000
+      internalID: -5919831575265537204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_40
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 35
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961e4509d70478ce0800000000000000
+      internalID: -1403081850866048663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_41
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 37
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b804e3d15fe7530800000000000000
+      internalID: 3854787837022997353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_42
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 50
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6900411bd8682fe0800000000000000
+      internalID: -1213604809479812757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelupDust_43
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 26
+        width: 51
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756d2f34205c31460800000000000000
+      internalID: 7211324041870890583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LevelupDust_0: -6060213957954680437
+      LevelupDust_1: -4501036408493709219
+      LevelupDust_10: -3107622070450450935
+      LevelupDust_11: 3363006672708886594
+      LevelupDust_12: -3957592193418655441
+      LevelupDust_13: 3002425497875510235
+      LevelupDust_14: 1749993281599105419
+      LevelupDust_15: -2260863910821537854
+      LevelupDust_16: 8294039100311796642
+      LevelupDust_17: -5165416892896048989
+      LevelupDust_18: 5476663288900909934
+      LevelupDust_19: 6787072679278192177
+      LevelupDust_2: -1722339530242934633
+      LevelupDust_20: 4392549512232334006
+      LevelupDust_21: 8553549001055533018
+      LevelupDust_22: -3667295036746438837
+      LevelupDust_23: 8238139950852154664
+      LevelupDust_24: -6575907748082537134
+      LevelupDust_25: -146088330673174963
+      LevelupDust_26: -3163003273273079490
+      LevelupDust_27: -610122372512561568
+      LevelupDust_28: 2112298067108819688
+      LevelupDust_29: -1289138729064610680
+      LevelupDust_3: -6480900751101419643
+      LevelupDust_30: -2098533319656753280
+      LevelupDust_31: -1653258862164822976
+      LevelupDust_32: -3722668001298005186
+      LevelupDust_33: 5985472030658507628
+      LevelupDust_34: -7501458236079864679
+      LevelupDust_35: 7779388761397814889
+      LevelupDust_36: 6586855338220558553
+      LevelupDust_37: 4239641053252181923
+      LevelupDust_38: 733885278551727648
+      LevelupDust_39: -5919831575265537204
+      LevelupDust_4: -3341673777301902921
+      LevelupDust_40: -1403081850866048663
+      LevelupDust_41: 3854787837022997353
+      LevelupDust_42: -1213604809479812757
+      LevelupDust_43: 7211324041870890583
+      LevelupDust_5: -2850687279615156493
+      LevelupDust_6: 2775678204518965417
+      LevelupDust_7: 9214486260334560037
+      LevelupDust_8: -1815847230410063904
+      LevelupDust_9: -1859181304437201953
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

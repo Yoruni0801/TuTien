@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 5197add3221f0224c91f7e72b0d7f2ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1350234460200009103
+    second: SamadhiFireProjectile_0
+  - first:
+      213: 3683941847331625301
+    second: SamadhiFireProjectile_1
+  - first:
+      213: -2433669582800472924
+    second: SamadhiFireProjectile_2
+  - first:
+      213: 8296791217345520963
+    second: SamadhiFireProjectile_3
+  - first:
+      213: 1140301480441978367
+    second: SamadhiFireProjectile_4
+  - first:
+      213: 1108140555058652126
+    second: SamadhiFireProjectile_5
+  - first:
+      213: -7407060286560091772
+    second: SamadhiFireProjectile_6
+  - first:
+      213: -4845437409321962870
+    second: SamadhiFireProjectile_7
+  - first:
+      213: 2924001586801468966
+    second: SamadhiFireProjectile_8
+  - first:
+      213: -2991660590456528373
+    second: SamadhiFireProjectile_9
+  - first:
+      213: 8425120272459173179
+    second: SamadhiFireProjectile_10
+  - first:
+      213: -5428059903300736952
+    second: SamadhiFireProjectile_11
+  - first:
+      213: 6334956402619942159
+    second: SamadhiFireProjectile_12
+  - first:
+      213: -2689141669789572908
+    second: SamadhiFireProjectile_13
+  - first:
+      213: -5977313063674761857
+    second: SamadhiFireProjectile_14
+  - first:
+      213: 5286754583911284334
+    second: SamadhiFireProjectile_15
+  - first:
+      213: 5944064853418005734
+    second: SamadhiFireProjectile_16
+  - first:
+      213: 5678523107308622611
+    second: SamadhiFireProjectile_17
+  - first:
+      213: 3912958044533906266
+    second: SamadhiFireProjectile_18
+  - first:
+      213: -3449210012820812077
+    second: SamadhiFireProjectile_19
+  - first:
+      213: 1567259546263585791
+    second: SamadhiFireProjectile_20
+  - first:
+      213: -6315695468416666111
+    second: SamadhiFireProjectile_21
+  - first:
+      213: -1332249226870989683
+    second: SamadhiFireProjectile_22
+  - first:
+      213: -4761966230068368011
+    second: SamadhiFireProjectile_23
+  - first:
+      213: 9033020972237489873
+    second: SamadhiFireProjectile_24
+  - first:
+      213: -5516978838418021967
+    second: SamadhiFireProjectile_25
+  - first:
+      213: 9118211913829759728
+    second: SamadhiFireProjectile_26
+  - first:
+      213: 8096762988879309880
+    second: SamadhiFireProjectile_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SamadhiFireProjectile_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 97
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d76b3761ffcb210800000000000000
+      internalID: 1350234460200009103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireProjectile_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 86
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559d56f779dff1330800000000000000
+      internalID: 3683941847331625301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireProjectile_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 97
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a43188986ed93ed0800000000000000
+      internalID: -2433669582800472924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireProjectile_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 91
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345e57567af142370800000000000000
+      internalID: 8296791217345520963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireProjectile_4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 100
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd9896a72a23df00800000000000000
+      internalID: 1140301480441978367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireProjectile_5
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 86
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3a971b6f7e06f00800000000000000
+      internalID: 1108140555058652126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireProjectile_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 87
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481cea5e9e5d43990800000000000000
+      internalID: -7407060286560091772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireProjectile_7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 99
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82b9f3395c81ccb0800000000000000
+      internalID: -4845437409321962870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireProjectile_8
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 89
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626eaff73f3249820800000000000000
+      internalID: 2924001586801468966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireProjectile_9
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 97
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02ad412b8c7b76d0800000000000000
+      internalID: -2991660590456528373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireProjectile_10
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 85
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d0fd5ef3a0ce470800000000000000
+      internalID: 8425120272459173179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireProjectile_11
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 94
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848e73ce648aba4b0800000000000000
+      internalID: -5428059903300736952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireProjectile_12
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 91
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f058fbdb8494ae750800000000000000
+      internalID: 6334956402619942159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireProjectile_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 86
+        width: 8
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0ed7526ef3eaad0800000000000000
+      internalID: -2689141669789572908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireProjectile_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 23
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d2d5010715c0da0800000000000000
+      internalID: -5977313063674761857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireProjectile_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 35
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e33bc98435e5940800000000000000
+      internalID: 5286754583911284334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireProjectile_16
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 24
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e45dddbd7f8d7250800000000000000
+      internalID: 5944064853418005734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireProjectile_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 33
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3135af31eaa2ece40800000000000000
+      internalID: 5678523107308622611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireProjectile_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 21
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b53791c9e9d4630800000000000000
+      internalID: 3912958044533906266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireProjectile_19
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 29
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de481e94c1f120d0800000000000000
+      internalID: -3449210012820812077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireProjectile_20
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 29
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff381ede04600c510800000000000000
+      internalID: 1567259546263585791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireProjectile_21
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 21
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106fa77fe642a58a0800000000000000
+      internalID: -6315695468416666111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireProjectile_22
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 33
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cd0100366e28de0800000000000000
+      internalID: -1332249226870989683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireProjectile_23
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 26
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d6e5891f81aedb0800000000000000
+      internalID: -4761966230068368011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireProjectile_24
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 23
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d68eda17bcbb5d70800000000000000
+      internalID: 9033020972237489873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireProjectile_25
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 23
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b12fb60af0cf63b0800000000000000
+      internalID: -5516978838418021967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireProjectile_26
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 36
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fabe8edc656a8e70800000000000000
+      internalID: 9118211913829759728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireProjectile_27
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 27
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c6ea63a0b7d5070800000000000000
+      internalID: 8096762988879309880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SamadhiFireProjectile_0: 1350234460200009103
+      SamadhiFireProjectile_1: 3683941847331625301
+      SamadhiFireProjectile_10: 8425120272459173179
+      SamadhiFireProjectile_11: -5428059903300736952
+      SamadhiFireProjectile_12: 6334956402619942159
+      SamadhiFireProjectile_13: -2689141669789572908
+      SamadhiFireProjectile_14: -5977313063674761857
+      SamadhiFireProjectile_15: 5286754583911284334
+      SamadhiFireProjectile_16: 5944064853418005734
+      SamadhiFireProjectile_17: 5678523107308622611
+      SamadhiFireProjectile_18: 3912958044533906266
+      SamadhiFireProjectile_19: -3449210012820812077
+      SamadhiFireProjectile_2: -2433669582800472924
+      SamadhiFireProjectile_20: 1567259546263585791
+      SamadhiFireProjectile_21: -6315695468416666111
+      SamadhiFireProjectile_22: -1332249226870989683
+      SamadhiFireProjectile_23: -4761966230068368011
+      SamadhiFireProjectile_24: 9033020972237489873
+      SamadhiFireProjectile_25: -5516978838418021967
+      SamadhiFireProjectile_26: 9118211913829759728
+      SamadhiFireProjectile_27: 8096762988879309880
+      SamadhiFireProjectile_3: 8296791217345520963
+      SamadhiFireProjectile_4: 1140301480441978367
+      SamadhiFireProjectile_5: 1108140555058652126
+      SamadhiFireProjectile_6: -7407060286560091772
+      SamadhiFireProjectile_7: -4845437409321962870
+      SamadhiFireProjectile_8: 2924001586801468966
+      SamadhiFireProjectile_9: -2991660590456528373
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

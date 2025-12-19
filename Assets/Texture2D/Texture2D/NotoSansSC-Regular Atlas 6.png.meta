@@ -1,0 +1,2522 @@
+fileFormatVersion: 2
+guid: d045cf57c1d837047be2169da3234737
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4240764613216958919
+    second: NotoSansSC-Regular Atlas 6_0
+  - first:
+      213: 6365020851760571984
+    second: NotoSansSC-Regular Atlas 6_1
+  - first:
+      213: -2108288465182117376
+    second: NotoSansSC-Regular Atlas 6_2
+  - first:
+      213: -8269695890010279315
+    second: NotoSansSC-Regular Atlas 6_3
+  - first:
+      213: -9182149725915338893
+    second: NotoSansSC-Regular Atlas 6_4
+  - first:
+      213: -7820651980067692776
+    second: NotoSansSC-Regular Atlas 6_5
+  - first:
+      213: 2062813901428951308
+    second: NotoSansSC-Regular Atlas 6_6
+  - first:
+      213: -8148154305902408094
+    second: NotoSansSC-Regular Atlas 6_7
+  - first:
+      213: 662986191103784593
+    second: NotoSansSC-Regular Atlas 6_8
+  - first:
+      213: -7323887594700351571
+    second: NotoSansSC-Regular Atlas 6_9
+  - first:
+      213: 1556018803227068393
+    second: NotoSansSC-Regular Atlas 6_10
+  - first:
+      213: 6192824839011940001
+    second: NotoSansSC-Regular Atlas 6_11
+  - first:
+      213: 6004236536101785955
+    second: NotoSansSC-Regular Atlas 6_12
+  - first:
+      213: 1415494182225090562
+    second: NotoSansSC-Regular Atlas 6_13
+  - first:
+      213: -937738345912283678
+    second: NotoSansSC-Regular Atlas 6_14
+  - first:
+      213: 8548510938083273129
+    second: NotoSansSC-Regular Atlas 6_15
+  - first:
+      213: 71953683432734724
+    second: NotoSansSC-Regular Atlas 6_16
+  - first:
+      213: -6894863758687183445
+    second: NotoSansSC-Regular Atlas 6_17
+  - first:
+      213: -3922731841095080881
+    second: NotoSansSC-Regular Atlas 6_18
+  - first:
+      213: 1401976423455287854
+    second: NotoSansSC-Regular Atlas 6_19
+  - first:
+      213: -5624922481126044080
+    second: NotoSansSC-Regular Atlas 6_20
+  - first:
+      213: 976774804947679547
+    second: NotoSansSC-Regular Atlas 6_21
+  - first:
+      213: -4083952938955339485
+    second: NotoSansSC-Regular Atlas 6_22
+  - first:
+      213: -5002009448646226719
+    second: NotoSansSC-Regular Atlas 6_23
+  - first:
+      213: -9172473785859696166
+    second: NotoSansSC-Regular Atlas 6_24
+  - first:
+      213: -9207421816654427166
+    second: NotoSansSC-Regular Atlas 6_25
+  - first:
+      213: -3608744138448919966
+    second: NotoSansSC-Regular Atlas 6_26
+  - first:
+      213: 4896431414314537525
+    second: NotoSansSC-Regular Atlas 6_27
+  - first:
+      213: 5613441916539175405
+    second: NotoSansSC-Regular Atlas 6_28
+  - first:
+      213: -7407285656914184811
+    second: NotoSansSC-Regular Atlas 6_29
+  - first:
+      213: 2533463360792459406
+    second: NotoSansSC-Regular Atlas 6_30
+  - first:
+      213: 1542125561141754802
+    second: NotoSansSC-Regular Atlas 6_31
+  - first:
+      213: 4210962759764317176
+    second: NotoSansSC-Regular Atlas 6_32
+  - first:
+      213: -9169404569046207364
+    second: NotoSansSC-Regular Atlas 6_33
+  - first:
+      213: -1457092652748442963
+    second: NotoSansSC-Regular Atlas 6_34
+  - first:
+      213: 1222097179583217495
+    second: NotoSansSC-Regular Atlas 6_35
+  - first:
+      213: -5483664749438041037
+    second: NotoSansSC-Regular Atlas 6_36
+  - first:
+      213: 4881217726047157654
+    second: NotoSansSC-Regular Atlas 6_37
+  - first:
+      213: -7404795516409560695
+    second: NotoSansSC-Regular Atlas 6_38
+  - first:
+      213: 6347982308679802187
+    second: NotoSansSC-Regular Atlas 6_39
+  - first:
+      213: -6055480301485173096
+    second: NotoSansSC-Regular Atlas 6_40
+  - first:
+      213: -7956230858754405088
+    second: NotoSansSC-Regular Atlas 6_41
+  - first:
+      213: -7321211345422540045
+    second: NotoSansSC-Regular Atlas 6_42
+  - first:
+      213: 5495894790448926171
+    second: NotoSansSC-Regular Atlas 6_43
+  - first:
+      213: -1617264194938226622
+    second: NotoSansSC-Regular Atlas 6_44
+  - first:
+      213: -7861880427546161521
+    second: NotoSansSC-Regular Atlas 6_45
+  - first:
+      213: -5783052275991732335
+    second: NotoSansSC-Regular Atlas 6_46
+  - first:
+      213: -4350718849546367668
+    second: NotoSansSC-Regular Atlas 6_47
+  - first:
+      213: 2228827220329000590
+    second: NotoSansSC-Regular Atlas 6_48
+  - first:
+      213: -4568972498198076538
+    second: NotoSansSC-Regular Atlas 6_49
+  - first:
+      213: 7490217906345173099
+    second: NotoSansSC-Regular Atlas 6_50
+  - first:
+      213: -2999241728194471254
+    second: NotoSansSC-Regular Atlas 6_51
+  - first:
+      213: 2640684718230634294
+    second: NotoSansSC-Regular Atlas 6_52
+  - first:
+      213: 49639749740923851
+    second: NotoSansSC-Regular Atlas 6_53
+  - first:
+      213: 2526097776881555390
+    second: NotoSansSC-Regular Atlas 6_54
+  - first:
+      213: 2874916417622013359
+    second: NotoSansSC-Regular Atlas 6_55
+  - first:
+      213: 5943237515145326005
+    second: NotoSansSC-Regular Atlas 6_56
+  - first:
+      213: -2456947235400130017
+    second: NotoSansSC-Regular Atlas 6_57
+  - first:
+      213: 8103243628055771487
+    second: NotoSansSC-Regular Atlas 6_58
+  - first:
+      213: 3896588095024483915
+    second: NotoSansSC-Regular Atlas 6_59
+  - first:
+      213: -4383220428375178627
+    second: NotoSansSC-Regular Atlas 6_60
+  - first:
+      213: -2031841830820942833
+    second: NotoSansSC-Regular Atlas 6_61
+  - first:
+      213: 9083747966191497237
+    second: NotoSansSC-Regular Atlas 6_62
+  - first:
+      213: 3898406438892516793
+    second: NotoSansSC-Regular Atlas 6_63
+  - first:
+      213: 2964837282535123340
+    second: NotoSansSC-Regular Atlas 6_64
+  - first:
+      213: 6642078894912320317
+    second: NotoSansSC-Regular Atlas 6_65
+  - first:
+      213: 7046402514019888633
+    second: NotoSansSC-Regular Atlas 6_66
+  - first:
+      213: 1569512677179444718
+    second: NotoSansSC-Regular Atlas 6_67
+  - first:
+      213: 1723930892527489526
+    second: NotoSansSC-Regular Atlas 6_68
+  - first:
+      213: 8577956119218364686
+    second: NotoSansSC-Regular Atlas 6_69
+  - first:
+      213: -4806544752654757160
+    second: NotoSansSC-Regular Atlas 6_70
+  - first:
+      213: -7720120162704774989
+    second: NotoSansSC-Regular Atlas 6_71
+  - first:
+      213: 5060569181593072116
+    second: NotoSansSC-Regular Atlas 6_72
+  - first:
+      213: -6763813613031885011
+    second: NotoSansSC-Regular Atlas 6_73
+  - first:
+      213: 5124511320798260439
+    second: NotoSansSC-Regular Atlas 6_74
+  - first:
+      213: 5325463212467825808
+    second: NotoSansSC-Regular Atlas 6_75
+  - first:
+      213: -221260143445364480
+    second: NotoSansSC-Regular Atlas 6_76
+  - first:
+      213: -2989225377928353111
+    second: NotoSansSC-Regular Atlas 6_77
+  - first:
+      213: 8885225099707700978
+    second: NotoSansSC-Regular Atlas 6_78
+  - first:
+      213: -3736830759482258033
+    second: NotoSansSC-Regular Atlas 6_79
+  - first:
+      213: -6721444875610135529
+    second: NotoSansSC-Regular Atlas 6_80
+  - first:
+      213: 2358538170138090363
+    second: NotoSansSC-Regular Atlas 6_81
+  - first:
+      213: -4650591599482904889
+    second: NotoSansSC-Regular Atlas 6_82
+  - first:
+      213: 5151518839013962269
+    second: NotoSansSC-Regular Atlas 6_83
+  - first:
+      213: -3845846617523407006
+    second: NotoSansSC-Regular Atlas 6_84
+  - first:
+      213: -3579272037189674648
+    second: NotoSansSC-Regular Atlas 6_85
+  - first:
+      213: 4489877272639899257
+    second: NotoSansSC-Regular Atlas 6_86
+  - first:
+      213: -9036791239073339856
+    second: NotoSansSC-Regular Atlas 6_87
+  - first:
+      213: -43472328109831947
+    second: NotoSansSC-Regular Atlas 6_88
+  - first:
+      213: -1951107452832478073
+    second: NotoSansSC-Regular Atlas 6_89
+  - first:
+      213: 8354381469984342963
+    second: NotoSansSC-Regular Atlas 6_90
+  - first:
+      213: -2678949321196409817
+    second: NotoSansSC-Regular Atlas 6_91
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93608258d07c525c0800000000000000
+      internalID: -4240764613216958919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 896
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056a429cdb8155850800000000000000
+      internalID: 6365020851760571984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 896
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00234c4afcaddb2e0800000000000000
+      internalID: -2108288465182117376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_3
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 912
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62fd6b17632c3d80800000000000000
+      internalID: -8269695890010279315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 810
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377ad503973729080800000000000000
+      internalID: -9182149725915338893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 810
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f1c10b576777390800000000000000
+      internalID: -7820651980067692776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 912
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c090968605690ac10800000000000000
+      internalID: 2062813901428951308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_7
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 809
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e0e9d54d0fbee80800000000000000
+      internalID: -8148154305902408094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_8
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 912
+        width: 101
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196fabb9d66633900800000000000000
+      internalID: 662986191103784593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_9
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 912
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7def649035c5a90800000000000000
+      internalID: -7323887594700351571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_10
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 908
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e78d2e7bd6189510800000000000000
+      internalID: 1556018803227068393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_11
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 907
+        width: 100
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6b58d416551f550800000000000000
+      internalID: 6192824839011940001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_12
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 904
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361d4c95155535350800000000000000
+      internalID: 6004236536101785955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 794
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20898298578d4a310800000000000000
+      internalID: 1415494182225090562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 794
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edc2a751fb7cf2f0800000000000000
+      internalID: -937738345912283678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_15
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 788
+        width: 100
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9aefef76962a670800000000000000
+      internalID: 8548510938083273129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_16
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 711
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4000a4d6e71aff000800000000000000
+      internalID: 71953683432734724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_17
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 708
+        width: 100
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad5cb821f58050a0800000000000000
+      internalID: -6894863758687183445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_18
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 707
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44e96e8c28af89c0800000000000000
+      internalID: -3922731841095080881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_19
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 707
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a668f0122d47310800000000000000
+      internalID: 1401976423455287854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_20
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 806
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e8f573ec240f1b0800000000000000
+      internalID: -5624922481126044080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_21
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 703
+        width: 98
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39357a82833e8d00800000000000000
+      internalID: 976774804947679547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_22
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 805
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32987229072e257c0800000000000000
+      internalID: -4083952938955339485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_23
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 703
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec4b4288ea459ab0800000000000000
+      internalID: -5002009448646226719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_24
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 805
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9104a80b3d4b080800000000000000
+      internalID: -9172473785859696166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_25
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 803
+        width: 105
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb812904aaa83080800000000000000
+      internalID: -9207421816654427166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 692
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262aa76735a2bedc0800000000000000
+      internalID: -3608744138448919966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 686
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532184dcd6e93f340800000000000000
+      internalID: 4896431414314537525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_28
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 711
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de10b9a8ea3f6ed40800000000000000
+      internalID: 5613441916539175405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_29
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 608
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595b8c5c0f8043990800000000000000
+      internalID: -7407285656914184811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_30
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 701
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e887087f08ba82320800000000000000
+      internalID: 2533463360792459406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 100
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb77eef60bb66510800000000000000
+      internalID: 1542125561141754802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_32
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 590
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f39622c158507a30800000000000000
+      internalID: 4210962759764317176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_33
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 509
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c743824402bbfb080800000000000000
+      internalID: -9169404569046207364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_34
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 504
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2f81cc3fd57cbe0800000000000000
+      internalID: -1457092652748442963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_35
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 607
+        width: 100
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f701ee8e2c5f010800000000000000
+      internalID: 1222097179583217495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_36
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 504
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3340a6ec6fb16e3b0800000000000000
+      internalID: -5483664749438041037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_37
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 607
+        width: 97
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d7168f8a19db340800000000000000
+      internalID: 4881217726047157654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_38
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 605
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981c00ac5b1ec3990800000000000000
+      internalID: -7404795516409560695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_39
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 605
+        width: 101
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4dd255d640981850800000000000000
+      internalID: 6347982308679802187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_40
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 601
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896d995cfbc96fba0800000000000000
+      internalID: -6055480301485173096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_41
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 598
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d41f8103ac59190800000000000000
+      internalID: -7956230858754405088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_42
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 598
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2a78e1215d56a90800000000000000
+      internalID: -7321211345422540045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 489
+        width: 105
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddc0a38137554c40800000000000000
+      internalID: 5495894790448926171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_44
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 404
+        width: 103
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248bfb888c25e89e0800000000000000
+      internalID: -1617264194938226622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_45
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 503
+        width: 105
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ec389b76df4e290800000000000000
+      internalID: -7861880427546161521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_46
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 498
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f9ffb48987ebfa0800000000000000
+      internalID: -5783052275991732335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_47
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 497
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d4137e1442f93c0800000000000000
+      internalID: -4350718849546367668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_48
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 506
+        width: 102
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e6e6d4c826eee10800000000000000
+      internalID: 2228827220329000590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_49
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 406
+        width: 104
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683ef5868bfb790c0800000000000000
+      internalID: -4568972498198076538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 393
+        width: 100
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6069fd308992f760800000000000000
+      internalID: 7490217906345173099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_51
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 401
+        width: 101
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa9073f98d8066d0800000000000000
+      internalID: -2999241728194471254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_52
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 407
+        width: 103
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f70f1a2c895a420800000000000000
+      internalID: 2640684718230634294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_53
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 305
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb0c02e61b50b000800000000000000
+      internalID: 49639749740923851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_54
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 405
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7dde25b808e0320800000000000000
+      internalID: 2526097776881555390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_55
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 403
+        width: 102
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa57c47ff31c5e720800000000000000
+      internalID: 2874916417622013359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_56
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 401
+        width: 101
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd230a080f9a7250800000000000000
+      internalID: 5943237515145326005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_57
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 406
+        width: 69
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12e812c18b27edd0800000000000000
+      internalID: -2456947235400130017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_58
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 303
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5936ba9521847070800000000000000
+      internalID: 8103243628055771487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 302
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e43f73a36731630800000000000000
+      internalID: 3896588095024483915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_60
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 302
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7246726e3cab23c0800000000000000
+      internalID: -4383220428375178627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_61
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 299
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c632abe927dc3e0800000000000000
+      internalID: -2031841830820942833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_62
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 204
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5107502c5a4ff0e70800000000000000
+      internalID: 9083747966191497237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_63
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 302
+        width: 96
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5b844600ce91630800000000000000
+      internalID: 3898406438892516793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_64
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 302
+        width: 97
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c892752dcc7352920800000000000000
+      internalID: 2964837282535123340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_65
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 298
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d333e5d40976d2c50800000000000000
+      internalID: 6642078894912320317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_66
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 305
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd2398c0c9d9c160800000000000000
+      internalID: 7046402514019888633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_67
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 305
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedc0c9d67708c510800000000000000
+      internalID: 1569512677179444718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_68
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 203
+        width: 100
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f15c625302ace710800000000000000
+      internalID: 1723930892527489526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 104
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0126e874a50b0770800000000000000
+      internalID: 8577956119218364686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2defc7309bb4db0800000000000000
+      internalID: -4806544752654757160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_71
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 196
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8a6ae6d9f9cd490800000000000000
+      internalID: -7720120162704774989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_72
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 101
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1f42ecbd0ca3640800000000000000
+      internalID: 5060569181593072116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_73
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 199
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27784cea5b1222a0800000000000000
+      internalID: -6763813613031885011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_74
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 205
+        width: 104
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dce5ab35ebed1740800000000000000
+      internalID: 5124511320798260439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_75
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 102
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c2e838398d7e940800000000000000
+      internalID: 5325463212467825808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_76
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 202
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001bcf2621dedecf0800000000000000
+      internalID: -221260143445364480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_77
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 203
+        width: 102
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa6ffa3b532486d0800000000000000
+      internalID: -2989225377928353111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f65679f629ae4b70800000000000000
+      internalID: 8885225099707700978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_79
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 101
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d8e4b093c142cc0800000000000000
+      internalID: -3736830759482258033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_80
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71463e35f71a8b2a0800000000000000
+      internalID: -6721444875610135529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_81
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 104
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bd74c38f53bb020800000000000000
+      internalID: 2358538170138090363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_82
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ced7658497c57fb0800000000000000
+      internalID: -4650591599482904889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_83
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 101
+        width: 102
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12f825171fdd7740800000000000000
+      internalID: 5151518839013962269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_84
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 0
+        width: 106
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26731e5a0eec0aac0800000000000000
+      internalID: -3845846617523407006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_85
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 104
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86912d4cb0fd35ec0800000000000000
+      internalID: -3579272037189674648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_86
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 102
+        width: 104
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9760dc0579f3f4e30800000000000000
+      internalID: 4489877272639899257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_87
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036ebad3f3ed69280800000000000000
+      internalID: -9036791239073339856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_88
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 102
+        width: 100
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8447dd52e856ff0800000000000000
+      internalID: -43472328109831947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_89
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 0
+        width: 100
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c8d4beb164ce4e0800000000000000
+      internalID: -1951107452832478073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_90
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 101
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3c58cfea9b0f370800000000000000
+      internalID: 8354381469984342963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotoSansSC-Regular Atlas 6_91
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 0
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c60da39c572dad0800000000000000
+      internalID: -2678949321196409817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NotoSansSC-Regular Atlas 6_0: -4240764613216958919
+      NotoSansSC-Regular Atlas 6_1: 6365020851760571984
+      NotoSansSC-Regular Atlas 6_10: 1556018803227068393
+      NotoSansSC-Regular Atlas 6_11: 6192824839011940001
+      NotoSansSC-Regular Atlas 6_12: 6004236536101785955
+      NotoSansSC-Regular Atlas 6_13: 1415494182225090562
+      NotoSansSC-Regular Atlas 6_14: -937738345912283678
+      NotoSansSC-Regular Atlas 6_15: 8548510938083273129
+      NotoSansSC-Regular Atlas 6_16: 71953683432734724
+      NotoSansSC-Regular Atlas 6_17: -6894863758687183445
+      NotoSansSC-Regular Atlas 6_18: -3922731841095080881
+      NotoSansSC-Regular Atlas 6_19: 1401976423455287854
+      NotoSansSC-Regular Atlas 6_2: -2108288465182117376
+      NotoSansSC-Regular Atlas 6_20: -5624922481126044080
+      NotoSansSC-Regular Atlas 6_21: 976774804947679547
+      NotoSansSC-Regular Atlas 6_22: -4083952938955339485
+      NotoSansSC-Regular Atlas 6_23: -5002009448646226719
+      NotoSansSC-Regular Atlas 6_24: -9172473785859696166
+      NotoSansSC-Regular Atlas 6_25: -9207421816654427166
+      NotoSansSC-Regular Atlas 6_26: -3608744138448919966
+      NotoSansSC-Regular Atlas 6_27: 4896431414314537525
+      NotoSansSC-Regular Atlas 6_28: 5613441916539175405
+      NotoSansSC-Regular Atlas 6_29: -7407285656914184811
+      NotoSansSC-Regular Atlas 6_3: -8269695890010279315
+      NotoSansSC-Regular Atlas 6_30: 2533463360792459406
+      NotoSansSC-Regular Atlas 6_31: 1542125561141754802
+      NotoSansSC-Regular Atlas 6_32: 4210962759764317176
+      NotoSansSC-Regular Atlas 6_33: -9169404569046207364
+      NotoSansSC-Regular Atlas 6_34: -1457092652748442963
+      NotoSansSC-Regular Atlas 6_35: 1222097179583217495
+      NotoSansSC-Regular Atlas 6_36: -5483664749438041037
+      NotoSansSC-Regular Atlas 6_37: 4881217726047157654
+      NotoSansSC-Regular Atlas 6_38: -7404795516409560695
+      NotoSansSC-Regular Atlas 6_39: 6347982308679802187
+      NotoSansSC-Regular Atlas 6_4: -9182149725915338893
+      NotoSansSC-Regular Atlas 6_40: -6055480301485173096
+      NotoSansSC-Regular Atlas 6_41: -7956230858754405088
+      NotoSansSC-Regular Atlas 6_42: -7321211345422540045
+      NotoSansSC-Regular Atlas 6_43: 5495894790448926171
+      NotoSansSC-Regular Atlas 6_44: -1617264194938226622
+      NotoSansSC-Regular Atlas 6_45: -7861880427546161521
+      NotoSansSC-Regular Atlas 6_46: -5783052275991732335
+      NotoSansSC-Regular Atlas 6_47: -4350718849546367668
+      NotoSansSC-Regular Atlas 6_48: 2228827220329000590
+      NotoSansSC-Regular Atlas 6_49: -4568972498198076538
+      NotoSansSC-Regular Atlas 6_5: -7820651980067692776
+      NotoSansSC-Regular Atlas 6_50: 7490217906345173099
+      NotoSansSC-Regular Atlas 6_51: -2999241728194471254
+      NotoSansSC-Regular Atlas 6_52: 2640684718230634294
+      NotoSansSC-Regular Atlas 6_53: 49639749740923851
+      NotoSansSC-Regular Atlas 6_54: 2526097776881555390
+      NotoSansSC-Regular Atlas 6_55: 2874916417622013359
+      NotoSansSC-Regular Atlas 6_56: 5943237515145326005
+      NotoSansSC-Regular Atlas 6_57: -2456947235400130017
+      NotoSansSC-Regular Atlas 6_58: 8103243628055771487
+      NotoSansSC-Regular Atlas 6_59: 3896588095024483915
+      NotoSansSC-Regular Atlas 6_6: 2062813901428951308
+      NotoSansSC-Regular Atlas 6_60: -4383220428375178627
+      NotoSansSC-Regular Atlas 6_61: -2031841830820942833
+      NotoSansSC-Regular Atlas 6_62: 9083747966191497237
+      NotoSansSC-Regular Atlas 6_63: 3898406438892516793
+      NotoSansSC-Regular Atlas 6_64: 2964837282535123340
+      NotoSansSC-Regular Atlas 6_65: 6642078894912320317
+      NotoSansSC-Regular Atlas 6_66: 7046402514019888633
+      NotoSansSC-Regular Atlas 6_67: 1569512677179444718
+      NotoSansSC-Regular Atlas 6_68: 1723930892527489526
+      NotoSansSC-Regular Atlas 6_69: 8577956119218364686
+      NotoSansSC-Regular Atlas 6_7: -8148154305902408094
+      NotoSansSC-Regular Atlas 6_70: -4806544752654757160
+      NotoSansSC-Regular Atlas 6_71: -7720120162704774989
+      NotoSansSC-Regular Atlas 6_72: 5060569181593072116
+      NotoSansSC-Regular Atlas 6_73: -6763813613031885011
+      NotoSansSC-Regular Atlas 6_74: 5124511320798260439
+      NotoSansSC-Regular Atlas 6_75: 5325463212467825808
+      NotoSansSC-Regular Atlas 6_76: -221260143445364480
+      NotoSansSC-Regular Atlas 6_77: -2989225377928353111
+      NotoSansSC-Regular Atlas 6_78: 8885225099707700978
+      NotoSansSC-Regular Atlas 6_79: -3736830759482258033
+      NotoSansSC-Regular Atlas 6_8: 662986191103784593
+      NotoSansSC-Regular Atlas 6_80: -6721444875610135529
+      NotoSansSC-Regular Atlas 6_81: 2358538170138090363
+      NotoSansSC-Regular Atlas 6_82: -4650591599482904889
+      NotoSansSC-Regular Atlas 6_83: 5151518839013962269
+      NotoSansSC-Regular Atlas 6_84: -3845846617523407006
+      NotoSansSC-Regular Atlas 6_85: -3579272037189674648
+      NotoSansSC-Regular Atlas 6_86: 4489877272639899257
+      NotoSansSC-Regular Atlas 6_87: -9036791239073339856
+      NotoSansSC-Regular Atlas 6_88: -43472328109831947
+      NotoSansSC-Regular Atlas 6_89: -1951107452832478073
+      NotoSansSC-Regular Atlas 6_9: -7323887594700351571
+      NotoSansSC-Regular Atlas 6_90: 8354381469984342963
+      NotoSansSC-Regular Atlas 6_91: -2678949321196409817
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

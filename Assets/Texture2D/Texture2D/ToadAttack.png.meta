@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 1626cc1f11d25594c8c5dc56dbc29cc5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8963037736131935538
+    second: ToadAttack_0
+  - first:
+      213: 4897100586070457005
+    second: ToadAttack_1
+  - first:
+      213: 4927114595519908986
+    second: ToadAttack_2
+  - first:
+      213: -611480472222113022
+    second: ToadAttack_3
+  - first:
+      213: -7042818252041483639
+    second: ToadAttack_4
+  - first:
+      213: 5727515500008541301
+    second: ToadAttack_5
+  - first:
+      213: 4134794116262130653
+    second: ToadAttack_6
+  - first:
+      213: -4971064091619279623
+    second: ToadAttack_7
+  - first:
+      213: 1708341826923875317
+    second: ToadAttack_8
+  - first:
+      213: 1875019541165771813
+    second: ToadAttack_9
+  - first:
+      213: 9064005262389204974
+    second: ToadAttack_10
+  - first:
+      213: -3742991897492037821
+    second: ToadAttack_11
+  - first:
+      213: 2877715662847883622
+    second: ToadAttack_12
+  - first:
+      213: 8617703071543115761
+    second: ToadAttack_13
+  - first:
+      213: -2939657576515059084
+    second: ToadAttack_14
+  - first:
+      213: 3740529750260325866
+    second: ToadAttack_15
+  - first:
+      213: 875127161285751627
+    second: ToadAttack_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ToadAttack_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 416
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23db092355b136c70800000000000000
+      internalID: 8963037736131935538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToadAttack_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 416
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa361e790ff5f340800000000000000
+      internalID: 4897100586070457005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToadAttack_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 416
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c4b91ae90a06440800000000000000
+      internalID: 4927114595519908986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToadAttack_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 416
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203ec1210c59387f0800000000000000
+      internalID: -611480472222113022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToadAttack_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 320
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a0e6d3d12e24e90800000000000000
+      internalID: -7042818252041483639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToadAttack_5
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 320
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c8d8760093c7f40800000000000000
+      internalID: 5727515500008541301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToadAttack_6
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 320
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3fd27775db16930800000000000000
+      internalID: 4134794116262130653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToadAttack_7
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 320
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc3557eb8b330bb0800000000000000
+      internalID: -4971064091619279623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToadAttack_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 224
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb4db427df35b710800000000000000
+      internalID: 1708341826923875317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToadAttack_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 224
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c0a12a658650a10800000000000000
+      internalID: 1875019541165771813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToadAttack_10
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 224
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7daf253c0d9cd70800000000000000
+      internalID: 9064005262389204974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToadAttack_11
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 224
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f52d053b83e0cc0800000000000000
+      internalID: -3742991897492037821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToadAttack_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 128
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66930a80623bfe720800000000000000
+      internalID: 2877715662847883622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToadAttack_13
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffbe17f84b389770800000000000000
+      internalID: 8617703071543115761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToadAttack_14
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472c886520d3437d0800000000000000
+      internalID: -2939657576515059084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToadAttack_15
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed1c0c5df709e330800000000000000
+      internalID: 3740529750260325866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToadAttack_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 32
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43bbbd3483152c00800000000000000
+      internalID: 875127161285751627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ToadAttack_0: 8963037736131935538
+      ToadAttack_1: 4897100586070457005
+      ToadAttack_10: 9064005262389204974
+      ToadAttack_11: -3742991897492037821
+      ToadAttack_12: 2877715662847883622
+      ToadAttack_13: 8617703071543115761
+      ToadAttack_14: -2939657576515059084
+      ToadAttack_15: 3740529750260325866
+      ToadAttack_16: 875127161285751627
+      ToadAttack_2: 4927114595519908986
+      ToadAttack_3: -611480472222113022
+      ToadAttack_4: -7042818252041483639
+      ToadAttack_5: 5727515500008541301
+      ToadAttack_6: 4134794116262130653
+      ToadAttack_7: -4971064091619279623
+      ToadAttack_8: 1708341826923875317
+      ToadAttack_9: 1875019541165771813
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

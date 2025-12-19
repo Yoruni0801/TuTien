@@ -1,0 +1,5876 @@
+fileFormatVersion: 2
+guid: d50dad0b14ce13442a4cd95061551341
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4747762921877005531
+    second: WaterTornadoFX_0
+  - first:
+      213: -4067785920577016330
+    second: WaterTornadoFX_1
+  - first:
+      213: 2606254172063192818
+    second: WaterTornadoFX_2
+  - first:
+      213: -4072898934592699990
+    second: WaterTornadoFX_3
+  - first:
+      213: -5366972848571723256
+    second: WaterTornadoFX_4
+  - first:
+      213: -4147763634289667162
+    second: WaterTornadoFX_5
+  - first:
+      213: -6942713359050461138
+    second: WaterTornadoFX_6
+  - first:
+      213: 8804991803812292697
+    second: WaterTornadoFX_7
+  - first:
+      213: 6287693775002181693
+    second: WaterTornadoFX_8
+  - first:
+      213: -5597558592569134245
+    second: WaterTornadoFX_9
+  - first:
+      213: -2365178991588875576
+    second: WaterTornadoFX_10
+  - first:
+      213: -7340361855511497833
+    second: WaterTornadoFX_11
+  - first:
+      213: -1895907285604113068
+    second: WaterTornadoFX_12
+  - first:
+      213: -7221963421090826723
+    second: WaterTornadoFX_13
+  - first:
+      213: -2865447798019209221
+    second: WaterTornadoFX_14
+  - first:
+      213: -1726688062019505329
+    second: WaterTornadoFX_15
+  - first:
+      213: -2794468990977087835
+    second: WaterTornadoFX_16
+  - first:
+      213: -4173004840375551586
+    second: WaterTornadoFX_17
+  - first:
+      213: -180005191451719368
+    second: WaterTornadoFX_18
+  - first:
+      213: -3484959400366754863
+    second: WaterTornadoFX_19
+  - first:
+      213: -7558578181444272544
+    second: WaterTornadoFX_20
+  - first:
+      213: -5219801015434163611
+    second: WaterTornadoFX_21
+  - first:
+      213: -6348975647476104733
+    second: WaterTornadoFX_22
+  - first:
+      213: -7762267094469399705
+    second: WaterTornadoFX_23
+  - first:
+      213: -8894767715258536431
+    second: WaterTornadoFX_24
+  - first:
+      213: 2430122017875352363
+    second: WaterTornadoFX_25
+  - first:
+      213: 5579637499003900346
+    second: WaterTornadoFX_26
+  - first:
+      213: 1285484789316742649
+    second: WaterTornadoFX_27
+  - first:
+      213: -332934557218166805
+    second: WaterTornadoFX_28
+  - first:
+      213: 4192921653167463164
+    second: WaterTornadoFX_29
+  - first:
+      213: -6633766012717832237
+    second: WaterTornadoFX_30
+  - first:
+      213: -6373652093145199060
+    second: WaterTornadoFX_31
+  - first:
+      213: 7973587341637052582
+    second: WaterTornadoFX_32
+  - first:
+      213: -637503485589138597
+    second: WaterTornadoFX_33
+  - first:
+      213: -714803540274625695
+    second: WaterTornadoFX_34
+  - first:
+      213: 6765436358607375030
+    second: WaterTornadoFX_35
+  - first:
+      213: 1780567193837317325
+    second: WaterTornadoFX_36
+  - first:
+      213: 3715521963079495692
+    second: WaterTornadoFX_37
+  - first:
+      213: 2460316995981560334
+    second: WaterTornadoFX_38
+  - first:
+      213: -3461817128521983660
+    second: WaterTornadoFX_39
+  - first:
+      213: -1549781490233863528
+    second: WaterTornadoFX_40
+  - first:
+      213: 3168356808177695169
+    second: WaterTornadoFX_41
+  - first:
+      213: 4829044687507039524
+    second: WaterTornadoFX_42
+  - first:
+      213: -2221795660795675382
+    second: WaterTornadoFX_43
+  - first:
+      213: 4639819336551314892
+    second: WaterTornadoFX_44
+  - first:
+      213: -2812205516291788929
+    second: WaterTornadoFX_45
+  - first:
+      213: -8827180107665380840
+    second: WaterTornadoFX_46
+  - first:
+      213: 181798708504054222
+    second: WaterTornadoFX_47
+  - first:
+      213: -8779171105717308645
+    second: WaterTornadoFX_48
+  - first:
+      213: 7557610831390659680
+    second: WaterTornadoFX_49
+  - first:
+      213: -5960999201201472774
+    second: WaterTornadoFX_50
+  - first:
+      213: -7740579482671457595
+    second: WaterTornadoFX_51
+  - first:
+      213: -7195178727151632425
+    second: WaterTornadoFX_52
+  - first:
+      213: 7721197510605381313
+    second: WaterTornadoFX_53
+  - first:
+      213: 2081771195854767958
+    second: WaterTornadoFX_54
+  - first:
+      213: 8688061519653455568
+    second: WaterTornadoFX_55
+  - first:
+      213: -8817333314794578565
+    second: WaterTornadoFX_56
+  - first:
+      213: 90476661215010907
+    second: WaterTornadoFX_57
+  - first:
+      213: 5276108519346391324
+    second: WaterTornadoFX_58
+  - first:
+      213: 6436626290121284598
+    second: WaterTornadoFX_59
+  - first:
+      213: -758523749555847931
+    second: WaterTornadoFX_60
+  - first:
+      213: -2130023714487645602
+    second: WaterTornadoFX_61
+  - first:
+      213: 7240011402764050367
+    second: WaterTornadoFX_62
+  - first:
+      213: 3148897117486906744
+    second: WaterTornadoFX_63
+  - first:
+      213: 2059794991831949404
+    second: WaterTornadoFX_64
+  - first:
+      213: 8404227443666788973
+    second: WaterTornadoFX_65
+  - first:
+      213: 1725833047374423521
+    second: WaterTornadoFX_66
+  - first:
+      213: 7960409412938894532
+    second: WaterTornadoFX_67
+  - first:
+      213: 4460883267237507753
+    second: WaterTornadoFX_68
+  - first:
+      213: 9019162391571333478
+    second: WaterTornadoFX_69
+  - first:
+      213: -5878733666634538729
+    second: WaterTornadoFX_70
+  - first:
+      213: -594292392408623667
+    second: WaterTornadoFX_71
+  - first:
+      213: 322730413493791687
+    second: WaterTornadoFX_72
+  - first:
+      213: -6176812040642320065
+    second: WaterTornadoFX_73
+  - first:
+      213: 1525405541441198458
+    second: WaterTornadoFX_74
+  - first:
+      213: -8862214344565029016
+    second: WaterTornadoFX_75
+  - first:
+      213: -6065826902753584884
+    second: WaterTornadoFX_76
+  - first:
+      213: 243556581917787819
+    second: WaterTornadoFX_77
+  - first:
+      213: -846701797192628186
+    second: WaterTornadoFX_78
+  - first:
+      213: 2162582606018740935
+    second: WaterTornadoFX_79
+  - first:
+      213: 7993594915770845046
+    second: WaterTornadoFX_80
+  - first:
+      213: -7242061052247233403
+    second: WaterTornadoFX_81
+  - first:
+      213: 8210014217146076047
+    second: WaterTornadoFX_82
+  - first:
+      213: -6012224399304036617
+    second: WaterTornadoFX_83
+  - first:
+      213: -4888134416425821662
+    second: WaterTornadoFX_84
+  - first:
+      213: -5572875376821977533
+    second: WaterTornadoFX_85
+  - first:
+      213: -3099355107399202982
+    second: WaterTornadoFX_86
+  - first:
+      213: -1989043414158950449
+    second: WaterTornadoFX_87
+  - first:
+      213: 2905185090048804076
+    second: WaterTornadoFX_88
+  - first:
+      213: 7383068640198411476
+    second: WaterTornadoFX_89
+  - first:
+      213: 5014015388878215495
+    second: WaterTornadoFX_90
+  - first:
+      213: -6461169657447944516
+    second: WaterTornadoFX_91
+  - first:
+      213: 6244773974564338032
+    second: WaterTornadoFX_92
+  - first:
+      213: -5135601425259962634
+    second: WaterTornadoFX_93
+  - first:
+      213: 2951521769576971304
+    second: WaterTornadoFX_94
+  - first:
+      213: -6096143894434427263
+    second: WaterTornadoFX_95
+  - first:
+      213: -4548478509102658380
+    second: WaterTornadoFX_96
+  - first:
+      213: 6968402953480638178
+    second: WaterTornadoFX_97
+  - first:
+      213: -8287392405260644921
+    second: WaterTornadoFX_98
+  - first:
+      213: 7279666554701748045
+    second: WaterTornadoFX_99
+  - first:
+      213: 6726591589634652152
+    second: WaterTornadoFX_100
+  - first:
+      213: -6932642984573831490
+    second: WaterTornadoFX_101
+  - first:
+      213: -8726825507867805660
+    second: WaterTornadoFX_102
+  - first:
+      213: -8651553075479422131
+    second: WaterTornadoFX_103
+  - first:
+      213: 5910938570547372295
+    second: WaterTornadoFX_104
+  - first:
+      213: -5651858424920204532
+    second: WaterTornadoFX_105
+  - first:
+      213: 4156348238770431862
+    second: WaterTornadoFX_106
+  - first:
+      213: -4256261530040117266
+    second: WaterTornadoFX_107
+  - first:
+      213: -5923894507009053085
+    second: WaterTornadoFX_108
+  - first:
+      213: 6532228372567912930
+    second: WaterTornadoFX_109
+  - first:
+      213: 4040249401080492220
+    second: WaterTornadoFX_110
+  - first:
+      213: 2420557209657524546
+    second: WaterTornadoFX_111
+  - first:
+      213: 738259165594913581
+    second: WaterTornadoFX_112
+  - first:
+      213: -4160603251704886851
+    second: WaterTornadoFX_113
+  - first:
+      213: -6860438439853300754
+    second: WaterTornadoFX_114
+  - first:
+      213: 9152438984396205142
+    second: WaterTornadoFX_115
+  - first:
+      213: -776986190422926968
+    second: WaterTornadoFX_116
+  - first:
+      213: -1913817680970134313
+    second: WaterTornadoFX_117
+  - first:
+      213: -8549989233796160676
+    second: WaterTornadoFX_118
+  - first:
+      213: -3837098782118888986
+    second: WaterTornadoFX_119
+  - first:
+      213: -6026570187395562429
+    second: WaterTornadoFX_120
+  - first:
+      213: 5254181273288056112
+    second: WaterTornadoFX_121
+  - first:
+      213: 8901159676444616560
+    second: WaterTornadoFX_122
+  - first:
+      213: 5541282951578708705
+    second: WaterTornadoFX_123
+  - first:
+      213: 4013175454973324443
+    second: WaterTornadoFX_124
+  - first:
+      213: 6432093154783691938
+    second: WaterTornadoFX_125
+  - first:
+      213: -8203046677889422118
+    second: WaterTornadoFX_126
+  - first:
+      213: -4209110845380669549
+    second: WaterTornadoFX_127
+  - first:
+      213: 8499301273996276259
+    second: WaterTornadoFX_128
+  - first:
+      213: -8665775569871709960
+    second: WaterTornadoFX_129
+  - first:
+      213: 4689791008551365397
+    second: WaterTornadoFX_130
+  - first:
+      213: -2397863952252221741
+    second: WaterTornadoFX_131
+  - first:
+      213: 1162365000972718741
+    second: WaterTornadoFX_132
+  - first:
+      213: -688920973277228557
+    second: WaterTornadoFX_133
+  - first:
+      213: -8090857334699730181
+    second: WaterTornadoFX_134
+  - first:
+      213: -5244542216633814232
+    second: WaterTornadoFX_135
+  - first:
+      213: 3850932327412442573
+    second: WaterTornadoFX_136
+  - first:
+      213: -5959518455729727222
+    second: WaterTornadoFX_137
+  - first:
+      213: -4788110286383475646
+    second: WaterTornadoFX_138
+  - first:
+      213: 6787194719230949174
+    second: WaterTornadoFX_139
+  - first:
+      213: -3029922870937876578
+    second: WaterTornadoFX_140
+  - first:
+      213: -932530866525788127
+    second: WaterTornadoFX_141
+  - first:
+      213: -1286128930950207602
+    second: WaterTornadoFX_142
+  - first:
+      213: -1188799582515150815
+    second: WaterTornadoFX_143
+  - first:
+      213: 6624122120246474426
+    second: WaterTornadoFX_144
+  - first:
+      213: 5016821793793490237
+    second: WaterTornadoFX_145
+  - first:
+      213: -8756975577863765214
+    second: WaterTornadoFX_146
+  - first:
+      213: 4823412020895862574
+    second: WaterTornadoFX_147
+  - first:
+      213: 5130183719406471652
+    second: WaterTornadoFX_148
+  - first:
+      213: -2616498515522462468
+    second: WaterTornadoFX_149
+  - first:
+      213: 6680646419338516714
+    second: WaterTornadoFX_150
+  - first:
+      213: 7319852449678120476
+    second: WaterTornadoFX_151
+  - first:
+      213: -6862195790506458079
+    second: WaterTornadoFX_152
+  - first:
+      213: -7859153528581186166
+    second: WaterTornadoFX_153
+  - first:
+      213: -5106330790928852486
+    second: WaterTornadoFX_154
+  - first:
+      213: -823282099383304578
+    second: WaterTornadoFX_155
+  - first:
+      213: 7723084154162422108
+    second: WaterTornadoFX_156
+  - first:
+      213: -8567257516670964382
+    second: WaterTornadoFX_157
+  - first:
+      213: -2505313321014198090
+    second: WaterTornadoFX_158
+  - first:
+      213: 2088803366483997681
+    second: WaterTornadoFX_159
+  - first:
+      213: 551308953008260637
+    second: WaterTornadoFX_160
+  - first:
+      213: -8794757329748224595
+    second: WaterTornadoFX_161
+  - first:
+      213: 9024601454636002556
+    second: WaterTornadoFX_162
+  - first:
+      213: -4680870477241221009
+    second: WaterTornadoFX_163
+  - first:
+      213: 3620794111452017977
+    second: WaterTornadoFX_164
+  - first:
+      213: -8115548199846082667
+    second: WaterTornadoFX_165
+  - first:
+      213: 939184542700476878
+    second: WaterTornadoFX_166
+  - first:
+      213: 6015735376653870415
+    second: WaterTornadoFX_167
+  - first:
+      213: -8822231864229993427
+    second: WaterTornadoFX_168
+  - first:
+      213: 2831622739853079932
+    second: WaterTornadoFX_169
+  - first:
+      213: 3945685033924299227
+    second: WaterTornadoFX_170
+  - first:
+      213: 2210890604370601051
+    second: WaterTornadoFX_171
+  - first:
+      213: -5285187557256473021
+    second: WaterTornadoFX_172
+  - first:
+      213: 6763231119002144239
+    second: WaterTornadoFX_173
+  - first:
+      213: 8940252101820637384
+    second: WaterTornadoFX_174
+  - first:
+      213: -5711682682590907994
+    second: WaterTornadoFX_175
+  - first:
+      213: 2338969520314847501
+    second: WaterTornadoFX_176
+  - first:
+      213: 1391016996379231563
+    second: WaterTornadoFX_177
+  - first:
+      213: 2217361013835754666
+    second: WaterTornadoFX_178
+  - first:
+      213: -968260557533380910
+    second: WaterTornadoFX_179
+  - first:
+      213: -982353839734719113
+    second: WaterTornadoFX_180
+  - first:
+      213: 1311300275533875307
+    second: WaterTornadoFX_181
+  - first:
+      213: -4836513786051791843
+    second: WaterTornadoFX_182
+  - first:
+      213: 70422870732750410
+    second: WaterTornadoFX_183
+  - first:
+      213: 355430308836707329
+    second: WaterTornadoFX_184
+  - first:
+      213: 7958073432685922388
+    second: WaterTornadoFX_185
+  - first:
+      213: 5614917165388039956
+    second: WaterTornadoFX_186
+  - first:
+      213: -939565640366503597
+    second: WaterTornadoFX_187
+  - first:
+      213: -2702656029864521783
+    second: WaterTornadoFX_188
+  - first:
+      213: -5473997367466017584
+    second: WaterTornadoFX_189
+  - first:
+      213: -6376271950516824299
+    second: WaterTornadoFX_190
+  - first:
+      213: 6599185630291129308
+    second: WaterTornadoFX_191
+  - first:
+      213: -8483296067706056100
+    second: WaterTornadoFX_192
+  - first:
+      213: -6486659976070171882
+    second: WaterTornadoFX_193
+  - first:
+      213: -7307897470571767578
+    second: WaterTornadoFX_194
+  - first:
+      213: 1486241776930788111
+    second: WaterTornadoFX_195
+  - first:
+      213: -9096839669781463956
+    second: WaterTornadoFX_196
+  - first:
+      213: -4902436682934672539
+    second: WaterTornadoFX_197
+  - first:
+      213: -593387282859492728
+    second: WaterTornadoFX_198
+  - first:
+      213: -5328921538301846141
+    second: WaterTornadoFX_199
+  - first:
+      213: 6296282778012063975
+    second: WaterTornadoFX_200
+  - first:
+      213: -1780274805265658416
+    second: WaterTornadoFX_201
+  - first:
+      213: -6651070072358474945
+    second: WaterTornadoFX_202
+  - first:
+      213: 6985732914066422256
+    second: WaterTornadoFX_203
+  - first:
+      213: -7821032433204779660
+    second: WaterTornadoFX_204
+  - first:
+      213: 1901319555594543631
+    second: WaterTornadoFX_205
+  - first:
+      213: -8710501296110433027
+    second: WaterTornadoFX_206
+  - first:
+      213: 5233284160688599275
+    second: WaterTornadoFX_207
+  - first:
+      213: 8175638094300819111
+    second: WaterTornadoFX_208
+  - first:
+      213: -8181137778294896144
+    second: WaterTornadoFX_209
+  - first:
+      213: 582131297682755598
+    second: WaterTornadoFX_210
+  - first:
+      213: -4596757917697184774
+    second: WaterTornadoFX_211
+  - first:
+      213: -973034844362477764
+    second: WaterTornadoFX_212
+  - first:
+      213: -9187442764738548010
+    second: WaterTornadoFX_213
+  - first:
+      213: 4187547056155789225
+    second: WaterTornadoFX_214
+  - first:
+      213: 2725363494146112042
+    second: WaterTornadoFX_215
+  - first:
+      213: -2797273289946757097
+    second: WaterTornadoFX_216
+  - first:
+      213: -7351516907969578918
+    second: WaterTornadoFX_217
+  - first:
+      213: 5217423707758008746
+    second: WaterTornadoFX_218
+  - first:
+      213: -2613380443945486898
+    second: WaterTornadoFX_219
+  - first:
+      213: 7778747932077898397
+    second: WaterTornadoFX_220
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WaterTornadoFX_0
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1470
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4ef34093173e140800000000000000
+      internalID: 4747762921877005531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_1
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1494
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdebadd1425c87c0800000000000000
+      internalID: -4067785920577016330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_2
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1490
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6d4386c564b2420800000000000000
+      internalID: 2606254172063192818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_3
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1442
+        width: 84
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa109858ff72a77c0800000000000000
+      internalID: -4072898934592699990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_4
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1454
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80257b131aea485b0800000000000000
+      internalID: -5366972848571723256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_5
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1440
+        width: 120
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a391ed43fe2076c0800000000000000
+      internalID: -4147763634289667162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_6
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1443
+        width: 78
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e203078ebf686af90800000000000000
+      internalID: -6942713359050461138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_7
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1460
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958257c056d913a70800000000000000
+      internalID: 8804991803812292697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_8
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1455
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30a07bbc20624750800000000000000
+      internalID: 6287693775002181693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_9
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1458
+        width: 36
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b533b700e1a7152b0800000000000000
+      internalID: -5597558592569134245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_10
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1475
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2e0280d323d2fd0800000000000000
+      internalID: -2365178991588875576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_11
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1411
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793f86788cbc12a90800000000000000
+      internalID: -7340361855511497833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_12
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 1476
+        width: 52
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455ed726e5260b5e0800000000000000
+      internalID: -1895907285604113068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_13
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1465
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d163409388e66cb90800000000000000
+      internalID: -7221963421090826723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_14
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1407
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7c3a4d862eb38d0800000000000000
+      internalID: -2865447798019209221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_15
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1397
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f437b612b529908e0800000000000000
+      internalID: -1726688062019505329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_16
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1431
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a667f8224d0839d0800000000000000
+      internalID: -2794468990977087835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_17
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1398
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99fd6b05328616c0800000000000000
+      internalID: -4173004840375551586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_18
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1436
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8394bc96b3e708df0800000000000000
+      internalID: -180005191451719368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_19
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1447
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d33b74b3efe2afc0800000000000000
+      internalID: -3484959400366754863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_20
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1448
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06efef7e0398a1790800000000000000
+      internalID: -7558578181444272544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_21
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1396
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ac2d4d1aa8f87b0800000000000000
+      internalID: -5219801015434163611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_22
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1409
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1c4947948e3e7a0800000000000000
+      internalID: -6348975647476104733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_23
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1429
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ba27e2433e64490800000000000000
+      internalID: -7762267094469399705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_24
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1421
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ee664b3ef6f8480800000000000000
+      internalID: -8894767715258536431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_25
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 1428
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bd054991789b120800000000000000
+      internalID: 2430122017875352363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_26
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1438
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1939f3ebade6d40800000000000000
+      internalID: 5579637499003900346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_27
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1358
+        width: 184
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd6467ea95f6d110800000000000000
+      internalID: 1285484789316742649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_28
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 1421
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be72f8fb8cd216bf0800000000000000
+      internalID: -332934557218166805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_29
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1414
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa171c4700403a30800000000000000
+      internalID: 4192921653167463164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_30
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1397
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7e4e865f020f3a0800000000000000
+      internalID: -6633766012717832237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_31
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1413
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ec72ab03d3c87a0800000000000000
+      internalID: -6373652093145199060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_32
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1424
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8e3dbf07fd7ae60800000000000000
+      internalID: 7973587341637052582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_33
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1409
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53d26e15f12727f0800000000000000
+      internalID: -637503485589138597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_34
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1406
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1634db1a7f18416f0800000000000000
+      internalID: -714803540274625695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_35
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1414
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba0e49f588a3ed50800000000000000
+      internalID: 6765436358607375030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_36
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1414
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc236fcd68d5b810800000000000000
+      internalID: 1780567193837317325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_37
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1395
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00f38c2a8f209330800000000000000
+      internalID: 3715521963079495692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_38
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1394
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a4654c54dc42220800000000000000
+      internalID: 2460316995981560334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_39
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1406
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4599511c9a725ffc0800000000000000
+      internalID: -3461817128521983660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_40
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1359
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892922b12f11e7ae0800000000000000
+      internalID: -1549781490233863528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_41
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1398
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c93f19fab348fb20800000000000000
+      internalID: 3168356808177695169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_42
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1365
+        width: 13
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4252853de86340340800000000000000
+      internalID: 4829044687507039524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_43
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1394
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0df4ca3e989a21e0800000000000000
+      internalID: -2221795660795675382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_44
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1387
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc531219a13f36040800000000000000
+      internalID: 4639819336551314892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_45
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1375
+        width: 98
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fa80e8bf909f8d0800000000000000
+      internalID: -2812205516291788929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_46
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1389
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ae532e57e8f7580800000000000000
+      internalID: -8827180107665380840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_47
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1379
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9420156f0e58200800000000000000
+      internalID: 181798708504054222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_48
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1380
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13b855b46e1a2680800000000000000
+      internalID: -8779171105717308645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_49
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1371
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0645fab520702e860800000000000000
+      internalID: 7557610831390659680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_50
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1367
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afabff92fc6464da0800000000000000
+      internalID: -5960999201201472774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_51
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1362
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cad0bbc8ffe39490800000000000000
+      internalID: -7740579482671457595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_52
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1344
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dffda0c117952c90800000000000000
+      internalID: -7195178727151632425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_53
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 1341
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce934c2a34372b60800000000000000
+      internalID: 7721197510605381313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_54
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1293
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65740987fdfe3ec10800000000000000
+      internalID: 2081771195854767958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_55
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1343
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d64fa9bbe1329870800000000000000
+      internalID: 8688061519653455568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_56
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1357
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d9371011a82a580800000000000000
+      internalID: -8817333314794578565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_57
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 1362
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b502f244b00714100800000000000000
+      internalID: 90476661215010907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_58
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1353
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19cd0c8eb0883940800000000000000
+      internalID: 5276108519346391324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_59
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1294
+        width: 99
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb9e96128d735950800000000000000
+      internalID: 6436626290121284598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_60
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1346
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50db60a2bae2975f0800000000000000
+      internalID: -758523749555847931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_61
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1349
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a4ece87b2a072e0800000000000000
+      internalID: -2130023714487645602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_62
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1340
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf5787f200b97460800000000000000
+      internalID: 7240011402764050367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_63
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1323
+        width: 99
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dfe0aae3123bb20800000000000000
+      internalID: 3148897117486906744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_64
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1338
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50a54eb1acd59c10800000000000000
+      internalID: 2059794991831949404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_65
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1321
+        width: 62
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62295f1550d1a470800000000000000
+      internalID: 8404227443666788973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_66
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1327
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5e162430463f710800000000000000
+      internalID: 1725833047374423521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_67
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1314
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc06ec5f2e097e60800000000000000
+      internalID: 7960409412938894532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_68
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1322
+        width: 51
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2fc2062bd38ed30800000000000000
+      internalID: 4460883267237507753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_69
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1318
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6610c29d8608a2d70800000000000000
+      internalID: 9019162391571333478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_70
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1304
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7116e1780ea8a6ea0800000000000000
+      internalID: -5878733666634538729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_71
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1298
+        width: 61
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc554c1c736a0c7f0800000000000000
+      internalID: -594292392408623667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_72
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1311
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb2386e9919a7400800000000000000
+      internalID: 322730413493791687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_73
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1294
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39a829dc2e874aa0800000000000000
+      internalID: -6176812040642320065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_74
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1045
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79d30c02445b2510800000000000000
+      internalID: 1525405541441198458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_75
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1082
+        width: 74
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86784d4f107130580800000000000000
+      internalID: -8862214344565029016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_76
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1083
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c095d50f19ad1dba0800000000000000
+      internalID: -6065826902753584884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_77
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1096
+        width: 72
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba60bebbb69416300800000000000000
+      internalID: 243556581917787819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_78
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1076
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62806a39339ef34f0800000000000000
+      internalID: -846701797192628186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_79
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1072
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c28f2d1c69030e10800000000000000
+      internalID: 2162582606018740935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_80
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1072
+        width: 56
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677c3e85934feee60800000000000000
+      internalID: 7993594915770845046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_81
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 911
+        width: 154
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cac13d7d70f7b90800000000000000
+      internalID: -7242061052247233403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_82
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 900
+        width: 216
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b06e59e64dfe170800000000000000
+      internalID: 8210014217146076047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_83
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1042
+        width: 84
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7feeb8153c9409ca0800000000000000
+      internalID: -6012224399304036617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_84
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1038
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ad39e85abd92cb0800000000000000
+      internalID: -4888134416425821662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_85
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 939
+        width: 184
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e31030f5b29a2b0800000000000000
+      internalID: -5572875376821977533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_86
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1042
+        width: 123
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a578dae63f0ecf4d0800000000000000
+      internalID: -3099355107399202982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_87
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1039
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfb930ad8f7564e0800000000000000
+      internalID: -1989043414158950449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_88
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 943
+        width: 136
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4ce13727a415820800000000000000
+      internalID: 2905185090048804076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_89
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1049
+        width: 75
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d44a53afcde57660800000000000000
+      internalID: 7383068640198411476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_90
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1048
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7499d684e6c559540800000000000000
+      internalID: 5014015388878215495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_91
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1028
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe6846ed605556a0800000000000000
+      internalID: -6461169657447944516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_92
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1008
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079f288f7d4e9a650800000000000000
+      internalID: 6244773974564338032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_93
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 997
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fed36b96bdaab8b0800000000000000
+      internalID: -5135601425259962634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_94
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1010
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cb77e5969e5f820800000000000000
+      internalID: 2951521769576971304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_95
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 987
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ec1904d65266ba0800000000000000
+      internalID: -6096143894434427263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_96
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 989
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc007415ee80e0c0800000000000000
+      internalID: -4548478509102658380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_97
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1028
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee0ff5e09db4b060800000000000000
+      internalID: 6968402953480638178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_98
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1013
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd4b2214844dfc80800000000000000
+      internalID: -8287392405260644921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_99
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1018
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d471a448922960560800000000000000
+      internalID: 7279666554701748045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_100
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 994
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7bd496967a95d50800000000000000
+      internalID: 6726591589634652152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_101
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 940
+        width: 69
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb67fddafed4acf90800000000000000
+      internalID: -6932642984573831490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_102
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 995
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428b8b2ff6614e680800000000000000
+      internalID: -8726825507867805660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_103
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1007
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b5c94d0528fe780800000000000000
+      internalID: -8651553075479422131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_104
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1014
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701a1aaff4fd70250800000000000000
+      internalID: 5910938570547372295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_105
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1006
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b15d515b09091b0800000000000000
+      internalID: -5651858424920204532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_106
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1011
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6776bbea3b05ea930800000000000000
+      internalID: 4156348238770431862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_107
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1000
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee75cc660b8bee4c0800000000000000
+      internalID: -4256261530040117266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_108
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1014
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e66def4591acda0800000000000000
+      internalID: -5923894507009053085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_109
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1006
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e173aa781327aa50800000000000000
+      internalID: 6532228372567912930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_110
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1017
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb033639c69d11830800000000000000
+      internalID: 4040249401080492220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_111
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 947
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241c52025fb879120800000000000000
+      internalID: 2420557209657524546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_112
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 960
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b0675bcc2de3a00800000000000000
+      internalID: 738259165594913581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_113
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 941
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db98bcae2619246c0800000000000000
+      internalID: -4160603251704886851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_114
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 974
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3eb1d4693dac0a0800000000000000
+      internalID: -6860438439853300754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_115
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 933
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c6f5db3cef30f70800000000000000
+      internalID: 9152438984396205142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_116
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 951
+        width: 16
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889157c2d279735f0800000000000000
+      internalID: -776986190422926968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_117
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 956
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcc9e085f0c075e0800000000000000
+      internalID: -1913817680970134313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_118
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 944
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c536a267716585980800000000000000
+      internalID: -8549989233796160676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_119
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 959
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e938bbccf2efbac0800000000000000
+      internalID: -3837098782118888986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_120
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 938
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344045e38525d5ca0800000000000000
+      internalID: -6026570187395562429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_121
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 973
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d18dbb70a9ae840800000000000000
+      internalID: 5254181273288056112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_122
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 978
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077238bb095478b70800000000000000
+      internalID: 8901159676444616560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_123
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 961
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eae6c84c7796ec40800000000000000
+      internalID: 5541282951578708705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_124
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 940
+        width: 73
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c600740d9a1b730800000000000000
+      internalID: 4013175454973324443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_125
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 951
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a48a1545a2634950800000000000000
+      internalID: 6432093154783691938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_126
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 949
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adce370128ce82e80800000000000000
+      internalID: -8203046677889422118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_127
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 943
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f47d8acfb3695c0800000000000000
+      internalID: -4209110845380669549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_128
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 958
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322b29b3a7593f570800000000000000
+      internalID: 8499301273996276259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_129
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 916
+        width: 32
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8d98e480bfcb780800000000000000
+      internalID: -8665775569871709960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_130
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 956
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b668f131c751140800000000000000
+      internalID: 4689791008551365397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_131
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 950
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6ca4a907319bed0800000000000000
+      internalID: -2397863952252221741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_132
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 961
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59253565fcc812010800000000000000
+      internalID: 1162365000972718741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_133
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 914
+        width: 99
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f19e7d56067076f0800000000000000
+      internalID: -688920973277228557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_134
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 939
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfadbdc0f1087bf80800000000000000
+      internalID: -8090857334699730181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_135
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 925
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823700804a4a737b0800000000000000
+      internalID: -5244542216633814232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_136
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 938
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5ac757c82417530800000000000000
+      internalID: 3850932327412442573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_137
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 919
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0958d51a898b4da0800000000000000
+      internalID: -5959518455729727222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_138
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 918
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24418b220173d8db0800000000000000
+      internalID: -4788110286383475646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_139
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 919
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637fa2513a5f03e50800000000000000
+      internalID: 6787194719230949174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_140
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 914
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e978aecb33d83f5d0800000000000000
+      internalID: -3029922870937876578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_141
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 914
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128a4ae1e1cfe03f0800000000000000
+      internalID: -932530866525788127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_142
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 909
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e872c5f2d80c62ee0800000000000000
+      internalID: -1286128930950207602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_143
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 896
+        width: 59
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1204d070419808fe0800000000000000
+      internalID: -1188799582515150815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_144
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 904
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab63916e8fb9deb50800000000000000
+      internalID: 6624122120246474426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_145
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 896
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3dbf7857d45f9540800000000000000
+      internalID: 5016821793793490237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_146
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 893
+        width: 84
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223c8aebb19f87680800000000000000
+      internalID: -8756975577863765214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_147
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 901
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fc8de6da330f240800000000000000
+      internalID: 4823412020895862574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_148
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 900
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e907b379e2123740800000000000000
+      internalID: 5130183719406471652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_149
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 904
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc52f2867450bbd0800000000000000
+      internalID: -2616498515522462468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_150
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 894
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae858a6d58c66bc50800000000000000
+      internalID: 6680646419338516714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_151
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 617
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16565f4507559560800000000000000
+      internalID: 7319852449678120476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_152
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 548
+        width: 87
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1248ea7394594c0a0800000000000000
+      internalID: -6862195790506458079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_153
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 548
+        width: 98
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d19ad518daee290800000000000000
+      internalID: -7859153528581186166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_154
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 568
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9db0d333ba229b0800000000000000
+      internalID: -5106330790928852486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_155
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 579
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ef154ea4d1394f0800000000000000
+      internalID: -823282099383304578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_156
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 593
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51ac4b9e18ed2b60800000000000000
+      internalID: 7723084154162422108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_157
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 595
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d288b0eacfa1980800000000000000
+      internalID: -8567257516670964382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_158
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 583
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b005e9eec65b3dd0800000000000000
+      internalID: -2505313321014198090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_159
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 579
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f33be8489becfc10800000000000000
+      internalID: 2088803366483997681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_160
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 577
+        width: 35
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16cc816294a6a700800000000000000
+      internalID: 551308953008260637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_161
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 571
+        width: 37
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da518922eceb2f580800000000000000
+      internalID: -8794757329748224595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_162
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 574
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc6d076533dd3d70800000000000000
+      internalID: 9024601454636002556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_163
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 581
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f608c6ce9153a0fb0800000000000000
+      internalID: -4680870477241221009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_164
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 571
+        width: 35
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9357ce18f05af3230800000000000000
+      internalID: 3620794111452017977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_165
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 533
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5970d9609e7cf5f80800000000000000
+      internalID: -8115548199846082667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_166
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 511
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec913369d57a80d00800000000000000
+      internalID: 939184542700476878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_167
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 300
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45643cc37f2c7350800000000000000
+      internalID: 6015735376653870415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_168
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 305
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2460769cd2219580800000000000000
+      internalID: -8822231864229993427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_169
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 309
+        width: 33
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c757cda11e1fb4720800000000000000
+      internalID: 2831622739853079932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_170
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 300
+        width: 47
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd902aa12a3e1c630800000000000000
+      internalID: 3945685033924299227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_171
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 102
+        width: 300
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5422c67a49aeae10800000000000000
+      internalID: 2210890604370601051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_172
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 293
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346d9663bed37a6b0800000000000000
+      internalID: -5285187557256473021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_173
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 268
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed8dfd9ed2dbdd50800000000000000
+      internalID: 6763231119002144239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_174
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 278
+        width: 112
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0657b4be7221c70800000000000000
+      internalID: 8940252101820637384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_175
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 281
+        width: 107
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a13b6aacd60cb0b0800000000000000
+      internalID: -5711682682590907994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_176
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 290
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0115d6e260b57020800000000000000
+      internalID: 2338969520314847501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_177
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 285
+        width: 47
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4507b99692ed4310800000000000000
+      internalID: 1391016996379231563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_178
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 115
+        width: 249
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacea701816a5ce10800000000000000
+      internalID: 2217361013835754666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_179
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 263
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de733a272c0092f0800000000000000
+      internalID: -968260557533380910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_180
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 276
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77dfed2336afd52f0800000000000000
+      internalID: -982353839734719113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_181
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 272
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68811d27aca23210800000000000000
+      internalID: 1311300275533875307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_182
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 272
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d147a17265041ecb0800000000000000
+      internalID: -4836513786051791843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_183
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 280
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4eb6125a313af000800000000000000
+      internalID: 70422870732750410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_184
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 255
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c8e949bfdbee400800000000000000
+      internalID: 355430308836707329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_185
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 235
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458c7b39f91c07e60800000000000000
+      internalID: 7958073432685922388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_186
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 249
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417823ea9613ced40800000000000000
+      internalID: 5614917165388039956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_187
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 268
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359cac2370ef5f2f0800000000000000
+      internalID: -939565640366503597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_188
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 260
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf8bddf8ac3e7ad0800000000000000
+      internalID: -2702656029864521783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_189
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 268
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcb3c295647804b0800000000000000
+      internalID: -5473997367466017584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_190
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 232
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5175826a17ee287a0800000000000000
+      internalID: -6376271950516824299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_191
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 256
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd37d54ed54059b50800000000000000
+      internalID: 6599185630291129308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_192
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 253
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5299ef3c27454a80800000000000000
+      internalID: -8483296067706056100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_193
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 237
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613f79b9e11caf5a0800000000000000
+      internalID: -6486659976070171882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_194
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 245
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8189b28f1259a90800000000000000
+      internalID: -7307897470571767578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_195
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 181
+        width: 13
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f031e4c850130a410800000000000000
+      internalID: 1486241776930788111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_196
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 116
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c7ef7748881c180800000000000000
+      internalID: -9096839669781463956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_197
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 182
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563a5d3afcb07fbb0800000000000000
+      internalID: -4902436682934672539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_198
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 208
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88afceef86dd3c7f0800000000000000
+      internalID: -593387282859492728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_199
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 223
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d1791481edb06b0800000000000000
+      internalID: -5328921538301846141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_200
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 156
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e891d4d3d3e06750800000000000000
+      internalID: 6296282778012063975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_201
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 195
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd00953f713b47e0800000000000000
+      internalID: -1780274805265658416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_202
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 165
+        width: 11
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b67d01207a2b3a0800000000000000
+      internalID: -6651070072358474945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_203
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 190
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9fea6c21f42f060800000000000000
+      internalID: 6985732914066422256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_204
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 93
+        width: 217
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475250a807c167390800000000000000
+      internalID: -7821032433204779660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_205
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 128
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0267bbef08d26a10800000000000000
+      internalID: 1901319555594543631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_206
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 149
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc02cda8351e1780800000000000000
+      internalID: -8710501296110433027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_207
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 138
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0b58e873c50a840800000000000000
+      internalID: 5233284160688599275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_208
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 139
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aea3f6c783b57170800000000000000
+      internalID: 8175638094300819111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_209
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 101
+        width: 67
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f944324982c67e80800000000000000
+      internalID: -8181137778294896144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_210
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 109
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00940bb455241800800000000000000
+      internalID: 582131297682755598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_211
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 121
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbe13d47090530c0800000000000000
+      internalID: -4596757917697184774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_212
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 112
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f62b3e6f51f72f0800000000000000
+      internalID: -973034844362477764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_213
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 123
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dea68d8b75af7080800000000000000
+      internalID: -9187442764738548010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_214
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 107
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7066a6cd72d1a30800000000000000
+      internalID: 4187547056155789225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_215
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 109
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a756888af62d520800000000000000
+      internalID: 2725363494146112042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_216
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 91
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718090d63c61e29d0800000000000000
+      internalID: -2797273289946757097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_217
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 96
+        width: 99
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58f13c725a2af990800000000000000
+      internalID: -7351516907969578918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_218
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 96
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa91e971833086840800000000000000
+      internalID: 5217423707758008746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_219
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 87
+        width: 71
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec53daf15586bbbd0800000000000000
+      internalID: -2613380443945486898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterTornadoFX_220
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 85
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9abec8d70aa3fb60800000000000000
+      internalID: 7778747932077898397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WaterTornadoFX_0: 4747762921877005531
+      WaterTornadoFX_1: -4067785920577016330
+      WaterTornadoFX_10: -2365178991588875576
+      WaterTornadoFX_100: 6726591589634652152
+      WaterTornadoFX_101: -6932642984573831490
+      WaterTornadoFX_102: -8726825507867805660
+      WaterTornadoFX_103: -8651553075479422131
+      WaterTornadoFX_104: 5910938570547372295
+      WaterTornadoFX_105: -5651858424920204532
+      WaterTornadoFX_106: 4156348238770431862
+      WaterTornadoFX_107: -4256261530040117266
+      WaterTornadoFX_108: -5923894507009053085
+      WaterTornadoFX_109: 6532228372567912930
+      WaterTornadoFX_11: -7340361855511497833
+      WaterTornadoFX_110: 4040249401080492220
+      WaterTornadoFX_111: 2420557209657524546
+      WaterTornadoFX_112: 738259165594913581
+      WaterTornadoFX_113: -4160603251704886851
+      WaterTornadoFX_114: -6860438439853300754
+      WaterTornadoFX_115: 9152438984396205142
+      WaterTornadoFX_116: -776986190422926968
+      WaterTornadoFX_117: -1913817680970134313
+      WaterTornadoFX_118: -8549989233796160676
+      WaterTornadoFX_119: -3837098782118888986
+      WaterTornadoFX_12: -1895907285604113068
+      WaterTornadoFX_120: -6026570187395562429
+      WaterTornadoFX_121: 5254181273288056112
+      WaterTornadoFX_122: 8901159676444616560
+      WaterTornadoFX_123: 5541282951578708705
+      WaterTornadoFX_124: 4013175454973324443
+      WaterTornadoFX_125: 6432093154783691938
+      WaterTornadoFX_126: -8203046677889422118
+      WaterTornadoFX_127: -4209110845380669549
+      WaterTornadoFX_128: 8499301273996276259
+      WaterTornadoFX_129: -8665775569871709960
+      WaterTornadoFX_13: -7221963421090826723
+      WaterTornadoFX_130: 4689791008551365397
+      WaterTornadoFX_131: -2397863952252221741
+      WaterTornadoFX_132: 1162365000972718741
+      WaterTornadoFX_133: -688920973277228557
+      WaterTornadoFX_134: -8090857334699730181
+      WaterTornadoFX_135: -5244542216633814232
+      WaterTornadoFX_136: 3850932327412442573
+      WaterTornadoFX_137: -5959518455729727222
+      WaterTornadoFX_138: -4788110286383475646
+      WaterTornadoFX_139: 6787194719230949174
+      WaterTornadoFX_14: -2865447798019209221
+      WaterTornadoFX_140: -3029922870937876578
+      WaterTornadoFX_141: -932530866525788127
+      WaterTornadoFX_142: -1286128930950207602
+      WaterTornadoFX_143: -1188799582515150815
+      WaterTornadoFX_144: 6624122120246474426
+      WaterTornadoFX_145: 5016821793793490237
+      WaterTornadoFX_146: -8756975577863765214
+      WaterTornadoFX_147: 4823412020895862574
+      WaterTornadoFX_148: 5130183719406471652
+      WaterTornadoFX_149: -2616498515522462468
+      WaterTornadoFX_15: -1726688062019505329
+      WaterTornadoFX_150: 6680646419338516714
+      WaterTornadoFX_151: 7319852449678120476
+      WaterTornadoFX_152: -6862195790506458079
+      WaterTornadoFX_153: -7859153528581186166
+      WaterTornadoFX_154: -5106330790928852486
+      WaterTornadoFX_155: -823282099383304578
+      WaterTornadoFX_156: 7723084154162422108
+      WaterTornadoFX_157: -8567257516670964382
+      WaterTornadoFX_158: -2505313321014198090
+      WaterTornadoFX_159: 2088803366483997681
+      WaterTornadoFX_16: -2794468990977087835
+      WaterTornadoFX_160: 551308953008260637
+      WaterTornadoFX_161: -8794757329748224595
+      WaterTornadoFX_162: 9024601454636002556
+      WaterTornadoFX_163: -4680870477241221009
+      WaterTornadoFX_164: 3620794111452017977
+      WaterTornadoFX_165: -8115548199846082667
+      WaterTornadoFX_166: 939184542700476878
+      WaterTornadoFX_167: 6015735376653870415
+      WaterTornadoFX_168: -8822231864229993427
+      WaterTornadoFX_169: 2831622739853079932
+      WaterTornadoFX_17: -4173004840375551586
+      WaterTornadoFX_170: 3945685033924299227
+      WaterTornadoFX_171: 2210890604370601051
+      WaterTornadoFX_172: -5285187557256473021
+      WaterTornadoFX_173: 6763231119002144239
+      WaterTornadoFX_174: 8940252101820637384
+      WaterTornadoFX_175: -5711682682590907994
+      WaterTornadoFX_176: 2338969520314847501
+      WaterTornadoFX_177: 1391016996379231563
+      WaterTornadoFX_178: 2217361013835754666
+      WaterTornadoFX_179: -968260557533380910
+      WaterTornadoFX_18: -180005191451719368
+      WaterTornadoFX_180: -982353839734719113
+      WaterTornadoFX_181: 1311300275533875307
+      WaterTornadoFX_182: -4836513786051791843
+      WaterTornadoFX_183: 70422870732750410
+      WaterTornadoFX_184: 355430308836707329
+      WaterTornadoFX_185: 7958073432685922388
+      WaterTornadoFX_186: 5614917165388039956
+      WaterTornadoFX_187: -939565640366503597
+      WaterTornadoFX_188: -2702656029864521783
+      WaterTornadoFX_189: -5473997367466017584
+      WaterTornadoFX_19: -3484959400366754863
+      WaterTornadoFX_190: -6376271950516824299
+      WaterTornadoFX_191: 6599185630291129308
+      WaterTornadoFX_192: -8483296067706056100
+      WaterTornadoFX_193: -6486659976070171882
+      WaterTornadoFX_194: -7307897470571767578
+      WaterTornadoFX_195: 1486241776930788111
+      WaterTornadoFX_196: -9096839669781463956
+      WaterTornadoFX_197: -4902436682934672539
+      WaterTornadoFX_198: -593387282859492728
+      WaterTornadoFX_199: -5328921538301846141
+      WaterTornadoFX_2: 2606254172063192818
+      WaterTornadoFX_20: -7558578181444272544
+      WaterTornadoFX_200: 6296282778012063975
+      WaterTornadoFX_201: -1780274805265658416
+      WaterTornadoFX_202: -6651070072358474945
+      WaterTornadoFX_203: 6985732914066422256
+      WaterTornadoFX_204: -7821032433204779660
+      WaterTornadoFX_205: 1901319555594543631
+      WaterTornadoFX_206: -8710501296110433027
+      WaterTornadoFX_207: 5233284160688599275
+      WaterTornadoFX_208: 8175638094300819111
+      WaterTornadoFX_209: -8181137778294896144
+      WaterTornadoFX_21: -5219801015434163611
+      WaterTornadoFX_210: 582131297682755598
+      WaterTornadoFX_211: -4596757917697184774
+      WaterTornadoFX_212: -973034844362477764
+      WaterTornadoFX_213: -9187442764738548010
+      WaterTornadoFX_214: 4187547056155789225
+      WaterTornadoFX_215: 2725363494146112042
+      WaterTornadoFX_216: -2797273289946757097
+      WaterTornadoFX_217: -7351516907969578918
+      WaterTornadoFX_218: 5217423707758008746
+      WaterTornadoFX_219: -2613380443945486898
+      WaterTornadoFX_22: -6348975647476104733
+      WaterTornadoFX_220: 7778747932077898397
+      WaterTornadoFX_23: -7762267094469399705
+      WaterTornadoFX_24: -8894767715258536431
+      WaterTornadoFX_25: 2430122017875352363
+      WaterTornadoFX_26: 5579637499003900346
+      WaterTornadoFX_27: 1285484789316742649
+      WaterTornadoFX_28: -332934557218166805
+      WaterTornadoFX_29: 4192921653167463164
+      WaterTornadoFX_3: -4072898934592699990
+      WaterTornadoFX_30: -6633766012717832237
+      WaterTornadoFX_31: -6373652093145199060
+      WaterTornadoFX_32: 7973587341637052582
+      WaterTornadoFX_33: -637503485589138597
+      WaterTornadoFX_34: -714803540274625695
+      WaterTornadoFX_35: 6765436358607375030
+      WaterTornadoFX_36: 1780567193837317325
+      WaterTornadoFX_37: 3715521963079495692
+      WaterTornadoFX_38: 2460316995981560334
+      WaterTornadoFX_39: -3461817128521983660
+      WaterTornadoFX_4: -5366972848571723256
+      WaterTornadoFX_40: -1549781490233863528
+      WaterTornadoFX_41: 3168356808177695169
+      WaterTornadoFX_42: 4829044687507039524
+      WaterTornadoFX_43: -2221795660795675382
+      WaterTornadoFX_44: 4639819336551314892
+      WaterTornadoFX_45: -2812205516291788929
+      WaterTornadoFX_46: -8827180107665380840
+      WaterTornadoFX_47: 181798708504054222
+      WaterTornadoFX_48: -8779171105717308645
+      WaterTornadoFX_49: 7557610831390659680
+      WaterTornadoFX_5: -4147763634289667162
+      WaterTornadoFX_50: -5960999201201472774
+      WaterTornadoFX_51: -7740579482671457595
+      WaterTornadoFX_52: -7195178727151632425
+      WaterTornadoFX_53: 7721197510605381313
+      WaterTornadoFX_54: 2081771195854767958
+      WaterTornadoFX_55: 8688061519653455568
+      WaterTornadoFX_56: -8817333314794578565
+      WaterTornadoFX_57: 90476661215010907
+      WaterTornadoFX_58: 5276108519346391324
+      WaterTornadoFX_59: 6436626290121284598
+      WaterTornadoFX_6: -6942713359050461138
+      WaterTornadoFX_60: -758523749555847931
+      WaterTornadoFX_61: -2130023714487645602
+      WaterTornadoFX_62: 7240011402764050367
+      WaterTornadoFX_63: 3148897117486906744
+      WaterTornadoFX_64: 2059794991831949404
+      WaterTornadoFX_65: 8404227443666788973
+      WaterTornadoFX_66: 1725833047374423521
+      WaterTornadoFX_67: 7960409412938894532
+      WaterTornadoFX_68: 4460883267237507753
+      WaterTornadoFX_69: 9019162391571333478
+      WaterTornadoFX_7: 8804991803812292697
+      WaterTornadoFX_70: -5878733666634538729
+      WaterTornadoFX_71: -594292392408623667
+      WaterTornadoFX_72: 322730413493791687
+      WaterTornadoFX_73: -6176812040642320065
+      WaterTornadoFX_74: 1525405541441198458
+      WaterTornadoFX_75: -8862214344565029016
+      WaterTornadoFX_76: -6065826902753584884
+      WaterTornadoFX_77: 243556581917787819
+      WaterTornadoFX_78: -846701797192628186
+      WaterTornadoFX_79: 2162582606018740935
+      WaterTornadoFX_8: 6287693775002181693
+      WaterTornadoFX_80: 7993594915770845046
+      WaterTornadoFX_81: -7242061052247233403
+      WaterTornadoFX_82: 8210014217146076047
+      WaterTornadoFX_83: -6012224399304036617
+      WaterTornadoFX_84: -4888134416425821662
+      WaterTornadoFX_85: -5572875376821977533
+      WaterTornadoFX_86: -3099355107399202982
+      WaterTornadoFX_87: -1989043414158950449
+      WaterTornadoFX_88: 2905185090048804076
+      WaterTornadoFX_89: 7383068640198411476
+      WaterTornadoFX_9: -5597558592569134245
+      WaterTornadoFX_90: 5014015388878215495
+      WaterTornadoFX_91: -6461169657447944516
+      WaterTornadoFX_92: 6244773974564338032
+      WaterTornadoFX_93: -5135601425259962634
+      WaterTornadoFX_94: 2951521769576971304
+      WaterTornadoFX_95: -6096143894434427263
+      WaterTornadoFX_96: -4548478509102658380
+      WaterTornadoFX_97: 6968402953480638178
+      WaterTornadoFX_98: -8287392405260644921
+      WaterTornadoFX_99: 7279666554701748045
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

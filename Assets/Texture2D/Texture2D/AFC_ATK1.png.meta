@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: fa0bc2a099ba144429b8bd53bf747325
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1708775649289076493
+    second: AFC_ATK1_0
+  - first:
+      213: 966536090230974301
+    second: AFC_ATK1_1
+  - first:
+      213: 1610366517741939508
+    second: AFC_ATK1_2
+  - first:
+      213: -713754986904387967
+    second: AFC_ATK1_3
+  - first:
+      213: -585530166839649571
+    second: AFC_ATK1_4
+  - first:
+      213: 7370688390191060272
+    second: AFC_ATK1_5
+  - first:
+      213: -8000870280486699333
+    second: AFC_ATK1_6
+  - first:
+      213: -423287328045166347
+    second: AFC_ATK1_7
+  - first:
+      213: 8159984137370912063
+    second: AFC_ATK1_8
+  - first:
+      213: 6750488160454462013
+    second: AFC_ATK1_9
+  - first:
+      213: -5812708822463188560
+    second: AFC_ATK1_10
+  - first:
+      213: -1875777256995629985
+    second: AFC_ATK1_11
+  - first:
+      213: -8383590290291417996
+    second: AFC_ATK1_12
+  - first:
+      213: -5668537040337186594
+    second: AFC_ATK1_13
+  - first:
+      213: -4509326546517989333
+    second: AFC_ATK1_14
+  - first:
+      213: 2403830094656139507
+    second: AFC_ATK1_15
+  - first:
+      213: 5480425685004564699
+    second: AFC_ATK1_16
+  - first:
+      213: -477369550217025380
+    second: AFC_ATK1_17
+  - first:
+      213: 3018944107951047720
+    second: AFC_ATK1_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AFC_ATK1_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 321
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f76b8466ac6b710800000000000000
+      internalID: 1708775649289076493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_ATK1_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 321
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57efc00473d96d00800000000000000
+      internalID: 966536090230974301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_ATK1_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 321
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43be038d0db295610800000000000000
+      internalID: 1610366517741939508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_ATK1_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 321
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e76ecfe9b3816f0800000000000000
+      internalID: -713754986904387967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_ATK1_4
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 321
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda5f306a67cfd7f0800000000000000
+      internalID: -585530166839649571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_ATK1_5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 225
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0351f6f0a02f94660800000000000000
+      internalID: 7370688390191060272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_ATK1_6
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 225
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe3c9dced237f090800000000000000
+      internalID: -8000870280486699333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_ATK1_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 225
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f091f5fa6e202af0800000000000000
+      internalID: -423287328045166347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_ATK1_8
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 225
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35c0d8e6561e3170800000000000000
+      internalID: 8159984137370912063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_ATK1_9
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 225
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a4e50673d8ead50800000000000000
+      internalID: 6750488160454462013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_ATK1_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 129
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b17d4e7f1c155fa0800000000000000
+      internalID: -5812708822463188560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_ATK1_11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 129
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54d407e586e7f5e0800000000000000
+      internalID: -1875777256995629985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_ATK1_12
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 129
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c14c49c0187ab80800000000000000
+      internalID: -8383590290291417996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_ATK1_13
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 129
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0de82589f4551b0800000000000000
+      internalID: -5668537040337186594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_ATK1_14
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 129
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b286e8ab567ab61c0800000000000000
+      internalID: -4509326546517989333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_ATK1_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 33
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f07f5c2cbe1c5120800000000000000
+      internalID: 2403830094656139507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_ATK1_16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 33
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8bf9cbf126e0c40800000000000000
+      internalID: 5480425685004564699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_ATK1_17
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 33
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98e9bc5cea0069f0800000000000000
+      internalID: -477369550217025380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_ATK1_18
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 33
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8244e2fcba175e920800000000000000
+      internalID: 3018944107951047720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AFC_ATK1_0: 1708775649289076493
+      AFC_ATK1_1: 966536090230974301
+      AFC_ATK1_10: -5812708822463188560
+      AFC_ATK1_11: -1875777256995629985
+      AFC_ATK1_12: -8383590290291417996
+      AFC_ATK1_13: -5668537040337186594
+      AFC_ATK1_14: -4509326546517989333
+      AFC_ATK1_15: 2403830094656139507
+      AFC_ATK1_16: 5480425685004564699
+      AFC_ATK1_17: -477369550217025380
+      AFC_ATK1_18: 3018944107951047720
+      AFC_ATK1_2: 1610366517741939508
+      AFC_ATK1_3: -713754986904387967
+      AFC_ATK1_4: -585530166839649571
+      AFC_ATK1_5: 7370688390191060272
+      AFC_ATK1_6: -8000870280486699333
+      AFC_ATK1_7: -423287328045166347
+      AFC_ATK1_8: 8159984137370912063
+      AFC_ATK1_9: 6750488160454462013
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

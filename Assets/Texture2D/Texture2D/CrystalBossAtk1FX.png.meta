@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: c8039803d9b9abe41b02f0ebf079e319
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4023652732175992826
+    second: CrystalBossAtk1FX_0
+  - first:
+      213: 7084314200792222517
+    second: CrystalBossAtk1FX_1
+  - first:
+      213: 9148568992820778656
+    second: CrystalBossAtk1FX_2
+  - first:
+      213: 2436742075949954593
+    second: CrystalBossAtk1FX_3
+  - first:
+      213: -1158620857637413000
+    second: CrystalBossAtk1FX_4
+  - first:
+      213: 2382898635172592964
+    second: CrystalBossAtk1FX_5
+  - first:
+      213: -3498036056918317490
+    second: CrystalBossAtk1FX_6
+  - first:
+      213: -2822471732296285674
+    second: CrystalBossAtk1FX_7
+  - first:
+      213: -5952754425804948638
+    second: CrystalBossAtk1FX_8
+  - first:
+      213: -1983017358178118518
+    second: CrystalBossAtk1FX_9
+  - first:
+      213: -3443386633150204847
+    second: CrystalBossAtk1FX_10
+  - first:
+      213: 339189098357407393
+    second: CrystalBossAtk1FX_11
+  - first:
+      213: 8521285980668934484
+    second: CrystalBossAtk1FX_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CrystalBossAtk1FX_0
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 157
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608be17882d1928c0800000000000000
+      internalID: -4023652732175992826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalBossAtk1FX_1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 157
+        width: 39
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bc9773b3a805260800000000000000
+      internalID: 7084314200792222517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalBossAtk1FX_2
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 157
+        width: 167
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a65c3c170f36fe70800000000000000
+      internalID: 9148568992820778656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalBossAtk1FX_3
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 157
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126be36f10c01d120800000000000000
+      internalID: 2436742075949954593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalBossAtk1FX_4
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 157
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fd927f770cbefe0800000000000000
+      internalID: -1158620857637413000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalBossAtk1FX_5
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 157
+        width: 39
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44db93dfea1c11120800000000000000
+      internalID: 2382898635172592964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalBossAtk1FX_6
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 157
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4620e75dba747fc0800000000000000
+      internalID: -3498036056918317490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalBossAtk1FX_7
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 157
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61206efd9e094d8d0800000000000000
+      internalID: -2822471732296285674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalBossAtk1FX_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 137
+        width: 371
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bf2c68361936da0800000000000000
+      internalID: -5952754425804948638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalBossAtk1FX_9
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 73
+        width: 382
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a841c5e1838ea74e0800000000000000
+      internalID: -1983017358178118518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalBossAtk1FX_10
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 73
+        width: 371
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154f0cad912a630d0800000000000000
+      internalID: -3443386633150204847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalBossAtk1FX_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 9
+        width: 382
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae374710ba05b400800000000000000
+      internalID: 339189098357407393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalBossAtk1FX_12
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 21
+        width: 342
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459b943a370b14670800000000000000
+      internalID: 8521285980668934484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CrystalBossAtk1FX_0: -4023652732175992826
+      CrystalBossAtk1FX_1: 7084314200792222517
+      CrystalBossAtk1FX_10: -3443386633150204847
+      CrystalBossAtk1FX_11: 339189098357407393
+      CrystalBossAtk1FX_12: 8521285980668934484
+      CrystalBossAtk1FX_2: 9148568992820778656
+      CrystalBossAtk1FX_3: 2436742075949954593
+      CrystalBossAtk1FX_4: -1158620857637413000
+      CrystalBossAtk1FX_5: 2382898635172592964
+      CrystalBossAtk1FX_6: -3498036056918317490
+      CrystalBossAtk1FX_7: -2822471732296285674
+      CrystalBossAtk1FX_8: -5952754425804948638
+      CrystalBossAtk1FX_9: -1983017358178118518
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: a5788464c2afdf34c867c6bc92112d9c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5724258108158951912
+    second: BossStatueATK1FX_0
+  - first:
+      213: 8433300401494270047
+    second: BossStatueATK1FX_1
+  - first:
+      213: 580292221504214195
+    second: BossStatueATK1FX_2
+  - first:
+      213: 2034500935413493425
+    second: BossStatueATK1FX_3
+  - first:
+      213: 6879148371557679618
+    second: BossStatueATK1FX_4
+  - first:
+      213: 574354548615107261
+    second: BossStatueATK1FX_5
+  - first:
+      213: -4588299135385209074
+    second: BossStatueATK1FX_6
+  - first:
+      213: -3558579513261177049
+    second: BossStatueATK1FX_7
+  - first:
+      213: -2208480920683468082
+    second: BossStatueATK1FX_8
+  - first:
+      213: -7186904157123129690
+    second: BossStatueATK1FX_9
+  - first:
+      213: 25118476382948944
+    second: BossStatueATK1FX_10
+  - first:
+      213: 6765432711743040980
+    second: BossStatueATK1FX_11
+  - first:
+      213: -6179552375738459290
+    second: BossStatueATK1FX_12
+  - first:
+      213: 7292662484299526461
+    second: BossStatueATK1FX_13
+  - first:
+      213: -7026432560887949458
+    second: BossStatueATK1FX_14
+  - first:
+      213: 3064170585263031536
+    second: BossStatueATK1FX_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossStatueATK1FX_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 728
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1c673cb66a07f40800000000000000
+      internalID: 5724258108158951912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK1FX_1
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 728
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50a93b980a190570800000000000000
+      internalID: 8433300401494270047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK1FX_2
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 728
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b45ea073bc9d0800800000000000000
+      internalID: 580292221504214195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK1FX_3
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 728
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be658e42dffb3c10800000000000000
+      internalID: 2034500935413493425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK1FX_4
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 728
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20207e32ff4a77f50800000000000000
+      internalID: 6879148371557679618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK1FX_5
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 728
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2555d3b6488f700800000000000000
+      internalID: 574354548615107261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK1FX_6
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 728
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07f1280f361350c0800000000000000
+      internalID: -4588299135385209074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK1FX_7
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 363
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727c51f69c26d9ec0800000000000000
+      internalID: -3558579513261177049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK1FX_8
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 332
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca2f6dbd46e951e0800000000000000
+      internalID: -2208480920683468082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK1FX_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 228
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aec5e73fbcf24c90800000000000000
+      internalID: -7186904157123129690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK1FX_10
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 228
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05eca160f1d395000800000000000000
+      internalID: 25118476382948944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK1FX_11
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 228
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd604fd435a3ed50800000000000000
+      internalID: 6765432711743040980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK1FX_12
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 226
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b103ddad1dd3aa0800000000000000
+      internalID: -6179552375738459290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK1FX_13
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 219
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31bd7b24edb43560800000000000000
+      internalID: 7292662484299526461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK1FX_14
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 219
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67190240d81d7e90800000000000000
+      internalID: -7026432560887949458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK1FX_15
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 243
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4cdc1a9ee168a20800000000000000
+      internalID: 3064170585263031536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BossStatueATK1FX_0: 5724258108158951912
+      BossStatueATK1FX_1: 8433300401494270047
+      BossStatueATK1FX_10: 25118476382948944
+      BossStatueATK1FX_11: 6765432711743040980
+      BossStatueATK1FX_12: -6179552375738459290
+      BossStatueATK1FX_13: 7292662484299526461
+      BossStatueATK1FX_14: -7026432560887949458
+      BossStatueATK1FX_15: 3064170585263031536
+      BossStatueATK1FX_2: 580292221504214195
+      BossStatueATK1FX_3: 2034500935413493425
+      BossStatueATK1FX_4: 6879148371557679618
+      BossStatueATK1FX_5: 574354548615107261
+      BossStatueATK1FX_6: -4588299135385209074
+      BossStatueATK1FX_7: -3558579513261177049
+      BossStatueATK1FX_8: -2208480920683468082
+      BossStatueATK1FX_9: -7186904157123129690
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

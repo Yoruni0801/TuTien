@@ -1,0 +1,1586 @@
+fileFormatVersion: 2
+guid: e03145675085fe04b8f2710fdfe81bbb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7159954166030101689
+    second: BossStatueATK4_0
+  - first:
+      213: 1448617447957861674
+    second: BossStatueATK4_1
+  - first:
+      213: -2808872646202170864
+    second: BossStatueATK4_2
+  - first:
+      213: -5503891893185871851
+    second: BossStatueATK4_3
+  - first:
+      213: -2843041745720861273
+    second: BossStatueATK4_4
+  - first:
+      213: 6929543544053092949
+    second: BossStatueATK4_5
+  - first:
+      213: 7302566614753863702
+    second: BossStatueATK4_6
+  - first:
+      213: -6921108537213173016
+    second: BossStatueATK4_7
+  - first:
+      213: -3983469669285842597
+    second: BossStatueATK4_8
+  - first:
+      213: 7096458376698563160
+    second: BossStatueATK4_9
+  - first:
+      213: 2504080289203946909
+    second: BossStatueATK4_10
+  - first:
+      213: 7845330939698279664
+    second: BossStatueATK4_11
+  - first:
+      213: 7799906962654728234
+    second: BossStatueATK4_12
+  - first:
+      213: 6706576103821385102
+    second: BossStatueATK4_13
+  - first:
+      213: 6002174337621467486
+    second: BossStatueATK4_14
+  - first:
+      213: 7919773373400773699
+    second: BossStatueATK4_15
+  - first:
+      213: -902753554131562617
+    second: BossStatueATK4_16
+  - first:
+      213: 6929931362698655615
+    second: BossStatueATK4_17
+  - first:
+      213: -5488245779121220376
+    second: BossStatueATK4_18
+  - first:
+      213: 8484415247171479423
+    second: BossStatueATK4_19
+  - first:
+      213: 5889775213347050385
+    second: BossStatueATK4_20
+  - first:
+      213: -4069238683055653637
+    second: BossStatueATK4_21
+  - first:
+      213: 2188037965017316610
+    second: BossStatueATK4_22
+  - first:
+      213: 2377342820590411849
+    second: BossStatueATK4_23
+  - first:
+      213: -430336992547514842
+    second: BossStatueATK4_24
+  - first:
+      213: -1648115717272780822
+    second: BossStatueATK4_25
+  - first:
+      213: -2333311504414444677
+    second: BossStatueATK4_26
+  - first:
+      213: -7765898756159581393
+    second: BossStatueATK4_27
+  - first:
+      213: -2220290549546822799
+    second: BossStatueATK4_28
+  - first:
+      213: -6788061683775156126
+    second: BossStatueATK4_29
+  - first:
+      213: 8869646766737057790
+    second: BossStatueATK4_30
+  - first:
+      213: -1094317973646424099
+    second: BossStatueATK4_31
+  - first:
+      213: -7433840237041705167
+    second: BossStatueATK4_32
+  - first:
+      213: 4833799751531464616
+    second: BossStatueATK4_33
+  - first:
+      213: -8298772419760097448
+    second: BossStatueATK4_34
+  - first:
+      213: -7200254505591696525
+    second: BossStatueATK4_35
+  - first:
+      213: 4175351142273914740
+    second: BossStatueATK4_36
+  - first:
+      213: -7556668296039687208
+    second: BossStatueATK4_37
+  - first:
+      213: 5853318716278597997
+    second: BossStatueATK4_38
+  - first:
+      213: 2520920847765166534
+    second: BossStatueATK4_39
+  - first:
+      213: -5021507847780894821
+    second: BossStatueATK4_40
+  - first:
+      213: 5034862851661030277
+    second: BossStatueATK4_41
+  - first:
+      213: 8923942983346340800
+    second: BossStatueATK4_42
+  - first:
+      213: 584675744338229894
+    second: BossStatueATK4_43
+  - first:
+      213: 6106765671466988461
+    second: BossStatueATK4_44
+  - first:
+      213: -90751161626779428
+    second: BossStatueATK4_45
+  - first:
+      213: -3138629851313188836
+    second: BossStatueATK4_46
+  - first:
+      213: 2400551893720588944
+    second: BossStatueATK4_47
+  - first:
+      213: -7732865738068316427
+    second: BossStatueATK4_48
+  - first:
+      213: 4793762578452205325
+    second: BossStatueATK4_49
+  - first:
+      213: 692354399250074348
+    second: BossStatueATK4_50
+  - first:
+      213: 9094919821631591911
+    second: BossStatueATK4_51
+  - first:
+      213: 19812123663627491
+    second: BossStatueATK4_52
+  - first:
+      213: 5825220029514490293
+    second: BossStatueATK4_53
+  - first:
+      213: -1091767430827701077
+    second: BossStatueATK4_54
+  - first:
+      213: -5774333336936879994
+    second: BossStatueATK4_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossStatueATK4_0
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1340
+        width: 55
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc6d4201644d5360800000000000000
+      internalID: 7159954166030101689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_1
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1340
+        width: 54
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2516f0d4e58a1410800000000000000
+      internalID: 1448617447957861674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_2
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1340
+        width: 55
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012eec7d531e409d0800000000000000
+      internalID: -2808872646202170864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_3
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1340
+        width: 55
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5100188eb7f3e93b0800000000000000
+      internalID: -5503891893185871851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_4
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 1342
+        width: 55
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad93b8689c7b88d0800000000000000
+      internalID: -2843041745720861273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_5
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1059
+        width: 6
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552d2e6932faa2060800000000000000
+      internalID: 6929543544053092949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1001
+        width: 11
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618e70d35ade75560800000000000000
+      internalID: 7302566614753863702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 996
+        width: 21
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e24c7b747843ff90800000000000000
+      internalID: -6921108537213173016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1027
+        width: 13
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51bcace07fd7b8c0800000000000000
+      internalID: -3983469669285842597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_9
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 828
+        width: 385
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a86728b4fab7260800000000000000
+      internalID: 7096458376698563160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_10
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 828
+        width: 386
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d950f0f71c740c220800000000000000
+      internalID: 2504080289203946909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_11
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 828
+        width: 385
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4f81e5ce630ec60800000000000000
+      internalID: 7845330939698279664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_12
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 828
+        width: 385
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20912e8e06de3c60800000000000000
+      internalID: 7799906962654728234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_13
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1007
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d9567fe6b821d50800000000000000
+      internalID: 6706576103821385102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_14
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 958
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51a4e952c10c4350800000000000000
+      internalID: 6002174337621467486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_15
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 439
+        width: 385
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344762f1cefa8ed60800000000000000
+      internalID: 7919773373400773699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_16
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 439
+        width: 385
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f444eec66c873f0800000000000000
+      internalID: -902753554131562617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_17
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 439
+        width: 386
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77fd77abdf0c2060800000000000000
+      internalID: 6929931362698655615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_18
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 439
+        width: 385
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e45177ba85d5d3b0800000000000000
+      internalID: -5488245779121220376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_19
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 439
+        width: 385
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77609607b2beb570800000000000000
+      internalID: 8484415247171479423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_20
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 49
+        width: 385
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1939376e95facb150800000000000000
+      internalID: 5889775213347050385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_21
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 49
+        width: 385
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc703e3af82787c0800000000000000
+      internalID: -4069238683055653637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_22
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 47
+        width: 390
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20dfcebbfe87d5e10800000000000000
+      internalID: 2188037965017316610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_23
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 324
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940ed9a13b40ef020800000000000000
+      internalID: 2377342820590411849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_24
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 328
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626de7909c2270af0800000000000000
+      internalID: -430336992547514842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_25
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 327
+        width: 90
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefb73bbc77b029e0800000000000000
+      internalID: -1648115717272780822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_26
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 298
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b737b059c896e9fd0800000000000000
+      internalID: -2333311504414444677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_27
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 305
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23d57d0a3cf93490800000000000000
+      internalID: -7765898756159581393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_28
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 290
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173da104281ff21e0800000000000000
+      internalID: -2220290549546822799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_29
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 260
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26054210dd5fbc1a0800000000000000
+      internalID: -6788061683775156126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_30
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 141
+        width: 158
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7ed8eadb0571b70800000000000000
+      internalID: 8869646766737057790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_31
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 276
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7ca75d99330d0f0800000000000000
+      internalID: -1094317973646424099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_32
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 171
+        width: 55
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f9f1ac0b1b5d890800000000000000
+      internalID: -7433840237041705167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_33
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 232
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a78761734b151340800000000000000
+      internalID: 4833799751531464616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_34
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 250
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857f368f376d4dc80800000000000000
+      internalID: -8298772419760097448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_35
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 224
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3731dcdfcae831c90800000000000000
+      internalID: -7200254505591696525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_36
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 196
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47712cfedb3d1f930800000000000000
+      internalID: 4175351142273914740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_37
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 207
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db1911c832512790800000000000000
+      internalID: -7556668296039687208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_38
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 185
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d696ee83c5a2b3150800000000000000
+      internalID: 5853318716278597997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_39
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 153
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c95be5972c1cf220800000000000000
+      internalID: 2520920847765166534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_40
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 144
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97fe20b735005ab0800000000000000
+      internalID: -5021507847780894821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_41
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 127
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583e016761d6fd540800000000000000
+      internalID: 5034862851661030277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_42
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 127
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3c23ebcd638db70800000000000000
+      internalID: 8923942983346340800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_43
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 103
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a3112ed7f2d1800800000000000000
+      internalID: 584675744338229894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_44
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 76
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3f65ee5079fb450800000000000000
+      internalID: 6106765671466988461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_45
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 91
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd02840ac469dbef0800000000000000
+      internalID: -90751161626779428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_46
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 70
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c105a0787c85174d0800000000000000
+      internalID: -3138629851313188836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_47
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 85
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0926b1a8a39705120800000000000000
+      internalID: 2400551893720588944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_48
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 63
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe26aae4975fa490800000000000000
+      internalID: -7732865738068316427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_49
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 52
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f443aaaadd68240800000000000000
+      internalID: 4793762578452205325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_50
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 58
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceacaf968acbb9900800000000000000
+      internalID: 692354399250074348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_51
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 63
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5920d0465a73e70800000000000000
+      internalID: 9094919821631591911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_52
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 47
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e477318503664000800000000000000
+      internalID: 19812123663627491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_53
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 47
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1a3b5e0c657d050800000000000000
+      internalID: 5825220029514490293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_54
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 48
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac8c2c5e4349d0f0800000000000000
+      internalID: -1091767430827701077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossStatueATK4_55
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 50
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6886e2d7c627ddfa0800000000000000
+      internalID: -5774333336936879994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BossStatueATK4_0: 7159954166030101689
+      BossStatueATK4_1: 1448617447957861674
+      BossStatueATK4_10: 2504080289203946909
+      BossStatueATK4_11: 7845330939698279664
+      BossStatueATK4_12: 7799906962654728234
+      BossStatueATK4_13: 6706576103821385102
+      BossStatueATK4_14: 6002174337621467486
+      BossStatueATK4_15: 7919773373400773699
+      BossStatueATK4_16: -902753554131562617
+      BossStatueATK4_17: 6929931362698655615
+      BossStatueATK4_18: -5488245779121220376
+      BossStatueATK4_19: 8484415247171479423
+      BossStatueATK4_2: -2808872646202170864
+      BossStatueATK4_20: 5889775213347050385
+      BossStatueATK4_21: -4069238683055653637
+      BossStatueATK4_22: 2188037965017316610
+      BossStatueATK4_23: 2377342820590411849
+      BossStatueATK4_24: -430336992547514842
+      BossStatueATK4_25: -1648115717272780822
+      BossStatueATK4_26: -2333311504414444677
+      BossStatueATK4_27: -7765898756159581393
+      BossStatueATK4_28: -2220290549546822799
+      BossStatueATK4_29: -6788061683775156126
+      BossStatueATK4_3: -5503891893185871851
+      BossStatueATK4_30: 8869646766737057790
+      BossStatueATK4_31: -1094317973646424099
+      BossStatueATK4_32: -7433840237041705167
+      BossStatueATK4_33: 4833799751531464616
+      BossStatueATK4_34: -8298772419760097448
+      BossStatueATK4_35: -7200254505591696525
+      BossStatueATK4_36: 4175351142273914740
+      BossStatueATK4_37: -7556668296039687208
+      BossStatueATK4_38: 5853318716278597997
+      BossStatueATK4_39: 2520920847765166534
+      BossStatueATK4_4: -2843041745720861273
+      BossStatueATK4_40: -5021507847780894821
+      BossStatueATK4_41: 5034862851661030277
+      BossStatueATK4_42: 8923942983346340800
+      BossStatueATK4_43: 584675744338229894
+      BossStatueATK4_44: 6106765671466988461
+      BossStatueATK4_45: -90751161626779428
+      BossStatueATK4_46: -3138629851313188836
+      BossStatueATK4_47: 2400551893720588944
+      BossStatueATK4_48: -7732865738068316427
+      BossStatueATK4_49: 4793762578452205325
+      BossStatueATK4_5: 6929543544053092949
+      BossStatueATK4_50: 692354399250074348
+      BossStatueATK4_51: 9094919821631591911
+      BossStatueATK4_52: 19812123663627491
+      BossStatueATK4_53: 5825220029514490293
+      BossStatueATK4_54: -1091767430827701077
+      BossStatueATK4_55: -5774333336936879994
+      BossStatueATK4_6: 7302566614753863702
+      BossStatueATK4_7: -6921108537213173016
+      BossStatueATK4_8: -3983469669285842597
+      BossStatueATK4_9: 7096458376698563160
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

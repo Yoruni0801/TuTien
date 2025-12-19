@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: f6b3ae7d6eed675478346ba0e3d7852c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8915433389164503147
+    second: DanluEaten_0
+  - first:
+      213: 7649790056874313600
+    second: DanluEaten_1
+  - first:
+      213: 8138585287859788070
+    second: DanluEaten_2
+  - first:
+      213: 6014333153013286088
+    second: DanluEaten_3
+  - first:
+      213: -4128788175092140319
+    second: DanluEaten_4
+  - first:
+      213: 209697798877926324
+    second: DanluEaten_5
+  - first:
+      213: 8208453390970440001
+    second: DanluEaten_6
+  - first:
+      213: 8826411567339449668
+    second: DanluEaten_7
+  - first:
+      213: 8449655387450461825
+    second: DanluEaten_8
+  - first:
+      213: -6536996237835187391
+    second: DanluEaten_9
+  - first:
+      213: -7404501245012690
+    second: DanluEaten_10
+  - first:
+      213: 8929149397058730721
+    second: DanluEaten_11
+  - first:
+      213: -7805535014037892553
+    second: DanluEaten_12
+  - first:
+      213: 7447984233353647182
+    second: DanluEaten_13
+  - first:
+      213: -2390154564910615909
+    second: DanluEaten_14
+  - first:
+      213: 5191770349454791381
+    second: DanluEaten_15
+  - first:
+      213: -5543075160954138376
+    second: DanluEaten_16
+  - first:
+      213: 404571164599750770
+    second: DanluEaten_17
+  - first:
+      213: -1944763121604007361
+    second: DanluEaten_18
+  - first:
+      213: -929951030182569058
+    second: DanluEaten_19
+  - first:
+      213: 8066626310179985358
+    second: DanluEaten_20
+  - first:
+      213: -8874422507279258339
+    second: DanluEaten_21
+  - first:
+      213: -6307447787782072332
+    second: DanluEaten_22
+  - first:
+      213: 1531184417210574388
+    second: DanluEaten_23
+  - first:
+      213: -1481337257716951646
+    second: DanluEaten_24
+  - first:
+      213: 7456428496794811244
+    second: DanluEaten_25
+  - first:
+      213: 6482006395038442067
+    second: DanluEaten_26
+  - first:
+      213: 3928060298854431436
+    second: DanluEaten_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DanluEaten_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 976
+        width: 193
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60aec37e6bf9bb70800000000000000
+      internalID: 8915433389164503147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluEaten_1
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 976
+        width: 192
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0870f42c683892a60800000000000000
+      internalID: 7649790056874313600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluEaten_2
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 976
+        width: 193
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6295a11033012f070800000000000000
+      internalID: 8138585287859788070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluEaten_3
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 976
+        width: 192
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4463a2324377350800000000000000
+      internalID: 6014333153013286088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluEaten_4
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 976
+        width: 193
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6bccea70993b6c0800000000000000
+      internalID: -4128788175092140319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluEaten_5
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 976
+        width: 187
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3dc4c790ff8e200800000000000000
+      internalID: 209697798877926324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluEaten_6
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 976
+        width: 177
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149c42c6ed84ae170800000000000000
+      internalID: 8208453390970440001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluEaten_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 684
+        width: 179
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44daaa06e86bd7a70800000000000000
+      internalID: 8826411567339449668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluEaten_8
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 684
+        width: 179
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e43738ec4334570800000000000000
+      internalID: 8449655387450461825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluEaten_9
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 684
+        width: 179
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bc4c16e8ce745a0800000000000000
+      internalID: -6536996237835187391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluEaten_10
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 684
+        width: 178
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e255d8535a1b5eff0800000000000000
+      internalID: -7404501245012690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluEaten_11
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 684
+        width: 179
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea34166116baeb70800000000000000
+      internalID: 8929149397058730721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluEaten_12
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 684
+        width: 179
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732d56e924b2da390800000000000000
+      internalID: -7805535014037892553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluEaten_13
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 684
+        width: 179
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4411c9f23e8c5760800000000000000
+      internalID: 7447984233353647182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluEaten_14
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 391
+        width: 179
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b927938361774ded0800000000000000
+      internalID: -2390154564910615909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluEaten_15
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 391
+        width: 179
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d298aa20afdc0840800000000000000
+      internalID: 5191770349454791381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluEaten_16
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 391
+        width: 179
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f09904728a0313b0800000000000000
+      internalID: -5543075160954138376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluEaten_17
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 391
+        width: 178
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2709558a4535d9500800000000000000
+      internalID: 404571164599750770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluEaten_18
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 391
+        width: 179
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a6384ae30d205e0800000000000000
+      internalID: -1944763121604007361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluEaten_19
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 391
+        width: 179
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b957317762813f0800000000000000
+      internalID: -929951030182569058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluEaten_20
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 391
+        width: 179
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7191ae3e962ff60800000000000000
+      internalID: 8066626310179985358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluEaten_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 99
+        width: 179
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d63e29fb7b7d480800000000000000
+      internalID: -8874422507279258339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluEaten_22
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 99
+        width: 179
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f71de1c7a17778a0800000000000000
+      internalID: -6307447787782072332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluEaten_23
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 99
+        width: 179
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43623796d1cdf3510800000000000000
+      internalID: 1531184417210574388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluEaten_24
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 99
+        width: 178
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5da31dc9b317be0800000000000000
+      internalID: -1481337257716951646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluEaten_25
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 99
+        width: 179
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bfd84463e8a7760800000000000000
+      internalID: 7456428496794811244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluEaten_26
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 99
+        width: 187
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352a3102976b4f950800000000000000
+      internalID: 6482006395038442067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluEaten_27
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 99
+        width: 193
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca7881b706438630800000000000000
+      internalID: 3928060298854431436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DanluEaten_0: 8915433389164503147
+      DanluEaten_1: 7649790056874313600
+      DanluEaten_10: -7404501245012690
+      DanluEaten_11: 8929149397058730721
+      DanluEaten_12: -7805535014037892553
+      DanluEaten_13: 7447984233353647182
+      DanluEaten_14: -2390154564910615909
+      DanluEaten_15: 5191770349454791381
+      DanluEaten_16: -5543075160954138376
+      DanluEaten_17: 404571164599750770
+      DanluEaten_18: -1944763121604007361
+      DanluEaten_19: -929951030182569058
+      DanluEaten_2: 8138585287859788070
+      DanluEaten_20: 8066626310179985358
+      DanluEaten_21: -8874422507279258339
+      DanluEaten_22: -6307447787782072332
+      DanluEaten_23: 1531184417210574388
+      DanluEaten_24: -1481337257716951646
+      DanluEaten_25: 7456428496794811244
+      DanluEaten_26: 6482006395038442067
+      DanluEaten_27: 3928060298854431436
+      DanluEaten_3: 6014333153013286088
+      DanluEaten_4: -4128788175092140319
+      DanluEaten_5: 209697798877926324
+      DanluEaten_6: 8208453390970440001
+      DanluEaten_7: 8826411567339449668
+      DanluEaten_8: 8449655387450461825
+      DanluEaten_9: -6536996237835187391
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

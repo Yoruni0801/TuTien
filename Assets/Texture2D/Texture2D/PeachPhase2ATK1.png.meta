@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: d0caa0508505bd146aea3a15312a5696
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3616607674922895132
+    second: PeachPhase2ATK1_0
+  - first:
+      213: 9015563807990313379
+    second: PeachPhase2ATK1_1
+  - first:
+      213: 4582584618951378657
+    second: PeachPhase2ATK1_2
+  - first:
+      213: 1351401632192040805
+    second: PeachPhase2ATK1_3
+  - first:
+      213: -1464293981731512398
+    second: PeachPhase2ATK1_4
+  - first:
+      213: -6388078962079954581
+    second: PeachPhase2ATK1_5
+  - first:
+      213: 4853105926779025322
+    second: PeachPhase2ATK1_6
+  - first:
+      213: 4200226560226141636
+    second: PeachPhase2ATK1_7
+  - first:
+      213: -8593360735048235540
+    second: PeachPhase2ATK1_8
+  - first:
+      213: -5870653662721290451
+    second: PeachPhase2ATK1_9
+  - first:
+      213: 4229373127307841820
+    second: PeachPhase2ATK1_10
+  - first:
+      213: -5094500844801967683
+    second: PeachPhase2ATK1_11
+  - first:
+      213: 4687797937699385452
+    second: PeachPhase2ATK1_12
+  - first:
+      213: 14450571821903712
+    second: PeachPhase2ATK1_13
+  - first:
+      213: -4444979648273534820
+    second: PeachPhase2ATK1_14
+  - first:
+      213: 901159494672126092
+    second: PeachPhase2ATK1_15
+  - first:
+      213: -6927818295029670351
+    second: PeachPhase2ATK1_16
+  - first:
+      213: 4532004247744700933
+    second: PeachPhase2ATK1_17
+  - first:
+      213: -5278649561353013785
+    second: PeachPhase2ATK1_18
+  - first:
+      213: -3636567196031743798
+    second: PeachPhase2ATK1_19
+  - first:
+      213: 608015215558382625
+    second: PeachPhase2ATK1_20
+  - first:
+      213: 7205312672343815631
+    second: PeachPhase2ATK1_21
+  - first:
+      213: 145171856432666352
+    second: PeachPhase2ATK1_22
+  - first:
+      213: 1280647463327665090
+    second: PeachPhase2ATK1_23
+  - first:
+      213: 2226495608707333209
+    second: PeachPhase2ATK1_24
+  - first:
+      213: 7823291746728719290
+    second: PeachPhase2ATK1_25
+  - first:
+      213: 5646313197936113324
+    second: PeachPhase2ATK1_26
+  - first:
+      213: 6690002366803756254
+    second: PeachPhase2ATK1_27
+  - first:
+      213: 3433025227040710939
+    second: PeachPhase2ATK1_28
+  - first:
+      213: 216606278042512674
+    second: PeachPhase2ATK1_29
+  - first:
+      213: 2035734423688271927
+    second: PeachPhase2ATK1_30
+  - first:
+      213: -8647325393481082178
+    second: PeachPhase2ATK1_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PeachPhase2ATK1_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 855
+        width: 146
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8f4443b7a3fcdc0800000000000000
+      internalID: -3616607674922895132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachPhase2ATK1_1
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 855
+        width: 146
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a171215487bd1d70800000000000000
+      internalID: 9015563807990313379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachPhase2ATK1_2
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 855
+        width: 146
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e604cd6e6c989f30800000000000000
+      internalID: 4582584618951378657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachPhase2ATK1_3
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 855
+        width: 146
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f80bbdf9421c210800000000000000
+      internalID: 1351401632192040805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachPhase2ATK1_4
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 855
+        width: 146
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf962cb168cdabe0800000000000000
+      internalID: -1464293981731512398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachPhase2ATK1_5
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 855
+        width: 146
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69041c870cf857a0800000000000000
+      internalID: -6388078962079954581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachPhase2ATK1_6
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 855
+        width: 146
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7b107a022b95340800000000000000
+      internalID: 4853105926779025322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachPhase2ATK1_7
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 855
+        width: 146
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5a0728dc33a4a30800000000000000
+      internalID: 4200226560226141636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachPhase2ATK1_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 605
+        width: 146
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce509a8e0ff3eb880800000000000000
+      internalID: -8593360735048235540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachPhase2ATK1_9
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 605
+        width: 146
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fc62a099f378ea0800000000000000
+      internalID: -5870653662721290451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachPhase2ATK1_10
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 605
+        width: 146
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1154cb7370c1ba30800000000000000
+      internalID: 4229373127307841820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachPhase2ATK1_11
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 605
+        width: 147
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9b6a53972bc49b0800000000000000
+      internalID: -5094500844801967683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachPhase2ATK1_12
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 605
+        width: 149
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60716723676e0140800000000000000
+      internalID: 4687797937699385452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachPhase2ATK1_13
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 605
+        width: 151
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fee30f7b6533000800000000000000
+      internalID: 14450571821903712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachPhase2ATK1_14
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 605
+        width: 152
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90b0d67f824052c0800000000000000
+      internalID: -4444979648273534820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachPhase2ATK1_15
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 605
+        width: 152
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8017ed29cf818c00800000000000000
+      internalID: 901159494672126092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachPhase2ATK1_16
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 355
+        width: 152
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13edd4047f17bdf90800000000000000
+      internalID: -6927818295029670351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachPhase2ATK1_17
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 355
+        width: 152
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502626b0ad9e4ee30800000000000000
+      internalID: 4532004247744700933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachPhase2ATK1_18
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 355
+        width: 152
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e538c101387eb6b0800000000000000
+      internalID: -5278649561353013785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachPhase2ATK1_19
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 355
+        width: 152
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac880be0761588dc0800000000000000
+      internalID: -3636567196031743798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachPhase2ATK1_20
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 355
+        width: 152
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124d36dfd9a107800800000000000000
+      internalID: 608015215558382625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachPhase2ATK1_21
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 355
+        width: 152
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc57caa33b96ef360800000000000000
+      internalID: 7205312672343815631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachPhase2ATK1_22
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 355
+        width: 152
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f69d06c801c30200800000000000000
+      internalID: 145171856432666352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachPhase2ATK1_23
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 355
+        width: 152
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb862e2516c5c110800000000000000
+      internalID: 1280647463327665090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachPhase2ATK1_24
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 105
+        width: 152
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cb7faa5f916ee10800000000000000
+      internalID: 2226495608707333209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachPhase2ATK1_25
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 105
+        width: 152
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3b202e46ae19c60800000000000000
+      internalID: 7823291746728719290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachPhase2ATK1_26
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 105
+        width: 152
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6f49520fbbb5e40800000000000000
+      internalID: 5646313197936113324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachPhase2ATK1_27
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 105
+        width: 152
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed44cdb15b9a7dc50800000000000000
+      internalID: 6690002366803756254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachPhase2ATK1_28
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 105
+        width: 152
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1167ba414e84af20800000000000000
+      internalID: 3433025227040710939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachPhase2ATK1_29
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 105
+        width: 152
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22de7d2234a810300800000000000000
+      internalID: 216606278042512674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachPhase2ATK1_30
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 105
+        width: 152
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73859fc2ca1604c10800000000000000
+      internalID: 2035734423688271927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachPhase2ATK1_31
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 105
+        width: 152
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba5850ce578ef780800000000000000
+      internalID: -8647325393481082178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PeachPhase2ATK1_0: -3616607674922895132
+      PeachPhase2ATK1_1: 9015563807990313379
+      PeachPhase2ATK1_10: 4229373127307841820
+      PeachPhase2ATK1_11: -5094500844801967683
+      PeachPhase2ATK1_12: 4687797937699385452
+      PeachPhase2ATK1_13: 14450571821903712
+      PeachPhase2ATK1_14: -4444979648273534820
+      PeachPhase2ATK1_15: 901159494672126092
+      PeachPhase2ATK1_16: -6927818295029670351
+      PeachPhase2ATK1_17: 4532004247744700933
+      PeachPhase2ATK1_18: -5278649561353013785
+      PeachPhase2ATK1_19: -3636567196031743798
+      PeachPhase2ATK1_2: 4582584618951378657
+      PeachPhase2ATK1_20: 608015215558382625
+      PeachPhase2ATK1_21: 7205312672343815631
+      PeachPhase2ATK1_22: 145171856432666352
+      PeachPhase2ATK1_23: 1280647463327665090
+      PeachPhase2ATK1_24: 2226495608707333209
+      PeachPhase2ATK1_25: 7823291746728719290
+      PeachPhase2ATK1_26: 5646313197936113324
+      PeachPhase2ATK1_27: 6690002366803756254
+      PeachPhase2ATK1_28: 3433025227040710939
+      PeachPhase2ATK1_29: 216606278042512674
+      PeachPhase2ATK1_3: 1351401632192040805
+      PeachPhase2ATK1_30: 2035734423688271927
+      PeachPhase2ATK1_31: -8647325393481082178
+      PeachPhase2ATK1_4: -1464293981731512398
+      PeachPhase2ATK1_5: -6388078962079954581
+      PeachPhase2ATK1_6: 4853105926779025322
+      PeachPhase2ATK1_7: 4200226560226141636
+      PeachPhase2ATK1_8: -8593360735048235540
+      PeachPhase2ATK1_9: -5870653662721290451
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

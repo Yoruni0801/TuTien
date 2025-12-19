@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 1f8c861eca31ba448841551d8b7e422f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6681096549802001331
+    second: YangSpearCombo3_0
+  - first:
+      213: -3768435279623392923
+    second: YangSpearCombo3_1
+  - first:
+      213: -858920793300042356
+    second: YangSpearCombo3_2
+  - first:
+      213: 2663640571245554319
+    second: YangSpearCombo3_3
+  - first:
+      213: -4676805218993528115
+    second: YangSpearCombo3_4
+  - first:
+      213: 6057641404455935605
+    second: YangSpearCombo3_5
+  - first:
+      213: 7181587308571404496
+    second: YangSpearCombo3_6
+  - first:
+      213: 1581807622964757036
+    second: YangSpearCombo3_7
+  - first:
+      213: -2095081065031472983
+    second: YangSpearCombo3_8
+  - first:
+      213: -7232701587439542367
+    second: YangSpearCombo3_9
+  - first:
+      213: 4685007822611267056
+    second: YangSpearCombo3_10
+  - first:
+      213: -2172824336124893468
+    second: YangSpearCombo3_11
+  - first:
+      213: -3376312829220624609
+    second: YangSpearCombo3_12
+  - first:
+      213: 6174366968843212333
+    second: YangSpearCombo3_13
+  - first:
+      213: 4438198808519692425
+    second: YangSpearCombo3_14
+  - first:
+      213: -7731250834083596867
+    second: YangSpearCombo3_15
+  - first:
+      213: -103443604451366800
+    second: YangSpearCombo3_16
+  - first:
+      213: -1067129067499972808
+    second: YangSpearCombo3_17
+  - first:
+      213: -6736583948899925048
+    second: YangSpearCombo3_18
+  - first:
+      213: -6681281566392032130
+    second: YangSpearCombo3_19
+  - first:
+      213: 488215407848590745
+    second: YangSpearCombo3_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YangSpearCombo3_0
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 357
+        width: 200
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b349010ae508bc50800000000000000
+      internalID: 6681096549802001331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YangSpearCombo3_1
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 367
+        width: 58
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5617ff64414d3bbc0800000000000000
+      internalID: -3768435279623392923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YangSpearCombo3_2
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 367
+        width: 296
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d7729d6108414f0800000000000000
+      internalID: -858920793300042356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YangSpearCombo3_3
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 350
+        width: 51
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ae86aacf627f420800000000000000
+      internalID: 2663640571245554319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YangSpearCombo3_4
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 268
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2a23e9e66a81fb0800000000000000
+      internalID: -4676805218993528115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YangSpearCombo3_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 256
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e5b4933c0111450800000000000000
+      internalID: 6057641404455935605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YangSpearCombo3_6
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 262
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d82ad28b9f1aa360800000000000000
+      internalID: 7181587308571404496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YangSpearCombo3_7
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 262
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22c1ddf6a5b3f510800000000000000
+      internalID: 1581807622964757036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YangSpearCombo3_8
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 204
+        width: 260
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8e62f1fd6cce2e0800000000000000
+      internalID: -2095081065031472983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YangSpearCombo3_9
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 229
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af134a0a3840ab90800000000000000
+      internalID: -7232701587439542367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YangSpearCombo3_10
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 209
+        width: 190
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdbbacdacd740140800000000000000
+      internalID: 4685007822611267056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YangSpearCombo3_11
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 217
+        width: 58
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6a3f547c398d1e0800000000000000
+      internalID: -2172824336124893468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YangSpearCombo3_12
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 236
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17e5bbce5de421d0800000000000000
+      internalID: -3376312829220624609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YangSpearCombo3_13
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 226
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d261ec28b02cfa550800000000000000
+      internalID: 6174366968843212333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YangSpearCombo3_14
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 107
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980d0604d46a79d30800000000000000
+      internalID: 4438198808519692425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YangSpearCombo3_15
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 95
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5310d045415b490800000000000000
+      internalID: -7731250834083596867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YangSpearCombo3_16
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 101
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078e36ef69e709ef0800000000000000
+      internalID: -103443604451366800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YangSpearCombo3_17
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 67
+        width: 226
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8379b2a54cbc031f0800000000000000
+      internalID: -1067129067499972808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YangSpearCombo3_18
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 85
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3c8362798d282a0800000000000000
+      internalID: -6736583948899925048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YangSpearCombo3_19
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 74
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7466d670d15743a0800000000000000
+      internalID: -6681281566392032130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YangSpearCombo3_20
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 50
+        width: 51
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d00b6a35d76c600800000000000000
+      internalID: 488215407848590745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      YangSpearCombo3_0: 6681096549802001331
+      YangSpearCombo3_1: -3768435279623392923
+      YangSpearCombo3_10: 4685007822611267056
+      YangSpearCombo3_11: -2172824336124893468
+      YangSpearCombo3_12: -3376312829220624609
+      YangSpearCombo3_13: 6174366968843212333
+      YangSpearCombo3_14: 4438198808519692425
+      YangSpearCombo3_15: -7731250834083596867
+      YangSpearCombo3_16: -103443604451366800
+      YangSpearCombo3_17: -1067129067499972808
+      YangSpearCombo3_18: -6736583948899925048
+      YangSpearCombo3_19: -6681281566392032130
+      YangSpearCombo3_2: -858920793300042356
+      YangSpearCombo3_20: 488215407848590745
+      YangSpearCombo3_3: 2663640571245554319
+      YangSpearCombo3_4: -4676805218993528115
+      YangSpearCombo3_5: 6057641404455935605
+      YangSpearCombo3_6: 7181587308571404496
+      YangSpearCombo3_7: 1581807622964757036
+      YangSpearCombo3_8: -2095081065031472983
+      YangSpearCombo3_9: -7232701587439542367
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

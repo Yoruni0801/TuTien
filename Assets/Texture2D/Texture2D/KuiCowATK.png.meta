@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: c8163f3264fec3e4c8a6c409a0ec736f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3514611164404640671
+    second: KuiCowATK_0
+  - first:
+      213: 8659165228423943855
+    second: KuiCowATK_1
+  - first:
+      213: 8105468090450907119
+    second: KuiCowATK_2
+  - first:
+      213: -5887657528872796119
+    second: KuiCowATK_3
+  - first:
+      213: 8374165346680157006
+    second: KuiCowATK_4
+  - first:
+      213: -3304281791767523884
+    second: KuiCowATK_5
+  - first:
+      213: 2272971795192849258
+    second: KuiCowATK_6
+  - first:
+      213: -3549305838226926990
+    second: KuiCowATK_7
+  - first:
+      213: 8817732208333459824
+    second: KuiCowATK_8
+  - first:
+      213: 5534927580479810161
+    second: KuiCowATK_9
+  - first:
+      213: 2706175696845015049
+    second: KuiCowATK_10
+  - first:
+      213: -4015097463162150864
+    second: KuiCowATK_11
+  - first:
+      213: 1779852075449167465
+    second: KuiCowATK_12
+  - first:
+      213: -8287637519348182506
+    second: KuiCowATK_13
+  - first:
+      213: 8405443493013524476
+    second: KuiCowATK_14
+  - first:
+      213: -8676541315186151298
+    second: KuiCowATK_15
+  - first:
+      213: -1850433068923953482
+    second: KuiCowATK_16
+  - first:
+      213: -2201506400999932192
+    second: KuiCowATK_17
+  - first:
+      213: 6724556059121567357
+    second: KuiCowATK_18
+  - first:
+      213: 2795655892049922320
+    second: KuiCowATK_19
+  - first:
+      213: 8097597753524145240
+    second: KuiCowATK_20
+  - first:
+      213: -4488181010108270237
+    second: KuiCowATK_21
+  - first:
+      213: 4830938303392726630
+    second: KuiCowATK_22
+  - first:
+      213: 1734094475825877838
+    second: KuiCowATK_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KuiCowATK_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 684
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9be5f99b3866c030800000000000000
+      internalID: 3514611164404640671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KuiCowATK_1
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 684
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa69f93a5e88b2870800000000000000
+      internalID: 8659165228423943855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KuiCowATK_2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 684
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef079d98486c7070800000000000000
+      internalID: 8105468090450907119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KuiCowATK_3
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 684
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9200260fba6da4ea0800000000000000
+      internalID: -5887657528872796119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KuiCowATK_4
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 684
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43b14bb303073470800000000000000
+      internalID: 8374165346680157006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KuiCowATK_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 484
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddc7eb9735d422d0800000000000000
+      internalID: -3304281791767523884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KuiCowATK_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 484
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63a3f41ec73b8f10800000000000000
+      internalID: 2272971795192849258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KuiCowATK_7
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 500
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272934925255ebec0800000000000000
+      internalID: -3549305838226926990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KuiCowATK_8
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 510
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0719c32a9b0ee5a70800000000000000
+      internalID: 8817732208333459824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KuiCowATK_9
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 514
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ae2042f4300dc40800000000000000
+      internalID: 5534927580479810161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KuiCowATK_10
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 484
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9080e3655744e8520800000000000000
+      internalID: 2706175696845015049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KuiCowATK_11
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 484
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030e5a151228748c0800000000000000
+      internalID: -4015097463162150864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KuiCowATK_12
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 484
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ea3e5580e43b810800000000000000
+      internalID: 1779852075449167465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KuiCowATK_13
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 322
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6125d0006956cfc80800000000000000
+      internalID: -8287637519348182506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KuiCowATK_14
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 320
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff80bca25226a470800000000000000
+      internalID: 8405443493013524476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KuiCowATK_15
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 263
+        width: 121
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e703455e4abb69780800000000000000
+      internalID: -8676541315186151298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KuiCowATK_16
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 255
+        width: 122
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bed6268de0f156e0800000000000000
+      internalID: -1850433068923953482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KuiCowATK_17
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 251
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee76a5a79da271e0800000000000000
+      internalID: -2201506400999932192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KuiCowATK_18
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 284
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7644288b1c625d50800000000000000
+      internalID: 6724556059121567357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KuiCowATK_19
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 284
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0190dd7c83a2cc620800000000000000
+      internalID: 2795655892049922320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KuiCowATK_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 51
+        width: 130
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ccec00142706070800000000000000
+      internalID: 8097597753524145240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KuiCowATK_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 65
+        width: 121
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369b7d49627c6b1c0800000000000000
+      internalID: -4488181010108270237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KuiCowATK_22
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 65
+        width: 121
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e3d81aac0fa0340800000000000000
+      internalID: 4830938303392726630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KuiCowATK_23
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 65
+        width: 121
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e439196fcbdb01810800000000000000
+      internalID: 1734094475825877838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      KuiCowATK_0: 3514611164404640671
+      KuiCowATK_1: 8659165228423943855
+      KuiCowATK_10: 2706175696845015049
+      KuiCowATK_11: -4015097463162150864
+      KuiCowATK_12: 1779852075449167465
+      KuiCowATK_13: -8287637519348182506
+      KuiCowATK_14: 8405443493013524476
+      KuiCowATK_15: -8676541315186151298
+      KuiCowATK_16: -1850433068923953482
+      KuiCowATK_17: -2201506400999932192
+      KuiCowATK_18: 6724556059121567357
+      KuiCowATK_19: 2795655892049922320
+      KuiCowATK_2: 8105468090450907119
+      KuiCowATK_20: 8097597753524145240
+      KuiCowATK_21: -4488181010108270237
+      KuiCowATK_22: 4830938303392726630
+      KuiCowATK_23: 1734094475825877838
+      KuiCowATK_3: -5887657528872796119
+      KuiCowATK_4: 8374165346680157006
+      KuiCowATK_5: -3304281791767523884
+      KuiCowATK_6: 2272971795192849258
+      KuiCowATK_7: -3549305838226926990
+      KuiCowATK_8: 8817732208333459824
+      KuiCowATK_9: 5534927580479810161
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

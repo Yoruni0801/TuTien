@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: 4930d12140ed7fc4c84b6e743933ea5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6644206367780184601
+    second: TeleportOutDust_0
+  - first:
+      213: 7614296923594186303
+    second: TeleportOutDust_1
+  - first:
+      213: 5728577712266786802
+    second: TeleportOutDust_2
+  - first:
+      213: 2226002233611509814
+    second: TeleportOutDust_3
+  - first:
+      213: 6234678772493842230
+    second: TeleportOutDust_4
+  - first:
+      213: 9853431354537157
+    second: TeleportOutDust_5
+  - first:
+      213: 5805275536375802427
+    second: TeleportOutDust_6
+  - first:
+      213: -4516518660028798981
+    second: TeleportOutDust_7
+  - first:
+      213: -1853482881186937622
+    second: TeleportOutDust_8
+  - first:
+      213: 2918668802099383621
+    second: TeleportOutDust_9
+  - first:
+      213: 206700407600131926
+    second: TeleportOutDust_10
+  - first:
+      213: -1977447659623818945
+    second: TeleportOutDust_11
+  - first:
+      213: 4961157963382870241
+    second: TeleportOutDust_12
+  - first:
+      213: 5172153530580178478
+    second: TeleportOutDust_13
+  - first:
+      213: 5433825173699847776
+    second: TeleportOutDust_14
+  - first:
+      213: 6650054591740450099
+    second: TeleportOutDust_15
+  - first:
+      213: 6906365635660978326
+    second: TeleportOutDust_16
+  - first:
+      213: -7081431950961861049
+    second: TeleportOutDust_17
+  - first:
+      213: -3682335035337299972
+    second: TeleportOutDust_18
+  - first:
+      213: 2939023650464603958
+    second: TeleportOutDust_19
+  - first:
+      213: -8202326498472362424
+    second: TeleportOutDust_20
+  - first:
+      213: 6701348686420708302
+    second: TeleportOutDust_21
+  - first:
+      213: 2693799041084613831
+    second: TeleportOutDust_22
+  - first:
+      213: -6399534540582897001
+    second: TeleportOutDust_23
+  - first:
+      213: -2374844810908248784
+    second: TeleportOutDust_24
+  - first:
+      213: 7390506779763242754
+    second: TeleportOutDust_25
+  - first:
+      213: 1892603456553244655
+    second: TeleportOutDust_26
+  - first:
+      213: 873517954005657360
+    second: TeleportOutDust_27
+  - first:
+      213: 5165149096649550727
+    second: TeleportOutDust_28
+  - first:
+      213: -4536241571205946736
+    second: TeleportOutDust_29
+  - first:
+      213: -5511627239023278262
+    second: TeleportOutDust_30
+  - first:
+      213: 3531337491583276482
+    second: TeleportOutDust_31
+  - first:
+      213: 6464412123015330030
+    second: TeleportOutDust_32
+  - first:
+      213: -1075183890256660946
+    second: TeleportOutDust_33
+  - first:
+      213: -8681992207045181305
+    second: TeleportOutDust_34
+  - first:
+      213: -7674816853507145218
+    second: TeleportOutDust_35
+  - first:
+      213: -1330530047157682120
+    second: TeleportOutDust_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TeleportOutDust_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 142
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edd212d2890bc3a0800000000000000
+      internalID: -6644206367780184601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 157
+        width: 41
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e5e21b5ba6ba960800000000000000
+      internalID: 7614296923594186303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 21
+        width: 243
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7b1e7f31fff7f40800000000000000
+      internalID: 5728577712266786802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_3
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 130
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630e3a3dc3954ee10800000000000000
+      internalID: 2226002233611509814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 137
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637f9239f47068650800000000000000
+      internalID: 6234678772493842230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_5
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 135
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4b4b3c4a1032000800000000000000
+      internalID: 9853431354537157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 86
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ae1f8b75b709050800000000000000
+      internalID: 5805275536375802427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_7
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 116
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf76f8f453a1251c0800000000000000
+      internalID: -4516518660028798981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 41
+        width: 124
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4c595c32b1746e0800000000000000
+      internalID: -1853482881186937622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_9
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 123
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d062ecfc1318820800000000000000
+      internalID: 2918668802099383621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_10
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 84
+        width: 90
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f2fe1fce85ed200800000000000000
+      internalID: 206700407600131926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_11
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 109
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39d13e94d1be84e0800000000000000
+      internalID: -1977447659623818945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_12
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 98
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e05902e1e299d440800000000000000
+      internalID: 4961157963382870241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_13
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 96
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26930a9b3e27c740800000000000000
+      internalID: 5172153530580178478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_14
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 69
+        width: 88
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06664f1b433d86b40800000000000000
+      internalID: 5433825173699847776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_15
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 99
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33515adea6db94c50800000000000000
+      internalID: 6650054591740450099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_16
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 104
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698998244f658df50800000000000000
+      internalID: 6906365635660978326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_17
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 106
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e11ddd823b9bd90800000000000000
+      internalID: -7081431950961861049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_18
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 77
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7aeb29bc7b5ecc0800000000000000
+      internalID: -3682335035337299972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_19
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 59
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f1a60407289c820800000000000000
+      internalID: 2939023650464603958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_20
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 71
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ef7c6e18b7b2e80800000000000000
+      internalID: -8202326498472362424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_21
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 48
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb03220029fffc50800000000000000
+      internalID: 6701348686420708302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_22
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 59
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4e22c94fb426520800000000000000
+      internalID: 2693799041084613831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_23
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 55
+        width: 69
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ab6b4dd394037a0800000000000000
+      internalID: -6399534540582897001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_24
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 93
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03552291a3bda0fd0800000000000000
+      internalID: -2374844810908248784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_25
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 75
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20777e572ca509660800000000000000
+      internalID: 7390506779763242754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_26
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 69
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe75888f0d0e34a10800000000000000
+      internalID: 1892603456553244655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_27
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 75
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017ee6973fb5f1c00800000000000000
+      internalID: 873517954005657360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_28
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 91
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78be9bdbcbb4ea740800000000000000
+      internalID: 5165149096649550727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_29
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 93
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092e8e433580c01c0800000000000000
+      internalID: -4536241571205946736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_30
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 70
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4786ab5a34c283b0800000000000000
+      internalID: -5511627239023278262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_31
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 80
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c517df1db4d10130800000000000000
+      internalID: 3531337491583276482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_32
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 71
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8be02739436b950800000000000000
+      internalID: 6464412123015330030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_33
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 59
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e267709c2fd2411f0800000000000000
+      internalID: -1075183890256660946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_34
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 38
+        width: 76
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780cc5c361e538780800000000000000
+      internalID: -8681992207045181305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_35
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 45
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef186821cb29d7590800000000000000
+      internalID: -7674816853507145218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeleportOutDust_36
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 21
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830ce28b8f1098de0800000000000000
+      internalID: -1330530047157682120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TeleportOutDust_0: -6644206367780184601
+      TeleportOutDust_1: 7614296923594186303
+      TeleportOutDust_10: 206700407600131926
+      TeleportOutDust_11: -1977447659623818945
+      TeleportOutDust_12: 4961157963382870241
+      TeleportOutDust_13: 5172153530580178478
+      TeleportOutDust_14: 5433825173699847776
+      TeleportOutDust_15: 6650054591740450099
+      TeleportOutDust_16: 6906365635660978326
+      TeleportOutDust_17: -7081431950961861049
+      TeleportOutDust_18: -3682335035337299972
+      TeleportOutDust_19: 2939023650464603958
+      TeleportOutDust_2: 5728577712266786802
+      TeleportOutDust_20: -8202326498472362424
+      TeleportOutDust_21: 6701348686420708302
+      TeleportOutDust_22: 2693799041084613831
+      TeleportOutDust_23: -6399534540582897001
+      TeleportOutDust_24: -2374844810908248784
+      TeleportOutDust_25: 7390506779763242754
+      TeleportOutDust_26: 1892603456553244655
+      TeleportOutDust_27: 873517954005657360
+      TeleportOutDust_28: 5165149096649550727
+      TeleportOutDust_29: -4536241571205946736
+      TeleportOutDust_3: 2226002233611509814
+      TeleportOutDust_30: -5511627239023278262
+      TeleportOutDust_31: 3531337491583276482
+      TeleportOutDust_32: 6464412123015330030
+      TeleportOutDust_33: -1075183890256660946
+      TeleportOutDust_34: -8681992207045181305
+      TeleportOutDust_35: -7674816853507145218
+      TeleportOutDust_36: -1330530047157682120
+      TeleportOutDust_4: 6234678772493842230
+      TeleportOutDust_5: 9853431354537157
+      TeleportOutDust_6: 5805275536375802427
+      TeleportOutDust_7: -4516518660028798981
+      TeleportOutDust_8: -1853482881186937622
+      TeleportOutDust_9: 2918668802099383621
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 8dff3345369912a43b165893c015e6ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6413972225918504270
+    second: TigerATK2_0
+  - first:
+      213: 72645927972730005
+    second: TigerATK2_1
+  - first:
+      213: 2256735336278854921
+    second: TigerATK2_2
+  - first:
+      213: -6941384399866536885
+    second: TigerATK2_3
+  - first:
+      213: 5197178117741224915
+    second: TigerATK2_4
+  - first:
+      213: 7694742141228670985
+    second: TigerATK2_5
+  - first:
+      213: -8736377014171167960
+    second: TigerATK2_6
+  - first:
+      213: -1794945689042874573
+    second: TigerATK2_7
+  - first:
+      213: 2030128306386864199
+    second: TigerATK2_8
+  - first:
+      213: -7200586846869299532
+    second: TigerATK2_9
+  - first:
+      213: 8552779527473265036
+    second: TigerATK2_10
+  - first:
+      213: -4466862496993709055
+    second: TigerATK2_11
+  - first:
+      213: 5001358713934253918
+    second: TigerATK2_12
+  - first:
+      213: 4137831357795060048
+    second: TigerATK2_13
+  - first:
+      213: -8494745657396586763
+    second: TigerATK2_14
+  - first:
+      213: -8453667690626351281
+    second: TigerATK2_15
+  - first:
+      213: 9049054490910112747
+    second: TigerATK2_16
+  - first:
+      213: 6245635668494258911
+    second: TigerATK2_17
+  - first:
+      213: -6736297967296578321
+    second: TigerATK2_18
+  - first:
+      213: -3961668484070872304
+    second: TigerATK2_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TigerATK2_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 509
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2f7e24e3efcf6a0800000000000000
+      internalID: -6413972225918504270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK2_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 509
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594713b2617120100800000000000000
+      internalID: 72645927972730005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK2_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 509
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d09f6e4d8815f10800000000000000
+      internalID: 2256735336278854921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK2_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 509
+        width: 77
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c54845aaf3baf90800000000000000
+      internalID: -6941384399866536885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK2_4
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 509
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3266656f5102840800000000000000
+      internalID: 5197178117741224915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK2_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 359
+        width: 79
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900e92e753739ca60800000000000000
+      internalID: 7694742141228670985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK2_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 359
+        width: 81
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8239076946722c680800000000000000
+      internalID: -8736377014171167960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK2_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 359
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f0b75e7621717e0800000000000000
+      internalID: -1794945689042874573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK2_8
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 359
+        width: 82
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74887a640f67c2c10800000000000000
+      internalID: 2030128306386864199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK2_9
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 359
+        width: 81
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be5102c960621c90800000000000000
+      internalID: -7200586846869299532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 83
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89f6496aa391b670800000000000000
+      internalID: 8552779527473265036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK2_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 209
+        width: 82
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104fc26b9348202c0800000000000000
+      internalID: -4466862496993709055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK2_12
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 209
+        width: 84
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f0b528045686540800000000000000
+      internalID: 5001358713934253918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK2_13
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 197
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059c8dd52b78c6930800000000000000
+      internalID: 4137831357795060048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK2_14
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 197
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f69599e4d99c1a80800000000000000
+      internalID: -8494745657396586763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK2_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 59
+        width: 86
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ff40b560a8eaa80800000000000000
+      internalID: -8453667690626351281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK2_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 79
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebb9d39d13b49d70800000000000000
+      internalID: 9049054490910112747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK2_17
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 59
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd21c19bc84fca650800000000000000
+      internalID: 6245635668494258911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK2_18
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 59
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecf91e60bcd382a0800000000000000
+      internalID: -6736297967296578321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK2_19
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 59
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b6819e0835509c0800000000000000
+      internalID: -3961668484070872304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TigerATK2_0: -6413972225918504270
+      TigerATK2_1: 72645927972730005
+      TigerATK2_10: 8552779527473265036
+      TigerATK2_11: -4466862496993709055
+      TigerATK2_12: 5001358713934253918
+      TigerATK2_13: 4137831357795060048
+      TigerATK2_14: -8494745657396586763
+      TigerATK2_15: -8453667690626351281
+      TigerATK2_16: 9049054490910112747
+      TigerATK2_17: 6245635668494258911
+      TigerATK2_18: -6736297967296578321
+      TigerATK2_19: -3961668484070872304
+      TigerATK2_2: 2256735336278854921
+      TigerATK2_3: -6941384399866536885
+      TigerATK2_4: 5197178117741224915
+      TigerATK2_5: 7694742141228670985
+      TigerATK2_6: -8736377014171167960
+      TigerATK2_7: -1794945689042874573
+      TigerATK2_8: 2030128306386864199
+      TigerATK2_9: -7200586846869299532
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

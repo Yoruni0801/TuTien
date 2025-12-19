@@ -1,0 +1,4082 @@
+fileFormatVersion: 2
+guid: 4f8ad769626aea247afdfd72d59a582a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2935431961931381372
+    second: FireZhibao_0
+  - first:
+      213: 3045985164074360762
+    second: FireZhibao_1
+  - first:
+      213: -8891013595309672211
+    second: FireZhibao_2
+  - first:
+      213: -9131564193866783652
+    second: FireZhibao_3
+  - first:
+      213: -2785162248527874084
+    second: FireZhibao_4
+  - first:
+      213: 4484821284571350720
+    second: FireZhibao_5
+  - first:
+      213: 3023547840036969828
+    second: FireZhibao_6
+  - first:
+      213: 7526681054012889957
+    second: FireZhibao_7
+  - first:
+      213: -4005105918878942416
+    second: FireZhibao_8
+  - first:
+      213: -7020003640009452848
+    second: FireZhibao_9
+  - first:
+      213: 3144561546223628037
+    second: FireZhibao_10
+  - first:
+      213: -8182270805013444668
+    second: FireZhibao_11
+  - first:
+      213: 529702396683703175
+    second: FireZhibao_12
+  - first:
+      213: -4173463571610676130
+    second: FireZhibao_13
+  - first:
+      213: -3434490581719617278
+    second: FireZhibao_14
+  - first:
+      213: -5263788229032674700
+    second: FireZhibao_15
+  - first:
+      213: 1728963381580126422
+    second: FireZhibao_16
+  - first:
+      213: 8937776205662830658
+    second: FireZhibao_17
+  - first:
+      213: 7604308647077374363
+    second: FireZhibao_18
+  - first:
+      213: -3341710847726371368
+    second: FireZhibao_19
+  - first:
+      213: -2863152070676323647
+    second: FireZhibao_20
+  - first:
+      213: 6998559306447263915
+    second: FireZhibao_21
+  - first:
+      213: -2481360916156268755
+    second: FireZhibao_22
+  - first:
+      213: 4526371491542693150
+    second: FireZhibao_23
+  - first:
+      213: 6603112761745928661
+    second: FireZhibao_24
+  - first:
+      213: -2570118230814208760
+    second: FireZhibao_25
+  - first:
+      213: -6187391955971126555
+    second: FireZhibao_26
+  - first:
+      213: -6311671131636382893
+    second: FireZhibao_27
+  - first:
+      213: 7876107912370558693
+    second: FireZhibao_28
+  - first:
+      213: 1640775182081266319
+    second: FireZhibao_29
+  - first:
+      213: 4384038837862614468
+    second: FireZhibao_30
+  - first:
+      213: 5338881830380399890
+    second: FireZhibao_31
+  - first:
+      213: -7644999782841106835
+    second: FireZhibao_32
+  - first:
+      213: -1626570062187482168
+    second: FireZhibao_33
+  - first:
+      213: -7280397929300688904
+    second: FireZhibao_34
+  - first:
+      213: -6925717753315209181
+    second: FireZhibao_35
+  - first:
+      213: 1928763534369260790
+    second: FireZhibao_36
+  - first:
+      213: -1580422893880783325
+    second: FireZhibao_37
+  - first:
+      213: -2292077780180049575
+    second: FireZhibao_38
+  - first:
+      213: 3350872716669825027
+    second: FireZhibao_39
+  - first:
+      213: -7734543990458934599
+    second: FireZhibao_40
+  - first:
+      213: -8014474867590651269
+    second: FireZhibao_41
+  - first:
+      213: -3707945976081554434
+    second: FireZhibao_42
+  - first:
+      213: -4504222396575692396
+    second: FireZhibao_43
+  - first:
+      213: -793827407595435538
+    second: FireZhibao_44
+  - first:
+      213: 936077478855936081
+    second: FireZhibao_45
+  - first:
+      213: 7212419341174671920
+    second: FireZhibao_46
+  - first:
+      213: 5510679860460242229
+    second: FireZhibao_47
+  - first:
+      213: 7360070472357187619
+    second: FireZhibao_48
+  - first:
+      213: 980509987125994968
+    second: FireZhibao_49
+  - first:
+      213: -1568994146626007853
+    second: FireZhibao_50
+  - first:
+      213: -9015317861047081488
+    second: FireZhibao_51
+  - first:
+      213: -445551273441299975
+    second: FireZhibao_52
+  - first:
+      213: -6666493370608845264
+    second: FireZhibao_53
+  - first:
+      213: 5551058748100210714
+    second: FireZhibao_54
+  - first:
+      213: -3854323426536156790
+    second: FireZhibao_55
+  - first:
+      213: 8840297175531142196
+    second: FireZhibao_56
+  - first:
+      213: 165974421689673628
+    second: FireZhibao_57
+  - first:
+      213: -8961446780076552739
+    second: FireZhibao_58
+  - first:
+      213: -3910444098797752659
+    second: FireZhibao_59
+  - first:
+      213: -5177053281618044973
+    second: FireZhibao_60
+  - first:
+      213: 3483065544656742607
+    second: FireZhibao_61
+  - first:
+      213: 1491119862155096497
+    second: FireZhibao_62
+  - first:
+      213: 6186661266772162345
+    second: FireZhibao_63
+  - first:
+      213: -6815053485978643614
+    second: FireZhibao_64
+  - first:
+      213: -6427118688778725130
+    second: FireZhibao_65
+  - first:
+      213: -3519011467622750852
+    second: FireZhibao_66
+  - first:
+      213: -6683624823754597143
+    second: FireZhibao_67
+  - first:
+      213: 5357878782470167725
+    second: FireZhibao_68
+  - first:
+      213: 7894500956432907876
+    second: FireZhibao_69
+  - first:
+      213: -8429728500848287848
+    second: FireZhibao_70
+  - first:
+      213: -7771648689170254850
+    second: FireZhibao_71
+  - first:
+      213: 333064839295749603
+    second: FireZhibao_72
+  - first:
+      213: -3994141684094378948
+    second: FireZhibao_73
+  - first:
+      213: -5250011747010384450
+    second: FireZhibao_74
+  - first:
+      213: -5580558520647842341
+    second: FireZhibao_75
+  - first:
+      213: 2885719000422722401
+    second: FireZhibao_76
+  - first:
+      213: -654065249872735108
+    second: FireZhibao_77
+  - first:
+      213: 380549345889001421
+    second: FireZhibao_78
+  - first:
+      213: -5582712641897066424
+    second: FireZhibao_79
+  - first:
+      213: 4081001860789430963
+    second: FireZhibao_80
+  - first:
+      213: 5858791403697969802
+    second: FireZhibao_81
+  - first:
+      213: -5951086722642798269
+    second: FireZhibao_82
+  - first:
+      213: -1690451736617964306
+    second: FireZhibao_83
+  - first:
+      213: 590775677017991781
+    second: FireZhibao_84
+  - first:
+      213: -1674026169031751273
+    second: FireZhibao_85
+  - first:
+      213: -1208154393734009112
+    second: FireZhibao_86
+  - first:
+      213: 4688499042830492108
+    second: FireZhibao_87
+  - first:
+      213: -4084200554043880945
+    second: FireZhibao_88
+  - first:
+      213: -881692498825043255
+    second: FireZhibao_89
+  - first:
+      213: -4133075239548963701
+    second: FireZhibao_90
+  - first:
+      213: 129825974062281629
+    second: FireZhibao_91
+  - first:
+      213: -8511938018204845425
+    second: FireZhibao_92
+  - first:
+      213: 4839408933420836867
+    second: FireZhibao_93
+  - first:
+      213: 2618782196626804449
+    second: FireZhibao_94
+  - first:
+      213: -10557235491490279
+    second: FireZhibao_95
+  - first:
+      213: 6207243043089034755
+    second: FireZhibao_96
+  - first:
+      213: -6171783855229649197
+    second: FireZhibao_97
+  - first:
+      213: 4755466421986568059
+    second: FireZhibao_98
+  - first:
+      213: -7146609332639456623
+    second: FireZhibao_99
+  - first:
+      213: -7261999652353991950
+    second: FireZhibao_100
+  - first:
+      213: -2602505781377564549
+    second: FireZhibao_101
+  - first:
+      213: -4992906863581834449
+    second: FireZhibao_102
+  - first:
+      213: -187372999992685687
+    second: FireZhibao_103
+  - first:
+      213: 4832110036353282677
+    second: FireZhibao_104
+  - first:
+      213: -3988405920225261283
+    second: FireZhibao_105
+  - first:
+      213: 7397604448360013068
+    second: FireZhibao_106
+  - first:
+      213: 3184161501835825679
+    second: FireZhibao_107
+  - first:
+      213: -5385066005973296359
+    second: FireZhibao_108
+  - first:
+      213: 7409417260744796921
+    second: FireZhibao_109
+  - first:
+      213: 7756143192667852275
+    second: FireZhibao_110
+  - first:
+      213: -3390307137902662542
+    second: FireZhibao_111
+  - first:
+      213: 2037225682851678756
+    second: FireZhibao_112
+  - first:
+      213: 2025495628183240160
+    second: FireZhibao_113
+  - first:
+      213: -3241578972830769188
+    second: FireZhibao_114
+  - first:
+      213: 6689918744527466045
+    second: FireZhibao_115
+  - first:
+      213: 3365351183162401177
+    second: FireZhibao_116
+  - first:
+      213: -3824747188812601534
+    second: FireZhibao_117
+  - first:
+      213: -7858401487922919700
+    second: FireZhibao_118
+  - first:
+      213: -8114160500703480948
+    second: FireZhibao_119
+  - first:
+      213: -4839311173449969420
+    second: FireZhibao_120
+  - first:
+      213: 7815998839771981418
+    second: FireZhibao_121
+  - first:
+      213: -5691983084962193600
+    second: FireZhibao_122
+  - first:
+      213: 8993506098154302218
+    second: FireZhibao_123
+  - first:
+      213: 9092252725667493800
+    second: FireZhibao_124
+  - first:
+      213: -7877048572083385293
+    second: FireZhibao_125
+  - first:
+      213: -6878180555251199771
+    second: FireZhibao_126
+  - first:
+      213: 3981459805141255472
+    second: FireZhibao_127
+  - first:
+      213: -6651293551333966909
+    second: FireZhibao_128
+  - first:
+      213: -3904281255277162686
+    second: FireZhibao_129
+  - first:
+      213: -6673911116972505794
+    second: FireZhibao_130
+  - first:
+      213: -1811506463884151799
+    second: FireZhibao_131
+  - first:
+      213: -1527076181377963694
+    second: FireZhibao_132
+  - first:
+      213: 5874560336563543555
+    second: FireZhibao_133
+  - first:
+      213: 8019237935536880543
+    second: FireZhibao_134
+  - first:
+      213: 7528519635009031486
+    second: FireZhibao_135
+  - first:
+      213: 8991807290725266024
+    second: FireZhibao_136
+  - first:
+      213: -5724762043345743918
+    second: FireZhibao_137
+  - first:
+      213: -4054952718570336327
+    second: FireZhibao_138
+  - first:
+      213: -4952967033698654369
+    second: FireZhibao_139
+  - first:
+      213: -4784999068331775835
+    second: FireZhibao_140
+  - first:
+      213: 3822637055038135579
+    second: FireZhibao_141
+  - first:
+      213: -5182750424936755019
+    second: FireZhibao_142
+  - first:
+      213: 206871411473166035
+    second: FireZhibao_143
+  - first:
+      213: -5153622715630838391
+    second: FireZhibao_144
+  - first:
+      213: 6705905366230336611
+    second: FireZhibao_145
+  - first:
+      213: 7187847342696825381
+    second: FireZhibao_146
+  - first:
+      213: 4957808514794082097
+    second: FireZhibao_147
+  - first:
+      213: 7241136288109304515
+    second: FireZhibao_148
+  - first:
+      213: -7592683865811692754
+    second: FireZhibao_149
+  - first:
+      213: -2930263207145737832
+    second: FireZhibao_150
+  - first:
+      213: 5851229063286574113
+    second: FireZhibao_151
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireZhibao_0
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 619
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48580c6ee204347d0800000000000000
+      internalID: -2935431961931381372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_1
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 565
+        width: 92
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf13cf4e53854a20800000000000000
+      internalID: 3045985164074360762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_2
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 636
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8f56edd36cc9480800000000000000
+      internalID: -8891013595309672211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_3
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 653
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54e4ec2fba264180800000000000000
+      internalID: -9131564193866783652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_4
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 619
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7faaef0bd1959d0800000000000000
+      internalID: -2785162248527874084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_5
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 547
+        width: 135
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c68cfb52394d3e30800000000000000
+      internalID: 4484821284571350720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_6
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 613
+        width: 79
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d9dc6bdbcc5f920800000000000000
+      internalID: 3023547840036969828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_7
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 652
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bd9126a84247860800000000000000
+      internalID: 7526681054012889957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_8
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 618
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bf76103610b68c0800000000000000
+      internalID: -4005105918878942416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_9
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 642
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2994b02efe39e90800000000000000
+      internalID: -7020003640009452848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_10
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 631
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f2301d01ab3ab20800000000000000
+      internalID: 3144561546223628037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_11
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 625
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7cf1bed0cb27e80800000000000000
+      internalID: -8182270805013444668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_12
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 603
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7835107f581e95700800000000000000
+      internalID: 529702396683703175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_13
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 627
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54dc1b5ef0e416c0800000000000000
+      internalID: -4173463571610676130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_14
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 606
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2017d2c330d3650d0800000000000000
+      internalID: -3434490581719617278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_15
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 620
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47aff939e7443f6b0800000000000000
+      internalID: -5263788229032674700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_16
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 596
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8ddbcf8038ef710800000000000000
+      internalID: 1728963381580126422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_17
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 626
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240c87cca1c590c70800000000000000
+      internalID: 8937776205662830658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_18
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 612
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b996a77dc6ee78960800000000000000
+      internalID: 7604308647077374363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_19
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 618
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd333b60bbdf91d0800000000000000
+      internalID: -3341710847726371368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_20
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 596
+        width: 44
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2e9618c5a0448d0800000000000000
+      internalID: -2863152070676323647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_21
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 602
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba81b48fb90ef1160800000000000000
+      internalID: 6998559306447263915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_22
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 584
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fb7f0c46f609dd0800000000000000
+      internalID: -2481360916156268755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_23
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 586
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e157bdac3e6e0de30800000000000000
+      internalID: 4526371491542693150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_24
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 603
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1f6bf6218f2ab50800000000000000
+      internalID: 6603112761745928661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_25
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 563
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d409d061b155cd0800000000000000
+      internalID: -2570118230814208760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_26
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 575
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea4b3a5cc7f12aa0800000000000000
+      internalID: -6187391955971126555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_27
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 582
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353c9b3eb807868a0800000000000000
+      internalID: -6311671131636382893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_28
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 558
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e69d79ba6e8d4d60800000000000000
+      internalID: 7876107912370558693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_29
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 550
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f821b3cb55435c610800000000000000
+      internalID: 1640775182081266319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_30
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 536
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5415c681c37dc30800000000000000
+      internalID: 4384038837862614468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_31
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 539
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d6c95fcb4871a40800000000000000
+      internalID: 5338881830380399890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_32
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 519
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e31d3d33187e590800000000000000
+      internalID: -7644999782841106835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_33
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 471
+        width: 72
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3b70975234d69e0800000000000000
+      internalID: -1626570062187482168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_34
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 458
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fffa8018a4d6fa90800000000000000
+      internalID: -7280397929300688904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_35
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 276
+        width: 300
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320d70bb568e2ef90800000000000000
+      internalID: -6925717753315209181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_36
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 468
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f48ec9273854ca10800000000000000
+      internalID: 1928763534369260790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_37
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 397
+        width: 225
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e475f50c5311ae0800000000000000
+      internalID: -1580422893880783325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_38
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 433
+        width: 67
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9516dc22767e030e0800000000000000
+      internalID: -2292077780180049575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_39
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 447
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30037ac6bf0b08e20800000000000000
+      internalID: 3350872716669825027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_40
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 450
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba1015583169a490800000000000000
+      internalID: -7734543990458934599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_41
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 424
+        width: 76
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72a6f7029dd6c090800000000000000
+      internalID: -8014474867590651269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_42
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 410
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3e151c7caba8cc0800000000000000
+      internalID: -3707945976081554434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_43
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 424
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4994fbe3899cd71c0800000000000000
+      internalID: -4504222396575692396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_44
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 443
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee90e4dbd22cbf4f0800000000000000
+      internalID: -793827407595435538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_45
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 435
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1588379e18d9dfc00800000000000000
+      internalID: 936077478855936081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_46
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 442
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a8fd18d29a71460800000000000000
+      internalID: 7212419341174671920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_47
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 431
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535c1a1e22ed97c40800000000000000
+      internalID: 5510679860460242229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_48
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 430
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32011ba6919342660800000000000000
+      internalID: 7360070472357187619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_49
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 428
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d52e5963a87b9d00800000000000000
+      internalID: 980509987125994968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_50
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 397
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc80b3f220d93ae0800000000000000
+      internalID: -1568994146626007853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_51
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 348
+        width: 34
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5ed0bab2823e280800000000000000
+      internalID: -9015317861047081488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_52
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 414
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1fe493a7511d9f0800000000000000
+      internalID: -445551273441299975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_53
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 388
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03efc5b999bdb73a0800000000000000
+      internalID: -6666493370608845264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_54
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 318
+        width: 134
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1076d74582590d40800000000000000
+      internalID: 5551058748100210714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_55
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 393
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8198dfb341b28ac0800000000000000
+      internalID: -3854323426536156790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_56
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 397
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c3c68717b0faa70800000000000000
+      internalID: 8840297175531142196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_57
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 356
+        width: 13
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c972d9e6bd8ad4200800000000000000
+      internalID: 165974421689673628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_58
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 383
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd08ff12ab82a380800000000000000
+      internalID: -8961446780076552739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_59
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 383
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae23218fcf4bb9c0800000000000000
+      internalID: -3910444098797752659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_60
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 398
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7d2e538796728b0800000000000000
+      internalID: -5177053281618044973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_61
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 313
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8eaa6a8a5565030800000000000000
+      internalID: 3483065544656742607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_62
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 331
+        width: 19
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1b8454d9581b410800000000000000
+      internalID: 1491119862155096497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_63
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 389
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9277f9fc4af6bd550800000000000000
+      internalID: 6186661266772162345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_64
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 386
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26394f256f01c61a0800000000000000
+      internalID: -6815053485978643614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_65
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 386
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8d11ada994ec6a0800000000000000
+      internalID: -6427118688778725130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_66
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 375
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75e1d7f6b5f92fc0800000000000000
+      internalID: -3519011467622750852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_67
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 389
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecdf1852aefe33a0800000000000000
+      internalID: -6683624823754597143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_68
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 378
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac9cba8d520b5a40800000000000000
+      internalID: 5357878782470167725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_69
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 357
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e3a230bc6ee8d60800000000000000
+      internalID: 7894500956432907876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_70
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 371
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f93f15796930b80800000000000000
+      internalID: -8429728500848287848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_71
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 301
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef370e271be852490800000000000000
+      internalID: -7771648689170254850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_72
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 348
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed4569e4b84f9400800000000000000
+      internalID: 333064839295749603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_73
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 325
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c59f8dc45f198c0800000000000000
+      internalID: -3994141684094378948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_74
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 340
+        width: 13
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd61d0c1263427b0800000000000000
+      internalID: -5250011747010384450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_75
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 284
+        width: 75
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd58180b79fdd82b0800000000000000
+      internalID: -5580558520647842341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_76
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 336
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16baac544222c0820800000000000000
+      internalID: 2885719000422722401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_77
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 297
+        width: 73
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c749861ee1b4ce6f0800000000000000
+      internalID: -654065249872735108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_78
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 318
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf98352d9bf74500800000000000000
+      internalID: 380549345889001421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_79
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 333
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84094a04e683682b0800000000000000
+      internalID: -5582712641897066424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_80
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 325
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3baef000291a2a830800000000000000
+      internalID: 4081001860789430963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_81
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 19
+        width: 223
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a978e8dbb9e4150800000000000000
+      internalID: 5858791403697969802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_82
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 295
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349155de72e796da0800000000000000
+      internalID: -5951086722642798269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_83
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 313
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeca1f81a1f4a88e0800000000000000
+      internalID: -1690451736617964306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_84
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 304
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a2992295bd23800800000000000000
+      internalID: 590775677017991781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_85
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 294
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7998722911aa4c8e0800000000000000
+      internalID: -1674026169031751273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_86
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 276
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee28afdaf5cb3fe0800000000000000
+      internalID: -1208154393734009112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_87
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 271
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1aba9e905e01140800000000000000
+      internalID: 4688499042830492108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_88
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 278
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ac2c03c310257c0800000000000000
+      internalID: -4084200554043880945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_89
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 271
+        width: 99
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2286ef75993c3f0800000000000000
+      internalID: -881692498825043255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_90
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 225
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84b8b4b7fd54a6c0800000000000000
+      internalID: -4133075239548963701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_91
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 230
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93f99a190c3dc100800000000000000
+      internalID: 129825974062281629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_92
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 225
+        width: 76
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8af1ca78758fd980800000000000000
+      internalID: -8511938018204845425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_93
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 234
+        width: 33
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308a66fd8c8092340800000000000000
+      internalID: 4839408933420836867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_94
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 228
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eece0e6888c75420800000000000000
+      internalID: 2618782196626804449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_95
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 232
+        width: 57
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91638b0104e7adff0800000000000000
+      internalID: -10557235491490279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_96
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 213
+        width: 63
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e26d909ae842650800000000000000
+      internalID: 6207243043089034755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_97
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 207
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3debb8e784b695aa0800000000000000
+      internalID: -6171783855229649197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_98
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 219
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77aec7e38fcef140800000000000000
+      internalID: 4755466421986568059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_99
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 224
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192a8832da422dc90800000000000000
+      internalID: -7146609332639456623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_100
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 220
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa1e6abac1383b90800000000000000
+      internalID: -7261999652353991950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_101
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 207
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70071fc7ca02ebd0800000000000000
+      internalID: -2602505781377564549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_102
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 205
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23589f39a1a5bab0800000000000000
+      internalID: -4992906863581834449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_103
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 210
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bcfeecf31566df0800000000000000
+      internalID: -187372999992685687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_104
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 180
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572ff68f97a1f0340800000000000000
+      internalID: 4832110036353282677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_105
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 150
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1988e072f556a8c0800000000000000
+      internalID: -3988405920225261283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_106
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 157
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d19553d0299a660800000000000000
+      internalID: 7397604448360013068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_107
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 197
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f021668f30a603c20800000000000000
+      internalID: 3184161501835825679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_108
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 188
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b1ee5bff66445b0800000000000000
+      internalID: -5385066005973296359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_109
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 188
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa675bedb983d660800000000000000
+      internalID: 7409417260744796921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_110
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 156
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd0802d32b53ab60800000000000000
+      internalID: 7756143192667852275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_111
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 180
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c27d5ee9533f0d0800000000000000
+      internalID: -3390307137902662542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_112
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 170
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a4da107fda54c10800000000000000
+      internalID: 2037225682851678756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_113
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 172
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edf7f3da810c1c10800000000000000
+      internalID: 2025495628183240160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_114
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 153
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfdb0d49199303d0800000000000000
+      internalID: -3241578972830769188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_115
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 171
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e69c747ad57dc50800000000000000
+      internalID: 6689918744527466045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_116
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 115
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991e5d8121124be20800000000000000
+      internalID: 3365351183162401177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_117
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 132
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247a62732b4cbeac0800000000000000
+      internalID: -3824747188812601534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_118
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 144
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce604f97b7951f290800000000000000
+      internalID: -7858401487922919700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_119
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 149
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c833019e306b46f80800000000000000
+      internalID: -8114160500703480948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_120
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 90
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f09fe4a02057dcb0800000000000000
+      internalID: -4839311173449969420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_121
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 121
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a666979a881087c60800000000000000
+      internalID: 7815998839771981418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_122
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 94
+        width: 11
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fdb49aa830201b0800000000000000
+      internalID: -5691983084962193600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_123
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 59
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bebc9852a5fcc70800000000000000
+      internalID: 8993506098154302218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_124
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 53
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7fc716eab2e2e70800000000000000
+      internalID: 9092252725667493800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_125
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 74
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33cc87ede0a1fa290800000000000000
+      internalID: -7877048572083385293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_126
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 72
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0d0472a3bcb80a0800000000000000
+      internalID: -6878180555251199771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_127
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 63
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035c0fc199cf04730800000000000000
+      internalID: 3981459805141255472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_128
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 71
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb74ef41cbd1b3a0800000000000000
+      internalID: -6651293551333966909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_129
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 63
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f0df352e431d9c0800000000000000
+      internalID: -3904281255277162686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_130
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 80
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35c252f2318163a0800000000000000
+      internalID: -6673911116972505794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_131
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 55
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9047cd7087c3cd6e0800000000000000
+      internalID: -1811506463884151799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_132
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 42
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259a108cd4cbecae0800000000000000
+      internalID: -1527076181377963694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_133
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 41
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e18785081a68150800000000000000
+      internalID: 5874560336563543555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_134
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 48
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b33052a6e0a4f60800000000000000
+      internalID: 8019237935536880543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_135
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 64
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d444168bcaa7860800000000000000
+      internalID: 7528519635009031486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_136
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 58
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862727c171159cc70800000000000000
+      internalID: 8991807290725266024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_137
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 34
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfccbea04f8d80b0800000000000000
+      internalID: -5724762043345743918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_138
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 42
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf4c9c8cf9e9b7c0800000000000000
+      internalID: -4054952718570336327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_139
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 34
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57eb2c89b6834bb0800000000000000
+      internalID: -4952967033698654369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_140
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 16
+        width: 82
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8628903b4489db0800000000000000
+      internalID: -4784999068331775835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_141
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 41
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d1bcaf52cbc0530800000000000000
+      internalID: 3822637055038135579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_142
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 37
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0d32aa2fb2318b0800000000000000
+      internalID: -5182750424936755019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_143
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 25
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3deaa03e374fed200800000000000000
+      internalID: 206871411473166035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_144
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 42
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d9078f177aa78b0800000000000000
+      internalID: -5153622715630838391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_145
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 21
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3648b83b669201d50800000000000000
+      internalID: 6705905366230336611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_146
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 10
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5220e29431d50c360800000000000000
+      internalID: 7187847342696825381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_147
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 25
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f45bc939cadc440800000000000000
+      internalID: 4957808514794082097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_148
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 16
+        width: 46
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca12feb61fad7460800000000000000
+      internalID: 7241136288109304515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_149
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 25
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e235476704e51a690800000000000000
+      internalID: -7592683865811692754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_150
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 15
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8917ea7632d9557d0800000000000000
+      internalID: -2930263207145737832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireZhibao_151
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 13
+        width: 46
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c43a8f4ddb33150800000000000000
+      internalID: 5851229063286574113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FireZhibao_0: -2935431961931381372
+      FireZhibao_1: 3045985164074360762
+      FireZhibao_10: 3144561546223628037
+      FireZhibao_100: -7261999652353991950
+      FireZhibao_101: -2602505781377564549
+      FireZhibao_102: -4992906863581834449
+      FireZhibao_103: -187372999992685687
+      FireZhibao_104: 4832110036353282677
+      FireZhibao_105: -3988405920225261283
+      FireZhibao_106: 7397604448360013068
+      FireZhibao_107: 3184161501835825679
+      FireZhibao_108: -5385066005973296359
+      FireZhibao_109: 7409417260744796921
+      FireZhibao_11: -8182270805013444668
+      FireZhibao_110: 7756143192667852275
+      FireZhibao_111: -3390307137902662542
+      FireZhibao_112: 2037225682851678756
+      FireZhibao_113: 2025495628183240160
+      FireZhibao_114: -3241578972830769188
+      FireZhibao_115: 6689918744527466045
+      FireZhibao_116: 3365351183162401177
+      FireZhibao_117: -3824747188812601534
+      FireZhibao_118: -7858401487922919700
+      FireZhibao_119: -8114160500703480948
+      FireZhibao_12: 529702396683703175
+      FireZhibao_120: -4839311173449969420
+      FireZhibao_121: 7815998839771981418
+      FireZhibao_122: -5691983084962193600
+      FireZhibao_123: 8993506098154302218
+      FireZhibao_124: 9092252725667493800
+      FireZhibao_125: -7877048572083385293
+      FireZhibao_126: -6878180555251199771
+      FireZhibao_127: 3981459805141255472
+      FireZhibao_128: -6651293551333966909
+      FireZhibao_129: -3904281255277162686
+      FireZhibao_13: -4173463571610676130
+      FireZhibao_130: -6673911116972505794
+      FireZhibao_131: -1811506463884151799
+      FireZhibao_132: -1527076181377963694
+      FireZhibao_133: 5874560336563543555
+      FireZhibao_134: 8019237935536880543
+      FireZhibao_135: 7528519635009031486
+      FireZhibao_136: 8991807290725266024
+      FireZhibao_137: -5724762043345743918
+      FireZhibao_138: -4054952718570336327
+      FireZhibao_139: -4952967033698654369
+      FireZhibao_14: -3434490581719617278
+      FireZhibao_140: -4784999068331775835
+      FireZhibao_141: 3822637055038135579
+      FireZhibao_142: -5182750424936755019
+      FireZhibao_143: 206871411473166035
+      FireZhibao_144: -5153622715630838391
+      FireZhibao_145: 6705905366230336611
+      FireZhibao_146: 7187847342696825381
+      FireZhibao_147: 4957808514794082097
+      FireZhibao_148: 7241136288109304515
+      FireZhibao_149: -7592683865811692754
+      FireZhibao_15: -5263788229032674700
+      FireZhibao_150: -2930263207145737832
+      FireZhibao_151: 5851229063286574113
+      FireZhibao_16: 1728963381580126422
+      FireZhibao_17: 8937776205662830658
+      FireZhibao_18: 7604308647077374363
+      FireZhibao_19: -3341710847726371368
+      FireZhibao_2: -8891013595309672211
+      FireZhibao_20: -2863152070676323647
+      FireZhibao_21: 6998559306447263915
+      FireZhibao_22: -2481360916156268755
+      FireZhibao_23: 4526371491542693150
+      FireZhibao_24: 6603112761745928661
+      FireZhibao_25: -2570118230814208760
+      FireZhibao_26: -6187391955971126555
+      FireZhibao_27: -6311671131636382893
+      FireZhibao_28: 7876107912370558693
+      FireZhibao_29: 1640775182081266319
+      FireZhibao_3: -9131564193866783652
+      FireZhibao_30: 4384038837862614468
+      FireZhibao_31: 5338881830380399890
+      FireZhibao_32: -7644999782841106835
+      FireZhibao_33: -1626570062187482168
+      FireZhibao_34: -7280397929300688904
+      FireZhibao_35: -6925717753315209181
+      FireZhibao_36: 1928763534369260790
+      FireZhibao_37: -1580422893880783325
+      FireZhibao_38: -2292077780180049575
+      FireZhibao_39: 3350872716669825027
+      FireZhibao_4: -2785162248527874084
+      FireZhibao_40: -7734543990458934599
+      FireZhibao_41: -8014474867590651269
+      FireZhibao_42: -3707945976081554434
+      FireZhibao_43: -4504222396575692396
+      FireZhibao_44: -793827407595435538
+      FireZhibao_45: 936077478855936081
+      FireZhibao_46: 7212419341174671920
+      FireZhibao_47: 5510679860460242229
+      FireZhibao_48: 7360070472357187619
+      FireZhibao_49: 980509987125994968
+      FireZhibao_5: 4484821284571350720
+      FireZhibao_50: -1568994146626007853
+      FireZhibao_51: -9015317861047081488
+      FireZhibao_52: -445551273441299975
+      FireZhibao_53: -6666493370608845264
+      FireZhibao_54: 5551058748100210714
+      FireZhibao_55: -3854323426536156790
+      FireZhibao_56: 8840297175531142196
+      FireZhibao_57: 165974421689673628
+      FireZhibao_58: -8961446780076552739
+      FireZhibao_59: -3910444098797752659
+      FireZhibao_6: 3023547840036969828
+      FireZhibao_60: -5177053281618044973
+      FireZhibao_61: 3483065544656742607
+      FireZhibao_62: 1491119862155096497
+      FireZhibao_63: 6186661266772162345
+      FireZhibao_64: -6815053485978643614
+      FireZhibao_65: -6427118688778725130
+      FireZhibao_66: -3519011467622750852
+      FireZhibao_67: -6683624823754597143
+      FireZhibao_68: 5357878782470167725
+      FireZhibao_69: 7894500956432907876
+      FireZhibao_7: 7526681054012889957
+      FireZhibao_70: -8429728500848287848
+      FireZhibao_71: -7771648689170254850
+      FireZhibao_72: 333064839295749603
+      FireZhibao_73: -3994141684094378948
+      FireZhibao_74: -5250011747010384450
+      FireZhibao_75: -5580558520647842341
+      FireZhibao_76: 2885719000422722401
+      FireZhibao_77: -654065249872735108
+      FireZhibao_78: 380549345889001421
+      FireZhibao_79: -5582712641897066424
+      FireZhibao_8: -4005105918878942416
+      FireZhibao_80: 4081001860789430963
+      FireZhibao_81: 5858791403697969802
+      FireZhibao_82: -5951086722642798269
+      FireZhibao_83: -1690451736617964306
+      FireZhibao_84: 590775677017991781
+      FireZhibao_85: -1674026169031751273
+      FireZhibao_86: -1208154393734009112
+      FireZhibao_87: 4688499042830492108
+      FireZhibao_88: -4084200554043880945
+      FireZhibao_89: -881692498825043255
+      FireZhibao_9: -7020003640009452848
+      FireZhibao_90: -4133075239548963701
+      FireZhibao_91: 129825974062281629
+      FireZhibao_92: -8511938018204845425
+      FireZhibao_93: 4839408933420836867
+      FireZhibao_94: 2618782196626804449
+      FireZhibao_95: -10557235491490279
+      FireZhibao_96: 6207243043089034755
+      FireZhibao_97: -6171783855229649197
+      FireZhibao_98: 4755466421986568059
+      FireZhibao_99: -7146609332639456623
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

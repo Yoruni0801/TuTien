@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: fd9214cef9d12cd46ba23ce9ed2d8d9c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4845640104344256870
+    second: LordCycleIdle_0
+  - first:
+      213: 6398707660124296624
+    second: LordCycleIdle_1
+  - first:
+      213: -7154401995847967680
+    second: LordCycleIdle_2
+  - first:
+      213: 5802459306545702886
+    second: LordCycleIdle_3
+  - first:
+      213: 3367112494210577646
+    second: LordCycleIdle_4
+  - first:
+      213: -4486816321106193778
+    second: LordCycleIdle_5
+  - first:
+      213: -6067839846365282258
+    second: LordCycleIdle_6
+  - first:
+      213: 242933920831506277
+    second: LordCycleIdle_7
+  - first:
+      213: -211138864974538648
+    second: LordCycleIdle_8
+  - first:
+      213: 1772321323519851408
+    second: LordCycleIdle_9
+  - first:
+      213: 4192870937108191793
+    second: LordCycleIdle_10
+  - first:
+      213: -2846964658058275228
+    second: LordCycleIdle_11
+  - first:
+      213: 3484684491399015742
+    second: LordCycleIdle_12
+  - first:
+      213: 7322022666907104760
+    second: LordCycleIdle_13
+  - first:
+      213: 41722205903713077
+    second: LordCycleIdle_14
+  - first:
+      213: 7777789756800019231
+    second: LordCycleIdle_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LordCycleIdle_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 287
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66183d8600c2f3340800000000000000
+      internalID: 4845640104344256870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleIdle_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 288
+        width: 40
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5974f07b6ccc850800000000000000
+      internalID: 6398707660124296624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleIdle_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 289
+        width: 37
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cd2295a4576bc90800000000000000
+      internalID: -7154401995847967680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleIdle_3
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 290
+        width: 36
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7e05e1ff9768050800000000000000
+      internalID: 5802459306545702886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleIdle_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 272
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4733849f26abe20800000000000000
+      internalID: 3367112494210577646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleIdle_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 272
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e825a000450abb1c0800000000000000
+      internalID: -4486816321106193778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleIdle_6
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 272
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20cf6bfec3bacba0800000000000000
+      internalID: -6067839846365282258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleIdle_7
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 272
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5670e072d131f5300800000000000000
+      internalID: 242933920831506277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleIdle_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 99
+        width: 37
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868d9ea2252e11df0800000000000000
+      internalID: -211138864974538648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleIdle_9
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 100
+        width: 40
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b30448adc889810800000000000000
+      internalID: 1772321323519851408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleIdle_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 98
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a946b07e1103a30800000000000000
+      internalID: 4192870937108191793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleIdle_11
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 97
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46658543abc8d78d0800000000000000
+      internalID: -2846964658058275228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleIdle_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 80
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3da62015161c5030800000000000000
+      internalID: 3484684491399015742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleIdle_13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 80
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f53b5262dc0d9560800000000000000
+      internalID: 7322022666907104760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleIdle_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533f22e002a349000800000000000000
+      internalID: 41722205903713077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleIdle_15
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 80
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bacb7439240fb60800000000000000
+      internalID: 7777789756800019231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LordCycleIdle_0: 4845640104344256870
+      LordCycleIdle_1: 6398707660124296624
+      LordCycleIdle_10: 4192870937108191793
+      LordCycleIdle_11: -2846964658058275228
+      LordCycleIdle_12: 3484684491399015742
+      LordCycleIdle_13: 7322022666907104760
+      LordCycleIdle_14: 41722205903713077
+      LordCycleIdle_15: 7777789756800019231
+      LordCycleIdle_2: -7154401995847967680
+      LordCycleIdle_3: 5802459306545702886
+      LordCycleIdle_4: 3367112494210577646
+      LordCycleIdle_5: -4486816321106193778
+      LordCycleIdle_6: -6067839846365282258
+      LordCycleIdle_7: 242933920831506277
+      LordCycleIdle_8: -211138864974538648
+      LordCycleIdle_9: 1772321323519851408
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

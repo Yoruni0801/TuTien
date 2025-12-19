@@ -1,0 +1,4550 @@
+fileFormatVersion: 2
+guid: 8a122469af003e94b90ab03552cb6490
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8717769020646402197
+    second: BearMeditate_0
+  - first:
+      213: -617567286940944478
+    second: BearMeditate_1
+  - first:
+      213: 7561431511632612554
+    second: BearMeditate_2
+  - first:
+      213: 7915315842498370482
+    second: BearMeditate_3
+  - first:
+      213: -4169948585749743687
+    second: BearMeditate_4
+  - first:
+      213: -2023737258630210467
+    second: BearMeditate_5
+  - first:
+      213: -7042613835405556498
+    second: BearMeditate_6
+  - first:
+      213: 3719955733704639929
+    second: BearMeditate_7
+  - first:
+      213: -3496529828446927038
+    second: BearMeditate_8
+  - first:
+      213: 7715234003784272676
+    second: BearMeditate_9
+  - first:
+      213: 3834931633056378261
+    second: BearMeditate_10
+  - first:
+      213: 2101089488902254364
+    second: BearMeditate_11
+  - first:
+      213: 3793540396727428019
+    second: BearMeditate_12
+  - first:
+      213: 4326742160979479324
+    second: BearMeditate_13
+  - first:
+      213: -1131368320544397506
+    second: BearMeditate_14
+  - first:
+      213: -8649844432334655870
+    second: BearMeditate_15
+  - first:
+      213: 4843267687254438001
+    second: BearMeditate_16
+  - first:
+      213: 6085507825430962343
+    second: BearMeditate_17
+  - first:
+      213: -2434468497941436107
+    second: BearMeditate_18
+  - first:
+      213: -6973907504280639007
+    second: BearMeditate_19
+  - first:
+      213: -7769658522210841967
+    second: BearMeditate_20
+  - first:
+      213: -5574264553429655467
+    second: BearMeditate_21
+  - first:
+      213: -1586941814937709952
+    second: BearMeditate_22
+  - first:
+      213: -9161788650667768322
+    second: BearMeditate_23
+  - first:
+      213: -8856040810901762291
+    second: BearMeditate_24
+  - first:
+      213: 6429979210677565875
+    second: BearMeditate_25
+  - first:
+      213: 2181760459120035686
+    second: BearMeditate_26
+  - first:
+      213: -7017942946027025037
+    second: BearMeditate_27
+  - first:
+      213: 7597453211935761614
+    second: BearMeditate_28
+  - first:
+      213: 8635874622441512997
+    second: BearMeditate_29
+  - first:
+      213: -6437190313599445545
+    second: BearMeditate_30
+  - first:
+      213: -418380567884272882
+    second: BearMeditate_31
+  - first:
+      213: 8659804185614885309
+    second: BearMeditate_32
+  - first:
+      213: 7824557186507256158
+    second: BearMeditate_33
+  - first:
+      213: 1097742261873899894
+    second: BearMeditate_34
+  - first:
+      213: -8937233629837417653
+    second: BearMeditate_35
+  - first:
+      213: 1454977522160429840
+    second: BearMeditate_36
+  - first:
+      213: -6312179080775502361
+    second: BearMeditate_37
+  - first:
+      213: -8859761855907136883
+    second: BearMeditate_38
+  - first:
+      213: -7375095849407904906
+    second: BearMeditate_39
+  - first:
+      213: 5257966253724844270
+    second: BearMeditate_40
+  - first:
+      213: 5738741957731010354
+    second: BearMeditate_41
+  - first:
+      213: -7488488526584777442
+    second: BearMeditate_42
+  - first:
+      213: -8620761203331847800
+    second: BearMeditate_43
+  - first:
+      213: -823806934797036684
+    second: BearMeditate_44
+  - first:
+      213: -4314410780986394453
+    second: BearMeditate_45
+  - first:
+      213: 3945769782108011247
+    second: BearMeditate_46
+  - first:
+      213: -5228801167627904788
+    second: BearMeditate_47
+  - first:
+      213: 7174946077598620810
+    second: BearMeditate_48
+  - first:
+      213: -3034592635664772487
+    second: BearMeditate_49
+  - first:
+      213: 4551668300802128133
+    second: BearMeditate_50
+  - first:
+      213: 554631585427533180
+    second: BearMeditate_51
+  - first:
+      213: -7614724319027889761
+    second: BearMeditate_52
+  - first:
+      213: -1043296193099609870
+    second: BearMeditate_53
+  - first:
+      213: 5083554795454190738
+    second: BearMeditate_54
+  - first:
+      213: -1274857891256989461
+    second: BearMeditate_55
+  - first:
+      213: -8885167957623835953
+    second: BearMeditate_56
+  - first:
+      213: -8857643156623792624
+    second: BearMeditate_57
+  - first:
+      213: 875157496113568749
+    second: BearMeditate_58
+  - first:
+      213: -2628302441926438465
+    second: BearMeditate_59
+  - first:
+      213: -8662563145610162149
+    second: BearMeditate_60
+  - first:
+      213: 2366990239698081967
+    second: BearMeditate_61
+  - first:
+      213: -642485584320584125
+    second: BearMeditate_62
+  - first:
+      213: -7810392106724618507
+    second: BearMeditate_63
+  - first:
+      213: 695918966106774956
+    second: BearMeditate_64
+  - first:
+      213: 8692927223472912846
+    second: BearMeditate_65
+  - first:
+      213: -9197237014668499644
+    second: BearMeditate_66
+  - first:
+      213: 4189392776313628107
+    second: BearMeditate_67
+  - first:
+      213: -2578934313209332462
+    second: BearMeditate_68
+  - first:
+      213: -2480695360120567669
+    second: BearMeditate_69
+  - first:
+      213: 6116731873475649366
+    second: BearMeditate_70
+  - first:
+      213: 2058629621495857586
+    second: BearMeditate_71
+  - first:
+      213: 2401057247702187449
+    second: BearMeditate_72
+  - first:
+      213: 7041439361337610739
+    second: BearMeditate_73
+  - first:
+      213: 24138017971650332
+    second: BearMeditate_74
+  - first:
+      213: 8645944854952342940
+    second: BearMeditate_75
+  - first:
+      213: 4230522868244756750
+    second: BearMeditate_76
+  - first:
+      213: -3332507055716103357
+    second: BearMeditate_77
+  - first:
+      213: -6454057688874765227
+    second: BearMeditate_78
+  - first:
+      213: 5436523283576478044
+    second: BearMeditate_79
+  - first:
+      213: -714770428139201555
+    second: BearMeditate_80
+  - first:
+      213: -7947123826400714994
+    second: BearMeditate_81
+  - first:
+      213: 8837744163101362053
+    second: BearMeditate_82
+  - first:
+      213: -2057525814395589107
+    second: BearMeditate_83
+  - first:
+      213: -4432761088366989599
+    second: BearMeditate_84
+  - first:
+      213: 1427215287068635138
+    second: BearMeditate_85
+  - first:
+      213: 3003924189300606319
+    second: BearMeditate_86
+  - first:
+      213: -9109034874499070600
+    second: BearMeditate_87
+  - first:
+      213: -1219066871776716239
+    second: BearMeditate_88
+  - first:
+      213: 1625162674600177237
+    second: BearMeditate_89
+  - first:
+      213: -4699549306449514543
+    second: BearMeditate_90
+  - first:
+      213: 4912815467725738415
+    second: BearMeditate_91
+  - first:
+      213: -4283727232628553185
+    second: BearMeditate_92
+  - first:
+      213: 4891542816739779237
+    second: BearMeditate_93
+  - first:
+      213: 5066115629048366717
+    second: BearMeditate_94
+  - first:
+      213: 492272974098892227
+    second: BearMeditate_95
+  - first:
+      213: -3240542279919367353
+    second: BearMeditate_96
+  - first:
+      213: 7503278794062972053
+    second: BearMeditate_97
+  - first:
+      213: 2405698161330088169
+    second: BearMeditate_98
+  - first:
+      213: 6296957702646061887
+    second: BearMeditate_99
+  - first:
+      213: -6721851403182501554
+    second: BearMeditate_100
+  - first:
+      213: 7363590830712947746
+    second: BearMeditate_101
+  - first:
+      213: 3500472633725229544
+    second: BearMeditate_102
+  - first:
+      213: -3633127820975213710
+    second: BearMeditate_103
+  - first:
+      213: 6691533053039118342
+    second: BearMeditate_104
+  - first:
+      213: -3582405454306344139
+    second: BearMeditate_105
+  - first:
+      213: 664141765727997224
+    second: BearMeditate_106
+  - first:
+      213: -1365805373270284653
+    second: BearMeditate_107
+  - first:
+      213: -6874496317569321424
+    second: BearMeditate_108
+  - first:
+      213: 8523517558158464597
+    second: BearMeditate_109
+  - first:
+      213: -5942207998095069335
+    second: BearMeditate_110
+  - first:
+      213: 6339565380514432836
+    second: BearMeditate_111
+  - first:
+      213: -1260199533663159950
+    second: BearMeditate_112
+  - first:
+      213: -4301400750835555949
+    second: BearMeditate_113
+  - first:
+      213: -3783959717338618413
+    second: BearMeditate_114
+  - first:
+      213: -2924426844644465758
+    second: BearMeditate_115
+  - first:
+      213: 52819268976237085
+    second: BearMeditate_116
+  - first:
+      213: 4058986434753531056
+    second: BearMeditate_117
+  - first:
+      213: -6366124025988795207
+    second: BearMeditate_118
+  - first:
+      213: -7574508231669157149
+    second: BearMeditate_119
+  - first:
+      213: 945527649733539855
+    second: BearMeditate_120
+  - first:
+      213: 5269358800926404355
+    second: BearMeditate_121
+  - first:
+      213: -8007810601705337006
+    second: BearMeditate_122
+  - first:
+      213: -7270106434560401949
+    second: BearMeditate_123
+  - first:
+      213: 8441786853318091783
+    second: BearMeditate_124
+  - first:
+      213: 1070419380175231880
+    second: BearMeditate_125
+  - first:
+      213: 6315964104526838155
+    second: BearMeditate_126
+  - first:
+      213: -6484679639744947326
+    second: BearMeditate_127
+  - first:
+      213: -6893131422500830556
+    second: BearMeditate_128
+  - first:
+      213: -7931306976696485410
+    second: BearMeditate_129
+  - first:
+      213: 984788700952830952
+    second: BearMeditate_130
+  - first:
+      213: -6848635464843804979
+    second: BearMeditate_131
+  - first:
+      213: 956153791795988719
+    second: BearMeditate_132
+  - first:
+      213: -1923604569965705493
+    second: BearMeditate_133
+  - first:
+      213: 3442630152164494359
+    second: BearMeditate_134
+  - first:
+      213: 887851976742504135
+    second: BearMeditate_135
+  - first:
+      213: 5748347660075205313
+    second: BearMeditate_136
+  - first:
+      213: 6950250729869553907
+    second: BearMeditate_137
+  - first:
+      213: -1747180240198104410
+    second: BearMeditate_138
+  - first:
+      213: -3994486246918463205
+    second: BearMeditate_139
+  - first:
+      213: 4875743672292930203
+    second: BearMeditate_140
+  - first:
+      213: -2155520664225197079
+    second: BearMeditate_141
+  - first:
+      213: -4481974935429797433
+    second: BearMeditate_142
+  - first:
+      213: -3104774815781073971
+    second: BearMeditate_143
+  - first:
+      213: 1156677581356831382
+    second: BearMeditate_144
+  - first:
+      213: -5153728273757587764
+    second: BearMeditate_145
+  - first:
+      213: -1479580959142725189
+    second: BearMeditate_146
+  - first:
+      213: 8977440473271863870
+    second: BearMeditate_147
+  - first:
+      213: 8093865875337185426
+    second: BearMeditate_148
+  - first:
+      213: -6824278681626791253
+    second: BearMeditate_149
+  - first:
+      213: -8841649003878683478
+    second: BearMeditate_150
+  - first:
+      213: -6812520268138561293
+    second: BearMeditate_151
+  - first:
+      213: -6564989691450128387
+    second: BearMeditate_152
+  - first:
+      213: -2243617066014248180
+    second: BearMeditate_153
+  - first:
+      213: 5828803564488404978
+    second: BearMeditate_154
+  - first:
+      213: 7976826666638091591
+    second: BearMeditate_155
+  - first:
+      213: -1631614748709695342
+    second: BearMeditate_156
+  - first:
+      213: 3537291189108427848
+    second: BearMeditate_157
+  - first:
+      213: -7678614511868476738
+    second: BearMeditate_158
+  - first:
+      213: 7104159319652747634
+    second: BearMeditate_159
+  - first:
+      213: 1015808857513602486
+    second: BearMeditate_160
+  - first:
+      213: -5798347209787974433
+    second: BearMeditate_161
+  - first:
+      213: -7757732641618211912
+    second: BearMeditate_162
+  - first:
+      213: -1625823546622123453
+    second: BearMeditate_163
+  - first:
+      213: 8409269538865856893
+    second: BearMeditate_164
+  - first:
+      213: -3874931985378318101
+    second: BearMeditate_165
+  - first:
+      213: 918327412735513069
+    second: BearMeditate_166
+  - first:
+      213: -1937400481546523119
+    second: BearMeditate_167
+  - first:
+      213: -3429397577724885945
+    second: BearMeditate_168
+  - first:
+      213: 7185287046004559255
+    second: BearMeditate_169
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BearMeditate_0
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 946
+        width: 84
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598a88d4cbcbbf870800000000000000
+      internalID: 8717769020646402197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_1
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 947
+        width: 88
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7bbf413d5fd67f0800000000000000
+      internalID: -617567286940944478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_2
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 957
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc8e4cc5e99fe860800000000000000
+      internalID: 7561431511632612554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_3
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 951
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb132552d9d8dd60800000000000000
+      internalID: 7915315842498370482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_4
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 953
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b77eb6cadd5126c0800000000000000
+      internalID: -4169948585749743687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_5
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 954
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c9f9c7fad3ae3e0800000000000000
+      internalID: -2023737258630210467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_6
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 942
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee48662b70c934e90800000000000000
+      internalID: -7042613835405556498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_7
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 946
+        width: 84
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b584a7d700ff9330800000000000000
+      internalID: 3719955733704639929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_8
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 947
+        width: 88
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2470ddc75a4d97fc0800000000000000
+      internalID: -3496529828446927038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_9
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 957
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b839a0374021b60800000000000000
+      internalID: 7715234003784272676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 884
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59deb3e700a683530800000000000000
+      internalID: 3834931633056378261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 884
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f635312c1982d10800000000000000
+      internalID: 2101089488902254364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_12
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 942
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3680c44ec55a430800000000000000
+      internalID: 3793540396727428019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_13
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 944
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b43e3421dab0c30800000000000000
+      internalID: 4326742160979479324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_14
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 884
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3722d7b1829c40f0800000000000000
+      internalID: -1131368320544397506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_15
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 884
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e6d40515495f780800000000000000
+      internalID: -8649844432334655870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_16
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 884
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170bde20d4eb63340800000000000000
+      internalID: 4843267687254438001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_17
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 884
+        width: 111
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a02ca4ff11147450800000000000000
+      internalID: 6085507825430962343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_18
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 931
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539625bacc7073ed0800000000000000
+      internalID: -2434468497941436107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_19
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 901
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9ebeef214b73f90800000000000000
+      internalID: -6973907504280639007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_20
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 917
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a498d4db0ac2490800000000000000
+      internalID: -7769658522210841967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_21
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 899
+        width: 12
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55026c02ceb34a2b0800000000000000
+      internalID: -5574264553429655467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_22
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 925
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0829c69c3dc0af9e0800000000000000
+      internalID: -1586941814937709952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_23
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 932
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef50eb173c9cad080800000000000000
+      internalID: -9161788650667768322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_24
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 925
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f86d5cdc5091580800000000000000
+      internalID: -8856040810901762291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_25
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 901
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9359d4600eb3950800000000000000
+      internalID: 6429979210677565875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_26
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 917
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667c7def39b274e10800000000000000
+      internalID: 2181760459120035686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_27
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 898
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37dc910c2124b9e90800000000000000
+      internalID: -7017942946027025037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_28
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 897
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4e41771739f6960800000000000000
+      internalID: 7597453211935761614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 918
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520ef6bd63ac8d770800000000000000
+      internalID: 8635874622441512997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_30
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 918
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5d156f3818aa6a0800000000000000
+      internalID: -6437190313599445545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_31
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 854
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0be456171d913af0800000000000000
+      internalID: -418380567884272882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 869
+        width: 13
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db12404760ecd2870800000000000000
+      internalID: 8659804185614885309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_33
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 898
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51be7a0e49669c60800000000000000
+      internalID: 7824557186507256158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_34
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 854
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6797de565c6fb3f00800000000000000
+      internalID: 1097742261873899894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_35
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 869
+        width: 13
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43adda7d5198f380800000000000000
+      internalID: -8937233629837417653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_36
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 847
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bec8cf85e113410800000000000000
+      internalID: 1454977522160429840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_37
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 862
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e579b3c192a668a0800000000000000
+      internalID: -6312179080775502361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_38
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 847
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a7918788dcb0580800000000000000
+      internalID: -8859761855907136883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_39
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 862
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673859f566566a990800000000000000
+      internalID: -7375095849407904906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_40
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 853
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0c24a237c08f840800000000000000
+      internalID: 5257966253724844270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_41
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 853
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237cf28c76b14af40800000000000000
+      internalID: 5738741957731010354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_42
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 854
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15735c5c5b831890800000000000000
+      internalID: -7488488526584777442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_43
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 842
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889afed3c57ec5880800000000000000
+      internalID: -8620761203331847800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_44
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 827
+        width: 99
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4735bef15ff3194f0800000000000000
+      internalID: -823806934797036684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_45
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 842
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8b030e0422024c0800000000000000
+      internalID: -4314410780986394453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_46
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 841
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feab40416b032c630800000000000000
+      internalID: 3945769782108011247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_47
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 834
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8146a9a019f67b0800000000000000
+      internalID: -5228801167627904788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_48
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 837
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c19dd6177829360800000000000000
+      internalID: 7174946077598620810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_49
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 842
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9725f296316f2e5d0800000000000000
+      internalID: -3034592635664772487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_50
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 833
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50977bc2436ca2f30800000000000000
+      internalID: 4551668300802128133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_51
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 827
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7dae960d7272b700800000000000000
+      internalID: 554631585427533180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_52
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 827
+        width: 76
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9970dd8390135690800000000000000
+      internalID: -7614724319027889761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_53
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 833
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8c7c6d3a77581f0800000000000000
+      internalID: -1043296193099609870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_54
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 749
+        width: 106
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294d743172a6c8640800000000000000
+      internalID: 5083554795454190738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_55
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 746
+        width: 84
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8068c908bce4ee0800000000000000
+      internalID: -1274857891256989461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_56
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 747
+        width: 88
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2f52471da81b480800000000000000
+      internalID: -8885167957623835953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_57
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 757
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016e4469a74531580800000000000000
+      internalID: -8857643156623792624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_58
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 741
+        width: 57
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb9e5e1b1f252c00800000000000000
+      internalID: 875157496113568749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_59
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 758
+        width: 48
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1deaabad4668bd0800000000000000
+      internalID: -2628302441926438465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_60
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 732
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10148d17b468c780800000000000000
+      internalID: -8662563145610162149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_61
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 710
+        width: 111
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa85508051d39d020800000000000000
+      internalID: 2366990239698081967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_62
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 735
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346234dd3ce6517f0800000000000000
+      internalID: -642485584320584125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_63
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 663
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe0a2a92c9eb9390800000000000000
+      internalID: -7810392106724618507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_64
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 740
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad504fcc9668a900800000000000000
+      internalID: 695918966106774956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_65
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 676
+        width: 65
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9fc6da04b73a870800000000000000
+      internalID: 8692927223472912846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_66
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 744
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4452c990aa9dc5080800000000000000
+      internalID: -9197237014668499644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_67
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 737
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5e2c0a886b32a30800000000000000
+      internalID: 4189392776313628107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_68
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 684
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d771ae7e8c53cd0800000000000000
+      internalID: -2578934313209332462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_69
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 739
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88cd0896bcc29dd0800000000000000
+      internalID: -2480695360120567669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_70
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 667
+        width: 71
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f53d82b3ff2e450800000000000000
+      internalID: 6116731873475649366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_71
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 742
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b18b51dbb8b19c10800000000000000
+      internalID: 2058629621495857586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_72
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 632
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd7aae68d4425120800000000000000
+      internalID: 2401057247702187449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_73
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 734
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f15bffbac738b160800000000000000
+      internalID: 7041439361337610739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_74
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 684
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f38c24661c55000800000000000000
+      internalID: 24138017971650332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_75
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 735
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95fc0399019cf770800000000000000
+      internalID: 8645944854952342940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_76
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 701
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0935e76226d5ba30800000000000000
+      internalID: 4230522868244756750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_77
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 703
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b0f8c3d7e80c1d0800000000000000
+      internalID: -3332507055716103357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_78
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 725
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554bdbe1ab49e66a0800000000000000
+      internalID: -6454057688874765227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_79
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 701
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5957ba5f19627b40800000000000000
+      internalID: 5436523283576478044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_80
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 710
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb1fc62510a416f0800000000000000
+      internalID: -714770428139201555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_81
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 697
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f975d4cf426b190800000000000000
+      internalID: -7947123826400714994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_82
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 719
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5874071fd79f5aa70800000000000000
+      internalID: 8837744163101362053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_83
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 671
+        width: 11
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e21cc4c233273e0800000000000000
+      internalID: -2057525814395589107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_84
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 688
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee26b1a64bab72c0800000000000000
+      internalID: -4432761088366989599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_85
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 692
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200bbbbedbc7ec310800000000000000
+      internalID: 1427215287068635138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_86
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 674
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65477b722510b920800000000000000
+      internalID: 3003924189300606319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_87
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 661
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87586da1b05369180800000000000000
+      internalID: -9109034874499070600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_88
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 654
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a5d469321051fe0800000000000000
+      internalID: -1219066871776716239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_89
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 717
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e64c197dcbd8610800000000000000
+      internalID: 1625162674600177237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_90
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 672
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfa4a81ec8d7ceb0800000000000000
+      internalID: -4699549306449514543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_91
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 709
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa156d083a3dd2440800000000000000
+      internalID: 4912815467725738415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_92
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 690
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a028037c42d84c0800000000000000
+      internalID: -4283727232628553185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_93
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 718
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2636b764042e340800000000000000
+      internalID: 4891542816739779237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_94
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 669
+        width: 13
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d768b7cb2557e4640800000000000000
+      internalID: 5066115629048366717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_95
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 688
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c580b969a7e4d600800000000000000
+      internalID: 492272974098892227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_96
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 725
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b85cd27f74703d0800000000000000
+      internalID: -3240542279919367353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_97
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 710
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59448d22f40012860800000000000000
+      internalID: 7503278794062972053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_98
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 680
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8e3e65bb1c26120800000000000000
+      internalID: 2405698161330088169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_99
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 698
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bd0e7faa9436750800000000000000
+      internalID: 6296957702646061887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_100
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 695
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41985043cf27b2a0800000000000000
+      internalID: -6721851403182501554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_101
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 698
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22408f7b8dab03660800000000000000
+      internalID: 7363590830712947746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_102
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 664
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e91b27605d249030800000000000000
+      internalID: 3500472633725229544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_103
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 659
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273fe27fe79849dc0800000000000000
+      internalID: -3633127820975213710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_104
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 647
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6088e25cbd91ddc50800000000000000
+      internalID: 6691533053039118342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_105
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 671
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53306ae383db84ec0800000000000000
+      internalID: -3582405454306344139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_106
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 645
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82dc7baca61873900800000000000000
+      internalID: 664141765727997224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_107
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 640
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396a7e5df3fab0de0800000000000000
+      internalID: -1365805373270284653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_108
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 655
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036bc859502e890a0800000000000000
+      internalID: -6874496317569321424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_109
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 643
+        width: 70
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55617d24f0e994670800000000000000
+      internalID: 8523517558158464597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_110
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 653
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fee041f49098da0800000000000000
+      internalID: -5942207998095069335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_111
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 662
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4474de70029aaf750800000000000000
+      internalID: 6339565380514432836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_112
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 658
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279f4e1733fd28ee0800000000000000
+      internalID: -1260199533663159950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_113
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 637
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39129d19eca5e44c0800000000000000
+      internalID: -4301400750835555949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_114
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 651
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5e4a37facac7bc0800000000000000
+      internalID: -3783959717338618413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_115
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 627
+        width: 115
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3a95177495a67d0800000000000000
+      internalID: -2924426844644465758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_116
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 653
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1adf9468d6abb000800000000000000
+      internalID: 52819268976237085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_117
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 647
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc0d9f28aa645830800000000000000
+      internalID: 4058986434753531056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_118
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 632
+        width: 40
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4bbd27debf6a7a0800000000000000
+      internalID: -6366124025988795207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_119
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 642
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2761f05e0f1e690800000000000000
+      internalID: -7574508231669157149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_120
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 641
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f087da743603f1d00800000000000000
+      internalID: 945527649733539855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_121
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 635
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30feb4349e5802940800000000000000
+      internalID: 5269358800926404355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_122
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 637
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f0fb85faa8ed090800000000000000
+      internalID: -8007810601705337006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_123
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 631
+        width: 58
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eddeb867b46b1b90800000000000000
+      internalID: -7270106434560401949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_124
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 633
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7046695aa60472570800000000000000
+      internalID: 8441786853318091783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_125
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 623
+        width: 61
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bd90441c4eade00800000000000000
+      internalID: 1070419380175231880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_126
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 628
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89b070c3efc6a750800000000000000
+      internalID: 6315964104526838155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_127
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 622
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b5bc6993ac106a0800000000000000
+      internalID: -6484679639744947326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_128
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 619
+        width: 51
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a241cb1e7da650a0800000000000000
+      internalID: -6893131422500830556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_129
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 629
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9bd6993565ee190800000000000000
+      internalID: -7931306976696485410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_130
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 628
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3ac1b1b1caaad00800000000000000
+      internalID: 984788700952830952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_131
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 422
+        width: 223
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dceb7d19452c4f0a0800000000000000
+      internalID: -6848635464843804979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_132
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 430
+        width: 184
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe884a6cec0f44d00800000000000000
+      internalID: 956153791795988719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_133
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 540
+        width: 100
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be640e6d5dbfd45e0800000000000000
+      internalID: -1923604569965705493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_134
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 490
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c40d032eda6cf20800000000000000
+      internalID: 3442630152164494359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_135
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 457
+        width: 124
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c68dd63ba8425c00800000000000000
+      internalID: 887851976742504135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_136
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 468
+        width: 108
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c20b34adbb36cf40800000000000000
+      internalID: 5748347660075205313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_137
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 484
+        width: 127
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f036cdf630447060800000000000000
+      internalID: 6950250729869553907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_138
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 479
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa096814d4c0c7e0800000000000000
+      internalID: -1747180240198104410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_139
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 518
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11ed301cebb098c0800000000000000
+      internalID: -3994486246918463205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_140
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 488
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92f0e2890f1aa340800000000000000
+      internalID: 4875743672292930203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_141
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 512
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3d7d6506d0612e0800000000000000
+      internalID: -2155520664225197079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_142
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 519
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9a081fa83dcc1c0800000000000000
+      internalID: -4481974935429797433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_143
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 501
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb4acd31cf99e4d0800000000000000
+      internalID: -3104774815781073971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_144
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 495
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6929e64c1285d0010800000000000000
+      internalID: 1156677581356831382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_145
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 469
+        width: 13
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6bacdc0774a78b0800000000000000
+      internalID: -5153728273757587764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_146
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 474
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9bdd1f4f8777be0800000000000000
+      internalID: -1479580959142725189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_147
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 448
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a8591cb86469c70800000000000000
+      internalID: 8977440473271863870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_148
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 496
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29801276120335070800000000000000
+      internalID: 8093865875337185426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_149
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 494
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba23d5512ba4b41a0800000000000000
+      internalID: -6824278681626791253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_150
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 495
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacef1773172c4580800000000000000
+      internalID: -8841649003878683478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_151
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 462
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0c37019e01571a0800000000000000
+      internalID: -6812520268138561293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_152
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 458
+        width: 69
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7830f88a874e4a0800000000000000
+      internalID: -6564989691450128387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_153
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 478
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0377386a221dd0e0800000000000000
+      internalID: -2243617066014248180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_154
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 478
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffacd6a5f114e050800000000000000
+      internalID: 5828803564488404978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_155
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 471
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745a3db179163be60800000000000000
+      internalID: 7976826666638091591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_156
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 482
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290dedcd7075b59e0800000000000000
+      internalID: -1631614748709695342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_157
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 471
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c4de9589bf61130800000000000000
+      internalID: 3537291189108427848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_158
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 467
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb28be4d8c4107590800000000000000
+      internalID: -7678614511868476738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_159
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 472
+        width: 35
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279cea3034b079260800000000000000
+      internalID: 7104159319652747634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_160
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 434
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd2bcf16c0e81e00800000000000000
+      internalID: 1015808857513602486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_161
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 441
+        width: 107
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcd5340fe1288fa0800000000000000
+      internalID: -5798347209787974433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_162
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 284
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbc4e1c34ff65490800000000000000
+      internalID: -7757732641618211912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_163
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 284
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3426f1c291aef69e0800000000000000
+      internalID: -1625823546622123453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_164
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 284
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71cc94671ab3b470800000000000000
+      internalID: 8409269538865856893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_165
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 284
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8e9bab3e9793ac0800000000000000
+      internalID: -3874931985378318101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_166
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 284
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de19a979aed8ebc00800000000000000
+      internalID: 918327412735513069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_167
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 284
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11eafbdd688fc15e0800000000000000
+      internalID: -1937400481546523119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_168
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 84
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7448f12a2155860d0800000000000000
+      internalID: -3429397577724885945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearMeditate_169
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 84
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d4152cf7447b360800000000000000
+      internalID: 7185287046004559255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BearMeditate_0: 8717769020646402197
+      BearMeditate_1: -617567286940944478
+      BearMeditate_10: 3834931633056378261
+      BearMeditate_100: -6721851403182501554
+      BearMeditate_101: 7363590830712947746
+      BearMeditate_102: 3500472633725229544
+      BearMeditate_103: -3633127820975213710
+      BearMeditate_104: 6691533053039118342
+      BearMeditate_105: -3582405454306344139
+      BearMeditate_106: 664141765727997224
+      BearMeditate_107: -1365805373270284653
+      BearMeditate_108: -6874496317569321424
+      BearMeditate_109: 8523517558158464597
+      BearMeditate_11: 2101089488902254364
+      BearMeditate_110: -5942207998095069335
+      BearMeditate_111: 6339565380514432836
+      BearMeditate_112: -1260199533663159950
+      BearMeditate_113: -4301400750835555949
+      BearMeditate_114: -3783959717338618413
+      BearMeditate_115: -2924426844644465758
+      BearMeditate_116: 52819268976237085
+      BearMeditate_117: 4058986434753531056
+      BearMeditate_118: -6366124025988795207
+      BearMeditate_119: -7574508231669157149
+      BearMeditate_12: 3793540396727428019
+      BearMeditate_120: 945527649733539855
+      BearMeditate_121: 5269358800926404355
+      BearMeditate_122: -8007810601705337006
+      BearMeditate_123: -7270106434560401949
+      BearMeditate_124: 8441786853318091783
+      BearMeditate_125: 1070419380175231880
+      BearMeditate_126: 6315964104526838155
+      BearMeditate_127: -6484679639744947326
+      BearMeditate_128: -6893131422500830556
+      BearMeditate_129: -7931306976696485410
+      BearMeditate_13: 4326742160979479324
+      BearMeditate_130: 984788700952830952
+      BearMeditate_131: -6848635464843804979
+      BearMeditate_132: 956153791795988719
+      BearMeditate_133: -1923604569965705493
+      BearMeditate_134: 3442630152164494359
+      BearMeditate_135: 887851976742504135
+      BearMeditate_136: 5748347660075205313
+      BearMeditate_137: 6950250729869553907
+      BearMeditate_138: -1747180240198104410
+      BearMeditate_139: -3994486246918463205
+      BearMeditate_14: -1131368320544397506
+      BearMeditate_140: 4875743672292930203
+      BearMeditate_141: -2155520664225197079
+      BearMeditate_142: -4481974935429797433
+      BearMeditate_143: -3104774815781073971
+      BearMeditate_144: 1156677581356831382
+      BearMeditate_145: -5153728273757587764
+      BearMeditate_146: -1479580959142725189
+      BearMeditate_147: 8977440473271863870
+      BearMeditate_148: 8093865875337185426
+      BearMeditate_149: -6824278681626791253
+      BearMeditate_15: -8649844432334655870
+      BearMeditate_150: -8841649003878683478
+      BearMeditate_151: -6812520268138561293
+      BearMeditate_152: -6564989691450128387
+      BearMeditate_153: -2243617066014248180
+      BearMeditate_154: 5828803564488404978
+      BearMeditate_155: 7976826666638091591
+      BearMeditate_156: -1631614748709695342
+      BearMeditate_157: 3537291189108427848
+      BearMeditate_158: -7678614511868476738
+      BearMeditate_159: 7104159319652747634
+      BearMeditate_16: 4843267687254438001
+      BearMeditate_160: 1015808857513602486
+      BearMeditate_161: -5798347209787974433
+      BearMeditate_162: -7757732641618211912
+      BearMeditate_163: -1625823546622123453
+      BearMeditate_164: 8409269538865856893
+      BearMeditate_165: -3874931985378318101
+      BearMeditate_166: 918327412735513069
+      BearMeditate_167: -1937400481546523119
+      BearMeditate_168: -3429397577724885945
+      BearMeditate_169: 7185287046004559255
+      BearMeditate_17: 6085507825430962343
+      BearMeditate_18: -2434468497941436107
+      BearMeditate_19: -6973907504280639007
+      BearMeditate_2: 7561431511632612554
+      BearMeditate_20: -7769658522210841967
+      BearMeditate_21: -5574264553429655467
+      BearMeditate_22: -1586941814937709952
+      BearMeditate_23: -9161788650667768322
+      BearMeditate_24: -8856040810901762291
+      BearMeditate_25: 6429979210677565875
+      BearMeditate_26: 2181760459120035686
+      BearMeditate_27: -7017942946027025037
+      BearMeditate_28: 7597453211935761614
+      BearMeditate_29: 8635874622441512997
+      BearMeditate_3: 7915315842498370482
+      BearMeditate_30: -6437190313599445545
+      BearMeditate_31: -418380567884272882
+      BearMeditate_32: 8659804185614885309
+      BearMeditate_33: 7824557186507256158
+      BearMeditate_34: 1097742261873899894
+      BearMeditate_35: -8937233629837417653
+      BearMeditate_36: 1454977522160429840
+      BearMeditate_37: -6312179080775502361
+      BearMeditate_38: -8859761855907136883
+      BearMeditate_39: -7375095849407904906
+      BearMeditate_4: -4169948585749743687
+      BearMeditate_40: 5257966253724844270
+      BearMeditate_41: 5738741957731010354
+      BearMeditate_42: -7488488526584777442
+      BearMeditate_43: -8620761203331847800
+      BearMeditate_44: -823806934797036684
+      BearMeditate_45: -4314410780986394453
+      BearMeditate_46: 3945769782108011247
+      BearMeditate_47: -5228801167627904788
+      BearMeditate_48: 7174946077598620810
+      BearMeditate_49: -3034592635664772487
+      BearMeditate_5: -2023737258630210467
+      BearMeditate_50: 4551668300802128133
+      BearMeditate_51: 554631585427533180
+      BearMeditate_52: -7614724319027889761
+      BearMeditate_53: -1043296193099609870
+      BearMeditate_54: 5083554795454190738
+      BearMeditate_55: -1274857891256989461
+      BearMeditate_56: -8885167957623835953
+      BearMeditate_57: -8857643156623792624
+      BearMeditate_58: 875157496113568749
+      BearMeditate_59: -2628302441926438465
+      BearMeditate_6: -7042613835405556498
+      BearMeditate_60: -8662563145610162149
+      BearMeditate_61: 2366990239698081967
+      BearMeditate_62: -642485584320584125
+      BearMeditate_63: -7810392106724618507
+      BearMeditate_64: 695918966106774956
+      BearMeditate_65: 8692927223472912846
+      BearMeditate_66: -9197237014668499644
+      BearMeditate_67: 4189392776313628107
+      BearMeditate_68: -2578934313209332462
+      BearMeditate_69: -2480695360120567669
+      BearMeditate_7: 3719955733704639929
+      BearMeditate_70: 6116731873475649366
+      BearMeditate_71: 2058629621495857586
+      BearMeditate_72: 2401057247702187449
+      BearMeditate_73: 7041439361337610739
+      BearMeditate_74: 24138017971650332
+      BearMeditate_75: 8645944854952342940
+      BearMeditate_76: 4230522868244756750
+      BearMeditate_77: -3332507055716103357
+      BearMeditate_78: -6454057688874765227
+      BearMeditate_79: 5436523283576478044
+      BearMeditate_8: -3496529828446927038
+      BearMeditate_80: -714770428139201555
+      BearMeditate_81: -7947123826400714994
+      BearMeditate_82: 8837744163101362053
+      BearMeditate_83: -2057525814395589107
+      BearMeditate_84: -4432761088366989599
+      BearMeditate_85: 1427215287068635138
+      BearMeditate_86: 3003924189300606319
+      BearMeditate_87: -9109034874499070600
+      BearMeditate_88: -1219066871776716239
+      BearMeditate_89: 1625162674600177237
+      BearMeditate_9: 7715234003784272676
+      BearMeditate_90: -4699549306449514543
+      BearMeditate_91: 4912815467725738415
+      BearMeditate_92: -4283727232628553185
+      BearMeditate_93: 4891542816739779237
+      BearMeditate_94: 5066115629048366717
+      BearMeditate_95: 492272974098892227
+      BearMeditate_96: -3240542279919367353
+      BearMeditate_97: 7503278794062972053
+      BearMeditate_98: 2405698161330088169
+      BearMeditate_99: 6296957702646061887
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 94ffbfb4129388444867a13f5abdccd4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1976730593338969554
+    second: SmithEngage_0
+  - first:
+      213: -8061399315299994385
+    second: SmithEngage_1
+  - first:
+      213: 4255497779337413805
+    second: SmithEngage_2
+  - first:
+      213: 1556255494129746851
+    second: SmithEngage_3
+  - first:
+      213: 8528981329834199206
+    second: SmithEngage_4
+  - first:
+      213: -1790921105853917392
+    second: SmithEngage_5
+  - first:
+      213: 9101933644608932489
+    second: SmithEngage_6
+  - first:
+      213: -4867781574682811214
+    second: SmithEngage_7
+  - first:
+      213: -1359738626926266143
+    second: SmithEngage_8
+  - first:
+      213: 849038329750370033
+    second: SmithEngage_9
+  - first:
+      213: -3120074413979266220
+    second: SmithEngage_10
+  - first:
+      213: 2580882730125045145
+    second: SmithEngage_11
+  - first:
+      213: 7697701982367605916
+    second: SmithEngage_12
+  - first:
+      213: -1948649841463236084
+    second: SmithEngage_13
+  - first:
+      213: 5977672251124918071
+    second: SmithEngage_14
+  - first:
+      213: -1391638603000246075
+    second: SmithEngage_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SmithEngage_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 236
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddcd906002ce6b10800000000000000
+      internalID: 1976730593338969554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithEngage_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 230
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe477faa808202090800000000000000
+      internalID: -8061399315299994385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithEngage_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 236
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4ced70fa09e0b30800000000000000
+      internalID: 4255497779337413805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithEngage_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 230
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a38a53602ee89510800000000000000
+      internalID: 1556255494129746851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithEngage_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 236
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8c4bcb4570d5670800000000000000
+      internalID: 8528981329834199206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithEngage_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 230
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037d3d03ebe5527e0800000000000000
+      internalID: -1790921105853917392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithEngage_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 231
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a8718fc60905e70800000000000000
+      internalID: 9101933644608932489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithEngage_7
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 236
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4e6dcc27a227cb0800000000000000
+      internalID: -4867781574682811214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithEngage_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 136
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8beaa4cec312de0800000000000000
+      internalID: -1359738626926266143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithEngage_9
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 136
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6367dccd368cb00800000000000000
+      internalID: 849038329750370033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithEngage_10
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 136
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4531bf1f9d443b4d0800000000000000
+      internalID: -3120074413979266220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithEngage_11
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 136
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d2b004b2321d320800000000000000
+      internalID: 2580882730125045145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithEngage_12
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 136
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9467d53b2bb3da60800000000000000
+      internalID: 7697701982367605916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithEngage_13
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 36
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a66f72b4105f4e0800000000000000
+      internalID: -1948649841463236084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithEngage_14
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 36
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737a208cd35f4f250800000000000000
+      internalID: 5977672251124918071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithEngage_15
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 36
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c013745018eface0800000000000000
+      internalID: -1391638603000246075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SmithEngage_0: 1976730593338969554
+      SmithEngage_1: -8061399315299994385
+      SmithEngage_10: -3120074413979266220
+      SmithEngage_11: 2580882730125045145
+      SmithEngage_12: 7697701982367605916
+      SmithEngage_13: -1948649841463236084
+      SmithEngage_14: 5977672251124918071
+      SmithEngage_15: -1391638603000246075
+      SmithEngage_2: 4255497779337413805
+      SmithEngage_3: 1556255494129746851
+      SmithEngage_4: 8528981329834199206
+      SmithEngage_5: -1790921105853917392
+      SmithEngage_6: 9101933644608932489
+      SmithEngage_7: -4867781574682811214
+      SmithEngage_8: -1359738626926266143
+      SmithEngage_9: 849038329750370033
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

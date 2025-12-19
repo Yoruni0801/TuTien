@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: fecc168aebece2f4c93e7b8cb5205510
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6269164961632918313
+    second: Mob5Atk1_0
+  - first:
+      213: -7933075860713622887
+    second: Mob5Atk1_1
+  - first:
+      213: 675712808235219027
+    second: Mob5Atk1_2
+  - first:
+      213: -8199595839930931608
+    second: Mob5Atk1_3
+  - first:
+      213: 5667685049053458571
+    second: Mob5Atk1_4
+  - first:
+      213: -1171282308980163158
+    second: Mob5Atk1_5
+  - first:
+      213: -4818875531630033838
+    second: Mob5Atk1_6
+  - first:
+      213: 4869539160670975241
+    second: Mob5Atk1_7
+  - first:
+      213: -4116825755606843005
+    second: Mob5Atk1_8
+  - first:
+      213: 8355264382254270520
+    second: Mob5Atk1_9
+  - first:
+      213: -4187209599824715913
+    second: Mob5Atk1_10
+  - first:
+      213: 9157984517001409224
+    second: Mob5Atk1_11
+  - first:
+      213: 889845806292157161
+    second: Mob5Atk1_12
+  - first:
+      213: -7193397118027812254
+    second: Mob5Atk1_13
+  - first:
+      213: 4966261660443692639
+    second: Mob5Atk1_14
+  - first:
+      213: 8829016406885522119
+    second: Mob5Atk1_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mob5Atk1_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 335
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b9470315c800750800000000000000
+      internalID: 6269164961632918313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob5Atk1_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 335
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99230f1398d08e190800000000000000
+      internalID: -7933075860713622887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob5Atk1_2
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 335
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358ba01183d906900800000000000000
+      internalID: 675712808235219027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob5Atk1_3
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 335
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8666523e60f253e80800000000000000
+      internalID: -8199595839930931608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob5Atk1_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 235
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80bf9ff589a7ae40800000000000000
+      internalID: 5667685049053458571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob5Atk1_5
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 235
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadb98912f4cebfe0800000000000000
+      internalID: -1171282308980163158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob5Atk1_6
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 235
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254ce584c3aef1db0800000000000000
+      internalID: -4818875531630033838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob5Atk1_7
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 235
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905b5a31114149340800000000000000
+      internalID: 4869539160670975241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob5Atk1_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 135
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38100e289c81ed6c0800000000000000
+      internalID: -4116825755606843005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob5Atk1_9
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 135
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8384db400bcd3f370800000000000000
+      internalID: 8355264382254270520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob5Atk1_10
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 135
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f9752cd0b04e5c0800000000000000
+      internalID: -4187209599824715913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob5Atk1_11
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 135
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2756aa562b71f70800000000000000
+      internalID: 9157984517001409224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob5Atk1_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 35
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e24ae4db0e595c00800000000000000
+      internalID: 889845806292157161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob5Atk1_13
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 35
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26232a3fe6beb2c90800000000000000
+      internalID: -7193397118027812254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob5Atk1_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 35
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e4364faa4bbe440800000000000000
+      internalID: 4966261660443692639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob5Atk1_15
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 35
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cad188d4a7f68a70800000000000000
+      internalID: 8829016406885522119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mob5Atk1_0: 6269164961632918313
+      Mob5Atk1_1: -7933075860713622887
+      Mob5Atk1_10: -4187209599824715913
+      Mob5Atk1_11: 9157984517001409224
+      Mob5Atk1_12: 889845806292157161
+      Mob5Atk1_13: -7193397118027812254
+      Mob5Atk1_14: 4966261660443692639
+      Mob5Atk1_15: 8829016406885522119
+      Mob5Atk1_2: 675712808235219027
+      Mob5Atk1_3: -8199595839930931608
+      Mob5Atk1_4: 5667685049053458571
+      Mob5Atk1_5: -1171282308980163158
+      Mob5Atk1_6: -4818875531630033838
+      Mob5Atk1_7: 4869539160670975241
+      Mob5Atk1_8: -4116825755606843005
+      Mob5Atk1_9: 8355264382254270520
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

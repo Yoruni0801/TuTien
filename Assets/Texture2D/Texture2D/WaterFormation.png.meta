@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 2a42ed02693e0514db71cc47b5121b60
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7640679395152727046
+    second: WaterFormation_0
+  - first:
+      213: -5029004539431804755
+    second: WaterFormation_1
+  - first:
+      213: -8552472726527343342
+    second: WaterFormation_2
+  - first:
+      213: 5637011808189687033
+    second: WaterFormation_3
+  - first:
+      213: -5598119289377232888
+    second: WaterFormation_4
+  - first:
+      213: 3359027419230939377
+    second: WaterFormation_5
+  - first:
+      213: -1812396181984465454
+    second: WaterFormation_6
+  - first:
+      213: 205452288606627400
+    second: WaterFormation_7
+  - first:
+      213: 8680937926253676292
+    second: WaterFormation_8
+  - first:
+      213: -6957504772877630789
+    second: WaterFormation_9
+  - first:
+      213: 4151433309744390057
+    second: WaterFormation_10
+  - first:
+      213: 8494101939567545664
+    second: WaterFormation_11
+  - first:
+      213: -2646202738829838514
+    second: WaterFormation_12
+  - first:
+      213: 7551645579207954061
+    second: WaterFormation_13
+  - first:
+      213: -3611429815558326199
+    second: WaterFormation_14
+  - first:
+      213: -6399340550210572918
+    second: WaterFormation_15
+  - first:
+      213: -4710387899808633360
+    second: WaterFormation_16
+  - first:
+      213: -4645909304757749797
+    second: WaterFormation_17
+  - first:
+      213: 1906381400636808715
+    second: WaterFormation_18
+  - first:
+      213: 4216465890521607110
+    second: WaterFormation_19
+  - first:
+      213: -9169783475521529234
+    second: WaterFormation_20
+  - first:
+      213: -9146038128233284421
+    second: WaterFormation_21
+  - first:
+      213: -1735347964153509488
+    second: WaterFormation_22
+  - first:
+      213: -3358152250745354400
+    second: WaterFormation_23
+  - first:
+      213: 7143696617831449891
+    second: WaterFormation_24
+  - first:
+      213: 5041441740724218654
+    second: WaterFormation_25
+  - first:
+      213: -5645496521525645323
+    second: WaterFormation_26
+  - first:
+      213: -4648689453542027179
+    second: WaterFormation_27
+  - first:
+      213: 7502715287688238550
+    second: WaterFormation_28
+  - first:
+      213: 6090795315974044795
+    second: WaterFormation_29
+  - first:
+      213: 6388065859636147512
+    second: WaterFormation_30
+  - first:
+      213: 5508520281146216345
+    second: WaterFormation_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WaterFormation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1700
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af37649729ad6f590800000000000000
+      internalID: -7640679395152727046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFormation_1
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1700
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da027552403653ab0800000000000000
+      internalID: -5029004539431804755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFormation_2
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1700
+        width: 411
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2150f104e538f4980800000000000000
+      internalID: -8552472726527343342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFormation_3
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1700
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f424d59f50ba3e40800000000000000
+      internalID: 5637011808189687033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFormation_4
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1700
+        width: 409
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808686a9a2c7f42b0800000000000000
+      internalID: -5598119289377232888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFormation_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1416
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8ae0214a9ad9e20800000000000000
+      internalID: 3359027419230939377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFormation_6
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1416
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddaa84664319d6e0800000000000000
+      internalID: -1812396181984465454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFormation_7
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1416
+        width: 411
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84660b894c9e9d200800000000000000
+      internalID: 205452288606627400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFormation_8
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1416
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4070193ec03e87870800000000000000
+      internalID: 8680937926253676292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFormation_9
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1416
+        width: 409
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb24b81854af17f90800000000000000
+      internalID: -6957504772877630789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFormation_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1133
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afd908999adc9930800000000000000
+      internalID: 4151433309744390057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFormation_11
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1133
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d41e9d5bc11e570800000000000000
+      internalID: 8494101939567545664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFormation_12
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1133
+        width: 411
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47b16411acc64bd0800000000000000
+      internalID: -2646202738829838514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFormation_13
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1133
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ec65ad4a5dcc860800000000000000
+      internalID: 7551645579207954061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFormation_14
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1133
+        width: 409
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948346887bf91edc0800000000000000
+      internalID: -3611429815558326199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFormation_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 850
+        width: 410
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d22fbbca9f037a0800000000000000
+      internalID: -6399340550210572918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFormation_16
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 850
+        width: 410
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdab9d692751aeb0800000000000000
+      internalID: -4710387899808633360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFormation_17
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 850
+        width: 411
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd77b373a1a668fb0800000000000000
+      internalID: -4645909304757749797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFormation_18
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 850
+        width: 410
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e5e5f88c3d47a10800000000000000
+      internalID: 1906381400636808715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFormation_19
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 850
+        width: 409
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb671c3365e38a30800000000000000
+      internalID: 4216465890521607110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFormation_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 566
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ada4a33826eb080800000000000000
+      internalID: -9169783475521529234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFormation_21
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 566
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcf978b7ceb21180800000000000000
+      internalID: -9146038128233284421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFormation_22
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 566
+        width: 411
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099ceea883ecae7e0800000000000000
+      internalID: -1735347964153509488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFormation_23
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 566
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06705a8f1527561d0800000000000000
+      internalID: -3358152250745354400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFormation_24
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 566
+        width: 409
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325c0099932832360800000000000000
+      internalID: 7143696617831449891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFormation_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 283
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ba1bf6d8cc6f540800000000000000
+      internalID: 5041441740724218654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFormation_26
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 283
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffa2c523da27a1b0800000000000000
+      internalID: -5645496521525645323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFormation_27
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 283
+        width: 411
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550d58262998c7fb0800000000000000
+      internalID: -4648689453542027179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFormation_28
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 283
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5dc859dcffe1860800000000000000
+      internalID: 7502715287688238550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFormation_29
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 283
+        width: 409
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cfe38c11ad68450800000000000000
+      internalID: 6090795315974044795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFormation_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 410
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835b96dcd08f6a850800000000000000
+      internalID: 6388065859636147512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFormation_31
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 410
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f41c3a202327c40800000000000000
+      internalID: 5508520281146216345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WaterFormation_0: -7640679395152727046
+      WaterFormation_1: -5029004539431804755
+      WaterFormation_10: 4151433309744390057
+      WaterFormation_11: 8494101939567545664
+      WaterFormation_12: -2646202738829838514
+      WaterFormation_13: 7551645579207954061
+      WaterFormation_14: -3611429815558326199
+      WaterFormation_15: -6399340550210572918
+      WaterFormation_16: -4710387899808633360
+      WaterFormation_17: -4645909304757749797
+      WaterFormation_18: 1906381400636808715
+      WaterFormation_19: 4216465890521607110
+      WaterFormation_2: -8552472726527343342
+      WaterFormation_20: -9169783475521529234
+      WaterFormation_21: -9146038128233284421
+      WaterFormation_22: -1735347964153509488
+      WaterFormation_23: -3358152250745354400
+      WaterFormation_24: 7143696617831449891
+      WaterFormation_25: 5041441740724218654
+      WaterFormation_26: -5645496521525645323
+      WaterFormation_27: -4648689453542027179
+      WaterFormation_28: 7502715287688238550
+      WaterFormation_29: 6090795315974044795
+      WaterFormation_3: 5637011808189687033
+      WaterFormation_30: 6388065859636147512
+      WaterFormation_31: 5508520281146216345
+      WaterFormation_4: -5598119289377232888
+      WaterFormation_5: 3359027419230939377
+      WaterFormation_6: -1812396181984465454
+      WaterFormation_7: 205452288606627400
+      WaterFormation_8: 8680937926253676292
+      WaterFormation_9: -6957504772877630789
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

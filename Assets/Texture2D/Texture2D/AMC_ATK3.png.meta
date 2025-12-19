@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 3ba6a60996a2402488f7257e918ae3f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1853856122412256886
+    second: AMC_ATK3_0
+  - first:
+      213: -3754032066301239155
+    second: AMC_ATK3_1
+  - first:
+      213: 1281402344051234250
+    second: AMC_ATK3_2
+  - first:
+      213: 5006907813549367825
+    second: AMC_ATK3_3
+  - first:
+      213: 7855670932548398661
+    second: AMC_ATK3_4
+  - first:
+      213: 3874737850390956246
+    second: AMC_ATK3_5
+  - first:
+      213: -3746499316390777697
+    second: AMC_ATK3_6
+  - first:
+      213: -4878689211643965718
+    second: AMC_ATK3_7
+  - first:
+      213: 5031873183294387677
+    second: AMC_ATK3_8
+  - first:
+      213: -915771793700543876
+    second: AMC_ATK3_9
+  - first:
+      213: 6876821300871840862
+    second: AMC_ATK3_10
+  - first:
+      213: 8298392087373948991
+    second: AMC_ATK3_11
+  - first:
+      213: -3511980013450297041
+    second: AMC_ATK3_12
+  - first:
+      213: -6322260428640656407
+    second: AMC_ATK3_13
+  - first:
+      213: -1704584062106053219
+    second: AMC_ATK3_14
+  - first:
+      213: 7924884912556812249
+    second: AMC_ATK3_15
+  - first:
+      213: -8206279826589397518
+    second: AMC_ATK3_16
+  - first:
+      213: -5724426261873555726
+    second: AMC_ATK3_17
+  - first:
+      213: -3912397704034563964
+    second: AMC_ATK3_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AMC_ATK3_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 417
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ec01932583ab910800000000000000
+      internalID: 1853856122412256886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_ATK3_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 417
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8060b4b9bff6ebc0800000000000000
+      internalID: -3754032066301239155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_ATK3_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 417
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5d68b84a478c110800000000000000
+      internalID: 1281402344051234250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_ATK3_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 417
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112ecb1f02c1c7540800000000000000
+      internalID: 5006907813549367825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_ATK3_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 321
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ea8ee8713f40d60800000000000000
+      internalID: 7855670932548398661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_ATK3_5
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 321
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d84052bb85d5c530800000000000000
+      internalID: 3874737850390956246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_ATK3_6
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 321
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ca847b8b2c10cc0800000000000000
+      internalID: -3746499316390777697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_ATK3_7
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 321
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee4e6aa20a6b4cb0800000000000000
+      internalID: -4878689211643965718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_ATK3_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 225
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5731d000ec4d540800000000000000
+      internalID: 5031873183294387677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_ATK3_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 225
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c722825d7668a43f0800000000000000
+      internalID: -915771793700543876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_ATK3_10
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 225
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e544e46c9806f6f50800000000000000
+      internalID: 6876821300871840862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_ATK3_11
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 225
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3826def2afc92370800000000000000
+      internalID: 8298392087373948991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_ATK3_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 129
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f210608f8c0f24fc0800000000000000
+      internalID: -3511980013450297041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_ATK3_13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 129
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e36d5d03a1d248a0800000000000000
+      internalID: -6322260428640656407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_ATK3_14
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 129
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d955068a3d91858e0800000000000000
+      internalID: -1704584062106053219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_ATK3_15
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 129
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d72dc217d8dafd60800000000000000
+      internalID: 7924884912556812249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_ATK3_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd4fa8f9ff6d1e80800000000000000
+      internalID: -8206279826589397518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_ATK3_17
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 33
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f60c16e4a0ce80b0800000000000000
+      internalID: -5724426261873555726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_ATK3_18
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 33
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48847f6540f54b9c0800000000000000
+      internalID: -3912397704034563964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AMC_ATK3_0: 1853856122412256886
+      AMC_ATK3_1: -3754032066301239155
+      AMC_ATK3_10: 6876821300871840862
+      AMC_ATK3_11: 8298392087373948991
+      AMC_ATK3_12: -3511980013450297041
+      AMC_ATK3_13: -6322260428640656407
+      AMC_ATK3_14: -1704584062106053219
+      AMC_ATK3_15: 7924884912556812249
+      AMC_ATK3_16: -8206279826589397518
+      AMC_ATK3_17: -5724426261873555726
+      AMC_ATK3_18: -3912397704034563964
+      AMC_ATK3_2: 1281402344051234250
+      AMC_ATK3_3: 5006907813549367825
+      AMC_ATK3_4: 7855670932548398661
+      AMC_ATK3_5: 3874737850390956246
+      AMC_ATK3_6: -3746499316390777697
+      AMC_ATK3_7: -4878689211643965718
+      AMC_ATK3_8: 5031873183294387677
+      AMC_ATK3_9: -915771793700543876
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

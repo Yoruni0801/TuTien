@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 240243934a4ee9741a5181af4dd34911
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2206935761337131590
+    second: TianJiangAttack_0
+  - first:
+      213: 7488093383339321238
+    second: TianJiangAttack_1
+  - first:
+      213: 3578468470262570257
+    second: TianJiangAttack_2
+  - first:
+      213: -4180941041352443030
+    second: TianJiangAttack_3
+  - first:
+      213: 3123442240419441641
+    second: TianJiangAttack_4
+  - first:
+      213: -7115822975577138591
+    second: TianJiangAttack_5
+  - first:
+      213: 1651448645410225107
+    second: TianJiangAttack_6
+  - first:
+      213: 7124865167825404480
+    second: TianJiangAttack_7
+  - first:
+      213: 1332961313675389800
+    second: TianJiangAttack_8
+  - first:
+      213: 8983750748562875523
+    second: TianJiangAttack_9
+  - first:
+      213: 8971502173138774713
+    second: TianJiangAttack_10
+  - first:
+      213: 5519321844375755374
+    second: TianJiangAttack_11
+  - first:
+      213: -6421610959695200594
+    second: TianJiangAttack_12
+  - first:
+      213: 3123332457850194649
+    second: TianJiangAttack_13
+  - first:
+      213: -1513541723719309992
+    second: TianJiangAttack_14
+  - first:
+      213: 8368419663852311445
+    second: TianJiangAttack_15
+  - first:
+      213: -8913109357795454325
+    second: TianJiangAttack_16
+  - first:
+      213: 6180765174713060394
+    second: TianJiangAttack_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TianJiangAttack_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 183
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6422b90d16c90ae10800000000000000
+      internalID: 2206935761337131590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianJiangAttack_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 183
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697a4ee224d0be760800000000000000
+      internalID: 7488093383339321238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianJiangAttack_2
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 183
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d9fe93d1649a130800000000000000
+      internalID: 3578468470262570257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianJiangAttack_3
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 183
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bf55346405af5c0800000000000000
+      internalID: -4180941041352443030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianJiangAttack_4
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 183
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eba6a04b22b85b20800000000000000
+      internalID: 3123442240419441641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianJiangAttack_5
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 183
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a592874b48f3d90800000000000000
+      internalID: -7115822975577138591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianJiangAttack_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 103
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbf9721bcf1be610800000000000000
+      internalID: 1651448645410225107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianJiangAttack_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 103
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04289c8fe1b90e260800000000000000
+      internalID: 7124865167825404480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianJiangAttack_8
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 103
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ba5f0a041af7210800000000000000
+      internalID: 1332961313675389800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianJiangAttack_9
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 103
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3846db635b1bcac70800000000000000
+      internalID: 8983750748562875523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianJiangAttack_10
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 103
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bae49381bd218c70800000000000000
+      internalID: 8971502173138774713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianJiangAttack_11
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 103
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a121f89f1989c40800000000000000
+      internalID: 5519321844375755374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianJiangAttack_12
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 23
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaebc95fadad1e6a0800000000000000
+      internalID: -6421610959695200594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianJiangAttack_13
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 23
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dacb91825e485b20800000000000000
+      internalID: 3123332457850194649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianJiangAttack_14
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 23
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8556af442d1defae0800000000000000
+      internalID: -1513541723719309992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianJiangAttack_15
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 23
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5939f43b859922470800000000000000
+      internalID: 8368419663852311445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianJiangAttack_16
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 23
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82546443464e4480800000000000000
+      internalID: -8913109357795454325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianJiangAttack_17
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 23
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c80e6ed2d76c550800000000000000
+      internalID: 6180765174713060394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TianJiangAttack_0: 2206935761337131590
+      TianJiangAttack_1: 7488093383339321238
+      TianJiangAttack_10: 8971502173138774713
+      TianJiangAttack_11: 5519321844375755374
+      TianJiangAttack_12: -6421610959695200594
+      TianJiangAttack_13: 3123332457850194649
+      TianJiangAttack_14: -1513541723719309992
+      TianJiangAttack_15: 8368419663852311445
+      TianJiangAttack_16: -8913109357795454325
+      TianJiangAttack_17: 6180765174713060394
+      TianJiangAttack_2: 3578468470262570257
+      TianJiangAttack_3: -4180941041352443030
+      TianJiangAttack_4: 3123442240419441641
+      TianJiangAttack_5: -7115822975577138591
+      TianJiangAttack_6: 1651448645410225107
+      TianJiangAttack_7: 7124865167825404480
+      TianJiangAttack_8: 1332961313675389800
+      TianJiangAttack_9: 8983750748562875523
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

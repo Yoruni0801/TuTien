@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 29df565e222259d439a602b17485814e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1074165460463890904
+    second: MetalJie_0
+  - first:
+      213: 3223393806214857799
+    second: MetalJie_1
+  - first:
+      213: -3037453124148819248
+    second: MetalJie_2
+  - first:
+      213: -2342264469718494022
+    second: MetalJie_3
+  - first:
+      213: 5425224499004570890
+    second: MetalJie_4
+  - first:
+      213: 7206557265681582560
+    second: MetalJie_5
+  - first:
+      213: 7660818537091673956
+    second: MetalJie_6
+  - first:
+      213: -5324623034962673615
+    second: MetalJie_7
+  - first:
+      213: -6766194043172152891
+    second: MetalJie_8
+  - first:
+      213: -1286128063214084722
+    second: MetalJie_9
+  - first:
+      213: 1743989243044914537
+    second: MetalJie_10
+  - first:
+      213: 332508622225095031
+    second: MetalJie_11
+  - first:
+      213: 1832580692315461745
+    second: MetalJie_12
+  - first:
+      213: -8602472079059580141
+    second: MetalJie_13
+  - first:
+      213: 2919085216666550230
+    second: MetalJie_14
+  - first:
+      213: -6852525785498958872
+    second: MetalJie_15
+  - first:
+      213: 4458589916867352199
+    second: MetalJie_16
+  - first:
+      213: 2576180378843033665
+    second: MetalJie_17
+  - first:
+      213: -4376748499827007429
+    second: MetalJie_18
+  - first:
+      213: -3925227776659354041
+    second: MetalJie_19
+  - first:
+      213: -9078224617912120165
+    second: MetalJie_20
+  - first:
+      213: 7452300671686564800
+    second: MetalJie_21
+  - first:
+      213: -5205134275201746928
+    second: MetalJie_22
+  - first:
+      213: -1867710800203996975
+    second: MetalJie_23
+  - first:
+      213: 3046710945633034559
+    second: MetalJie_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MetalJie_0
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 995
+        width: 245
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1b1fc8bc338ee00800000000000000
+      internalID: 1074165460463890904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalJie_1
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 994
+        width: 43
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74481a6a69bcbbc20800000000000000
+      internalID: 3223393806214857799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalJie_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 827
+        width: 114
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da85390a7cc8d5d0800000000000000
+      internalID: -3037453124148819248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalJie_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 827
+        width: 114
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab41968efda9e7fd0800000000000000
+      internalID: -2342264469718494022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalJie_4
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 827
+        width: 114
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0df9e110f44a4b40800000000000000
+      internalID: 5425224499004570890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalJie_5
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 827
+        width: 114
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e90672b6a5d20460800000000000000
+      internalID: 7206557265681582560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalJie_6
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 827
+        width: 114
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fa318eed1b05a60800000000000000
+      internalID: 7660818537091673956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalJie_7
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 827
+        width: 114
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130003e8f832b16b0800000000000000
+      internalID: -5324623034962673615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalJie_8
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 594
+        width: 59
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c91c57dd56a912a0800000000000000
+      internalID: -6766194043172152891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalJie_9
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 585
+        width: 57
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d96783751c62ee0800000000000000
+      internalID: -1286128063214084722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalJie_10
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 510
+        width: 55
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9656bcbf9f4e33810800000000000000
+      internalID: 1743989243044914537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalJie_11
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 427
+        width: 114
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7793b7884de4d9400800000000000000
+      internalID: 332508622225095031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalJie_12
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 427
+        width: 114
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178d3b32e62ae6910800000000000000
+      internalID: 1832580692315461745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalJie_13
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 427
+        width: 114
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b0071d831ed9880800000000000000
+      internalID: -8602472079059580141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalJie_14
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 427
+        width: 114
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dff080e98ca28820800000000000000
+      internalID: 2919085216666550230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalJie_15
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 426
+        width: 116
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e34125ba10f6e0a0800000000000000
+      internalID: -6852525785498958872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalJie_16
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 431
+        width: 106
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786540228e710ed30800000000000000
+      internalID: 4458589916867352199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalJie_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 27
+        width: 114
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1403546c76e60c320800000000000000
+      internalID: 2576180378843033665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalJie_18
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 25
+        width: 118
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30669cad6aa243c0800000000000000
+      internalID: -4376748499827007429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalJie_19
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 50
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e09b5422ac689c0800000000000000
+      internalID: -3925227776659354041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalJie_20
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 71
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c442afecaa30280800000000000000
+      internalID: -9078224617912120165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalJie_21
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 58
+        width: 271
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb58471af3eb6760800000000000000
+      internalID: 7452300671686564800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalJie_22
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 71
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018b36664f5a3c7b0800000000000000
+      internalID: -5205134275201746928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalJie_23
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 26
+        width: 106
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d02eaa3cee8416e0800000000000000
+      internalID: -1867710800203996975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalJie_24
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 50
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3160cf7677184a20800000000000000
+      internalID: 3046710945633034559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MetalJie_0: 1074165460463890904
+      MetalJie_1: 3223393806214857799
+      MetalJie_10: 1743989243044914537
+      MetalJie_11: 332508622225095031
+      MetalJie_12: 1832580692315461745
+      MetalJie_13: -8602472079059580141
+      MetalJie_14: 2919085216666550230
+      MetalJie_15: -6852525785498958872
+      MetalJie_16: 4458589916867352199
+      MetalJie_17: 2576180378843033665
+      MetalJie_18: -4376748499827007429
+      MetalJie_19: -3925227776659354041
+      MetalJie_2: -3037453124148819248
+      MetalJie_20: -9078224617912120165
+      MetalJie_21: 7452300671686564800
+      MetalJie_22: -5205134275201746928
+      MetalJie_23: -1867710800203996975
+      MetalJie_24: 3046710945633034559
+      MetalJie_3: -2342264469718494022
+      MetalJie_4: 5425224499004570890
+      MetalJie_5: 7206557265681582560
+      MetalJie_6: 7660818537091673956
+      MetalJie_7: -5324623034962673615
+      MetalJie_8: -6766194043172152891
+      MetalJie_9: -1286128063214084722
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

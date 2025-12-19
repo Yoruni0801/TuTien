@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 7ff88b6f93f1a3c44931fe320f7eae06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3270261765282060507
+    second: LordCycle5ElementATKWater_0
+  - first:
+      213: -8802145611273986571
+    second: LordCycle5ElementATKWater_1
+  - first:
+      213: -7626580357594024964
+    second: LordCycle5ElementATKWater_2
+  - first:
+      213: -6043276919226216878
+    second: LordCycle5ElementATKWater_3
+  - first:
+      213: 5515165568854948981
+    second: LordCycle5ElementATKWater_4
+  - first:
+      213: 8334425230063103597
+    second: LordCycle5ElementATKWater_5
+  - first:
+      213: -4285167322881515040
+    second: LordCycle5ElementATKWater_6
+  - first:
+      213: 4638433984992716039
+    second: LordCycle5ElementATKWater_7
+  - first:
+      213: 2703148614284412971
+    second: LordCycle5ElementATKWater_8
+  - first:
+      213: -5149777032973581519
+    second: LordCycle5ElementATKWater_9
+  - first:
+      213: 7291574801414987113
+    second: LordCycle5ElementATKWater_10
+  - first:
+      213: -4301311642013448464
+    second: LordCycle5ElementATKWater_11
+  - first:
+      213: -8247466520358526488
+    second: LordCycle5ElementATKWater_12
+  - first:
+      213: -6170015962879582751
+    second: LordCycle5ElementATKWater_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LordCycle5ElementATKWater_0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 708
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52722d54042bd92d0800000000000000
+      internalID: -3270261765282060507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycle5ElementATKWater_1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 708
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd10cac33f78d580800000000000000
+      internalID: -8802145611273986571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycle5ElementATKWater_2
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 708
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3f2a67291f82690800000000000000
+      internalID: -7626580357594024964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycle5ElementATKWater_3
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 708
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e443e19a7f12ca0800000000000000
+      internalID: -6043276919226216878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycle5ElementATKWater_4
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 708
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c70114dddc98c40800000000000000
+      internalID: 5515165568854948981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycle5ElementATKWater_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 452
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ee6fcc693d9a370800000000000000
+      internalID: 8334425230063103597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycle5ElementATKWater_6
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 452
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1298c06070884c0800000000000000
+      internalID: -4285167322881515040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycle5ElementATKWater_7
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 452
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705279542270f5040800000000000000
+      internalID: 4638433984992716039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycle5ElementATKWater_8
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 452
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b280381c753838520800000000000000
+      internalID: 2703148614284412971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycle5ElementATKWater_9
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 452
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133052db2115888b0800000000000000
+      internalID: -5149777032973581519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycle5ElementATKWater_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 196
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d978346a0e03560800000000000000
+      internalID: 7291574801414987113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycle5ElementATKWater_11
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 196
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f64985d9dbae44c0800000000000000
+      internalID: -4301311642013448464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycle5ElementATKWater_12
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 196
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e16a1d85ec1b8d80800000000000000
+      internalID: -8247466520358526488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycle5ElementATKWater_13
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 196
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed92120c23bf5aa0800000000000000
+      internalID: -6170015962879582751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LordCycle5ElementATKWater_0: -3270261765282060507
+      LordCycle5ElementATKWater_1: -8802145611273986571
+      LordCycle5ElementATKWater_10: 7291574801414987113
+      LordCycle5ElementATKWater_11: -4301311642013448464
+      LordCycle5ElementATKWater_12: -8247466520358526488
+      LordCycle5ElementATKWater_13: -6170015962879582751
+      LordCycle5ElementATKWater_2: -7626580357594024964
+      LordCycle5ElementATKWater_3: -6043276919226216878
+      LordCycle5ElementATKWater_4: 5515165568854948981
+      LordCycle5ElementATKWater_5: 8334425230063103597
+      LordCycle5ElementATKWater_6: -4285167322881515040
+      LordCycle5ElementATKWater_7: 4638433984992716039
+      LordCycle5ElementATKWater_8: 2703148614284412971
+      LordCycle5ElementATKWater_9: -5149777032973581519
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

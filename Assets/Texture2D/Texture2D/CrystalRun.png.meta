@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 8382a02fd01dafd48a1054e9d12a9613
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4703128150378856963
+    second: CrystalRun_0
+  - first:
+      213: 3986377579199649236
+    second: CrystalRun_1
+  - first:
+      213: -8532660433603680995
+    second: CrystalRun_2
+  - first:
+      213: 7689274385042869603
+    second: CrystalRun_3
+  - first:
+      213: 345516844208970156
+    second: CrystalRun_4
+  - first:
+      213: -4760554660800029873
+    second: CrystalRun_5
+  - first:
+      213: 2445410235659099488
+    second: CrystalRun_6
+  - first:
+      213: 6499774474401923609
+    second: CrystalRun_7
+  - first:
+      213: 5930005890889539264
+    second: CrystalRun_8
+  - first:
+      213: -8434049233977973068
+    second: CrystalRun_9
+  - first:
+      213: 7522392335476850835
+    second: CrystalRun_10
+  - first:
+      213: 2748109746954926039
+    second: CrystalRun_11
+  - first:
+      213: 5146482682151326707
+    second: CrystalRun_12
+  - first:
+      213: -7630411749771370040
+    second: CrystalRun_13
+  - first:
+      213: -6095649707424059169
+    second: CrystalRun_14
+  - first:
+      213: -2306583354319706173
+    second: CrystalRun_15
+  - first:
+      213: 7485368558167454658
+    second: CrystalRun_16
+  - first:
+      213: -68432408854169114
+    second: CrystalRun_17
+  - first:
+      213: -1805149901725251927
+    second: CrystalRun_18
+  - first:
+      213: -8747948549607147733
+    second: CrystalRun_19
+  - first:
+      213: -4598809780346554920
+    second: CrystalRun_20
+  - first:
+      213: -4957751567504647601
+    second: CrystalRun_21
+  - first:
+      213: 2017565324531595954
+    second: CrystalRun_22
+  - first:
+      213: 8287251567960304891
+    second: CrystalRun_23
+  - first:
+      213: -7363573680099147331
+    second: CrystalRun_24
+  - first:
+      213: -1782010743322067044
+    second: CrystalRun_25
+  - first:
+      213: 8171821602248318571
+    second: CrystalRun_26
+  - first:
+      213: -2587573896933846961
+    second: CrystalRun_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CrystalRun_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 201
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd378f8dd12bbeb0800000000000000
+      internalID: -4703128150378856963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalRun_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 188
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5d6cc9945725730800000000000000
+      internalID: 3986377579199649236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalRun_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 198
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15a50a2b86e59980800000000000000
+      internalID: -8532660433603680995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalRun_3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 202
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d8dfc405ac5ba60800000000000000
+      internalID: 7689274385042869603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalRun_4
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 183
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca95dfa3db58bc400800000000000000
+      internalID: 345516844208970156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalRun_5
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 199
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b1f2d22cc1fedb0800000000000000
+      internalID: -4760554660800029873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalRun_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 203
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d909a27a7dfe120800000000000000
+      internalID: 2445410235659099488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalRun_7
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 177
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912c0ea7276d33a50800000000000000
+      internalID: 6499774474401923609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalRun_8
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 200
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ced17270fc9b4250800000000000000
+      internalID: 5930005890889539264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalRun_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 183
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6669e38ec34fa80800000000000000
+      internalID: -8434049233977973068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalRun_10
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 177
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390083949f7e46860800000000000000
+      internalID: 7522392335476850835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalRun_11
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 182
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d77907314f332620800000000000000
+      internalID: 2748109746954926039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalRun_12
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 177
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f354507bbafb6740800000000000000
+      internalID: 5146482682151326707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalRun_13
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 181
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c129e4f0f45b1690800000000000000
+      internalID: -7630411749771370040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalRun_14
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 76
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd076c123e6e76ba0800000000000000
+      internalID: -6095649707424059169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalRun_15
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 57
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7e1f8f8ae5dffd0800000000000000
+      internalID: -2306583354319706173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalRun_16
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 71
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3f2726b0f51e760800000000000000
+      internalID: 7485368558167454658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalRun_17
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 75
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e97f133611ec0ff0800000000000000
+      internalID: -68432408854169114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalRun_18
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 58
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6c55d7ab1d2f6e0800000000000000
+      internalID: -1805149901725251927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalRun_19
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 70
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27b54b842b099680800000000000000
+      internalID: -8747948549607147733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalRun_20
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 74
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5f9dccedebd20c0800000000000000
+      internalID: -4598809780346554920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalRun_21
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 59
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4adf367737823bb0800000000000000
+      internalID: -4957751567504647601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalRun_22
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 69
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2baf9df19f4dffb10800000000000000
+      internalID: 2017565324531595954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalRun_23
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 49
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfca290b46b320370800000000000000
+      internalID: 8287251567960304891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalRun_24
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 53
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1464870c45fc990800000000000000
+      internalID: -7363573680099147331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalRun_25
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 49
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fbb52aba60547e0800000000000000
+      internalID: -1782010743322067044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalRun_26
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 54
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6edfd97374286170800000000000000
+      internalID: 8171821602248318571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalRun_27
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 49
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f405f231047171cd0800000000000000
+      internalID: -2587573896933846961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CrystalRun_0: -4703128150378856963
+      CrystalRun_1: 3986377579199649236
+      CrystalRun_10: 7522392335476850835
+      CrystalRun_11: 2748109746954926039
+      CrystalRun_12: 5146482682151326707
+      CrystalRun_13: -7630411749771370040
+      CrystalRun_14: -6095649707424059169
+      CrystalRun_15: -2306583354319706173
+      CrystalRun_16: 7485368558167454658
+      CrystalRun_17: -68432408854169114
+      CrystalRun_18: -1805149901725251927
+      CrystalRun_19: -8747948549607147733
+      CrystalRun_2: -8532660433603680995
+      CrystalRun_20: -4598809780346554920
+      CrystalRun_21: -4957751567504647601
+      CrystalRun_22: 2017565324531595954
+      CrystalRun_23: 8287251567960304891
+      CrystalRun_24: -7363573680099147331
+      CrystalRun_25: -1782010743322067044
+      CrystalRun_26: 8171821602248318571
+      CrystalRun_27: -2587573896933846961
+      CrystalRun_3: 7689274385042869603
+      CrystalRun_4: 345516844208970156
+      CrystalRun_5: -4760554660800029873
+      CrystalRun_6: 2445410235659099488
+      CrystalRun_7: 6499774474401923609
+      CrystalRun_8: 5930005890889539264
+      CrystalRun_9: -8434049233977973068
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

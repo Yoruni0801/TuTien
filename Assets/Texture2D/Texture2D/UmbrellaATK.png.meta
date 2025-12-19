@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 43c8aaf9fb51f944cab614ea25d16429
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5414460250551691427
+    second: UmbrellaATK_0
+  - first:
+      213: 2384652662175051972
+    second: UmbrellaATK_1
+  - first:
+      213: 1057770765871396876
+    second: UmbrellaATK_2
+  - first:
+      213: -3154187320456527400
+    second: UmbrellaATK_3
+  - first:
+      213: -1283396073834745498
+    second: UmbrellaATK_4
+  - first:
+      213: 5312611572086555819
+    second: UmbrellaATK_5
+  - first:
+      213: -8960527990763008579
+    second: UmbrellaATK_6
+  - first:
+      213: -5837299340361406147
+    second: UmbrellaATK_7
+  - first:
+      213: -6959528760065568826
+    second: UmbrellaATK_8
+  - first:
+      213: -6079929329782221901
+    second: UmbrellaATK_9
+  - first:
+      213: 5537091644764203485
+    second: UmbrellaATK_10
+  - first:
+      213: -7550682640764803010
+    second: UmbrellaATK_11
+  - first:
+      213: -7907227067033704462
+    second: UmbrellaATK_12
+  - first:
+      213: 5407312025698917934
+    second: UmbrellaATK_13
+  - first:
+      213: -3508109650164893936
+    second: UmbrellaATK_14
+  - first:
+      213: 6556860031491746369
+    second: UmbrellaATK_15
+  - first:
+      213: -1324465183366092541
+    second: UmbrellaATK_16
+  - first:
+      213: -8191446692009777958
+    second: UmbrellaATK_17
+  - first:
+      213: 5934048574509443502
+    second: UmbrellaATK_18
+  - first:
+      213: 4885908738253183996
+    second: UmbrellaATK_19
+  - first:
+      213: -3024475523585373672
+    second: UmbrellaATK_20
+  - first:
+      213: -1818806771467182016
+    second: UmbrellaATK_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UmbrellaATK_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 525
+        width: 21
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a82b9c29e6042b40800000000000000
+      internalID: 5414460250551691427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaATK_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 525
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c032a936fcf71120800000000000000
+      internalID: 2384652662175051972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaATK_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 525
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08be8148e4fdae00800000000000000
+      internalID: 1057770765871396876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaATK_3
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 525
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1c529f7531a34d0800000000000000
+      internalID: -3154187320456527400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaATK_4
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 525
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661f2f01216703ee0800000000000000
+      internalID: -1283396073834745498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaATK_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 405
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba449dfc3103ab940800000000000000
+      internalID: 5312611572086555819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaATK_6
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 405
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd40ae644fc5a380800000000000000
+      internalID: -8960527990763008579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaATK_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 405
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39e2226d2fbdfea0800000000000000
+      internalID: -5837299340361406147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaATK_8
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 405
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf4d244779ca6f90800000000000000
+      internalID: -6959528760065568826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaATK_9
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 405
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b31ad6cc70cf9ba0800000000000000
+      internalID: -6079929329782221901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaATK_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 285
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd924fe9383b7dc40800000000000000
+      internalID: 5537091644764203485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaATK_11
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 285
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e386189b426963790800000000000000
+      internalID: -7550682640764803010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaATK_12
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 285
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f72a1770e2e34290800000000000000
+      internalID: -7907227067033704462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaATK_13
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 285
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e5b7163a1aa0b40800000000000000
+      internalID: 5407312025698917934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaATK_14
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 285
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0173dc42cd0b05fc0800000000000000
+      internalID: -3508109650164893936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaATK_15
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 165
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14aa50b7575aefa50800000000000000
+      internalID: 6556860031491746369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaATK_16
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 165
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309671cdeed8e9de0800000000000000
+      internalID: -1324465183366092541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaATK_17
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 165
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4653e32a2225e80800000000000000
+      internalID: -8191446692009777958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaATK_18
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 165
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea96c831db9f95250800000000000000
+      internalID: 5934048574509443502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaATK_19
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 165
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbde8c5c1c3ec340800000000000000
+      internalID: 4885908738253183996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaATK_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 45
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a84d02987e606d0800000000000000
+      internalID: -3024475523585373672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaATK_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 45
+        width: 21
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040af97b0ec42c6e0800000000000000
+      internalID: -1818806771467182016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UmbrellaATK_0: 5414460250551691427
+      UmbrellaATK_1: 2384652662175051972
+      UmbrellaATK_10: 5537091644764203485
+      UmbrellaATK_11: -7550682640764803010
+      UmbrellaATK_12: -7907227067033704462
+      UmbrellaATK_13: 5407312025698917934
+      UmbrellaATK_14: -3508109650164893936
+      UmbrellaATK_15: 6556860031491746369
+      UmbrellaATK_16: -1324465183366092541
+      UmbrellaATK_17: -8191446692009777958
+      UmbrellaATK_18: 5934048574509443502
+      UmbrellaATK_19: 4885908738253183996
+      UmbrellaATK_2: 1057770765871396876
+      UmbrellaATK_20: -3024475523585373672
+      UmbrellaATK_21: -1818806771467182016
+      UmbrellaATK_3: -3154187320456527400
+      UmbrellaATK_4: -1283396073834745498
+      UmbrellaATK_5: 5312611572086555819
+      UmbrellaATK_6: -8960527990763008579
+      UmbrellaATK_7: -5837299340361406147
+      UmbrellaATK_8: -6959528760065568826
+      UmbrellaATK_9: -6079929329782221901
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 19c8913e18af87e4bb84149db92aa572
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3166635195899496162
+    second: LordCycle5ElementATKFire_0
+  - first:
+      213: 5170486834609313610
+    second: LordCycle5ElementATKFire_1
+  - first:
+      213: -8541003054101726101
+    second: LordCycle5ElementATKFire_2
+  - first:
+      213: 5916977346159041020
+    second: LordCycle5ElementATKFire_3
+  - first:
+      213: 6024417038356655811
+    second: LordCycle5ElementATKFire_4
+  - first:
+      213: 899669472364458543
+    second: LordCycle5ElementATKFire_5
+  - first:
+      213: -8186774900058696732
+    second: LordCycle5ElementATKFire_6
+  - first:
+      213: 872233618861464884
+    second: LordCycle5ElementATKFire_7
+  - first:
+      213: 2122257595630009695
+    second: LordCycle5ElementATKFire_8
+  - first:
+      213: 9138238914939432481
+    second: LordCycle5ElementATKFire_9
+  - first:
+      213: 2723738639738254597
+    second: LordCycle5ElementATKFire_10
+  - first:
+      213: -2507169188096169121
+    second: LordCycle5ElementATKFire_11
+  - first:
+      213: 8636346323375568097
+    second: LordCycle5ElementATKFire_12
+  - first:
+      213: -8115216023807754739
+    second: LordCycle5ElementATKFire_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LordCycle5ElementATKFire_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 657
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19392f111add04d0800000000000000
+      internalID: -3166635195899496162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycle5ElementATKFire_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 657
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47d8b4b16241c740800000000000000
+      internalID: 5170486834609313610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycle5ElementATKFire_2
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 657
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c7db679f2487980800000000000000
+      internalID: -8541003054101726101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycle5ElementATKFire_3
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 657
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9d7ddfb835d1250800000000000000
+      internalID: 5916977346159041020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycle5ElementATKFire_4
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 657
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce2f0ea0670b9350800000000000000
+      internalID: 6024417038356655811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycle5ElementATKFire_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 401
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22fb835e944c7c00800000000000000
+      internalID: 899669472364458543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycle5ElementATKFire_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 401
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3dae19a9bb26e80800000000000000
+      internalID: -8186774900058696732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycle5ElementATKFire_7
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 401
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d1465eadbca1c00800000000000000
+      internalID: 872233618861464884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycle5ElementATKFire_8
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 401
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5db66df906c37d10800000000000000
+      internalID: 2122257595630009695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycle5ElementATKFire_9
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 401
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ead9d60eb81de70800000000000000
+      internalID: 9138238914939432481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycle5ElementATKFire_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 145
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505ba92acd9acc520800000000000000
+      internalID: 2723738639738254597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycle5ElementATKFire_11
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 145
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b29bf28eeb43dd0800000000000000
+      internalID: -2507169188096169121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycle5ElementATKFire_12
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 145
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e43d0a49377ad770800000000000000
+      internalID: 8636346323375568097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycle5ElementATKFire_13
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 145
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e7169c506f06f80800000000000000
+      internalID: -8115216023807754739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LordCycle5ElementATKFire_0: -3166635195899496162
+      LordCycle5ElementATKFire_1: 5170486834609313610
+      LordCycle5ElementATKFire_10: 2723738639738254597
+      LordCycle5ElementATKFire_11: -2507169188096169121
+      LordCycle5ElementATKFire_12: 8636346323375568097
+      LordCycle5ElementATKFire_13: -8115216023807754739
+      LordCycle5ElementATKFire_2: -8541003054101726101
+      LordCycle5ElementATKFire_3: 5916977346159041020
+      LordCycle5ElementATKFire_4: 6024417038356655811
+      LordCycle5ElementATKFire_5: 899669472364458543
+      LordCycle5ElementATKFire_6: -8186774900058696732
+      LordCycle5ElementATKFire_7: 872233618861464884
+      LordCycle5ElementATKFire_8: 2122257595630009695
+      LordCycle5ElementATKFire_9: 9138238914939432481
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

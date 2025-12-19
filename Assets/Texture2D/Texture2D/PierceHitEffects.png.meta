@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: e103fec494a3bd34790d061ae139805c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7933530089734121669
+    second: PierceHitEffects_0
+  - first:
+      213: 2660456462524762848
+    second: PierceHitEffects_1
+  - first:
+      213: 6818932708866830118
+    second: PierceHitEffects_2
+  - first:
+      213: 3356072239278149816
+    second: PierceHitEffects_3
+  - first:
+      213: 571469715713033821
+    second: PierceHitEffects_4
+  - first:
+      213: -8275459642744058681
+    second: PierceHitEffects_5
+  - first:
+      213: 6020029517041900890
+    second: PierceHitEffects_6
+  - first:
+      213: -5293721857451534784
+    second: PierceHitEffects_7
+  - first:
+      213: 5625227976386771857
+    second: PierceHitEffects_8
+  - first:
+      213: -918056073543079357
+    second: PierceHitEffects_9
+  - first:
+      213: -2321130133220732637
+    second: PierceHitEffects_10
+  - first:
+      213: -1547848553409146585
+    second: PierceHitEffects_11
+  - first:
+      213: 2840391532321010593
+    second: PierceHitEffects_12
+  - first:
+      213: -6020768263529539339
+    second: PierceHitEffects_13
+  - first:
+      213: -6808224571495154939
+    second: PierceHitEffects_14
+  - first:
+      213: -3635589464685267767
+    second: PierceHitEffects_15
+  - first:
+      213: 6702768432990714541
+    second: PierceHitEffects_16
+  - first:
+      213: 1087634265253553518
+    second: PierceHitEffects_17
+  - first:
+      213: -5496179471028764994
+    second: PierceHitEffects_18
+  - first:
+      213: -2393764285502620207
+    second: PierceHitEffects_19
+  - first:
+      213: 6191222532229430900
+    second: PierceHitEffects_20
+  - first:
+      213: -2861431202863368177
+    second: PierceHitEffects_21
+  - first:
+      213: -2984957131685114153
+    second: PierceHitEffects_22
+  - first:
+      213: 8172821697426677574
+    second: PierceHitEffects_23
+  - first:
+      213: -3847503792227412764
+    second: PierceHitEffects_24
+  - first:
+      213: -6060630549884742302
+    second: PierceHitEffects_25
+  - first:
+      213: 8659126177173148448
+    second: PierceHitEffects_26
+  - first:
+      213: -5964774793548693743
+    second: PierceHitEffects_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PierceHitEffects_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1662
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8a97d359f891e60800000000000000
+      internalID: 7933530089734121669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PierceHitEffects_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1660
+        width: 64
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea4e259e07dbe420800000000000000
+      internalID: 2660456462524762848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PierceHitEffects_2
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1660
+        width: 118
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fac43ab27b1ae50800000000000000
+      internalID: 6818932708866830118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PierceHitEffects_3
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 126
+        width: 414
+        height: 1542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b059be9be9239e20800000000000000
+      internalID: 3356072239278149816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PierceHitEffects_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1406
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5608fcbda44ee700800000000000000
+      internalID: 571469715713033821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PierceHitEffects_5
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1404
+        width: 64
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccc829dc49a72d80800000000000000
+      internalID: -8275459642744058681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PierceHitEffects_6
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1404
+        width: 118
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d16a443f07b8350800000000000000
+      internalID: 6020029517041900890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PierceHitEffects_7
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1405
+        width: 149
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04651ea940ce886b0800000000000000
+      internalID: -5293721857451534784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PierceHitEffects_8
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1150
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b7f117a03d01e40800000000000000
+      internalID: 5625227976386771857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PierceHitEffects_9
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1148
+        width: 64
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a239c7dd86243f0800000000000000
+      internalID: -918056073543079357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PierceHitEffects_10
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1148
+        width: 118
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3215ce31170b9cfd0800000000000000
+      internalID: -2321130133220732637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PierceHitEffects_11
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1149
+        width: 149
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72112f701ffe48ae0800000000000000
+      internalID: -1547848553409146585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PierceHitEffects_12
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 894
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a37503bc091b6720800000000000000
+      internalID: 2840391532321010593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PierceHitEffects_13
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 892
+        width: 64
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f85069e92fe17ca0800000000000000
+      internalID: -6020768263529539339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PierceHitEffects_14
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 892
+        width: 118
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bf1f0e2d35481a0800000000000000
+      internalID: -6808224571495154939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PierceHitEffects_15
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 893
+        width: 149
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c43840e4aacb8dc0800000000000000
+      internalID: -3635589464685267767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PierceHitEffects_16
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 638
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daafc148064050d50800000000000000
+      internalID: 6702768432990714541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PierceHitEffects_17
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 636
+        width: 64
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e652bf90a9d081f00800000000000000
+      internalID: 1087634265253553518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PierceHitEffects_18
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 636
+        width: 118
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe398f14e5a9b3b0800000000000000
+      internalID: -5496179471028764994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PierceHitEffects_19
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 637
+        width: 149
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd7996a014a7ced0800000000000000
+      internalID: -2393764285502620207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PierceHitEffects_20
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 382
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47efdee2714abe550800000000000000
+      internalID: 6191222532229430900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PierceHitEffects_21
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 380
+        width: 64
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f083c144b772a48d0800000000000000
+      internalID: -2861431202863368177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PierceHitEffects_22
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 380
+        width: 118
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dec320cd4d4396d0800000000000000
+      internalID: -2984957131685114153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PierceHitEffects_23
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 381
+        width: 149
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fd8b74802bb6170800000000000000
+      internalID: 8172821697426677574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PierceHitEffects_24
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 126
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e411589fabea9ac0800000000000000
+      internalID: -3847503792227412764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PierceHitEffects_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 124
+        width: 64
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2655d3f10a054eba0800000000000000
+      internalID: -6060630549884742302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PierceHitEffects_26
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 124
+        width: 118
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02311bf41656b2870800000000000000
+      internalID: 8659126177173148448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PierceHitEffects_27
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 125
+        width: 149
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f73519decd83da0800000000000000
+      internalID: -5964774793548693743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PierceHitEffects_0: 7933530089734121669
+      PierceHitEffects_1: 2660456462524762848
+      PierceHitEffects_10: -2321130133220732637
+      PierceHitEffects_11: -1547848553409146585
+      PierceHitEffects_12: 2840391532321010593
+      PierceHitEffects_13: -6020768263529539339
+      PierceHitEffects_14: -6808224571495154939
+      PierceHitEffects_15: -3635589464685267767
+      PierceHitEffects_16: 6702768432990714541
+      PierceHitEffects_17: 1087634265253553518
+      PierceHitEffects_18: -5496179471028764994
+      PierceHitEffects_19: -2393764285502620207
+      PierceHitEffects_2: 6818932708866830118
+      PierceHitEffects_20: 6191222532229430900
+      PierceHitEffects_21: -2861431202863368177
+      PierceHitEffects_22: -2984957131685114153
+      PierceHitEffects_23: 8172821697426677574
+      PierceHitEffects_24: -3847503792227412764
+      PierceHitEffects_25: -6060630549884742302
+      PierceHitEffects_26: 8659126177173148448
+      PierceHitEffects_27: -5964774793548693743
+      PierceHitEffects_3: 3356072239278149816
+      PierceHitEffects_4: 571469715713033821
+      PierceHitEffects_5: -8275459642744058681
+      PierceHitEffects_6: 6020029517041900890
+      PierceHitEffects_7: -5293721857451534784
+      PierceHitEffects_8: 5625227976386771857
+      PierceHitEffects_9: -918056073543079357
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: f344b44e5d682b34f8270400d0ad7c21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3162282292713972774
+    second: CarrierATK2_0
+  - first:
+      213: 8425816671121091540
+    second: CarrierATK2_1
+  - first:
+      213: -8306614302202345810
+    second: CarrierATK2_2
+  - first:
+      213: -3624055311724759939
+    second: CarrierATK2_3
+  - first:
+      213: -8647539666498029090
+    second: CarrierATK2_4
+  - first:
+      213: 3243039287924118531
+    second: CarrierATK2_5
+  - first:
+      213: 1755365784874981616
+    second: CarrierATK2_6
+  - first:
+      213: -8393259962822511546
+    second: CarrierATK2_7
+  - first:
+      213: 7612134926423502231
+    second: CarrierATK2_8
+  - first:
+      213: -4753968123659143785
+    second: CarrierATK2_9
+  - first:
+      213: -8976632540245593542
+    second: CarrierATK2_10
+  - first:
+      213: 4293015966305960302
+    second: CarrierATK2_11
+  - first:
+      213: -8359912319262793922
+    second: CarrierATK2_12
+  - first:
+      213: 2786235711013739475
+    second: CarrierATK2_13
+  - first:
+      213: -6386755023434675629
+    second: CarrierATK2_14
+  - first:
+      213: -8405639551164077025
+    second: CarrierATK2_15
+  - first:
+      213: -1669912541635321795
+    second: CarrierATK2_16
+  - first:
+      213: 2959240813336354076
+    second: CarrierATK2_17
+  - first:
+      213: 5389330288868902895
+    second: CarrierATK2_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CarrierATK2_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 359
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb964f52015d14d0800000000000000
+      internalID: -3162282292713972774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrierATK2_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 359
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbacb8de938ee470800000000000000
+      internalID: 8425816671121091540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrierATK2_2
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 359
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6cc0f6d4af8bc80800000000000000
+      internalID: -8306614302202345810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrierATK2_3
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 359
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74374225e4c4bdc0800000000000000
+      internalID: -3624055311724759939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrierATK2_4
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 359
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9f84d6d74cdf780800000000000000
+      internalID: -8647539666498029090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrierATK2_5
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 359
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3045a5dcc07910d20800000000000000
+      internalID: 3243039287924118531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrierATK2_6
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 209
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8195a81ef4c5810800000000000000
+      internalID: 1755365784874981616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrierATK2_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 209
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644b4708886258b80800000000000000
+      internalID: -8393259962822511546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrierATK2_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 209
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d21df726cb3a960800000000000000
+      internalID: 7612134926423502231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrierATK2_9
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 209
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79534cbdd23860eb0800000000000000
+      internalID: -4753968123659143785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrierATK2_10
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 209
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32f27fc3489c6380800000000000000
+      internalID: -8976632540245593542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrierATK2_11
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 184
+        width: 128
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e614fb6a64bd39b30800000000000000
+      internalID: 4293015966305960302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrierATK2_12
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 161
+        width: 98
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fdde0d900abfb80800000000000000
+      internalID: -8359912319262793922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrierATK2_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 29
+        width: 125
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db5b77fd92baa620800000000000000
+      internalID: 2786235711013739475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrierATK2_14
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 34
+        width: 109
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a0cb80520bd57a0800000000000000
+      internalID: -6386755023434675629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrierATK2_15
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 35
+        width: 90
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c24eafc5b295b80800000000000000
+      internalID: -8405639551164077025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrierATK2_16
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 50
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d306bd5146743d8e0800000000000000
+      internalID: -1669912541635321795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrierATK2_17
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 59
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d50cb47d5511920800000000000000
+      internalID: 2959240813336354076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrierATK2_18
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 59
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7c845085fbaca40800000000000000
+      internalID: 5389330288868902895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CarrierATK2_0: -3162282292713972774
+      CarrierATK2_1: 8425816671121091540
+      CarrierATK2_10: -8976632540245593542
+      CarrierATK2_11: 4293015966305960302
+      CarrierATK2_12: -8359912319262793922
+      CarrierATK2_13: 2786235711013739475
+      CarrierATK2_14: -6386755023434675629
+      CarrierATK2_15: -8405639551164077025
+      CarrierATK2_16: -1669912541635321795
+      CarrierATK2_17: 2959240813336354076
+      CarrierATK2_18: 5389330288868902895
+      CarrierATK2_2: -8306614302202345810
+      CarrierATK2_3: -3624055311724759939
+      CarrierATK2_4: -8647539666498029090
+      CarrierATK2_5: 3243039287924118531
+      CarrierATK2_6: 1755365784874981616
+      CarrierATK2_7: -8393259962822511546
+      CarrierATK2_8: 7612134926423502231
+      CarrierATK2_9: -4753968123659143785
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: a526a69d2402c844dbba974cfd11f521
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4698481044213484464
+    second: EarthFormation_0
+  - first:
+      213: -3601792132367824921
+    second: EarthFormation_1
+  - first:
+      213: 60145326243653158
+    second: EarthFormation_2
+  - first:
+      213: -6576995805508084012
+    second: EarthFormation_3
+  - first:
+      213: 4353095564757324361
+    second: EarthFormation_4
+  - first:
+      213: -8295636564636634880
+    second: EarthFormation_5
+  - first:
+      213: 3337085261181416232
+    second: EarthFormation_6
+  - first:
+      213: -8971935204524999282
+    second: EarthFormation_7
+  - first:
+      213: -3017189840321834575
+    second: EarthFormation_8
+  - first:
+      213: 4564854459954686515
+    second: EarthFormation_9
+  - first:
+      213: 7120330465599872049
+    second: EarthFormation_10
+  - first:
+      213: 455637016631035710
+    second: EarthFormation_11
+  - first:
+      213: 3546855176782222049
+    second: EarthFormation_12
+  - first:
+      213: -5927948960225947389
+    second: EarthFormation_13
+  - first:
+      213: -3425468029609172315
+    second: EarthFormation_14
+  - first:
+      213: 4559996644954448150
+    second: EarthFormation_15
+  - first:
+      213: 4690423784679265699
+    second: EarthFormation_16
+  - first:
+      213: 7687774469180926223
+    second: EarthFormation_17
+  - first:
+      213: 6647151898159892237
+    second: EarthFormation_18
+  - first:
+      213: 2560828258946757118
+    second: EarthFormation_19
+  - first:
+      213: -572849983703243608
+    second: EarthFormation_20
+  - first:
+      213: -4043742004968304463
+    second: EarthFormation_21
+  - first:
+      213: 7516037544075758847
+    second: EarthFormation_22
+  - first:
+      213: -9020541564148321466
+    second: EarthFormation_23
+  - first:
+      213: 5798561642895410725
+    second: EarthFormation_24
+  - first:
+      213: 3221334602739941662
+    second: EarthFormation_25
+  - first:
+      213: -7024547196685195612
+    second: EarthFormation_26
+  - first:
+      213: -8260685301705614432
+    second: EarthFormation_27
+  - first:
+      213: -1890252171146167387
+    second: EarthFormation_28
+  - first:
+      213: 5011686206491044814
+    second: EarthFormation_29
+  - first:
+      213: -7908039696264044370
+    second: EarthFormation_30
+  - first:
+      213: -5219189380921144384
+    second: EarthFormation_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EarthFormation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1700
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb4048bd9b543140800000000000000
+      internalID: 4698481044213484464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthFormation_1
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1700
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e74b63832dd30ec0800000000000000
+      internalID: -3601792132367824921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthFormation_2
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1700
+        width: 411
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62627a50bdda5d000800000000000000
+      internalID: 60145326243653158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthFormation_3
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1700
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ded47b4921d9b4a0800000000000000
+      internalID: -6576995805508084012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthFormation_4
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1700
+        width: 409
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94250ba3a5d496c30800000000000000
+      internalID: 4353095564757324361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthFormation_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1416
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00177132f7affdc80800000000000000
+      internalID: -8295636564636634880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthFormation_6
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1416
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823f8e94d55bf4e20800000000000000
+      internalID: 3337085261181416232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthFormation_7
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1416
+        width: 411
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d377287784d7380800000000000000
+      internalID: -8971935204524999282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthFormation_8
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1416
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b113b373d9c026d0800000000000000
+      internalID: -3017189840321834575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthFormation_9
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1416
+        width: 409
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ae4f812fe995f30800000000000000
+      internalID: 4564854459954686515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthFormation_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1133
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cd87555de70d260800000000000000
+      internalID: 7120330465599872049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthFormation_11
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1133
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37cfcad37fb25600800000000000000
+      internalID: 455637016631035710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthFormation_12
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1133
+        width: 411
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e21cd1cdf5f83130800000000000000
+      internalID: 3546855176782222049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthFormation_13
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1133
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301161b04d1bbbda0800000000000000
+      internalID: -5927948960225947389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthFormation_14
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1133
+        width: 409
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a220b9d9fa4670d0800000000000000
+      internalID: -3425468029609172315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthFormation_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 850
+        width: 410
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611ab77e9cc584f30800000000000000
+      internalID: 4559996644954448150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthFormation_16
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 850
+        width: 410
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5d9dbc49bb71140800000000000000
+      internalID: 4690423784679265699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthFormation_17
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 850
+        width: 411
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09a8dce52670ba60800000000000000
+      internalID: 7687774469180926223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthFormation_18
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 850
+        width: 410
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0742e9ee6d6f3c50800000000000000
+      internalID: 6647151898159892237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthFormation_19
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 850
+        width: 409
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1bd41dbb3e98320800000000000000
+      internalID: 2560828258946757118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthFormation_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 566
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4a7c399f3dc08f0800000000000000
+      internalID: -572849983703243608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthFormation_21
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 566
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0d986321eb1e7c0800000000000000
+      internalID: -4043742004968304463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthFormation_22
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 566
+        width: 411
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc822d13545e4860800000000000000
+      internalID: 7516037544075758847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthFormation_23
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 566
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643fa438d3990d280800000000000000
+      internalID: -9020541564148321466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthFormation_24
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 566
+        width: 409
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5268cf49711a87050800000000000000
+      internalID: 5798561642895410725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthFormation_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 283
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e110dfaf0ca74bc20800000000000000
+      internalID: 3221334602739941662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthFormation_26
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 283
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6ec91da8bc38e90800000000000000
+      internalID: -7024547196685195612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthFormation_27
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 283
+        width: 411
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abdb8e2c762c5d80800000000000000
+      internalID: -8260685301705614432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthFormation_28
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 283
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abfbe25aa974c5e0800000000000000
+      internalID: -1890252171146167387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthFormation_29
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 283
+        width: 409
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbaf9f3d061d8540800000000000000
+      internalID: 5011686206491044814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthFormation_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 410
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea06e7a7bcff04290800000000000000
+      internalID: -7908039696264044370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthFormation_31
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 410
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb44b619e6b197b0800000000000000
+      internalID: -5219189380921144384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EarthFormation_0: 4698481044213484464
+      EarthFormation_1: -3601792132367824921
+      EarthFormation_10: 7120330465599872049
+      EarthFormation_11: 455637016631035710
+      EarthFormation_12: 3546855176782222049
+      EarthFormation_13: -5927948960225947389
+      EarthFormation_14: -3425468029609172315
+      EarthFormation_15: 4559996644954448150
+      EarthFormation_16: 4690423784679265699
+      EarthFormation_17: 7687774469180926223
+      EarthFormation_18: 6647151898159892237
+      EarthFormation_19: 2560828258946757118
+      EarthFormation_2: 60145326243653158
+      EarthFormation_20: -572849983703243608
+      EarthFormation_21: -4043742004968304463
+      EarthFormation_22: 7516037544075758847
+      EarthFormation_23: -9020541564148321466
+      EarthFormation_24: 5798561642895410725
+      EarthFormation_25: 3221334602739941662
+      EarthFormation_26: -7024547196685195612
+      EarthFormation_27: -8260685301705614432
+      EarthFormation_28: -1890252171146167387
+      EarthFormation_29: 5011686206491044814
+      EarthFormation_3: -6576995805508084012
+      EarthFormation_30: -7908039696264044370
+      EarthFormation_31: -5219189380921144384
+      EarthFormation_4: 4353095564757324361
+      EarthFormation_5: -8295636564636634880
+      EarthFormation_6: 3337085261181416232
+      EarthFormation_7: -8971935204524999282
+      EarthFormation_8: -3017189840321834575
+      EarthFormation_9: 4564854459954686515
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

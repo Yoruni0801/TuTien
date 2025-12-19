@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 64a37549367d0534c9f8b582b75fae15
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7615490081594248018
+    second: BossRoomProps_0
+  - first:
+      213: -5844642886357434444
+    second: BossRoomProps_1
+  - first:
+      213: 6841988915393500622
+    second: BossRoomProps_2
+  - first:
+      213: 1726750469790560167
+    second: BossRoomProps_3
+  - first:
+      213: 258501370335688190
+    second: BossRoomProps_4
+  - first:
+      213: -4478550858150508459
+    second: BossRoomProps_5
+  - first:
+      213: 2998403893947892030
+    second: BossRoomProps_6
+  - first:
+      213: 1542427530934898322
+    second: BossRoomProps_7
+  - first:
+      213: -1303218089989313936
+    second: BossRoomProps_8
+  - first:
+      213: -7984059109950050768
+    second: BossRoomProps_9
+  - first:
+      213: -5722361214211857762
+    second: BossRoomProps_10
+  - first:
+      213: 8365202870490962408
+    second: BossRoomProps_11
+  - first:
+      213: -7280953830878303508
+    second: BossRoomProps_12
+  - first:
+      213: 6389882384226561297
+    second: BossRoomProps_13
+  - first:
+      213: -4194691860784189633
+    second: BossRoomProps_14
+  - first:
+      213: -7460763618931794052
+    second: BossRoomProps_15
+  - first:
+      213: -4436564248423310612
+    second: BossRoomProps_16
+  - first:
+      213: 359092773726229844
+    second: BossRoomProps_17
+  - first:
+      213: -1493590471705823205
+    second: BossRoomProps_18
+  - first:
+      213: -7034087474845165737
+    second: BossRoomProps_19
+  - first:
+      213: -3443766028986954847
+    second: BossRoomProps_20
+  - first:
+      213: 5669684760307061031
+    second: BossRoomProps_21
+  - first:
+      213: 375351016570754549
+    second: BossRoomProps_22
+  - first:
+      213: -930970294132345455
+    second: BossRoomProps_23
+  - first:
+      213: 8148301794907144435
+    second: BossRoomProps_24
+  - first:
+      213: -2747866218027821274
+    second: BossRoomProps_25
+  - first:
+      213: -3413726969547129577
+    second: BossRoomProps_26
+  - first:
+      213: 6013279871964513107
+    second: BossRoomProps_27
+  - first:
+      213: -7552477822635660622
+    second: BossRoomProps_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossRoomProps_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 569
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea470109e18505690800000000000000
+      internalID: -7615490081594248018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossRoomProps_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 569
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfb6a7d248a3eea0800000000000000
+      internalID: -5844642886357434444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossRoomProps_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 570
+        width: 98
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5903b0ba0a3fe50800000000000000
+      internalID: 6841988915393500622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossRoomProps_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 570
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afea9f4766a6f710800000000000000
+      internalID: 1726750469790560167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossRoomProps_4
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 570
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef57fc070a1669300800000000000000
+      internalID: 258501370335688190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossRoomProps_5
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 570
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5580b6f09bdf8d1c0800000000000000
+      internalID: -4478550858150508459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossRoomProps_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 433
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3189ef84787c9920800000000000000
+      internalID: 2998403893947892030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossRoomProps_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 439
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e4821daadc76510800000000000000
+      internalID: 1542427530934898322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossRoomProps_8
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 433
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ae2594d0a0aede0800000000000000
+      internalID: -1303218089989313936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossRoomProps_9
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 436
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ea4b57a8ce23190800000000000000
+      internalID: -7984059109950050768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossRoomProps_10
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 435
+        width: 18
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92ed664bc61690b0800000000000000
+      internalID: -5722361214211857762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossRoomProps_11
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 443
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e911b1a0bb271470800000000000000
+      internalID: 8365202870490962408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossRoomProps_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 312
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceaaa74211bd4fa90800000000000000
+      internalID: -7280953830878303508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossRoomProps_13
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 315
+        width: 46
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11da9546c2c6da850800000000000000
+      internalID: 6389882384226561297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossRoomProps_14
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 314
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f6cbf1af579c5c0800000000000000
+      internalID: -4194691860784189633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossRoomProps_15
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 313
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f9964740b067890800000000000000
+      internalID: -7460763618931794052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossRoomProps_16
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 315
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cead78d62582e62c0800000000000000
+      internalID: -4436564248423310612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossRoomProps_17
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 317
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4559c53a9f0cbf400800000000000000
+      internalID: 359092773726229844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossRoomProps_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 182
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18f01e1163b54be0800000000000000
+      internalID: -1493590471705823205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossRoomProps_19
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 185
+        width: 50
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75754d6b5b6e16e90800000000000000
+      internalID: -7034087474845165737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossRoomProps_20
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 183
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abcca0ea094530d0800000000000000
+      internalID: -3443766028986954847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossRoomProps_21
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 179
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7215c8e0044ceae40800000000000000
+      internalID: 5669684760307061031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossRoomProps_22
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 181
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f518c8c2c3853500800000000000000
+      internalID: 375351016570754549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossRoomProps_23
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 182
+        width: 65
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195fcc133778413f0800000000000000
+      internalID: -930970294132345455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossRoomProps_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 53
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f04e189f45941170800000000000000
+      internalID: 8148301794907144435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossRoomProps_25
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 60
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627d728cb3e9dd9d0800000000000000
+      internalID: -2747866218027821274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossRoomProps_26
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 57
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71df8fb686100a0d0800000000000000
+      internalID: -3413726969547129577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossRoomProps_27
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 60
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353837f0f26737350800000000000000
+      internalID: 6013279871964513107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossRoomProps_28
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 58
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba29cf5f65303790800000000000000
+      internalID: -7552477822635660622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BossRoomProps_0: -7615490081594248018
+      BossRoomProps_1: -5844642886357434444
+      BossRoomProps_10: -5722361214211857762
+      BossRoomProps_11: 8365202870490962408
+      BossRoomProps_12: -7280953830878303508
+      BossRoomProps_13: 6389882384226561297
+      BossRoomProps_14: -4194691860784189633
+      BossRoomProps_15: -7460763618931794052
+      BossRoomProps_16: -4436564248423310612
+      BossRoomProps_17: 359092773726229844
+      BossRoomProps_18: -1493590471705823205
+      BossRoomProps_19: -7034087474845165737
+      BossRoomProps_2: 6841988915393500622
+      BossRoomProps_20: -3443766028986954847
+      BossRoomProps_21: 5669684760307061031
+      BossRoomProps_22: 375351016570754549
+      BossRoomProps_23: -930970294132345455
+      BossRoomProps_24: 8148301794907144435
+      BossRoomProps_25: -2747866218027821274
+      BossRoomProps_26: -3413726969547129577
+      BossRoomProps_27: 6013279871964513107
+      BossRoomProps_28: -7552477822635660622
+      BossRoomProps_3: 1726750469790560167
+      BossRoomProps_4: 258501370335688190
+      BossRoomProps_5: -4478550858150508459
+      BossRoomProps_6: 2998403893947892030
+      BossRoomProps_7: 1542427530934898322
+      BossRoomProps_8: -1303218089989313936
+      BossRoomProps_9: -7984059109950050768
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

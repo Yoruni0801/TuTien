@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 312d6990e0c88484289955ece19209f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6569838192546636107
+    second: Zone7SkillFX1_0
+  - first:
+      213: -4488411589789938736
+    second: Zone7SkillFX1_1
+  - first:
+      213: -1225658954483077959
+    second: Zone7SkillFX1_2
+  - first:
+      213: -8872070667623795900
+    second: Zone7SkillFX1_3
+  - first:
+      213: -5158577870573003389
+    second: Zone7SkillFX1_4
+  - first:
+      213: -8403638224109362684
+    second: Zone7SkillFX1_5
+  - first:
+      213: 5128716819772937227
+    second: Zone7SkillFX1_6
+  - first:
+      213: -275869424270355168
+    second: Zone7SkillFX1_7
+  - first:
+      213: 2431965938862242646
+    second: Zone7SkillFX1_8
+  - first:
+      213: -5749527285482501568
+    second: Zone7SkillFX1_9
+  - first:
+      213: -4139169740322567556
+    second: Zone7SkillFX1_10
+  - first:
+      213: 8476157109911390382
+    second: Zone7SkillFX1_11
+  - first:
+      213: -210891379439920504
+    second: Zone7SkillFX1_12
+  - first:
+      213: -1578708192109383400
+    second: Zone7SkillFX1_13
+  - first:
+      213: -5633565866814177591
+    second: Zone7SkillFX1_14
+  - first:
+      213: 3870446038736527824
+    second: Zone7SkillFX1_15
+  - first:
+      213: 6165096317197431699
+    second: Zone7SkillFX1_16
+  - first:
+      213: -8490459512177105171
+    second: Zone7SkillFX1_17
+  - first:
+      213: -6463523215355491513
+    second: Zone7SkillFX1_18
+  - first:
+      213: -1742806337438987340
+    second: Zone7SkillFX1_19
+  - first:
+      213: 7967028583781025327
+    second: Zone7SkillFX1_20
+  - first:
+      213: 5992612688113144238
+    second: Zone7SkillFX1_21
+  - first:
+      213: -6310150006220587697
+    second: Zone7SkillFX1_22
+  - first:
+      213: -4043260582290062704
+    second: Zone7SkillFX1_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zone7SkillFX1_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 574
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be967de8fe33d4a0800000000000000
+      internalID: -6569838192546636107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone7SkillFX1_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 574
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db03d09075f5b1c0800000000000000
+      internalID: -4488411589789938736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone7SkillFX1_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 574
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc624abca59dfee0800000000000000
+      internalID: -1225658954483077959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone7SkillFX1_3
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 574
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443fe1aebb210e480800000000000000
+      internalID: -8872070667623795900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone7SkillFX1_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 574
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d1e4e02cc0968b0800000000000000
+      internalID: -5158577870573003389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone7SkillFX1_5
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 574
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402211f3f87406b80800000000000000
+      internalID: -8403638224109362684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone7SkillFX1_6
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 574
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04132446ccdc2740800000000000000
+      internalID: 5128716819772937227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone7SkillFX1_7
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 574
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02559f1683aeb2cf0800000000000000
+      internalID: -275869424270355168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone7SkillFX1_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 172
+        width: 85
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bbbb3e22410c120800000000000000
+      internalID: 2431965938862242646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone7SkillFX1_9
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 203
+        width: 66
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a466a65639530b0800000000000000
+      internalID: -5749527285482501568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone7SkillFX1_10
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 306
+        width: 22
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a070b2d07be86c0800000000000000
+      internalID: -4139169740322567556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone7SkillFX1_11
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 326
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea88bac9bfb51a570800000000000000
+      internalID: 8476157109911390382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone7SkillFX1_12
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 274
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a9a426863c21df0800000000000000
+      internalID: -210891379439920504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone7SkillFX1_13
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 300
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811325d734d471ae0800000000000000
+      internalID: -1578708192109383400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone7SkillFX1_14
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 288
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce76c921bd81d1b0800000000000000
+      internalID: -5633565866814177591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone7SkillFX1_15
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 210
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1653d6a2696b530800000000000000
+      internalID: 3870446038736527824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone7SkillFX1_16
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 266
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3933f98bf62de8550800000000000000
+      internalID: 6165096317197431699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone7SkillFX1_17
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 245
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6e8dcde04db2a80800000000000000
+      internalID: -8490459512177105171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone7SkillFX1_18
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 236
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bce3f71e3fc46a0800000000000000
+      internalID: -6463523215355491513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone7SkillFX1_19
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 172
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb46a0bede40d7e0800000000000000
+      internalID: -1742806337438987340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone7SkillFX1_20
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 172
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26c6ab2942909e60800000000000000
+      internalID: 7967028583781025327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone7SkillFX1_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 172
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea19b775d790a2350800000000000000
+      internalID: 5992612688113144238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone7SkillFX1_22
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 172
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4dfacf7008dd68a0800000000000000
+      internalID: -6310150006220587697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone7SkillFX1_23
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 212
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092034a2ce373e7c0800000000000000
+      internalID: -4043260582290062704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Zone7SkillFX1_0: -6569838192546636107
+      Zone7SkillFX1_1: -4488411589789938736
+      Zone7SkillFX1_10: -4139169740322567556
+      Zone7SkillFX1_11: 8476157109911390382
+      Zone7SkillFX1_12: -210891379439920504
+      Zone7SkillFX1_13: -1578708192109383400
+      Zone7SkillFX1_14: -5633565866814177591
+      Zone7SkillFX1_15: 3870446038736527824
+      Zone7SkillFX1_16: 6165096317197431699
+      Zone7SkillFX1_17: -8490459512177105171
+      Zone7SkillFX1_18: -6463523215355491513
+      Zone7SkillFX1_19: -1742806337438987340
+      Zone7SkillFX1_2: -1225658954483077959
+      Zone7SkillFX1_20: 7967028583781025327
+      Zone7SkillFX1_21: 5992612688113144238
+      Zone7SkillFX1_22: -6310150006220587697
+      Zone7SkillFX1_23: -4043260582290062704
+      Zone7SkillFX1_3: -8872070667623795900
+      Zone7SkillFX1_4: -5158577870573003389
+      Zone7SkillFX1_5: -8403638224109362684
+      Zone7SkillFX1_6: 5128716819772937227
+      Zone7SkillFX1_7: -275869424270355168
+      Zone7SkillFX1_8: 2431965938862242646
+      Zone7SkillFX1_9: -5749527285482501568
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

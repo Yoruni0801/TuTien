@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 0e7d04ca7a2e8954ba6fcc6082c28e09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4256993628199361226
+    second: AFC_ATK3PrecastFX_0
+  - first:
+      213: 425849448601675515
+    second: AFC_ATK3PrecastFX_1
+  - first:
+      213: 6657171775824425778
+    second: AFC_ATK3PrecastFX_2
+  - first:
+      213: 2699795754993546102
+    second: AFC_ATK3PrecastFX_3
+  - first:
+      213: -8897873071457695839
+    second: AFC_ATK3PrecastFX_4
+  - first:
+      213: -1671980461951475977
+    second: AFC_ATK3PrecastFX_5
+  - first:
+      213: 6374385942126286204
+    second: AFC_ATK3PrecastFX_6
+  - first:
+      213: 7939512276935192529
+    second: AFC_ATK3PrecastFX_7
+  - first:
+      213: 157821384716464603
+    second: AFC_ATK3PrecastFX_8
+  - first:
+      213: -5082162862693421001
+    second: AFC_ATK3PrecastFX_9
+  - first:
+      213: 7559568870295038426
+    second: AFC_ATK3PrecastFX_10
+  - first:
+      213: -1106870839067382350
+    second: AFC_ATK3PrecastFX_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AFC_ATK3PrecastFX_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635631489de1ce4c0800000000000000
+      internalID: -4256993628199361226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_ATK3PrecastFX_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 6
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6e2b731dbe8e500800000000000000
+      internalID: 425849448601675515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_ATK3PrecastFX_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 6
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23375ca7576036c50800000000000000
+      internalID: 6657171775824425778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_ATK3PrecastFX_3
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 6
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6737f7e5fe9977520800000000000000
+      internalID: 2699795754993546102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_ATK3PrecastFX_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 6
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7004f9597648480800000000000000
+      internalID: -8897873071457695839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_ATK3PrecastFX_5
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 6
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe1dfdd0aeebc8e0800000000000000
+      internalID: -1671980461951475977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_ATK3PrecastFX_6
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 6
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c755eadcd3e567850800000000000000
+      internalID: 6374385942126286204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_ATK3PrecastFX_7
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 6
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df239cb950de2e60800000000000000
+      internalID: 7939512276935192529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_ATK3PrecastFX_8
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 6
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd13cf596b1b03200800000000000000
+      internalID: 157821384716464603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_ATK3PrecastFX_9
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 6
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730f9768dc78879b0800000000000000
+      internalID: -5082162862693421001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_ATK3PrecastFX_10
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 6
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad96901d5dbf8e860800000000000000
+      internalID: 7559568870295038426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_ATK3PrecastFX_11
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 6
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd662916da93a0f0800000000000000
+      internalID: -1106870839067382350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AFC_ATK3PrecastFX_0: -4256993628199361226
+      AFC_ATK3PrecastFX_1: 425849448601675515
+      AFC_ATK3PrecastFX_10: 7559568870295038426
+      AFC_ATK3PrecastFX_11: -1106870839067382350
+      AFC_ATK3PrecastFX_2: 6657171775824425778
+      AFC_ATK3PrecastFX_3: 2699795754993546102
+      AFC_ATK3PrecastFX_4: -8897873071457695839
+      AFC_ATK3PrecastFX_5: -1671980461951475977
+      AFC_ATK3PrecastFX_6: 6374385942126286204
+      AFC_ATK3PrecastFX_7: 7939512276935192529
+      AFC_ATK3PrecastFX_8: 157821384716464603
+      AFC_ATK3PrecastFX_9: -5082162862693421001
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

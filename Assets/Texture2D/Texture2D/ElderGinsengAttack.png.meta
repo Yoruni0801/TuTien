@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: cb57cf1436840fc45b8a5ad996d0f815
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8155411658675405623
+    second: ElderGinsengAttack_0
+  - first:
+      213: -7747335336214237882
+    second: ElderGinsengAttack_1
+  - first:
+      213: -614438680142483360
+    second: ElderGinsengAttack_2
+  - first:
+      213: 8867634539005068862
+    second: ElderGinsengAttack_3
+  - first:
+      213: -143148140693388322
+    second: ElderGinsengAttack_4
+  - first:
+      213: -8991827096341565788
+    second: ElderGinsengAttack_5
+  - first:
+      213: -1213377281015512550
+    second: ElderGinsengAttack_6
+  - first:
+      213: 3343461509495745443
+    second: ElderGinsengAttack_7
+  - first:
+      213: 7839004023363206801
+    second: ElderGinsengAttack_8
+  - first:
+      213: 1140244929139829306
+    second: ElderGinsengAttack_9
+  - first:
+      213: -7146594277895860321
+    second: ElderGinsengAttack_10
+  - first:
+      213: 2393367230302014958
+    second: ElderGinsengAttack_11
+  - first:
+      213: -1563606581982505495
+    second: ElderGinsengAttack_12
+  - first:
+      213: -7397476138773704674
+    second: ElderGinsengAttack_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ElderGinsengAttack_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 278
+        width: 112
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7334d60c1b7dd2170800000000000000
+      internalID: 8155411658675405623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElderGinsengAttack_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 278
+        width: 112
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d6e111f8feb7490800000000000000
+      internalID: -7747335336214237882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElderGinsengAttack_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 278
+        width: 112
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060f8dd96431977f0800000000000000
+      internalID: -614438680142483360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElderGinsengAttack_3
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 278
+        width: 112
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36c16761aa201b70800000000000000
+      internalID: 8867634539005068862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElderGinsengAttack_4
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 278
+        width: 112
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed386b3468f630ef0800000000000000
+      internalID: -143148140693388322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElderGinsengAttack_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 150
+        width: 112
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae24d885ec963380800000000000000
+      internalID: -8991827096341565788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElderGinsengAttack_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 150
+        width: 112
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a128a8aaac7392fe0800000000000000
+      internalID: -1213377281015512550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElderGinsengAttack_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 150
+        width: 112
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab6fa9478c566e20800000000000000
+      internalID: 3343461509495745443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElderGinsengAttack_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 150
+        width: 112
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19efb6d50acb9cc60800000000000000
+      internalID: 7839004023363206801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElderGinsengAttack_9
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 150
+        width: 112
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ae156c8b6f2df00800000000000000
+      internalID: 1140244929139829306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElderGinsengAttack_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 49
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f8d285e5232dc90800000000000000
+      internalID: -7146594277895860321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElderGinsengAttack_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 49
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed463bb0d2f63120800000000000000
+      internalID: 2393367230302014958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElderGinsengAttack_12
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 49
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e558781914fc4ae0800000000000000
+      internalID: -1563606581982505495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElderGinsengAttack_13
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 49
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1017f135a2e65990800000000000000
+      internalID: -7397476138773704674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ElderGinsengAttack_0: 8155411658675405623
+      ElderGinsengAttack_1: -7747335336214237882
+      ElderGinsengAttack_10: -7146594277895860321
+      ElderGinsengAttack_11: 2393367230302014958
+      ElderGinsengAttack_12: -1563606581982505495
+      ElderGinsengAttack_13: -7397476138773704674
+      ElderGinsengAttack_2: -614438680142483360
+      ElderGinsengAttack_3: 8867634539005068862
+      ElderGinsengAttack_4: -143148140693388322
+      ElderGinsengAttack_5: -8991827096341565788
+      ElderGinsengAttack_6: -1213377281015512550
+      ElderGinsengAttack_7: 3343461509495745443
+      ElderGinsengAttack_8: 7839004023363206801
+      ElderGinsengAttack_9: 1140244929139829306
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

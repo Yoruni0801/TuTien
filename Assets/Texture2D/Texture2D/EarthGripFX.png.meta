@@ -1,0 +1,1014 @@
+fileFormatVersion: 2
+guid: 31d71647727f0eb42aac25367b6411c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4181998602144341716
+    second: EarthGripFX_0
+  - first:
+      213: 2759110178531852185
+    second: EarthGripFX_1
+  - first:
+      213: 677516857382284207
+    second: EarthGripFX_2
+  - first:
+      213: 2876170619971709587
+    second: EarthGripFX_3
+  - first:
+      213: -7942745678234567628
+    second: EarthGripFX_4
+  - first:
+      213: -1193749286009256159
+    second: EarthGripFX_5
+  - first:
+      213: 536164902234132231
+    second: EarthGripFX_6
+  - first:
+      213: 4180655342804193849
+    second: EarthGripFX_7
+  - first:
+      213: -1306319042111696940
+    second: EarthGripFX_8
+  - first:
+      213: 8299174496707602522
+    second: EarthGripFX_9
+  - first:
+      213: -8623369394192736002
+    second: EarthGripFX_10
+  - first:
+      213: 1921346208162156691
+    second: EarthGripFX_11
+  - first:
+      213: -6111386997081848811
+    second: EarthGripFX_12
+  - first:
+      213: 1414663346565560865
+    second: EarthGripFX_13
+  - first:
+      213: 3144191446471819990
+    second: EarthGripFX_14
+  - first:
+      213: -4703224187780433477
+    second: EarthGripFX_15
+  - first:
+      213: -8987223883202934776
+    second: EarthGripFX_16
+  - first:
+      213: -2082197396155251915
+    second: EarthGripFX_17
+  - first:
+      213: -2730263453215731183
+    second: EarthGripFX_18
+  - first:
+      213: -8085350372914622164
+    second: EarthGripFX_19
+  - first:
+      213: -3596241835340142127
+    second: EarthGripFX_20
+  - first:
+      213: 6886772762954655426
+    second: EarthGripFX_21
+  - first:
+      213: -4133535402345385651
+    second: EarthGripFX_22
+  - first:
+      213: 2722746835250927728
+    second: EarthGripFX_23
+  - first:
+      213: 619038086958667264
+    second: EarthGripFX_24
+  - first:
+      213: 7587755816645932425
+    second: EarthGripFX_25
+  - first:
+      213: 7144128110296487495
+    second: EarthGripFX_26
+  - first:
+      213: 3195306379593528266
+    second: EarthGripFX_27
+  - first:
+      213: 5805212608639278615
+    second: EarthGripFX_28
+  - first:
+      213: -7253172265166866554
+    second: EarthGripFX_29
+  - first:
+      213: 4781879679816894392
+    second: EarthGripFX_30
+  - first:
+      213: 7355432337959586030
+    second: EarthGripFX_31
+  - first:
+      213: 5056761327539727208
+    second: EarthGripFX_32
+  - first:
+      213: 3919509003257880461
+    second: EarthGripFX_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EarthGripFX_0
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1002
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21a104bd6e86f5c0800000000000000
+      internalID: -4181998602144341716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthGripFX_1
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1031
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f3e87c6145a4620800000000000000
+      internalID: 2759110178531852185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthGripFX_2
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1024
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab2c9dfdf5076900800000000000000
+      internalID: 677516857382284207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthGripFX_3
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1002
+        width: 39
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a24d4b0f53ae720800000000000000
+      internalID: 2876170619971709587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthGripFX_4
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1022
+        width: 31
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c3f8b53e2b5c190800000000000000
+      internalID: -7942745678234567628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthGripFX_5
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1031
+        width: 37
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127ca806953fe6fe0800000000000000
+      internalID: -1193749286009256159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthGripFX_6
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 986
+        width: 66
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f82ba4327d07700800000000000000
+      internalID: 536164902234132231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthGripFX_7
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1002
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932de2c52eba40a30800000000000000
+      internalID: 4180655342804193849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthGripFX_8
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1022
+        width: 32
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df8a9b90c50fdde0800000000000000
+      internalID: -1306319042111696940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthGripFX_9
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1031
+        width: 37
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58ec3ddb379c2370800000000000000
+      internalID: 8299174496707602522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthGripFX_10
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 986
+        width: 66
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0aa2c7933a35880800000000000000
+      internalID: -8623369394192736002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthGripFX_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 988
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3909c04523ef9aa10800000000000000
+      internalID: 1921346208162156691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthGripFX_12
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 602
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514cef9d7edff2ba0800000000000000
+      internalID: -6111386997081848811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthGripFX_13
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 622
+        width: 32
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a3ec881d4e1a310800000000000000
+      internalID: 1414663346565560865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthGripFX_14
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 631
+        width: 37
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d246c0467962ab20800000000000000
+      internalID: 3144191446471819990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthGripFX_15
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 586
+        width: 66
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9725c158acabeb0800000000000000
+      internalID: -4703224187780433477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthGripFX_16
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 602
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80848cc9e77f64380800000000000000
+      internalID: -8987223883202934776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthGripFX_17
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 622
+        width: 32
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5334ce9008c8a13e0800000000000000
+      internalID: -2082197396155251915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthGripFX_18
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 631
+        width: 37
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11258d7dad72c1ad0800000000000000
+      internalID: -2730263453215731183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthGripFX_19
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 586
+        width: 66
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c211ad18ca01bcf80800000000000000
+      internalID: -8085350372914622164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthGripFX_20
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 459
+        width: 330
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9e62eba15971ec0800000000000000
+      internalID: -3596241835340142127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthGripFX_21
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 26
+        width: 391
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c66fb8175bb29f50800000000000000
+      internalID: 6886772762954655426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthGripFX_22
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 350
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41b3b4b37bb2a6c0800000000000000
+      internalID: -4133535402345385651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthGripFX_23
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 371
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078537822d329c520800000000000000
+      internalID: 2722746835250927728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthGripFX_24
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 85
+        width: 327
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006db9b3cd3479800800000000000000
+      internalID: 619038086958667264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthGripFX_25
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 323
+        width: 107
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985b59da6bf1d4960800000000000000
+      internalID: 7587755816645932425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthGripFX_26
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 181
+        width: 165
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746da144aaa052360800000000000000
+      internalID: 7144128110296487495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthGripFX_27
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 37
+        width: 110
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac336380932085c20800000000000000
+      internalID: 3195306379593528266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthGripFX_28
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 0
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e10973c12409050800000000000000
+      internalID: 5805212608639278615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthGripFX_29
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 93
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6877308f04e875b90800000000000000
+      internalID: -7253172265166866554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthGripFX_30
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 46
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7052abb36ac5240800000000000000
+      internalID: 4781879679816894392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthGripFX_31
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 10
+        width: 141
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee880899dbeb31660800000000000000
+      internalID: 7355432337959586030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthGripFX_32
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 33
+        width: 70
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b20f1b2a93d2640800000000000000
+      internalID: 5056761327539727208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthGripFX_33
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 7
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f91290ca4e46630800000000000000
+      internalID: 3919509003257880461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EarthGripFX_0: -4181998602144341716
+      EarthGripFX_1: 2759110178531852185
+      EarthGripFX_10: -8623369394192736002
+      EarthGripFX_11: 1921346208162156691
+      EarthGripFX_12: -6111386997081848811
+      EarthGripFX_13: 1414663346565560865
+      EarthGripFX_14: 3144191446471819990
+      EarthGripFX_15: -4703224187780433477
+      EarthGripFX_16: -8987223883202934776
+      EarthGripFX_17: -2082197396155251915
+      EarthGripFX_18: -2730263453215731183
+      EarthGripFX_19: -8085350372914622164
+      EarthGripFX_2: 677516857382284207
+      EarthGripFX_20: -3596241835340142127
+      EarthGripFX_21: 6886772762954655426
+      EarthGripFX_22: -4133535402345385651
+      EarthGripFX_23: 2722746835250927728
+      EarthGripFX_24: 619038086958667264
+      EarthGripFX_25: 7587755816645932425
+      EarthGripFX_26: 7144128110296487495
+      EarthGripFX_27: 3195306379593528266
+      EarthGripFX_28: 5805212608639278615
+      EarthGripFX_29: -7253172265166866554
+      EarthGripFX_3: 2876170619971709587
+      EarthGripFX_30: 4781879679816894392
+      EarthGripFX_31: 7355432337959586030
+      EarthGripFX_32: 5056761327539727208
+      EarthGripFX_33: 3919509003257880461
+      EarthGripFX_4: -7942745678234567628
+      EarthGripFX_5: -1193749286009256159
+      EarthGripFX_6: 536164902234132231
+      EarthGripFX_7: 4180655342804193849
+      EarthGripFX_8: -1306319042111696940
+      EarthGripFX_9: 8299174496707602522
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

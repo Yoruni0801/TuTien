@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 5796566df6da3f948aa8d75272f88ca7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8546809357838569559
+    second: BigBlueAtk_0
+  - first:
+      213: 6671219929908883634
+    second: BigBlueAtk_1
+  - first:
+      213: 7250487308034622010
+    second: BigBlueAtk_2
+  - first:
+      213: -4099451740268890478
+    second: BigBlueAtk_3
+  - first:
+      213: 1502854529570214350
+    second: BigBlueAtk_4
+  - first:
+      213: 8932773729983457874
+    second: BigBlueAtk_5
+  - first:
+      213: -2200038081590030430
+    second: BigBlueAtk_6
+  - first:
+      213: -2296529105151691181
+    second: BigBlueAtk_7
+  - first:
+      213: 1384019865557619132
+    second: BigBlueAtk_8
+  - first:
+      213: -8106586207310692403
+    second: BigBlueAtk_9
+  - first:
+      213: 319963708445764497
+    second: BigBlueAtk_10
+  - first:
+      213: 7219501596027582024
+    second: BigBlueAtk_11
+  - first:
+      213: 6994599783981700289
+    second: BigBlueAtk_12
+  - first:
+      213: -812941007952274597
+    second: BigBlueAtk_13
+  - first:
+      213: 1659872139474276054
+    second: BigBlueAtk_14
+  - first:
+      213: -8798000638390640472
+    second: BigBlueAtk_15
+  - first:
+      213: 3137950373423887530
+    second: BigBlueAtk_16
+  - first:
+      213: 404645188442038120
+    second: BigBlueAtk_17
+  - first:
+      213: -4071471703681635913
+    second: BigBlueAtk_18
+  - first:
+      213: -863228160894764457
+    second: BigBlueAtk_19
+  - first:
+      213: -8874735679413076491
+    second: BigBlueAtk_20
+  - first:
+      213: -24031383684064504
+    second: BigBlueAtk_21
+  - first:
+      213: 3243162619747540026
+    second: BigBlueAtk_22
+  - first:
+      213: 462782301311071969
+    second: BigBlueAtk_23
+  - first:
+      213: -331557718016027815
+    second: BigBlueAtk_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BigBlueAtk_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 509
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750d3f8f3dd5c9670800000000000000
+      internalID: 8546809357838569559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueAtk_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 509
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0b9bc3e2fe49c50800000000000000
+      internalID: 6671219929908883634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueAtk_2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 509
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32c1ebbac7ee9460800000000000000
+      internalID: 7250487308034622010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueAtk_3
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 509
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2967a6fac52db17c0800000000000000
+      internalID: -4099451740268890478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueAtk_4
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 509
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec19e107b363bd410800000000000000
+      internalID: 1502854529570214350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueAtk_5
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 509
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25aea9a216697fb70800000000000000
+      internalID: 8932773729983457874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueAtk_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 359
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af8e766505e771e0800000000000000
+      internalID: -2200038081590030430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueAtk_7
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 356
+        width: 88
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356761742f61120e0800000000000000
+      internalID: -2296529105151691181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueAtk_8
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 356
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb155a02cb6053310800000000000000
+      internalID: 1384019865557619132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueAtk_9
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 358
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf3a248bce9f7f80800000000000000
+      internalID: -8106586207310692403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueAtk_10
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 356
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b2dee2c4db07400800000000000000
+      internalID: 319963708445764497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueAtk_11
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 356
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846f6967372d03460800000000000000
+      internalID: 7219501596027582024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueAtk_12
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 356
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4d04ec17fc11160800000000000000
+      internalID: 6994599783981700289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueAtk_13
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 208
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b18add57ad7b4f0800000000000000
+      internalID: -812941007952274597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueAtk_14
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 206
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de8eed9aec090710800000000000000
+      internalID: 1659872139474276054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueAtk_15
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 220
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0e01f780937e580800000000000000
+      internalID: -8798000638390640472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueAtk_16
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 224
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa43cb23d3d3c8b20800000000000000
+      internalID: 3137950373423887530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueAtk_17
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 209
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f982da7a69d9500800000000000000
+      internalID: 404645188442038120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueAtk_18
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 188
+        width: 121
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9600d9e0a3f77c0800000000000000
+      internalID: -4071471703681635913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueAtk_19
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 180
+        width: 122
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75af0cdaf823504f0800000000000000
+      internalID: -863228160894764457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueAtk_20
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 209
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd39118bea96d480800000000000000
+      internalID: -8874735679413076491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueAtk_21
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 209
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bdc08759f9aaff0800000000000000
+      internalID: -24031383684064504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueAtk_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 26
+        width: 128
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c90ea3837020d20800000000000000
+      internalID: 3243162619747540026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueAtk_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 26
+        width: 130
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6fbf51d022c6600800000000000000
+      internalID: 462782301311071969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueAtk_24
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 40
+        width: 121
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9539d1b1302166bf0800000000000000
+      internalID: -331557718016027815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BigBlueAtk_0: 8546809357838569559
+      BigBlueAtk_1: 6671219929908883634
+      BigBlueAtk_10: 319963708445764497
+      BigBlueAtk_11: 7219501596027582024
+      BigBlueAtk_12: 6994599783981700289
+      BigBlueAtk_13: -812941007952274597
+      BigBlueAtk_14: 1659872139474276054
+      BigBlueAtk_15: -8798000638390640472
+      BigBlueAtk_16: 3137950373423887530
+      BigBlueAtk_17: 404645188442038120
+      BigBlueAtk_18: -4071471703681635913
+      BigBlueAtk_19: -863228160894764457
+      BigBlueAtk_2: 7250487308034622010
+      BigBlueAtk_20: -8874735679413076491
+      BigBlueAtk_21: -24031383684064504
+      BigBlueAtk_22: 3243162619747540026
+      BigBlueAtk_23: 462782301311071969
+      BigBlueAtk_24: -331557718016027815
+      BigBlueAtk_3: -4099451740268890478
+      BigBlueAtk_4: 1502854529570214350
+      BigBlueAtk_5: 8932773729983457874
+      BigBlueAtk_6: -2200038081590030430
+      BigBlueAtk_7: -2296529105151691181
+      BigBlueAtk_8: 1384019865557619132
+      BigBlueAtk_9: -8106586207310692403
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

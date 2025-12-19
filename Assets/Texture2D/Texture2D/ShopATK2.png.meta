@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: e990e148519cdb24ab8a71f048326486
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1088148306320639069
+    second: ShopATK2_0
+  - first:
+      213: -3703251745126240605
+    second: ShopATK2_1
+  - first:
+      213: -3676394770754307237
+    second: ShopATK2_2
+  - first:
+      213: 195276736736500246
+    second: ShopATK2_3
+  - first:
+      213: -3545819169840973452
+    second: ShopATK2_4
+  - first:
+      213: 2962914007390669670
+    second: ShopATK2_5
+  - first:
+      213: 6904072733414335581
+    second: ShopATK2_6
+  - first:
+      213: 2460642447510551382
+    second: ShopATK2_7
+  - first:
+      213: 2408668644234783088
+    second: ShopATK2_8
+  - first:
+      213: 8774271133933020614
+    second: ShopATK2_9
+  - first:
+      213: 315157866147909294
+    second: ShopATK2_10
+  - first:
+      213: -1056509173815633547
+    second: ShopATK2_11
+  - first:
+      213: 7741463900624336688
+    second: ShopATK2_12
+  - first:
+      213: 1563178668848021366
+    second: ShopATK2_13
+  - first:
+      213: 4279709758786999783
+    second: ShopATK2_14
+  - first:
+      213: -7826518512371096534
+    second: ShopATK2_15
+  - first:
+      213: -6970961398364833800
+    second: ShopATK2_16
+  - first:
+      213: 7557703377411825996
+    second: ShopATK2_17
+  - first:
+      213: 3993070675029395674
+    second: ShopATK2_18
+  - first:
+      213: -1538236544830587423
+    second: ShopATK2_19
+  - first:
+      213: 715622809468577065
+    second: ShopATK2_20
+  - first:
+      213: 3342031642482766886
+    second: ShopATK2_21
+  - first:
+      213: 7068832586814525148
+    second: ShopATK2_22
+  - first:
+      213: -4351177206660700825
+    second: ShopATK2_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShopATK2_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 683
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abb0d271ee16e0f0800000000000000
+      internalID: -1088148306320639069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopATK2_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 683
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aea7e198286b9cc0800000000000000
+      internalID: -3703251745126240605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopATK2_2
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 683
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bf5133f62dafcc0800000000000000
+      internalID: -3676394770754307237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopATK2_3
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 683
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a931e4823c5b200800000000000000
+      internalID: 195276736736500246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopATK2_4
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 696
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479bbd76048bacec0800000000000000
+      internalID: -3545819169840973452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopATK2_5
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 722
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bcc8e67926e1920800000000000000
+      internalID: 2962914007390669670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopATK2_6
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 683
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d542f9a529130df50800000000000000
+      internalID: 6904072733414335581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopATK2_7
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 683
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b3d1bd445f52220800000000000000
+      internalID: 2460642447510551382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopATK2_8
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 504
+        width: 45
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0796c39ce5f4d6120800000000000000
+      internalID: 2408668644234783088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopATK2_9
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 483
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5aa05bb1974c970800000000000000
+      internalID: 8774271133933020614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopATK2_10
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 483
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae8ae3d86aaf5400800000000000000
+      internalID: 315157866147909294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopATK2_11
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 483
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57917c801868651f0800000000000000
+      internalID: -1056509173815633547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopATK2_12
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 483
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037393ec6643f6b60800000000000000
+      internalID: 7741463900624336688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopATK2_13
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 483
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f772d97b681b510800000000000000
+      internalID: 1563178668848021366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopATK2_14
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 483
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5954ac955946b30800000000000000
+      internalID: 4279709758786999783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopATK2_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 283
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a242a1231ee926390800000000000000
+      internalID: -7826518512371096534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopATK2_16
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 283
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7f08bba8b224f90800000000000000
+      internalID: -6970961398364833800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopATK2_17
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 283
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41e668ed2b52e860800000000000000
+      internalID: 7557703377411825996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopATK2_18
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 283
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8082c6f9c3a6730800000000000000
+      internalID: 3993070675029395674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopATK2_19
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 283
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed39dc230617aae0800000000000000
+      internalID: -1538236544830587423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopATK2_20
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 283
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925aa8757276ee900800000000000000
+      internalID: 715622809468577065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopATK2_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 83
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624fc4e6218416e20800000000000000
+      internalID: 3342031642482766886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopATK2_22
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 83
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde09c119c9891260800000000000000
+      internalID: 7068832586814525148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopATK2_23
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 83
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765663252638d93c0800000000000000
+      internalID: -4351177206660700825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ShopATK2_0: -1088148306320639069
+      ShopATK2_1: -3703251745126240605
+      ShopATK2_10: 315157866147909294
+      ShopATK2_11: -1056509173815633547
+      ShopATK2_12: 7741463900624336688
+      ShopATK2_13: 1563178668848021366
+      ShopATK2_14: 4279709758786999783
+      ShopATK2_15: -7826518512371096534
+      ShopATK2_16: -6970961398364833800
+      ShopATK2_17: 7557703377411825996
+      ShopATK2_18: 3993070675029395674
+      ShopATK2_19: -1538236544830587423
+      ShopATK2_2: -3676394770754307237
+      ShopATK2_20: 715622809468577065
+      ShopATK2_21: 3342031642482766886
+      ShopATK2_22: 7068832586814525148
+      ShopATK2_23: -4351177206660700825
+      ShopATK2_3: 195276736736500246
+      ShopATK2_4: -3545819169840973452
+      ShopATK2_5: 2962914007390669670
+      ShopATK2_6: 6904072733414335581
+      ShopATK2_7: 2460642447510551382
+      ShopATK2_8: 2408668644234783088
+      ShopATK2_9: 8774271133933020614
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

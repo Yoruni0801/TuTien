@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 7db64a5a5a013dc469a66eca3453db47
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -430986418189906199
+    second: SmithPreEngageIdle_0
+  - first:
+      213: -1835669519905387600
+    second: SmithPreEngageIdle_1
+  - first:
+      213: -5214530965709566122
+    second: SmithPreEngageIdle_2
+  - first:
+      213: -4213210223034766229
+    second: SmithPreEngageIdle_3
+  - first:
+      213: -6293238819261864966
+    second: SmithPreEngageIdle_4
+  - first:
+      213: -3315614084935567564
+    second: SmithPreEngageIdle_5
+  - first:
+      213: -6263956705748070848
+    second: SmithPreEngageIdle_6
+  - first:
+      213: 5062985407113821334
+    second: SmithPreEngageIdle_7
+  - first:
+      213: 3722928034134415094
+    second: SmithPreEngageIdle_8
+  - first:
+      213: -5538552081115701258
+    second: SmithPreEngageIdle_9
+  - first:
+      213: -5579973321225649337
+    second: SmithPreEngageIdle_10
+  - first:
+      213: 313547792214069526
+    second: SmithPreEngageIdle_11
+  - first:
+      213: 5242649603308116823
+    second: SmithPreEngageIdle_12
+  - first:
+      213: -2165312822450966136
+    second: SmithPreEngageIdle_13
+  - first:
+      213: 1820929707687619392
+    second: SmithPreEngageIdle_14
+  - first:
+      213: 4715636125775829401
+    second: SmithPreEngageIdle_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SmithPreEngageIdle_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 136
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eec5c8d224d40af0800000000000000
+      internalID: -430986418189906199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithPreEngageIdle_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 130
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb07052c446686e0800000000000000
+      internalID: -1835669519905387600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithPreEngageIdle_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 136
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f4b96e6b342a7b0800000000000000
+      internalID: -5214530965709566122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithPreEngageIdle_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 130
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ce7fbef9ba785c0800000000000000
+      internalID: -4213210223034766229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithPreEngageIdle_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 136
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3a23b03ace9a8a0800000000000000
+      internalID: -6293238819261864966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithPreEngageIdle_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 130
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437322f7e829cf1d0800000000000000
+      internalID: -3315614084935567564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithPreEngageIdle_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 136
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ec5716094f119a0800000000000000
+      internalID: -6263956705748070848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithPreEngageIdle_7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 130
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c71062766534640800000000000000
+      internalID: 5062985407113821334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithPreEngageIdle_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 36
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6dce6725f7aa330800000000000000
+      internalID: 3722928034134415094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithPreEngageIdle_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 30
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff191b0a3c1323b0800000000000000
+      internalID: -5538552081115701258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithPreEngageIdle_10
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 36
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743403c04d3ff82b0800000000000000
+      internalID: -5579973321225649337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithPreEngageIdle_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 30
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61117074e02f95400800000000000000
+      internalID: 313547792214069526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithPreEngageIdle_12
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 36
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bd5079902a1c840800000000000000
+      internalID: 5242649603308116823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithPreEngageIdle_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 30
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8813636d57343f1e0800000000000000
+      internalID: -2165312822450966136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithPreEngageIdle_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 36
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b2da3ebed354910800000000000000
+      internalID: 1820929707687619392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithPreEngageIdle_15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 30
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9991ed6621e417140800000000000000
+      internalID: 4715636125775829401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SmithPreEngageIdle_0: -430986418189906199
+      SmithPreEngageIdle_1: -1835669519905387600
+      SmithPreEngageIdle_10: -5579973321225649337
+      SmithPreEngageIdle_11: 313547792214069526
+      SmithPreEngageIdle_12: 5242649603308116823
+      SmithPreEngageIdle_13: -2165312822450966136
+      SmithPreEngageIdle_14: 1820929707687619392
+      SmithPreEngageIdle_15: 4715636125775829401
+      SmithPreEngageIdle_2: -5214530965709566122
+      SmithPreEngageIdle_3: -4213210223034766229
+      SmithPreEngageIdle_4: -6293238819261864966
+      SmithPreEngageIdle_5: -3315614084935567564
+      SmithPreEngageIdle_6: -6263956705748070848
+      SmithPreEngageIdle_7: 5062985407113821334
+      SmithPreEngageIdle_8: 3722928034134415094
+      SmithPreEngageIdle_9: -5538552081115701258
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

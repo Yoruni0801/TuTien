@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 4eefda9985d7bd448bfb3102c4800ea6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2164342214150735016
+    second: CowATK1_0
+  - first:
+      213: 5310649882719499870
+    second: CowATK1_1
+  - first:
+      213: 25777419330939370
+    second: CowATK1_2
+  - first:
+      213: -3696771957232769078
+    second: CowATK1_3
+  - first:
+      213: -64328681010513044
+    second: CowATK1_4
+  - first:
+      213: -1390866446239547458
+    second: CowATK1_5
+  - first:
+      213: -3128248371996797260
+    second: CowATK1_6
+  - first:
+      213: -4401767945911985772
+    second: CowATK1_7
+  - first:
+      213: 7252008204194553459
+    second: CowATK1_8
+  - first:
+      213: 1942547443452151848
+    second: CowATK1_9
+  - first:
+      213: -3135162027909177615
+    second: CowATK1_10
+  - first:
+      213: -1528250355529511443
+    second: CowATK1_11
+  - first:
+      213: -3313983395205863277
+    second: CowATK1_12
+  - first:
+      213: 3897883002647664821
+    second: CowATK1_13
+  - first:
+      213: 5495825416308048345
+    second: CowATK1_14
+  - first:
+      213: 1768283112637815982
+    second: CowATK1_15
+  - first:
+      213: -4371266642259273525
+    second: CowATK1_16
+  - first:
+      213: 4762840173956177173
+    second: CowATK1_17
+  - first:
+      213: -9075889155168607410
+    second: CowATK1_18
+  - first:
+      213: -5082048537182284065
+    second: CowATK1_19
+  - first:
+      213: -1199456953076670523
+    second: CowATK1_20
+  - first:
+      213: 8844113289019112779
+    second: CowATK1_21
+  - first:
+      213: 7833029024487976067
+    second: CowATK1_22
+  - first:
+      213: -842764227703412599
+    second: CowATK1_23
+  - first:
+      213: 6503854385198661627
+    second: CowATK1_24
+  - first:
+      213: 358854046026261181
+    second: CowATK1_25
+  - first:
+      213: 4241220365107436852
+    second: CowATK1_26
+  - first:
+      213: -6570252393903578992
+    second: CowATK1_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CowATK1_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 683
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a446dec6c9490e10800000000000000
+      internalID: 2164342214150735016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowATK1_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 683
+        width: 89
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5637f96ee733b940800000000000000
+      internalID: 5310649882719499870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowATK1_2
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 683
+        width: 107
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae962722d649b5000800000000000000
+      internalID: 25777419330939370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowATK1_3
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 683
+        width: 103
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7e381cd7d62bcc0800000000000000
+      internalID: -3696771957232769078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowATK1_4
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 683
+        width: 102
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bbf7bc7657b1ff0800000000000000
+      internalID: -64328681010513044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowATK1_5
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 683
+        width: 100
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfb1e51656a2bce0800000000000000
+      internalID: -1390866446239547458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowATK1_6
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 483
+        width: 97
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6dfe90eaa3694d0800000000000000
+      internalID: -3128248371996797260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowATK1_7
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 483
+        width: 97
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4991730ff57c9e2c0800000000000000
+      internalID: -4401767945911985772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowATK1_8
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 483
+        width: 99
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e1c37f90f44a460800000000000000
+      internalID: 7252008204194553459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowATK1_9
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 483
+        width: 99
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8280f469b9055fa10800000000000000
+      internalID: 1942547443452151848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowATK1_10
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 483
+        width: 126
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe1e251fbaad74d0800000000000000
+      internalID: -3135162027909177615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowATK1_11
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 483
+        width: 128
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded8cce06609acae0800000000000000
+      internalID: -1528250355529511443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowATK1_12
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 283
+        width: 131
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398263909ad5202d0800000000000000
+      internalID: -3313983395205863277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowATK1_13
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 283
+        width: 125
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8d8d460ff081630800000000000000
+      internalID: 3897883002647664821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowATK1_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 283
+        width: 125
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1ca961918154c40800000000000000
+      internalID: 5495825416308048345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowATK1_15
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 283
+        width: 122
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac59174f143a8810800000000000000
+      internalID: 1768283112637815982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowATK1_16
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 283
+        width: 83
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc81f9916242653c0800000000000000
+      internalID: -4371266642259273525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowATK1_17
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 361
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d1e9257e1091240800000000000000
+      internalID: 4762840173956177173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowATK1_18
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 345
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43ea5546e6fb0280800000000000000
+      internalID: -9075889155168607410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowATK1_19
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 283
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6d4f108cfe879b0800000000000000
+      internalID: -5082048537182284065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowATK1_20
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 331
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf1e74914caa5fe0800000000000000
+      internalID: -1199456953076670523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowATK1_21
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 331
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4dbb41ad2a9cba70800000000000000
+      internalID: 8844113289019112779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowATK1_22
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 300
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c2ee7856284bc60800000000000000
+      internalID: 7833029024487976067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowATK1_23
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 307
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988e45a6666ed44f0800000000000000
+      internalID: -842764227703412599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowATK1_24
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 83
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfff1acba15524a50800000000000000
+      internalID: 6503854385198661627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowATK1_25
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 83
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db26b938ad7eaf400800000000000000
+      internalID: 358854046026261181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowATK1_26
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 83
+        width: 75
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d916c7377dbda30800000000000000
+      internalID: 4241220365107436852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowATK1_27
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 83
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090a7b82246c1d4a0800000000000000
+      internalID: -6570252393903578992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CowATK1_0: 2164342214150735016
+      CowATK1_1: 5310649882719499870
+      CowATK1_10: -3135162027909177615
+      CowATK1_11: -1528250355529511443
+      CowATK1_12: -3313983395205863277
+      CowATK1_13: 3897883002647664821
+      CowATK1_14: 5495825416308048345
+      CowATK1_15: 1768283112637815982
+      CowATK1_16: -4371266642259273525
+      CowATK1_17: 4762840173956177173
+      CowATK1_18: -9075889155168607410
+      CowATK1_19: -5082048537182284065
+      CowATK1_2: 25777419330939370
+      CowATK1_20: -1199456953076670523
+      CowATK1_21: 8844113289019112779
+      CowATK1_22: 7833029024487976067
+      CowATK1_23: -842764227703412599
+      CowATK1_24: 6503854385198661627
+      CowATK1_25: 358854046026261181
+      CowATK1_26: 4241220365107436852
+      CowATK1_27: -6570252393903578992
+      CowATK1_3: -3696771957232769078
+      CowATK1_4: -64328681010513044
+      CowATK1_5: -1390866446239547458
+      CowATK1_6: -3128248371996797260
+      CowATK1_7: -4401767945911985772
+      CowATK1_8: 7252008204194553459
+      CowATK1_9: 1942547443452151848
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

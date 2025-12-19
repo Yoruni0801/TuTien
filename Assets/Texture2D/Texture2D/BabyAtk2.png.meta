@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 46055c8afec10924d9e5e0c112056f8a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6351394114252335097
+    second: BabyAtk2_0
+  - first:
+      213: 7553556399263032774
+    second: BabyAtk2_1
+  - first:
+      213: -980779179636602402
+    second: BabyAtk2_2
+  - first:
+      213: -1974312959152245730
+    second: BabyAtk2_3
+  - first:
+      213: 5645530863254667741
+    second: BabyAtk2_4
+  - first:
+      213: 5376822903052800354
+    second: BabyAtk2_5
+  - first:
+      213: 3547705818419379397
+    second: BabyAtk2_6
+  - first:
+      213: -5342956273995869352
+    second: BabyAtk2_7
+  - first:
+      213: -7320590270794146446
+    second: BabyAtk2_8
+  - first:
+      213: -3257072397563072757
+    second: BabyAtk2_9
+  - first:
+      213: -7246200246531650194
+    second: BabyAtk2_10
+  - first:
+      213: 1857721073934481571
+    second: BabyAtk2_11
+  - first:
+      213: -6174051498256787005
+    second: BabyAtk2_12
+  - first:
+      213: 1602121002542353086
+    second: BabyAtk2_13
+  - first:
+      213: 8876871659766647958
+    second: BabyAtk2_14
+  - first:
+      213: -7632219993500604594
+    second: BabyAtk2_15
+  - first:
+      213: 4315252896090972264
+    second: BabyAtk2_16
+  - first:
+      213: -5309863925025346242
+    second: BabyAtk2_17
+  - first:
+      213: -6123360546249902456
+    second: BabyAtk2_18
+  - first:
+      213: -5365833799620326925
+    second: BabyAtk2_19
+  - first:
+      213: 2777744839182991109
+    second: BabyAtk2_20
+  - first:
+      213: 5620963750296805178
+    second: BabyAtk2_21
+  - first:
+      213: 221123098148840950
+    second: BabyAtk2_22
+  - first:
+      213: -1983113558935844012
+    second: BabyAtk2_23
+  - first:
+      213: 1763654244981376845
+    second: BabyAtk2_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BabyAtk2_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 435
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7089b7744b05bd7a0800000000000000
+      internalID: -6351394114252335097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyAtk2_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 435
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5a3f0568f93d860800000000000000
+      internalID: 7553556399263032774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyAtk2_2
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 435
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed949a258829362f0800000000000000
+      internalID: -980779179636602402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyAtk2_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 435
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14b742f2d4d994e0800000000000000
+      internalID: -1974312959152245730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyAtk2_4
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 435
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd18cc8a864f85e40800000000000000
+      internalID: 5645530863254667741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyAtk2_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 335
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26195a451ff4e9a40800000000000000
+      internalID: 5376822903052800354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyAtk2_6
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 335
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc397235abfb3130800000000000000
+      internalID: 3547705818419379397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyAtk2_7
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 335
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8531806b3910ad5b0800000000000000
+      internalID: -5342956273995869352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyAtk2_8
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 335
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d52235fe9086a90800000000000000
+      internalID: -7320590270794146446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyAtk2_9
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 335
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fe58f39ed8cc2d0800000000000000
+      internalID: -3257072397563072757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyAtk2_10
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 235
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d022e8443507b90800000000000000
+      internalID: -7246200246531650194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyAtk2_11
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 235
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a83f9f5973f7c910800000000000000
+      internalID: 1857721073934481571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyAtk2_12
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 235
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c99f65bfdc515aa0800000000000000
+      internalID: -6174051498256787005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyAtk2_13
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 235
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebacabb3090eb3610800000000000000
+      internalID: 1602121002542353086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyAtk2_14
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 235
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c8f1d2ebbf03b70800000000000000
+      internalID: 8876871659766647958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyAtk2_15
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 135
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4723c76a58e41690800000000000000
+      internalID: -7632219993500604594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyAtk2_16
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 135
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8606a7355abd2eb30800000000000000
+      internalID: 4315252896090972264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyAtk2_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 135
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3de33f94e29f46b0800000000000000
+      internalID: -5309863925025346242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyAtk2_18
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 135
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886f121b604750ba0800000000000000
+      internalID: -6123360546249902456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyAtk2_19
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 135
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f988d1b69ab885b0800000000000000
+      internalID: -5365833799620326925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyAtk2_20
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 35
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f3d20d6388c8620800000000000000
+      internalID: 2777744839182991109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyAtk2_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 35
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fd9cfefbca10e40800000000000000
+      internalID: 5620963750296805178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyAtk2_22
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 35
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5abc44946911300800000000000000
+      internalID: 221123098148840950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyAtk2_23
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 35
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b4e52a9b09a74e0800000000000000
+      internalID: -1983113558935844012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyAtk2_24
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 35
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4789ba0132c97810800000000000000
+      internalID: 1763654244981376845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BabyAtk2_0: -6351394114252335097
+      BabyAtk2_1: 7553556399263032774
+      BabyAtk2_10: -7246200246531650194
+      BabyAtk2_11: 1857721073934481571
+      BabyAtk2_12: -6174051498256787005
+      BabyAtk2_13: 1602121002542353086
+      BabyAtk2_14: 8876871659766647958
+      BabyAtk2_15: -7632219993500604594
+      BabyAtk2_16: 4315252896090972264
+      BabyAtk2_17: -5309863925025346242
+      BabyAtk2_18: -6123360546249902456
+      BabyAtk2_19: -5365833799620326925
+      BabyAtk2_2: -980779179636602402
+      BabyAtk2_20: 2777744839182991109
+      BabyAtk2_21: 5620963750296805178
+      BabyAtk2_22: 221123098148840950
+      BabyAtk2_23: -1983113558935844012
+      BabyAtk2_24: 1763654244981376845
+      BabyAtk2_3: -1974312959152245730
+      BabyAtk2_4: 5645530863254667741
+      BabyAtk2_5: 5376822903052800354
+      BabyAtk2_6: 3547705818419379397
+      BabyAtk2_7: -5342956273995869352
+      BabyAtk2_8: -7320590270794146446
+      BabyAtk2_9: -3257072397563072757
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 728d907c5ee861441bc7169dec7a6235
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8121610162435816740
+    second: MetalSlashDash_0
+  - first:
+      213: 3763414538974522799
+    second: MetalSlashDash_1
+  - first:
+      213: 4743898468178806329
+    second: MetalSlashDash_2
+  - first:
+      213: -2955356045072052280
+    second: MetalSlashDash_3
+  - first:
+      213: 63882373788123206
+    second: MetalSlashDash_4
+  - first:
+      213: 3158871471705953332
+    second: MetalSlashDash_5
+  - first:
+      213: 496897532084531336
+    second: MetalSlashDash_6
+  - first:
+      213: -4004703464609863385
+    second: MetalSlashDash_7
+  - first:
+      213: 8183501725606989662
+    second: MetalSlashDash_8
+  - first:
+      213: -8252123143303598388
+    second: MetalSlashDash_9
+  - first:
+      213: -8806604872744133075
+    second: MetalSlashDash_10
+  - first:
+      213: -9027693512366997719
+    second: MetalSlashDash_11
+  - first:
+      213: -8316990109766195580
+    second: MetalSlashDash_12
+  - first:
+      213: -3333221479379392856
+    second: MetalSlashDash_13
+  - first:
+      213: -6985725482568579789
+    second: MetalSlashDash_14
+  - first:
+      213: 608746338787262537
+    second: MetalSlashDash_15
+  - first:
+      213: -3659777696835855718
+    second: MetalSlashDash_16
+  - first:
+      213: -3159392050269782047
+    second: MetalSlashDash_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MetalSlashDash_0
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 511
+        width: 253
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d7030a961c5b070800000000000000
+      internalID: 8121610162435816740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalSlashDash_1
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 503
+        width: 324
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faded1275955a3430800000000000000
+      internalID: 3763414538974522799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalSlashDash_2
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 480
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9364156c586b5d140800000000000000
+      internalID: 4743898468178806329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalSlashDash_3
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 456
+        width: 209
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf4dacc5577cf6d0800000000000000
+      internalID: -2955356045072052280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalSlashDash_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 124
+        width: 245
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640cc053ea4f2e000800000000000000
+      internalID: 63882373788123206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalSlashDash_5
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 150
+        width: 192
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434162afdd096db20800000000000000
+      internalID: 3158871471705953332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalSlashDash_6
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 143
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880baa93ca555e600800000000000000
+      internalID: 496897532084531336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalSlashDash_7
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 184
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7292721ba6f6c68c0800000000000000
+      internalID: -4004703464609863385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalSlashDash_8
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 190
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fc99d1673a19170800000000000000
+      internalID: 8183501725606989662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalSlashDash_9
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 194
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cceeb9809b19a7d80800000000000000
+      internalID: -8252123143303598388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalSlashDash_10
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 126
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e9cd21787a8c580800000000000000
+      internalID: -8806604872744133075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalSlashDash_11
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 163
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f344ec49037b280800000000000000
+      internalID: -9027693512366997719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalSlashDash_12
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 179
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486e2fa7f8d149c80800000000000000
+      internalID: -8316990109766195580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalSlashDash_13
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 163
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6a3e389b40eb1d0800000000000000
+      internalID: -3333221479379392856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalSlashDash_14
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 172
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3350b118fa7bd0f90800000000000000
+      internalID: -6985725482568579789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalSlashDash_15
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 143
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9400cb1e193b27800800000000000000
+      internalID: 608746338787262537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalSlashDash_16
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 159
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a9337339bd53dc0800000000000000
+      internalID: -3659777696835855718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalSlashDash_17
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 140
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eff9716ba59724d0800000000000000
+      internalID: -3159392050269782047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MetalSlashDash_0: 8121610162435816740
+      MetalSlashDash_1: 3763414538974522799
+      MetalSlashDash_10: -8806604872744133075
+      MetalSlashDash_11: -9027693512366997719
+      MetalSlashDash_12: -8316990109766195580
+      MetalSlashDash_13: -3333221479379392856
+      MetalSlashDash_14: -6985725482568579789
+      MetalSlashDash_15: 608746338787262537
+      MetalSlashDash_16: -3659777696835855718
+      MetalSlashDash_17: -3159392050269782047
+      MetalSlashDash_2: 4743898468178806329
+      MetalSlashDash_3: -2955356045072052280
+      MetalSlashDash_4: 63882373788123206
+      MetalSlashDash_5: 3158871471705953332
+      MetalSlashDash_6: 496897532084531336
+      MetalSlashDash_7: -4004703464609863385
+      MetalSlashDash_8: 8183501725606989662
+      MetalSlashDash_9: -8252123143303598388
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

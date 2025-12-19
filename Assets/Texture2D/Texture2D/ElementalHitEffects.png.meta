@@ -1,0 +1,1898 @@
+fileFormatVersion: 2
+guid: e5369f96cae68c74f93371fa2dc0b24e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4798131738157017772
+    second: ElementalHitEffects_0
+  - first:
+      213: -2852907760656144003
+    second: ElementalHitEffects_1
+  - first:
+      213: -6714676670149082010
+    second: ElementalHitEffects_2
+  - first:
+      213: 5219436916347855107
+    second: ElementalHitEffects_3
+  - first:
+      213: 6521536244793866720
+    second: ElementalHitEffects_4
+  - first:
+      213: -3190463727267112225
+    second: ElementalHitEffects_5
+  - first:
+      213: -1266177530741939543
+    second: ElementalHitEffects_6
+  - first:
+      213: 3733938169480149145
+    second: ElementalHitEffects_7
+  - first:
+      213: 2785058244967212928
+    second: ElementalHitEffects_8
+  - first:
+      213: 8985785637885153860
+    second: ElementalHitEffects_9
+  - first:
+      213: -3908053915682638250
+    second: ElementalHitEffects_10
+  - first:
+      213: 2613779777301600071
+    second: ElementalHitEffects_11
+  - first:
+      213: 8614671117933461150
+    second: ElementalHitEffects_12
+  - first:
+      213: -8916648640258365675
+    second: ElementalHitEffects_13
+  - first:
+      213: -4512281582881134580
+    second: ElementalHitEffects_14
+  - first:
+      213: -6226570676433312159
+    second: ElementalHitEffects_15
+  - first:
+      213: 3847875166393918855
+    second: ElementalHitEffects_16
+  - first:
+      213: 8548224843859525902
+    second: ElementalHitEffects_17
+  - first:
+      213: 662303325249083134
+    second: ElementalHitEffects_18
+  - first:
+      213: -3654251053500570310
+    second: ElementalHitEffects_19
+  - first:
+      213: -1627078673965029850
+    second: ElementalHitEffects_20
+  - first:
+      213: 3322507047406210423
+    second: ElementalHitEffects_21
+  - first:
+      213: -553261185839142634
+    second: ElementalHitEffects_22
+  - first:
+      213: 8171229174730115257
+    second: ElementalHitEffects_23
+  - first:
+      213: 8649475166181514073
+    second: ElementalHitEffects_24
+  - first:
+      213: -8174895938401436138
+    second: ElementalHitEffects_25
+  - first:
+      213: 4664527516373086074
+    second: ElementalHitEffects_26
+  - first:
+      213: 7410602660950174712
+    second: ElementalHitEffects_27
+  - first:
+      213: 1609587631766512314
+    second: ElementalHitEffects_28
+  - first:
+      213: 2803576566677444628
+    second: ElementalHitEffects_29
+  - first:
+      213: -1920933093681441050
+    second: ElementalHitEffects_30
+  - first:
+      213: -6771036111024005054
+    second: ElementalHitEffects_31
+  - first:
+      213: 7950274998622481910
+    second: ElementalHitEffects_32
+  - first:
+      213: -2036431888171078446
+    second: ElementalHitEffects_33
+  - first:
+      213: 1806564644425423689
+    second: ElementalHitEffects_34
+  - first:
+      213: 1227023502565288800
+    second: ElementalHitEffects_35
+  - first:
+      213: 955995862456236772
+    second: ElementalHitEffects_36
+  - first:
+      213: 6645781702211737679
+    second: ElementalHitEffects_37
+  - first:
+      213: -7104969286789364129
+    second: ElementalHitEffects_38
+  - first:
+      213: -2539109778576522023
+    second: ElementalHitEffects_39
+  - first:
+      213: 5393554024782500164
+    second: ElementalHitEffects_40
+  - first:
+      213: 3546312605824692481
+    second: ElementalHitEffects_41
+  - first:
+      213: 2588066615275072681
+    second: ElementalHitEffects_42
+  - first:
+      213: 1965022562576611599
+    second: ElementalHitEffects_43
+  - first:
+      213: -7248514727529948590
+    second: ElementalHitEffects_44
+  - first:
+      213: 9080797512538819609
+    second: ElementalHitEffects_45
+  - first:
+      213: 8341660488785858185
+    second: ElementalHitEffects_46
+  - first:
+      213: -7608412692749400309
+    second: ElementalHitEffects_47
+  - first:
+      213: 6382240294890930041
+    second: ElementalHitEffects_48
+  - first:
+      213: 6004489686509208103
+    second: ElementalHitEffects_49
+  - first:
+      213: 4442169241681971075
+    second: ElementalHitEffects_50
+  - first:
+      213: 5146825212353117734
+    second: ElementalHitEffects_51
+  - first:
+      213: -7940155994117685961
+    second: ElementalHitEffects_52
+  - first:
+      213: -907251859286090694
+    second: ElementalHitEffects_53
+  - first:
+      213: 5916882755712522416
+    second: ElementalHitEffects_54
+  - first:
+      213: 3065014845935562382
+    second: ElementalHitEffects_55
+  - first:
+      213: -8809146579385518285
+    second: ElementalHitEffects_56
+  - first:
+      213: -2742059473432066637
+    second: ElementalHitEffects_57
+  - first:
+      213: -7485948595277541125
+    second: ElementalHitEffects_58
+  - first:
+      213: -3517383085552179612
+    second: ElementalHitEffects_59
+  - first:
+      213: -752183618957289688
+    second: ElementalHitEffects_60
+  - first:
+      213: -3511890637283035148
+    second: ElementalHitEffects_61
+  - first:
+      213: -1053156404660405721
+    second: ElementalHitEffects_62
+  - first:
+      213: 1285674152038892159
+    second: ElementalHitEffects_63
+  - first:
+      213: 5029541289580355347
+    second: ElementalHitEffects_64
+  - first:
+      213: 2229030078674443259
+    second: ElementalHitEffects_65
+  - first:
+      213: -3520979726681593977
+    second: ElementalHitEffects_66
+  - first:
+      213: -4069036458624901945
+    second: ElementalHitEffects_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ElementalHitEffects_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 401
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa606ee463669240800000000000000
+      internalID: 4798131738157017772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 419
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79a22dc18f6868d0800000000000000
+      internalID: -2852907760656144003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 418
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6644926f42da0d2a0800000000000000
+      internalID: -6714676670149082010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 419
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301697eb83a2f6840800000000000000
+      internalID: 5219436916347855107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 361
+        width: 43
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9f5cc79a6218a50800000000000000
+      internalID: 6521536244793866720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_5
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 396
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda9973d42239b3d0800000000000000
+      internalID: -3190463727267112225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 396
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2ab898e32ad6ee0800000000000000
+      internalID: -1266177530741939543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_7
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 396
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998f22d5bfc91d330800000000000000
+      internalID: 3733938169480149145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_8
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 396
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0872b0ac7b386a620800000000000000
+      internalID: 2785058244967212928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 337
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44293fdcd6ce3bc70800000000000000
+      internalID: 8985785637885153860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 355
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65679a06badc3c9c0800000000000000
+      internalID: -3908053915682638250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 354
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747592bebd2064420800000000000000
+      internalID: 2613779777301600071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_12
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 355
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ebd314db57d8770800000000000000
+      internalID: 8614671117933461150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_13
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 332
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5172e6add43b14480800000000000000
+      internalID: -8916648640258365675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 332
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0825d5bec72161c0800000000000000
+      internalID: -4512281582881134580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_15
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 332
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1662456a5f6c699a0800000000000000
+      internalID: -6226570676433312159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_16
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 332
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785e4f0b316666530800000000000000
+      internalID: 3847875166393918855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_17
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 297
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e018a6e743561a670800000000000000
+      internalID: 8548224843859525902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 273
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef618038d59f03900800000000000000
+      internalID: 662303325249083134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_19
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 291
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a356004270e794dc0800000000000000
+      internalID: -3654251053500570310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_20
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 290
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62663b011947b69e0800000000000000
+      internalID: -1627078673965029850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_21
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 291
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d01646e8aeb1e20800000000000000
+      internalID: 3322507047406210423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_22
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 268
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619eb0ef1eb6258f0800000000000000
+      internalID: -553261185839142634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_23
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 268
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8c81234a9066170800000000000000
+      internalID: 8171229174730115257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_24
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 268
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bdfc536db190870800000000000000
+      internalID: 8649475166181514073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_25
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 268
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e7ccbd47fec8e80800000000000000
+      internalID: -8174895938401436138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_26
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 233
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fe37aff0bbbb040800000000000000
+      internalID: 4664527516373086074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_27
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 209
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbef796bdfb7d660800000000000000
+      internalID: 7410602660950174712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_28
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 227
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab22e425c67665610800000000000000
+      internalID: 1609587631766512314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_29
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 226
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4181b6d880e48e620800000000000000
+      internalID: 2803576566677444628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_30
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 227
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e653d167897755e0800000000000000
+      internalID: -1920933093681441050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_31
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 204
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240621118827802a0800000000000000
+      internalID: -6771036111024005054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_32
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 204
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdef872dfc055e60800000000000000
+      internalID: 7950274998622481910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_33
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 204
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dce848bcf32db3e0800000000000000
+      internalID: -2036431888171078446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_34
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 204
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bd1c6f8f4321910800000000000000
+      internalID: 1806564644425423689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_35
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 169
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ba571ef53470110800000000000000
+      internalID: 1227023502565288800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 145
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea727cfb21644d00800000000000000
+      internalID: 955995862456236772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_37
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 163
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f481f1f4f3f8a3c50800000000000000
+      internalID: 6645781702211737679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_38
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 162
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f560cd0d314166d90800000000000000
+      internalID: -7104969286789364129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_39
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 163
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4c932fb1543ccd0800000000000000
+      internalID: -2539109778576522023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_40
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 140
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4411a0c2fc0c9da40800000000000000
+      internalID: 5393554024782500164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_41
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 140
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101bbac9688073130800000000000000
+      internalID: 3546312605824692481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_42
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 140
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aca48adfd8aae320800000000000000
+      internalID: 2588066615275072681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_43
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 140
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09b10a0c99254b10800000000000000
+      internalID: 1965022562576611599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_44
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 105
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ad364724a186b90800000000000000
+      internalID: -7248514727529948590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_45
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 81
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c802cb939750e70800000000000000
+      internalID: 9080797512538819609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_46
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 99
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e0efeb40883c370800000000000000
+      internalID: 8341660488785858185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_47
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 98
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07491097fc796690800000000000000
+      internalID: -7608412692749400309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_48
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 99
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f7820dbb5429850800000000000000
+      internalID: 6382240294890930041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_49
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 76
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722c0e58e8b345350800000000000000
+      internalID: 6004489686509208103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_50
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 76
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387ce92c361c5ad30800000000000000
+      internalID: 4442169241681971075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_51
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ef457f2423d6740800000000000000
+      internalID: 5146825212353117734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_52
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 76
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d3d6d2136eec190800000000000000
+      internalID: -7940155994117685961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_53
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 75
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c9075ad3bc863f0800000000000000
+      internalID: -907251859286090694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_54
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b811ef648dfc1250800000000000000
+      internalID: 5916882755712522416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_55
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 33
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ea94363ce198a20800000000000000
+      internalID: 3065014845935562382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_56
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 34
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337f061ebdf9fb580800000000000000
+      internalID: -8809146579385518285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_57
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 37
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5461ddf6f32f9d0800000000000000
+      internalID: -2742059473432066637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_58
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 31
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0d5a33a619c1890800000000000000
+      internalID: -7485948595277541125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_59
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 11
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466e1b638bebf2fc0800000000000000
+      internalID: -3517383085552179612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_60
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 41
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827de2adbf4bf85f0800000000000000
+      internalID: -752183618957289688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_61
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 12
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f779ba7212434fc0800000000000000
+      internalID: -3511890637283035148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_62
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 26
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72af94f64df6261f0800000000000000
+      internalID: -1053156404660405721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_63
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 12
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f720e2954d1a7d110800000000000000
+      internalID: 1285674152038892159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_64
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 17
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fd89cb7258cc540800000000000000
+      internalID: 5029541289580355347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_65
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb1d01fb0b1fee10800000000000000
+      internalID: 2229030078674443259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_66
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 11
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787aac1f797f22fc0800000000000000
+      internalID: -3520979726681593977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalHitEffects_67
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 12
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc9c8946e0e787c0800000000000000
+      internalID: -4069036458624901945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ElementalHitEffects_0: 4798131738157017772
+      ElementalHitEffects_1: -2852907760656144003
+      ElementalHitEffects_10: -3908053915682638250
+      ElementalHitEffects_11: 2613779777301600071
+      ElementalHitEffects_12: 8614671117933461150
+      ElementalHitEffects_13: -8916648640258365675
+      ElementalHitEffects_14: -4512281582881134580
+      ElementalHitEffects_15: -6226570676433312159
+      ElementalHitEffects_16: 3847875166393918855
+      ElementalHitEffects_17: 8548224843859525902
+      ElementalHitEffects_18: 662303325249083134
+      ElementalHitEffects_19: -3654251053500570310
+      ElementalHitEffects_2: -6714676670149082010
+      ElementalHitEffects_20: -1627078673965029850
+      ElementalHitEffects_21: 3322507047406210423
+      ElementalHitEffects_22: -553261185839142634
+      ElementalHitEffects_23: 8171229174730115257
+      ElementalHitEffects_24: 8649475166181514073
+      ElementalHitEffects_25: -8174895938401436138
+      ElementalHitEffects_26: 4664527516373086074
+      ElementalHitEffects_27: 7410602660950174712
+      ElementalHitEffects_28: 1609587631766512314
+      ElementalHitEffects_29: 2803576566677444628
+      ElementalHitEffects_3: 5219436916347855107
+      ElementalHitEffects_30: -1920933093681441050
+      ElementalHitEffects_31: -6771036111024005054
+      ElementalHitEffects_32: 7950274998622481910
+      ElementalHitEffects_33: -2036431888171078446
+      ElementalHitEffects_34: 1806564644425423689
+      ElementalHitEffects_35: 1227023502565288800
+      ElementalHitEffects_36: 955995862456236772
+      ElementalHitEffects_37: 6645781702211737679
+      ElementalHitEffects_38: -7104969286789364129
+      ElementalHitEffects_39: -2539109778576522023
+      ElementalHitEffects_4: 6521536244793866720
+      ElementalHitEffects_40: 5393554024782500164
+      ElementalHitEffects_41: 3546312605824692481
+      ElementalHitEffects_42: 2588066615275072681
+      ElementalHitEffects_43: 1965022562576611599
+      ElementalHitEffects_44: -7248514727529948590
+      ElementalHitEffects_45: 9080797512538819609
+      ElementalHitEffects_46: 8341660488785858185
+      ElementalHitEffects_47: -7608412692749400309
+      ElementalHitEffects_48: 6382240294890930041
+      ElementalHitEffects_49: 6004489686509208103
+      ElementalHitEffects_5: -3190463727267112225
+      ElementalHitEffects_50: 4442169241681971075
+      ElementalHitEffects_51: 5146825212353117734
+      ElementalHitEffects_52: -7940155994117685961
+      ElementalHitEffects_53: -907251859286090694
+      ElementalHitEffects_54: 5916882755712522416
+      ElementalHitEffects_55: 3065014845935562382
+      ElementalHitEffects_56: -8809146579385518285
+      ElementalHitEffects_57: -2742059473432066637
+      ElementalHitEffects_58: -7485948595277541125
+      ElementalHitEffects_59: -3517383085552179612
+      ElementalHitEffects_6: -1266177530741939543
+      ElementalHitEffects_60: -752183618957289688
+      ElementalHitEffects_61: -3511890637283035148
+      ElementalHitEffects_62: -1053156404660405721
+      ElementalHitEffects_63: 1285674152038892159
+      ElementalHitEffects_64: 5029541289580355347
+      ElementalHitEffects_65: 2229030078674443259
+      ElementalHitEffects_66: -3520979726681593977
+      ElementalHitEffects_67: -4069036458624901945
+      ElementalHitEffects_7: 3733938169480149145
+      ElementalHitEffects_8: 2785058244967212928
+      ElementalHitEffects_9: 8985785637885153860
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

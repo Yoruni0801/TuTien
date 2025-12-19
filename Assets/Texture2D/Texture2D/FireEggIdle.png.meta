@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 43a7895343501dd4c863c71f72bc2043
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3501589665661839345
+    second: FireEggIdle_0
+  - first:
+      213: 4808682216172634801
+    second: FireEggIdle_1
+  - first:
+      213: -3862561356365619940
+    second: FireEggIdle_2
+  - first:
+      213: 6239286568712046815
+    second: FireEggIdle_3
+  - first:
+      213: -5358187676435221790
+    second: FireEggIdle_4
+  - first:
+      213: -4481702235719504617
+    second: FireEggIdle_5
+  - first:
+      213: 6162229131290918598
+    second: FireEggIdle_6
+  - first:
+      213: 2724413550072576843
+    second: FireEggIdle_7
+  - first:
+      213: -5048684588633087047
+    second: FireEggIdle_8
+  - first:
+      213: 1463738240633989382
+    second: FireEggIdle_9
+  - first:
+      213: 890946084080164178
+    second: FireEggIdle_10
+  - first:
+      213: -1973362532224195158
+    second: FireEggIdle_11
+  - first:
+      213: 3470543540737518870
+    second: FireEggIdle_12
+  - first:
+      213: 1015978954339208222
+    second: FireEggIdle_13
+  - first:
+      213: 4744995013819200536
+    second: FireEggIdle_14
+  - first:
+      213: -3903644949249081334
+    second: FireEggIdle_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireEggIdle_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 231
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7e3faaf35289030800000000000000
+      internalID: 3501589665661839345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEggIdle_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 230
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b245b48ffedbb240800000000000000
+      internalID: 4808682216172634801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEggIdle_2
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 228
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d1dae39ec656ac0800000000000000
+      internalID: -3862561356365619940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEggIdle_3
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 227
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd882fbb316669650800000000000000
+      internalID: 6239286568712046815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEggIdle_4
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 209
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2f33a72b4e3a5b0800000000000000
+      internalID: -5358187676435221790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEggIdle_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 209
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d6ddacf8bcdc1c0800000000000000
+      internalID: -4481702235719504617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEggIdle_6
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 209
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ceb82bfeb2a48550800000000000000
+      internalID: 6162229131290918598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEggIdle_7
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 209
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b365170bf0fc520800000000000000
+      internalID: 2724413550072576843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEggIdle_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 78
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3298f9d187fe9b0800000000000000
+      internalID: -5048684588633087047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEggIdle_9
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 80
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609e425bc2e305410800000000000000
+      internalID: 1463738240633989382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEggIdle_10
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 81
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d9f973eb64d5c00800000000000000
+      internalID: 890946084080164178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEggIdle_11
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 82
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa526b57b353d94e0800000000000000
+      internalID: -1973362532224195158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEggIdle_12
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 59
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61daf2b66f8d92030800000000000000
+      internalID: 3470543540737518870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEggIdle_13
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 59
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c49a0e97b791e00800000000000000
+      internalID: 1015978954339208222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEggIdle_14
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 59
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81471b333db99d140800000000000000
+      internalID: 4744995013819200536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEggIdle_15
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 59
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00c2ced99773d9c0800000000000000
+      internalID: -3903644949249081334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FireEggIdle_0: 3501589665661839345
+      FireEggIdle_1: 4808682216172634801
+      FireEggIdle_10: 890946084080164178
+      FireEggIdle_11: -1973362532224195158
+      FireEggIdle_12: 3470543540737518870
+      FireEggIdle_13: 1015978954339208222
+      FireEggIdle_14: 4744995013819200536
+      FireEggIdle_15: -3903644949249081334
+      FireEggIdle_2: -3862561356365619940
+      FireEggIdle_3: 6239286568712046815
+      FireEggIdle_4: -5358187676435221790
+      FireEggIdle_5: -4481702235719504617
+      FireEggIdle_6: 6162229131290918598
+      FireEggIdle_7: 2724413550072576843
+      FireEggIdle_8: -5048684588633087047
+      FireEggIdle_9: 1463738240633989382
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

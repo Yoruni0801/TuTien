@@ -1,0 +1,1014 @@
+fileFormatVersion: 2
+guid: 98fe8597500c2f842b69ff42b2e350d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4903952739701592735
+    second: WeaponsIdleCombo_0
+  - first:
+      213: -2580247318320426425
+    second: WeaponsIdleCombo_1
+  - first:
+      213: 6055099398378734518
+    second: WeaponsIdleCombo_2
+  - first:
+      213: 3789478941991500370
+    second: WeaponsIdleCombo_3
+  - first:
+      213: -231233192873846464
+    second: WeaponsIdleCombo_4
+  - first:
+      213: -2555396224610133172
+    second: WeaponsIdleCombo_5
+  - first:
+      213: -3140935523969072326
+    second: WeaponsIdleCombo_6
+  - first:
+      213: -6208117994236405457
+    second: WeaponsIdleCombo_7
+  - first:
+      213: -8975011279423503271
+    second: WeaponsIdleCombo_8
+  - first:
+      213: -5877309775364702781
+    second: WeaponsIdleCombo_9
+  - first:
+      213: 8270673266825046682
+    second: WeaponsIdleCombo_10
+  - first:
+      213: 6105025481805976781
+    second: WeaponsIdleCombo_11
+  - first:
+      213: -3489426511022542444
+    second: WeaponsIdleCombo_12
+  - first:
+      213: 5842741728389814714
+    second: WeaponsIdleCombo_13
+  - first:
+      213: 1627666109930080710
+    second: WeaponsIdleCombo_14
+  - first:
+      213: -5111194440882681290
+    second: WeaponsIdleCombo_15
+  - first:
+      213: 7839713766088888389
+    second: WeaponsIdleCombo_16
+  - first:
+      213: -4920730724305590471
+    second: WeaponsIdleCombo_17
+  - first:
+      213: 2453553026954871827
+    second: WeaponsIdleCombo_18
+  - first:
+      213: -227217187830044262
+    second: WeaponsIdleCombo_19
+  - first:
+      213: -6703759144545588839
+    second: WeaponsIdleCombo_20
+  - first:
+      213: -1185358194806965980
+    second: WeaponsIdleCombo_21
+  - first:
+      213: 1469849265734125115
+    second: WeaponsIdleCombo_22
+  - first:
+      213: -2475827022672099279
+    second: WeaponsIdleCombo_23
+  - first:
+      213: 5588304679649682670
+    second: WeaponsIdleCombo_24
+  - first:
+      213: 7198019813109127681
+    second: WeaponsIdleCombo_25
+  - first:
+      213: 1346610161164272727
+    second: WeaponsIdleCombo_26
+  - first:
+      213: 6374455513600489926
+    second: WeaponsIdleCombo_27
+  - first:
+      213: -4050555824486297877
+    second: WeaponsIdleCombo_28
+  - first:
+      213: 7214807527982540660
+    second: WeaponsIdleCombo_29
+  - first:
+      213: -6660943402779222930
+    second: WeaponsIdleCombo_30
+  - first:
+      213: 664552049819429047
+    second: WeaponsIdleCombo_31
+  - first:
+      213: 2707732050409688327
+    second: WeaponsIdleCombo_32
+  - first:
+      213: 2311008232142790517
+    second: WeaponsIdleCombo_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 520
+        width: 13
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f929735d8075e0440800000000000000
+      internalID: 4903952739701592735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 524
+        width: 11
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7425bd61cbe113cd0800000000000000
+      internalID: -2580247318320426425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 518
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3cb0052d8080450800000000000000
+      internalID: 6055099398378734518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_3
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 527
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25af93d250fe69430800000000000000
+      internalID: 3789478941991500370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_4
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 523
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049997ed2ae7accf0800000000000000
+      internalID: -231233192873846464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_5
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 523
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b1dbb3ca8698cd0800000000000000
+      internalID: -2555396224610133172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_6
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 419
+        width: 9
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a330b6748c72964d0800000000000000
+      internalID: -3140935523969072326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_7
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 425
+        width: 13
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2914d5839558d9a0800000000000000
+      internalID: -6208117994236405457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_8
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 429
+        width: 12
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95486d20bca527380800000000000000
+      internalID: -8975011279423503271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_9
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 419
+        width: 17
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdb47c06e99f6ea0800000000000000
+      internalID: -5877309775364702781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_10
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 429
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a2d6a248557c270800000000000000
+      internalID: 8270673266825046682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_11
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 426
+        width: 11
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4d0c3745869b450800000000000000
+      internalID: 6105025481805976781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 330
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491bba47311139fc0800000000000000
+      internalID: -3489426511022542444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_13
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 331
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9d60355a6951150800000000000000
+      internalID: 5842741728389814714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_14
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 324
+        width: 12
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9035704b1a69610800000000000000
+      internalID: 1627666109930080710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_15
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 329
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a8c3d7cb36119b0800000000000000
+      internalID: -5111194440882681290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_16
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 329
+        width: 12
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540d77832224ccc60800000000000000
+      internalID: 7839713766088888389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_17
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 332
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9372a663a7d06bbb0800000000000000
+      internalID: -4920730724305590471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_18
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 227
+        width: 8
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314ca318a75cc0220800000000000000
+      internalID: 2453553026954871827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_19
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 236
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99e688eb23c8dcf0800000000000000
+      internalID: -227217187830044262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_20
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 235
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9996599739677f2a0800000000000000
+      internalID: -6703759144545588839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_21
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 232
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429beea8003cc8fe0800000000000000
+      internalID: -1185358194806965980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_22
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 234
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36837d9e14f56410800000000000000
+      internalID: 1469849265734125115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_23
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 231
+        width: 14
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138015cb07814add0800000000000000
+      internalID: -2475827022672099279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_24
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 129
+        width: 12
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee42c2f7f75ad8d40800000000000000
+      internalID: 5588304679649682670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_25
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 135
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ad79e12e084e360800000000000000
+      internalID: 7198019813109127681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_26
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 140
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754c0239ece10b210800000000000000
+      internalID: 1346610161164272727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_27
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 142
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9ffac248d967850800000000000000
+      internalID: 6374455513600489926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_28
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 141
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beeca9a30f889c7c0800000000000000
+      internalID: -4050555824486297877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_29
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 136
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477a6349835202460800000000000000
+      internalID: 7214807527982540660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_30
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 38
+        width: 11
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cdc5034439f83a0800000000000000
+      internalID: -6660943402779222930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_31
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 38
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8ae308196f83900800000000000000
+      internalID: 664552049819429047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_32
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 42
+        width: 9
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d0c9324fbc39520800000000000000
+      internalID: 2707732050409688327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIdleCombo_33
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 49
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fdfdd2eb9521020800000000000000
+      internalID: 2311008232142790517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WeaponsIdleCombo_0: 4903952739701592735
+      WeaponsIdleCombo_1: -2580247318320426425
+      WeaponsIdleCombo_10: 8270673266825046682
+      WeaponsIdleCombo_11: 6105025481805976781
+      WeaponsIdleCombo_12: -3489426511022542444
+      WeaponsIdleCombo_13: 5842741728389814714
+      WeaponsIdleCombo_14: 1627666109930080710
+      WeaponsIdleCombo_15: -5111194440882681290
+      WeaponsIdleCombo_16: 7839713766088888389
+      WeaponsIdleCombo_17: -4920730724305590471
+      WeaponsIdleCombo_18: 2453553026954871827
+      WeaponsIdleCombo_19: -227217187830044262
+      WeaponsIdleCombo_2: 6055099398378734518
+      WeaponsIdleCombo_20: -6703759144545588839
+      WeaponsIdleCombo_21: -1185358194806965980
+      WeaponsIdleCombo_22: 1469849265734125115
+      WeaponsIdleCombo_23: -2475827022672099279
+      WeaponsIdleCombo_24: 5588304679649682670
+      WeaponsIdleCombo_25: 7198019813109127681
+      WeaponsIdleCombo_26: 1346610161164272727
+      WeaponsIdleCombo_27: 6374455513600489926
+      WeaponsIdleCombo_28: -4050555824486297877
+      WeaponsIdleCombo_29: 7214807527982540660
+      WeaponsIdleCombo_3: 3789478941991500370
+      WeaponsIdleCombo_30: -6660943402779222930
+      WeaponsIdleCombo_31: 664552049819429047
+      WeaponsIdleCombo_32: 2707732050409688327
+      WeaponsIdleCombo_33: 2311008232142790517
+      WeaponsIdleCombo_4: -231233192873846464
+      WeaponsIdleCombo_5: -2555396224610133172
+      WeaponsIdleCombo_6: -3140935523969072326
+      WeaponsIdleCombo_7: -6208117994236405457
+      WeaponsIdleCombo_8: -8975011279423503271
+      WeaponsIdleCombo_9: -5877309775364702781
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

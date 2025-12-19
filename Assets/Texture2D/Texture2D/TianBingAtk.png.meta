@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: b1cf46e09d8b1ff4cafcf753c3a84771
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8311448593026113593
+    second: TianBingAtk_0
+  - first:
+      213: -3763196734190806657
+    second: TianBingAtk_1
+  - first:
+      213: 2736888981783952018
+    second: TianBingAtk_2
+  - first:
+      213: -2040263912089530388
+    second: TianBingAtk_3
+  - first:
+      213: -7321900800687170385
+    second: TianBingAtk_4
+  - first:
+      213: 669799158565855510
+    second: TianBingAtk_5
+  - first:
+      213: 3445339971387039564
+    second: TianBingAtk_6
+  - first:
+      213: -2271630100660873746
+    second: TianBingAtk_7
+  - first:
+      213: -4646152583854545541
+    second: TianBingAtk_8
+  - first:
+      213: 3583200396877196157
+    second: TianBingAtk_9
+  - first:
+      213: 7138865293550726235
+    second: TianBingAtk_10
+  - first:
+      213: -7269028728659012411
+    second: TianBingAtk_11
+  - first:
+      213: 4153119443607599188
+    second: TianBingAtk_12
+  - first:
+      213: 8139297423286823923
+    second: TianBingAtk_13
+  - first:
+      213: 4324089543508945308
+    second: TianBingAtk_14
+  - first:
+      213: -1867318389904711309
+    second: TianBingAtk_15
+  - first:
+      213: 6074186489484775636
+    second: TianBingAtk_16
+  - first:
+      213: -7707347698489969811
+    second: TianBingAtk_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TianBingAtk_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 183
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930ed3c9572385370800000000000000
+      internalID: 8311448593026113593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianBingAtk_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 183
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7995ae228076cbc0800000000000000
+      internalID: -3763196734190806657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianBingAtk_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 183
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ab9ec37026bf520800000000000000
+      internalID: 2736888981783952018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianBingAtk_3
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 183
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefcadf18c68fa3e0800000000000000
+      internalID: -2040263912089530388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianBingAtk_4
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 183
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac946ec302636a90800000000000000
+      internalID: -7321900800687170385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianBingAtk_5
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 183
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6116c2539ca9b4900800000000000000
+      internalID: 669799158565855510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianBingAtk_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 103
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f9af4237e40df20800000000000000
+      internalID: 3445339971387039564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianBingAtk_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 91
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee51605857c8970e0800000000000000
+      internalID: -2271630100660873746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianBingAtk_8
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 91
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75261367dc858fb0800000000000000
+      internalID: -4646152583854545541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianBingAtk_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 103
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b67eeb6c51ab130800000000000000
+      internalID: 3583200396877196157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianBingAtk_10
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 103
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ca4714928521360800000000000000
+      internalID: 7138865293550726235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianBingAtk_11
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 103
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c49b2e52e83f1b90800000000000000
+      internalID: -7269028728659012411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianBingAtk_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 23
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458bff93128d2a930800000000000000
+      internalID: 4153119443607599188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianBingAtk_13
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 23
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb6344f1e794f070800000000000000
+      internalID: 8139297423286823923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianBingAtk_14
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 11
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99e4d1a780420c30800000000000000
+      internalID: 4324089543508945308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianBingAtk_15
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 17
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371ec2f51d3f516e0800000000000000
+      internalID: -1867318389904711309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianBingAtk_16
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 10
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d097350e68db4450800000000000000
+      internalID: 6074186489484775636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TianBingAtk_17
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 23
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63b41f7a100a0590800000000000000
+      internalID: -7707347698489969811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TianBingAtk_0: 8311448593026113593
+      TianBingAtk_1: -3763196734190806657
+      TianBingAtk_10: 7138865293550726235
+      TianBingAtk_11: -7269028728659012411
+      TianBingAtk_12: 4153119443607599188
+      TianBingAtk_13: 8139297423286823923
+      TianBingAtk_14: 4324089543508945308
+      TianBingAtk_15: -1867318389904711309
+      TianBingAtk_16: 6074186489484775636
+      TianBingAtk_17: -7707347698489969811
+      TianBingAtk_2: 2736888981783952018
+      TianBingAtk_3: -2040263912089530388
+      TianBingAtk_4: -7321900800687170385
+      TianBingAtk_5: 669799158565855510
+      TianBingAtk_6: 3445339971387039564
+      TianBingAtk_7: -2271630100660873746
+      TianBingAtk_8: -4646152583854545541
+      TianBingAtk_9: 3583200396877196157
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

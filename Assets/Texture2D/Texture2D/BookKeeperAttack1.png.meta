@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 73092bb04156b5f4385bb410325f3373
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2448825290237906545
+    second: BookKeeperAttack1_0
+  - first:
+      213: 2424312030370774312
+    second: BookKeeperAttack1_1
+  - first:
+      213: 7227016327117598105
+    second: BookKeeperAttack1_2
+  - first:
+      213: 1600081160367319493
+    second: BookKeeperAttack1_3
+  - first:
+      213: 5659692279009163807
+    second: BookKeeperAttack1_4
+  - first:
+      213: 1323486191946811279
+    second: BookKeeperAttack1_5
+  - first:
+      213: 6321321371868306033
+    second: BookKeeperAttack1_6
+  - first:
+      213: -7386791139056809187
+    second: BookKeeperAttack1_7
+  - first:
+      213: -8690923813804467974
+    second: BookKeeperAttack1_8
+  - first:
+      213: -1862473319329966431
+    second: BookKeeperAttack1_9
+  - first:
+      213: -1213792325954629421
+    second: BookKeeperAttack1_10
+  - first:
+      213: -5337073149564694033
+    second: BookKeeperAttack1_11
+  - first:
+      213: -8528957081102852118
+    second: BookKeeperAttack1_12
+  - first:
+      213: 7051992652422846950
+    second: BookKeeperAttack1_13
+  - first:
+      213: 3523335307786562666
+    second: BookKeeperAttack1_14
+  - first:
+      213: -5758819424916476300
+    second: BookKeeperAttack1_15
+  - first:
+      213: 5359115449891139095
+    second: BookKeeperAttack1_16
+  - first:
+      213: -6565949553599604293
+    second: BookKeeperAttack1_17
+  - first:
+      213: 158990861582413752
+    second: BookKeeperAttack1_18
+  - first:
+      213: 7075127613726769191
+    second: BookKeeperAttack1_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BookKeeperAttack1_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 322
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e8f9580a9fbf120800000000000000
+      internalID: 2448825290237906545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookKeeperAttack1_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 322
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82db4f272f2e4a120800000000000000
+      internalID: 2424312030370774312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookKeeperAttack1_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 322
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99deac32f058b4460800000000000000
+      internalID: 7227016327117598105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookKeeperAttack1_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 322
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c92d777651a43610800000000000000
+      internalID: 1600081160367319493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookKeeperAttack1_4
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 322
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1abc5434244b8e40800000000000000
+      internalID: 5659692279009163807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookKeeperAttack1_5
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 226
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87cf10fda7fd5210800000000000000
+      internalID: 1323486191946811279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookKeeperAttack1_6
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 226
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a9b41cb48d9b750800000000000000
+      internalID: 6321321371868306033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookKeeperAttack1_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 226
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b048e8898dc7990800000000000000
+      internalID: -7386791139056809187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookKeeperAttack1_8
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 226
+        width: 22
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8933c76d2a36780800000000000000
+      internalID: -8690923813804467974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookKeeperAttack1_9
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 226
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6d1b5426a2726e0800000000000000
+      internalID: -1862473319329966431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookKeeperAttack1_10
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 130
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0116c7f4eb72fe0800000000000000
+      internalID: -1213792325954629421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookKeeperAttack1_11
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 130
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1dbeb5f38eee5b0800000000000000
+      internalID: -5337073149564694033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookKeeperAttack1_12
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 130
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefdf4c19be03a980800000000000000
+      internalID: -8528957081102852118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookKeeperAttack1_13
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 130
+        width: 22
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9145e44f5bdd160800000000000000
+      internalID: 7051992652422846950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookKeeperAttack1_14
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 130
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ca5358bc665e030800000000000000
+      internalID: 3523335307786562666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookKeeperAttack1_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 34
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47eeb3c9e309410b0800000000000000
+      internalID: -5758819424916476300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookKeeperAttack1_16
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 34
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ea11d9b176f5a40800000000000000
+      internalID: 5359115449891139095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookKeeperAttack1_17
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 34
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb99f8c3baf01e4a0800000000000000
+      internalID: -6565949553599604293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookKeeperAttack1_18
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 34
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf2723a859d43200800000000000000
+      internalID: 158990861582413752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookKeeperAttack1_19
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 34
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720cdbc3417ef2260800000000000000
+      internalID: 7075127613726769191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BookKeeperAttack1_0: 2448825290237906545
+      BookKeeperAttack1_1: 2424312030370774312
+      BookKeeperAttack1_10: -1213792325954629421
+      BookKeeperAttack1_11: -5337073149564694033
+      BookKeeperAttack1_12: -8528957081102852118
+      BookKeeperAttack1_13: 7051992652422846950
+      BookKeeperAttack1_14: 3523335307786562666
+      BookKeeperAttack1_15: -5758819424916476300
+      BookKeeperAttack1_16: 5359115449891139095
+      BookKeeperAttack1_17: -6565949553599604293
+      BookKeeperAttack1_18: 158990861582413752
+      BookKeeperAttack1_19: 7075127613726769191
+      BookKeeperAttack1_2: 7227016327117598105
+      BookKeeperAttack1_3: 1600081160367319493
+      BookKeeperAttack1_4: 5659692279009163807
+      BookKeeperAttack1_5: 1323486191946811279
+      BookKeeperAttack1_6: 6321321371868306033
+      BookKeeperAttack1_7: -7386791139056809187
+      BookKeeperAttack1_8: -8690923813804467974
+      BookKeeperAttack1_9: -1862473319329966431
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

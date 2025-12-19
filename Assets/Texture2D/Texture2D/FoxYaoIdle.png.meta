@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: bb332e102bf72554ba7cbd32d91eab53
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4009953478128965764
+    second: FoxYaoIdle_0
+  - first:
+      213: 1510578282446650
+    second: FoxYaoIdle_1
+  - first:
+      213: -7530918663012890208
+    second: FoxYaoIdle_2
+  - first:
+      213: 3273431611962934771
+    second: FoxYaoIdle_3
+  - first:
+      213: 3276740573430731481
+    second: FoxYaoIdle_4
+  - first:
+      213: -3454757154326971633
+    second: FoxYaoIdle_5
+  - first:
+      213: -6193292163476138969
+    second: FoxYaoIdle_6
+  - first:
+      213: -6919404550350627160
+    second: FoxYaoIdle_7
+  - first:
+      213: 130698545121650552
+    second: FoxYaoIdle_8
+  - first:
+      213: 7067606511608004179
+    second: FoxYaoIdle_9
+  - first:
+      213: 845723154990778917
+    second: FoxYaoIdle_10
+  - first:
+      213: -4647613658453720682
+    second: FoxYaoIdle_11
+  - first:
+      213: -9084361954024882214
+    second: FoxYaoIdle_12
+  - first:
+      213: 5213800383105010125
+    second: FoxYaoIdle_13
+  - first:
+      213: -468430035517405270
+    second: FoxYaoIdle_14
+  - first:
+      213: -4850651645146033872
+    second: FoxYaoIdle_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FoxYaoIdle_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 189
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77e74aae88c958c0800000000000000
+      internalID: -4009953478128965764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoIdle_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 191
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f3ee9ecdd550000800000000000000
+      internalID: 1510578282446650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoIdle_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 192
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9c1c2606dcc7790800000000000000
+      internalID: -7530918663012890208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoIdle_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 192
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5c59b25b09d6d20800000000000000
+      internalID: 3273431611962934771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoIdle_4
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 180
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2d27cc032597d20800000000000000
+      internalID: 3276740573430731481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoIdle_5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 180
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bf9171cac3e00d0800000000000000
+      internalID: -3454757154326971633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoIdle_6
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 180
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7245bcd37910d0aa0800000000000000
+      internalID: -6193292163476138969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoIdle_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 180
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae1127d83659ff90800000000000000
+      internalID: -6919404550350627160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoIdle_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 62
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877e2a262a550d100800000000000000
+      internalID: 130698545121650552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoIdle_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 61
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ef1a03dae251260800000000000000
+      internalID: 7067606511608004179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoIdle_10
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 59
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a4c878abc9cbb00800000000000000
+      internalID: 845723154990778917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoIdle_11
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 58
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691cc92700c508fb0800000000000000
+      internalID: -4647613658453720682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoIdle_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 50
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adff54f0fecdde180800000000000000
+      internalID: -9084361954024882214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoIdle_13
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 50
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc905c413d32b5840800000000000000
+      internalID: 5213800383105010125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoIdle_14
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 50
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa78cd25d5dcf79f0800000000000000
+      internalID: -468430035517405270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoIdle_15
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 50
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03118e157060facb0800000000000000
+      internalID: -4850651645146033872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FoxYaoIdle_0: -4009953478128965764
+      FoxYaoIdle_1: 1510578282446650
+      FoxYaoIdle_10: 845723154990778917
+      FoxYaoIdle_11: -4647613658453720682
+      FoxYaoIdle_12: -9084361954024882214
+      FoxYaoIdle_13: 5213800383105010125
+      FoxYaoIdle_14: -468430035517405270
+      FoxYaoIdle_15: -4850651645146033872
+      FoxYaoIdle_2: -7530918663012890208
+      FoxYaoIdle_3: 3273431611962934771
+      FoxYaoIdle_4: 3276740573430731481
+      FoxYaoIdle_5: -3454757154326971633
+      FoxYaoIdle_6: -6193292163476138969
+      FoxYaoIdle_7: -6919404550350627160
+      FoxYaoIdle_8: 130698545121650552
+      FoxYaoIdle_9: 7067606511608004179
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

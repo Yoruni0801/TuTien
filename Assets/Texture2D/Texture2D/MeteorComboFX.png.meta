@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: fe9beaec09f3cd441951ecbc9ef3df1f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7534093692412976150
+    second: MeteorComboFX_0
+  - first:
+      213: 5116359486330521352
+    second: MeteorComboFX_1
+  - first:
+      213: 6725801334908910933
+    second: MeteorComboFX_2
+  - first:
+      213: 7049284392552087284
+    second: MeteorComboFX_3
+  - first:
+      213: -5763388525721648670
+    second: MeteorComboFX_4
+  - first:
+      213: -9102424744949458136
+    second: MeteorComboFX_5
+  - first:
+      213: 9159320230828962576
+    second: MeteorComboFX_6
+  - first:
+      213: -7947265546230734886
+    second: MeteorComboFX_7
+  - first:
+      213: 5120581109986990957
+    second: MeteorComboFX_8
+  - first:
+      213: -5218705692626709604
+    second: MeteorComboFX_9
+  - first:
+      213: -3161559619612714967
+    second: MeteorComboFX_10
+  - first:
+      213: -621824577229922034
+    second: MeteorComboFX_11
+  - first:
+      213: 4191305910486424653
+    second: MeteorComboFX_12
+  - first:
+      213: -6479243285134026336
+    second: MeteorComboFX_13
+  - first:
+      213: -3507591900510009115
+    second: MeteorComboFX_14
+  - first:
+      213: -7714369176865201508
+    second: MeteorComboFX_15
+  - first:
+      213: -8266548538634369073
+    second: MeteorComboFX_16
+  - first:
+      213: -7410307508391590761
+    second: MeteorComboFX_17
+  - first:
+      213: -5153127064732802884
+    second: MeteorComboFX_18
+  - first:
+      213: -7188455159225332885
+    second: MeteorComboFX_19
+  - first:
+      213: 6254306142967053548
+    second: MeteorComboFX_20
+  - first:
+      213: 920491036606338850
+    second: MeteorComboFX_21
+  - first:
+      213: 2813003711465558610
+    second: MeteorComboFX_22
+  - first:
+      213: 8892840966180752937
+    second: MeteorComboFX_23
+  - first:
+      213: 1948202252139442760
+    second: MeteorComboFX_24
+  - first:
+      213: -6746924801088476782
+    second: MeteorComboFX_25
+  - first:
+      213: 8128600965452408969
+    second: MeteorComboFX_26
+  - first:
+      213: -9077494302816362301
+    second: MeteorComboFX_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MeteorComboFX_0
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 398
+        width: 230
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3a63f34b5817790800000000000000
+      internalID: -7534093692412976150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorComboFX_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 549
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8074eed58d5f00740800000000000000
+      internalID: 5116359486330521352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorComboFX_2
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 514
+        width: 101
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55df715eda8d65d50800000000000000
+      internalID: 6725801334908910933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorComboFX_3
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 398
+        width: 213
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4feb5ca6ec614d160800000000000000
+      internalID: 7049284392552087284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorComboFX_4
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 398
+        width: 201
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e18ccdeba45400b0800000000000000
+      internalID: -5763388525721648670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorComboFX_5
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 504
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bdf82dbe0bda180800000000000000
+      internalID: -9102424744949458136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorComboFX_6
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 466
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013fb96c8317c1f70800000000000000
+      internalID: 9159320230828962576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorComboFX_7
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 398
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf57359714a5b190800000000000000
+      internalID: -7947265546230734886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorComboFX_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 200
+        width: 87
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b9958b365ff0740800000000000000
+      internalID: 5120581109986990957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorComboFX_9
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 244
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c931dab82de6397b0800000000000000
+      internalID: -5218705692626709604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorComboFX_10
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 255
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928d3c0d642ef14d0800000000000000
+      internalID: -3161559619612714967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorComboFX_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 217
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e016a9177d5de57f0800000000000000
+      internalID: -621824577229922034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorComboFX_12
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 217
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cd983e4828a2a30800000000000000
+      internalID: 4191305910486424653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorComboFX_13
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 237
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a950488f8a1516a0800000000000000
+      internalID: -6479243285134026336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorComboFX_14
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 225
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8401120c7825fc0800000000000000
+      internalID: -3507591900510009115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorComboFX_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 210
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c922aba2b1e01f490800000000000000
+      internalID: -7714369176865201508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorComboFX_16
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 211
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc78c24f6e1574d80800000000000000
+      internalID: -8266548538634369073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorComboFX_17
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 212
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794c8e5259c492990800000000000000
+      internalID: -7410307508391590761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorComboFX_18
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 212
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb06620bc3a6c78b0800000000000000
+      internalID: -5153127064732802884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorComboFX_19
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 200
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bcc866e1a7d3c90800000000000000
+      internalID: -7188455159225332885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorComboFX_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 186
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec3810ec42cbc650800000000000000
+      internalID: 6254306142967053548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorComboFX_21
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 179
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2271ad788bd36cc00800000000000000
+      internalID: 920491036606338850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorComboFX_22
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 98
+        width: 201
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25292cdb8fbc90720800000000000000
+      internalID: 2813003711465558610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorComboFX_23
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 196
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ece311eb7b96b70800000000000000
+      internalID: 8892840966180752937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorComboFX_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 98
+        width: 201
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842336550a7690b10800000000000000
+      internalID: 1948202252139442760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorComboFX_25
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 181
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29929d0e3ab1e52a0800000000000000
+      internalID: -6746924801088476782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorComboFX_26
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 98
+        width: 201
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98820bac2879ec070800000000000000
+      internalID: 8128600965452408969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorComboFX_27
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 98
+        width: 201
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0aff5b603460280800000000000000
+      internalID: -9077494302816362301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MeteorComboFX_0: -7534093692412976150
+      MeteorComboFX_1: 5116359486330521352
+      MeteorComboFX_10: -3161559619612714967
+      MeteorComboFX_11: -621824577229922034
+      MeteorComboFX_12: 4191305910486424653
+      MeteorComboFX_13: -6479243285134026336
+      MeteorComboFX_14: -3507591900510009115
+      MeteorComboFX_15: -7714369176865201508
+      MeteorComboFX_16: -8266548538634369073
+      MeteorComboFX_17: -7410307508391590761
+      MeteorComboFX_18: -5153127064732802884
+      MeteorComboFX_19: -7188455159225332885
+      MeteorComboFX_2: 6725801334908910933
+      MeteorComboFX_20: 6254306142967053548
+      MeteorComboFX_21: 920491036606338850
+      MeteorComboFX_22: 2813003711465558610
+      MeteorComboFX_23: 8892840966180752937
+      MeteorComboFX_24: 1948202252139442760
+      MeteorComboFX_25: -6746924801088476782
+      MeteorComboFX_26: 8128600965452408969
+      MeteorComboFX_27: -9077494302816362301
+      MeteorComboFX_3: 7049284392552087284
+      MeteorComboFX_4: -5763388525721648670
+      MeteorComboFX_5: -9102424744949458136
+      MeteorComboFX_6: 9159320230828962576
+      MeteorComboFX_7: -7947265546230734886
+      MeteorComboFX_8: 5120581109986990957
+      MeteorComboFX_9: -5218705692626709604
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

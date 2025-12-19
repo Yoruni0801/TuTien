@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: b9d20f5c5c6251e459890e8073d44203
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4050397121840445481
+    second: TS_HomeBaseRez_0
+  - first:
+      213: -8692448629953046351
+    second: TS_HomeBaseRez_1
+  - first:
+      213: -3449741427102899468
+    second: TS_HomeBaseRez_2
+  - first:
+      213: 4156928211665440691
+    second: TS_HomeBaseRez_3
+  - first:
+      213: 3344246808837064052
+    second: TS_HomeBaseRez_4
+  - first:
+      213: 8167866822486495291
+    second: TS_HomeBaseRez_5
+  - first:
+      213: 6017435160994466779
+    second: TS_HomeBaseRez_6
+  - first:
+      213: -2579446162166961275
+    second: TS_HomeBaseRez_7
+  - first:
+      213: -6214566954792658430
+    second: TS_HomeBaseRez_8
+  - first:
+      213: -7264363584599381998
+    second: TS_HomeBaseRez_9
+  - first:
+      213: -4539258734834869296
+    second: TS_HomeBaseRez_10
+  - first:
+      213: -5699335881119292203
+    second: TS_HomeBaseRez_11
+  - first:
+      213: -6818369177888706345
+    second: TS_HomeBaseRez_12
+  - first:
+      213: -3547044690965969741
+    second: TS_HomeBaseRez_13
+  - first:
+      213: 616261096967679118
+    second: TS_HomeBaseRez_14
+  - first:
+      213: -2503049905366831937
+    second: TS_HomeBaseRez_15
+  - first:
+      213: 7210584930388661708
+    second: TS_HomeBaseRez_16
+  - first:
+      213: -185066254416904353
+    second: TS_HomeBaseRez_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TS_HomeBaseRez_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1133
+        width: 6
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d78f6117491ac7c0800000000000000
+      internalID: -4050397121840445481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TS_HomeBaseRez_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1052
+        width: 6
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8515f86083e5780800000000000000
+      internalID: -8692448629953046351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TS_HomeBaseRez_2
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 996
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f22596137e0020d0800000000000000
+      internalID: -3449741427102899468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TS_HomeBaseRez_3
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 965
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf4e152f2060b930800000000000000
+      internalID: 4156928211665440691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TS_HomeBaseRez_4
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 965
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47587f901c6296e20800000000000000
+      internalID: 3344246808837064052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TS_HomeBaseRez_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 945
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30910f89971a5170800000000000000
+      internalID: 8167866822486495291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TS_HomeBaseRez_6
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 945
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb450ea569328350800000000000000
+      internalID: 6017435160994466779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TS_HomeBaseRez_7
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 945
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b2bcac167f33cd0800000000000000
+      internalID: -2579446162166961275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TS_HomeBaseRez_8
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 945
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ad3b2e74c61c9a0800000000000000
+      internalID: -6214566954792658430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TS_HomeBaseRez_9
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 945
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218abacdecbcf2b90800000000000000
+      internalID: -7264363584599381998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TS_HomeBaseRez_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 313
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db149e0b305101c0800000000000000
+      internalID: -4539258734834869296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TS_HomeBaseRez_11
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 305
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d42f366634e7e0b0800000000000000
+      internalID: -5699335881119292203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TS_HomeBaseRez_12
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 313
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0b874ab594061a0800000000000000
+      internalID: -6818369177888706345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TS_HomeBaseRez_13
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 305
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4c98885ad56cec0800000000000000
+      internalID: -3547044690965969741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TS_HomeBaseRez_14
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 314
+        width: 163
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ca6add3366d8800800000000000000
+      internalID: 616261096967679118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TS_HomeBaseRez_15
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 305
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbce88f6f51634dd0800000000000000
+      internalID: -2503049905366831937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TS_HomeBaseRez_16
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 314
+        width: 116
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5d9967ac4211460800000000000000
+      internalID: 7210584930388661708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TS_HomeBaseRez_17
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 305
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f719dd8338e6df0800000000000000
+      internalID: -185066254416904353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TS_HomeBaseRez_0: -4050397121840445481
+      TS_HomeBaseRez_1: -8692448629953046351
+      TS_HomeBaseRez_10: -4539258734834869296
+      TS_HomeBaseRez_11: -5699335881119292203
+      TS_HomeBaseRez_12: -6818369177888706345
+      TS_HomeBaseRez_13: -3547044690965969741
+      TS_HomeBaseRez_14: 616261096967679118
+      TS_HomeBaseRez_15: -2503049905366831937
+      TS_HomeBaseRez_16: 7210584930388661708
+      TS_HomeBaseRez_17: -185066254416904353
+      TS_HomeBaseRez_2: -3449741427102899468
+      TS_HomeBaseRez_3: 4156928211665440691
+      TS_HomeBaseRez_4: 3344246808837064052
+      TS_HomeBaseRez_5: 8167866822486495291
+      TS_HomeBaseRez_6: 6017435160994466779
+      TS_HomeBaseRez_7: -2579446162166961275
+      TS_HomeBaseRez_8: -6214566954792658430
+      TS_HomeBaseRez_9: -7264363584599381998
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

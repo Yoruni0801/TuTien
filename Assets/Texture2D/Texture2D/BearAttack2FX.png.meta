@@ -1,0 +1,2054 @@
+fileFormatVersion: 2
+guid: 3e23770ce6477ae42a336cb3f75b9350
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5798008939968410082
+    second: BearAttack2FX_0
+  - first:
+      213: -4379476523523498232
+    second: BearAttack2FX_1
+  - first:
+      213: -8770321291905794298
+    second: BearAttack2FX_2
+  - first:
+      213: 9069602345563268803
+    second: BearAttack2FX_3
+  - first:
+      213: 8054745166121908478
+    second: BearAttack2FX_4
+  - first:
+      213: -3569353026515840507
+    second: BearAttack2FX_5
+  - first:
+      213: 8469754199168227002
+    second: BearAttack2FX_6
+  - first:
+      213: -2249562482134173573
+    second: BearAttack2FX_7
+  - first:
+      213: 8994355844974506411
+    second: BearAttack2FX_8
+  - first:
+      213: -5816068597765901776
+    second: BearAttack2FX_9
+  - first:
+      213: -6438213799457125275
+    second: BearAttack2FX_10
+  - first:
+      213: 8803258477566384702
+    second: BearAttack2FX_11
+  - first:
+      213: -2258535000356297283
+    second: BearAttack2FX_12
+  - first:
+      213: 3699440575389222677
+    second: BearAttack2FX_13
+  - first:
+      213: -4508727524353724793
+    second: BearAttack2FX_14
+  - first:
+      213: 119441313796401446
+    second: BearAttack2FX_15
+  - first:
+      213: 7768420227922457836
+    second: BearAttack2FX_16
+  - first:
+      213: -700724984498016489
+    second: BearAttack2FX_17
+  - first:
+      213: 2785560454866049610
+    second: BearAttack2FX_18
+  - first:
+      213: -6742325730232419475
+    second: BearAttack2FX_19
+  - first:
+      213: 1249149259108457199
+    second: BearAttack2FX_20
+  - first:
+      213: -443770749273551904
+    second: BearAttack2FX_21
+  - first:
+      213: -8411430316386237166
+    second: BearAttack2FX_22
+  - first:
+      213: -5373629169434386034
+    second: BearAttack2FX_23
+  - first:
+      213: 392025324797430929
+    second: BearAttack2FX_24
+  - first:
+      213: -2477936872670598057
+    second: BearAttack2FX_25
+  - first:
+      213: 4212257189769092403
+    second: BearAttack2FX_26
+  - first:
+      213: 218755980205474887
+    second: BearAttack2FX_27
+  - first:
+      213: -7824248524835203507
+    second: BearAttack2FX_28
+  - first:
+      213: -5594898197959821721
+    second: BearAttack2FX_29
+  - first:
+      213: 2206646498051077465
+    second: BearAttack2FX_30
+  - first:
+      213: -6431212651757192244
+    second: BearAttack2FX_31
+  - first:
+      213: -8696312028380729979
+    second: BearAttack2FX_32
+  - first:
+      213: 7644756485047622772
+    second: BearAttack2FX_33
+  - first:
+      213: -5483983573358088022
+    second: BearAttack2FX_34
+  - first:
+      213: -1050208609963659258
+    second: BearAttack2FX_35
+  - first:
+      213: -8052551542196338636
+    second: BearAttack2FX_36
+  - first:
+      213: -8343859385435178173
+    second: BearAttack2FX_37
+  - first:
+      213: -6939478717208730351
+    second: BearAttack2FX_38
+  - first:
+      213: 3098974669902407805
+    second: BearAttack2FX_39
+  - first:
+      213: -5527294857701336136
+    second: BearAttack2FX_40
+  - first:
+      213: -5352745511101253536
+    second: BearAttack2FX_41
+  - first:
+      213: 8554477608053080028
+    second: BearAttack2FX_42
+  - first:
+      213: -8236614318629847789
+    second: BearAttack2FX_43
+  - first:
+      213: -8938380932027938604
+    second: BearAttack2FX_44
+  - first:
+      213: -1342020909797056667
+    second: BearAttack2FX_45
+  - first:
+      213: -5616002405799238794
+    second: BearAttack2FX_46
+  - first:
+      213: -3470820383384808075
+    second: BearAttack2FX_47
+  - first:
+      213: 772642234014175432
+    second: BearAttack2FX_48
+  - first:
+      213: 6947092703745155474
+    second: BearAttack2FX_49
+  - first:
+      213: -662882110036717978
+    second: BearAttack2FX_50
+  - first:
+      213: -2517223753307029601
+    second: BearAttack2FX_51
+  - first:
+      213: 733262834973146662
+    second: BearAttack2FX_52
+  - first:
+      213: -2817988789819574656
+    second: BearAttack2FX_53
+  - first:
+      213: 7206167712629745677
+    second: BearAttack2FX_54
+  - first:
+      213: -8742602407882279598
+    second: BearAttack2FX_55
+  - first:
+      213: -1846805482169154021
+    second: BearAttack2FX_56
+  - first:
+      213: -5886421671314327203
+    second: BearAttack2FX_57
+  - first:
+      213: 7228400552223486757
+    second: BearAttack2FX_58
+  - first:
+      213: -5092633444035254406
+    second: BearAttack2FX_59
+  - first:
+      213: 5626464314114651495
+    second: BearAttack2FX_60
+  - first:
+      213: 1101460012968744903
+    second: BearAttack2FX_61
+  - first:
+      213: -2352424616533812660
+    second: BearAttack2FX_62
+  - first:
+      213: 4587990019990696517
+    second: BearAttack2FX_63
+  - first:
+      213: 3463266729915601968
+    second: BearAttack2FX_64
+  - first:
+      213: 1532061876659773376
+    second: BearAttack2FX_65
+  - first:
+      213: -5324875271759125701
+    second: BearAttack2FX_66
+  - first:
+      213: 8398322021654894300
+    second: BearAttack2FX_67
+  - first:
+      213: 456468055232314887
+    second: BearAttack2FX_68
+  - first:
+      213: 4741914921867406314
+    second: BearAttack2FX_69
+  - first:
+      213: -8084284092913716056
+    second: BearAttack2FX_70
+  - first:
+      213: 6437711566286088919
+    second: BearAttack2FX_71
+  - first:
+      213: -5598293605519411968
+    second: BearAttack2FX_72
+  - first:
+      213: 7894223616648793740
+    second: BearAttack2FX_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BearAttack2FX_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 549
+        width: 150
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ec4a89695598fa0800000000000000
+      internalID: -5798008939968410082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 549
+        width: 153
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f18392e49f833c0800000000000000
+      internalID: -4379476523523498232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_2
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 549
+        width: 150
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ff8ed804f894680800000000000000
+      internalID: -8770321291905794298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_3
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 549
+        width: 150
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6295dc743bddd70800000000000000
+      internalID: 9069602345563268803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_4
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 549
+        width: 150
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8bdfe7d0438cf60800000000000000
+      internalID: 8054745166121908478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_5
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 549
+        width: 150
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502de88655c177ec0800000000000000
+      internalID: -3569353026515840507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_6
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 152
+        width: 133
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab69b48c19c9a8570800000000000000
+      internalID: 8469754199168227002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_7
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 349
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78b85857d2f7c0e0800000000000000
+      internalID: -2249562482134173573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_8
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 357
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1f923acfe52dc70800000000000000
+      internalID: 8994355844974506411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_9
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 358
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032fbd8dc6c294fa0800000000000000
+      internalID: -5816068597765901776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_10
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 362
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c075719aed6a6a0800000000000000
+      internalID: -6438213799457125275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_11
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 363
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a5a4591f47b2a70800000000000000
+      internalID: 8803258477566384702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_12
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 358
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5e9f6226218a0e0800000000000000
+      internalID: -2258535000356297283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_13
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 158
+        width: 131
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517cdb35a9d075330800000000000000
+      internalID: 3699440575389222677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_14
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 336
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78eaed17438cd61c0800000000000000
+      internalID: -4508727524353724793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_15
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 350
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6292758fd3758a100800000000000000
+      internalID: 119441313796401446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_16
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 329
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4f647d909fecb60800000000000000
+      internalID: 7768420227922457836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_17
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 319
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f21c5d6568646f0800000000000000
+      internalID: -700724984498016489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_18
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 328
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a9aa4a97c48a620800000000000000
+      internalID: 2785560454866049610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_19
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 339
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b358188727e62a0800000000000000
+      internalID: -6742325730232419475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_20
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 340
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea1a9402aed55110800000000000000
+      internalID: 1249149259108457199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_21
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 326
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb47dfcad867d9f0800000000000000
+      internalID: -443770749273551904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_22
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 322
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215c8d261b8944b80800000000000000
+      internalID: -8411430316386237166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_23
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 322
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81af29bdb80d65b0800000000000000
+      internalID: -5373629169434386034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_24
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 332
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c0283b4f0c07500800000000000000
+      internalID: 392025324797430929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_25
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 315
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c60a00b899c9dd0800000000000000
+      internalID: -2477936872670598057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_26
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 312
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d95cab891f47a30800000000000000
+      internalID: 4212257189769092403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_27
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 313
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744c3aca76d290300800000000000000
+      internalID: 218755980205474887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_28
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 319
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46d2dadb6faa6390800000000000000
+      internalID: -7824248524835203507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_29
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 321
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766b1246bbdea52b0800000000000000
+      internalID: -5594898197959821721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_30
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 315
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955b1357c459f9e10800000000000000
+      internalID: 2206646498051077465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_31
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 298
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbb301da2ebfb6a0800000000000000
+      internalID: -6431212651757192244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_32
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 301
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58de864094e705780800000000000000
+      internalID: -8696312028380729979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_33
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 312
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c90adf481a71a60800000000000000
+      internalID: 7644756485047622772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_34
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 312
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0f9e3def9f4e3b0800000000000000
+      internalID: -5483983573358088022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_35
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 305
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6003f0f55d8ec61f0800000000000000
+      internalID: -1050208609963659258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_36
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 294
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4300ddf59079f3090800000000000000
+      internalID: -8052551542196338636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_37
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 300
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bb35bb818a43c80800000000000000
+      internalID: -8343859385435178173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_38
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 301
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115e366afd402bf90800000000000000
+      internalID: -6939478717208730351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_39
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 273
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78677f0b05c10b20800000000000000
+      internalID: 3098974669902407805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_40
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 279
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb5edd9c9a1b43b0800000000000000
+      internalID: -5527294857701336136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_41
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0683eb5515a37b5b0800000000000000
+      internalID: -5352745511101253536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_42
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 283
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf790b9f0c97b670800000000000000
+      internalID: 8554477608053080028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_43
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 272
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dfb2aaaeaa1bd80800000000000000
+      internalID: -8236614318629847789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_44
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 280
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8895f56ed74f380800000000000000
+      internalID: -8938380932027938604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_45
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 285
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f5666c71f206de0800000000000000
+      internalID: -1342020909797056667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_46
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 286
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673e8981193ff02b0800000000000000
+      internalID: -5616002405799238794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_47
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 284
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575d921204b25dfc0800000000000000
+      internalID: -3470820383384808075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_48
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 281
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c011e8a40af8ba00800000000000000
+      internalID: 772642234014175432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_49
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 264
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291207cb108096060800000000000000
+      internalID: 6947092703745155474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_50
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 265
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ecc47ab38fcc6f0800000000000000
+      internalID: -662882110036717978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_51
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 274
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f75fb4556011dd0800000000000000
+      internalID: -2517223753307029601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_52
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 149
+        width: 150
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ef195d9a21d2a00800000000000000
+      internalID: 733262834973146662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_53
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 149
+        width: 150
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08675c1402e74e8d0800000000000000
+      internalID: -2817988789819574656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_54
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 241
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d086f2fca53710460800000000000000
+      internalID: 7206167712629745677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_55
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 252
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255b3b92e690ca680800000000000000
+      internalID: -8742602407882279598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_56
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 231
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b164012e234de56e0800000000000000
+      internalID: -1846805482169154021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_57
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 236
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59f5237daa3f4ea0800000000000000
+      internalID: -5886421671314327203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_58
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 256
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523b4892100705460800000000000000
+      internalID: 7228400552223486757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_59
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 241
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7721055dd45359b0800000000000000
+      internalID: -5092633444035254406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_60
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 249
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7653730cb77351e40800000000000000
+      internalID: 5626464314114651495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_61
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 231
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c79c47cb0c294f00800000000000000
+      internalID: 1101460012968744903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_62
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 243
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a1e9266428a5fd0800000000000000
+      internalID: -2352424616533812660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_63
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 255
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542359e6d90dbaf30800000000000000
+      internalID: 4587990019990696517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_64
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 233
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0345c0fddbeff0030800000000000000
+      internalID: 3463266729915601968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_65
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 238
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf593cd82af24510800000000000000
+      internalID: 1532061876659773376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_66
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 247
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b332989172e3a16b0800000000000000
+      internalID: -5324875271759125701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_67
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 252
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6941ae165dc8470800000000000000
+      internalID: 8398322021654894300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_68
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 242
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e7f6b1743b55600800000000000000
+      internalID: 456468055232314887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_69
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 243
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebe7096f7aaec140800000000000000
+      internalID: 4741914921867406314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_70
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 196
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4798a237adecf80800000000000000
+      internalID: -8084284092913716056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_71
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 232
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dae7e2af88575950800000000000000
+      internalID: 6437711566286088919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_72
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 196
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005bca670adde42b0800000000000000
+      internalID: -5598293605519411968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BearAttack2FX_73
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 155
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ec9dfcd8aed8d60800000000000000
+      internalID: 7894223616648793740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BearAttack2FX_0: -5798008939968410082
+      BearAttack2FX_1: -4379476523523498232
+      BearAttack2FX_10: -6438213799457125275
+      BearAttack2FX_11: 8803258477566384702
+      BearAttack2FX_12: -2258535000356297283
+      BearAttack2FX_13: 3699440575389222677
+      BearAttack2FX_14: -4508727524353724793
+      BearAttack2FX_15: 119441313796401446
+      BearAttack2FX_16: 7768420227922457836
+      BearAttack2FX_17: -700724984498016489
+      BearAttack2FX_18: 2785560454866049610
+      BearAttack2FX_19: -6742325730232419475
+      BearAttack2FX_2: -8770321291905794298
+      BearAttack2FX_20: 1249149259108457199
+      BearAttack2FX_21: -443770749273551904
+      BearAttack2FX_22: -8411430316386237166
+      BearAttack2FX_23: -5373629169434386034
+      BearAttack2FX_24: 392025324797430929
+      BearAttack2FX_25: -2477936872670598057
+      BearAttack2FX_26: 4212257189769092403
+      BearAttack2FX_27: 218755980205474887
+      BearAttack2FX_28: -7824248524835203507
+      BearAttack2FX_29: -5594898197959821721
+      BearAttack2FX_3: 9069602345563268803
+      BearAttack2FX_30: 2206646498051077465
+      BearAttack2FX_31: -6431212651757192244
+      BearAttack2FX_32: -8696312028380729979
+      BearAttack2FX_33: 7644756485047622772
+      BearAttack2FX_34: -5483983573358088022
+      BearAttack2FX_35: -1050208609963659258
+      BearAttack2FX_36: -8052551542196338636
+      BearAttack2FX_37: -8343859385435178173
+      BearAttack2FX_38: -6939478717208730351
+      BearAttack2FX_39: 3098974669902407805
+      BearAttack2FX_4: 8054745166121908478
+      BearAttack2FX_40: -5527294857701336136
+      BearAttack2FX_41: -5352745511101253536
+      BearAttack2FX_42: 8554477608053080028
+      BearAttack2FX_43: -8236614318629847789
+      BearAttack2FX_44: -8938380932027938604
+      BearAttack2FX_45: -1342020909797056667
+      BearAttack2FX_46: -5616002405799238794
+      BearAttack2FX_47: -3470820383384808075
+      BearAttack2FX_48: 772642234014175432
+      BearAttack2FX_49: 6947092703745155474
+      BearAttack2FX_5: -3569353026515840507
+      BearAttack2FX_50: -662882110036717978
+      BearAttack2FX_51: -2517223753307029601
+      BearAttack2FX_52: 733262834973146662
+      BearAttack2FX_53: -2817988789819574656
+      BearAttack2FX_54: 7206167712629745677
+      BearAttack2FX_55: -8742602407882279598
+      BearAttack2FX_56: -1846805482169154021
+      BearAttack2FX_57: -5886421671314327203
+      BearAttack2FX_58: 7228400552223486757
+      BearAttack2FX_59: -5092633444035254406
+      BearAttack2FX_6: 8469754199168227002
+      BearAttack2FX_60: 5626464314114651495
+      BearAttack2FX_61: 1101460012968744903
+      BearAttack2FX_62: -2352424616533812660
+      BearAttack2FX_63: 4587990019990696517
+      BearAttack2FX_64: 3463266729915601968
+      BearAttack2FX_65: 1532061876659773376
+      BearAttack2FX_66: -5324875271759125701
+      BearAttack2FX_67: 8398322021654894300
+      BearAttack2FX_68: 456468055232314887
+      BearAttack2FX_69: 4741914921867406314
+      BearAttack2FX_7: -2249562482134173573
+      BearAttack2FX_70: -8084284092913716056
+      BearAttack2FX_71: 6437711566286088919
+      BearAttack2FX_72: -5598293605519411968
+      BearAttack2FX_73: 7894223616648793740
+      BearAttack2FX_8: 8994355844974506411
+      BearAttack2FX_9: -5816068597765901776
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

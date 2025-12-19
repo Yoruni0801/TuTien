@@ -1,0 +1,1300 @@
+fileFormatVersion: 2
+guid: 2932d36427c3e7049b3f30370ce07c83
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8899380335624424692
+    second: SamadhiFireFX_0
+  - first:
+      213: -2478540428749804452
+    second: SamadhiFireFX_1
+  - first:
+      213: 6231959360903590990
+    second: SamadhiFireFX_2
+  - first:
+      213: 3152892562856081672
+    second: SamadhiFireFX_3
+  - first:
+      213: -7582118216887571009
+    second: SamadhiFireFX_4
+  - first:
+      213: -7863526520553815868
+    second: SamadhiFireFX_5
+  - first:
+      213: -7577948479722777436
+    second: SamadhiFireFX_6
+  - first:
+      213: -9059688723268543077
+    second: SamadhiFireFX_7
+  - first:
+      213: -9189794606332416267
+    second: SamadhiFireFX_8
+  - first:
+      213: 8095165906809514770
+    second: SamadhiFireFX_9
+  - first:
+      213: 1371612835989915090
+    second: SamadhiFireFX_10
+  - first:
+      213: 5824959189251799931
+    second: SamadhiFireFX_11
+  - first:
+      213: -7826840102461506381
+    second: SamadhiFireFX_12
+  - first:
+      213: -131653829104362507
+    second: SamadhiFireFX_13
+  - first:
+      213: 4474795146005020010
+    second: SamadhiFireFX_14
+  - first:
+      213: 3587693429474357891
+    second: SamadhiFireFX_15
+  - first:
+      213: 7222403675383051291
+    second: SamadhiFireFX_16
+  - first:
+      213: -2810366875347646385
+    second: SamadhiFireFX_17
+  - first:
+      213: -5559264558357827415
+    second: SamadhiFireFX_18
+  - first:
+      213: 1307890296487122898
+    second: SamadhiFireFX_19
+  - first:
+      213: -2073808298368816979
+    second: SamadhiFireFX_20
+  - first:
+      213: -2684234893301013468
+    second: SamadhiFireFX_21
+  - first:
+      213: 104414707793623260
+    second: SamadhiFireFX_22
+  - first:
+      213: -836215592418505819
+    second: SamadhiFireFX_23
+  - first:
+      213: 6836414780170633599
+    second: SamadhiFireFX_24
+  - first:
+      213: 1442660196563536360
+    second: SamadhiFireFX_25
+  - first:
+      213: 6853961547066430846
+    second: SamadhiFireFX_26
+  - first:
+      213: 1919377151728103014
+    second: SamadhiFireFX_27
+  - first:
+      213: -5795478220616851518
+    second: SamadhiFireFX_28
+  - first:
+      213: -3502112093902869180
+    second: SamadhiFireFX_29
+  - first:
+      213: -4845009498188079154
+    second: SamadhiFireFX_30
+  - first:
+      213: -3855570704696378372
+    second: SamadhiFireFX_31
+  - first:
+      213: -4624596484475873360
+    second: SamadhiFireFX_32
+  - first:
+      213: -5383038597180276649
+    second: SamadhiFireFX_33
+  - first:
+      213: -4774719670784879896
+    second: SamadhiFireFX_34
+  - first:
+      213: 1153465420651340507
+    second: SamadhiFireFX_35
+  - first:
+      213: 4408664191930068285
+    second: SamadhiFireFX_36
+  - first:
+      213: -4773060560189370428
+    second: SamadhiFireFX_37
+  - first:
+      213: -6207859064571427669
+    second: SamadhiFireFX_38
+  - first:
+      213: 5883401980387955279
+    second: SamadhiFireFX_39
+  - first:
+      213: -2366774170567600584
+    second: SamadhiFireFX_40
+  - first:
+      213: 5345364262017096745
+    second: SamadhiFireFX_41
+  - first:
+      213: -5598402462200918469
+    second: SamadhiFireFX_42
+  - first:
+      213: -1050474067027531562
+    second: SamadhiFireFX_43
+  - first:
+      213: 199452366861272962
+    second: SamadhiFireFX_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SamadhiFireFX_0
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 924
+        width: 125
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc8df9a343f08b70800000000000000
+      internalID: 8899380335624424692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_1
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1039
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c6ce6ac947a9dd0800000000000000
+      internalID: -2478540428749804452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_2
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 917
+        width: 159
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e443459350e5c7650800000000000000
+      internalID: 6231959360903590990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 996
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809f108c41351cb20800000000000000
+      internalID: 3152892562856081672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 946
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbde56d47a7e6c690800000000000000
+      internalID: -7582118216887571009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_5
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 948
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0c684da442fd290800000000000000
+      internalID: -7863526520553815868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_6
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 517
+        width: 169
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a499e3e108b5d690800000000000000
+      internalID: -7577948479722777436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_7
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 516
+        width: 178
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d57f14b15854280800000000000000
+      internalID: -9059688723268543077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_8
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 512
+        width: 187
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe61c2ce7a477080800000000000000
+      internalID: -9189794606332416267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_9
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 515
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21beb31908ec75070800000000000000
+      internalID: 8095165906809514770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_10
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 513
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d58b827b92f80310800000000000000
+      internalID: 1371612835989915090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_11
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 274
+        width: 45
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b308a458966d050800000000000000
+      internalID: 5824959189251799931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_12
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 276
+        width: 44
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcfffa256a716390800000000000000
+      internalID: -7826840102461506381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_13
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 233
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb1aea3a854c2ef0800000000000000
+      internalID: -131653829104362507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_14
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 120
+        width: 183
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d75401a7aa91e30800000000000000
+      internalID: 4474795146005020010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_15
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 261
+        width: 55
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38272da6a2c0ac130800000000000000
+      internalID: 3587693429474357891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_16
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 257
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14bea770e12b3460800000000000000
+      internalID: 7222403675383051291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_17
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 246
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48016287329ff8d0800000000000000
+      internalID: -2810366875347646385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_18
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 264
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0b9a2a65689d2b0800000000000000
+      internalID: -5559264558357827415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_19
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 255
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d79b4f8b4f862210800000000000000
+      internalID: 1307890296487122898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_20
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 241
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da82873175a5833e0800000000000000
+      internalID: -2073808298368816979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_21
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 225
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424a513169eafbad0800000000000000
+      internalID: -2684234893301013468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_22
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 213
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd87d5f9f94f27100800000000000000
+      internalID: 104414707793623260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_23
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 246
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab8042695a2564f0800000000000000
+      internalID: -836215592418505819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_24
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 251
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f710d4d8503dfde50800000000000000
+      internalID: 6836414780170633599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 154
+        width: 17
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9c3c32ecb550410800000000000000
+      internalID: 1442660196563536360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_26
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 142
+        width: 57
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75d41596b92e1f50800000000000000
+      internalID: 6853961547066430846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_27
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 176
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e21c6a95ff2aa10800000000000000
+      internalID: 1919377151728103014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_28
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 218
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf9e9c9343529fa0800000000000000
+      internalID: -5795478220616851518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_29
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 135
+        width: 111
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44de1570b9ff56fc0800000000000000
+      internalID: -3502112093902869180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_30
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 208
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf1b17088113ccb0800000000000000
+      internalID: -4845009498188079154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_31
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 176
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb7b2c2fd24e7ac0800000000000000
+      internalID: -3855570704696378372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_32
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 194
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b79b41eff122dfb0800000000000000
+      internalID: -4624596484475873360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_33
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 172
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7504ada9aea9b45b0800000000000000
+      internalID: -5383038597180276649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_34
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 192
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e21cc8c1c9ccbdb0800000000000000
+      internalID: -4774719670784879896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_35
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 170
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2ae9250bee10010800000000000000
+      internalID: 1153465420651340507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_36
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 154
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3de9f579b8be2d30800000000000000
+      internalID: 4408664191930068285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_37
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 170
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf4c7295bea2cdb0800000000000000
+      internalID: -4773060560189370428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_38
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 140
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba40888421149d9a0800000000000000
+      internalID: -6207859064571427669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_39
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 154
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f429ad7fdea06a150800000000000000
+      internalID: 5883401980387955279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_40
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 119
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8369fbb7e67872fd0800000000000000
+      internalID: -2366774170567600584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_41
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 157
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cd890b97c8e2a40800000000000000
+      internalID: 5345364262017096745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_42
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 124
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e87da4f9a7e42b0800000000000000
+      internalID: -5598402462200918469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_43
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 140
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d86015d667fb61f0800000000000000
+      internalID: -1050474067027531562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamadhiFireFX_44
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 120
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2878064fed894c200800000000000000
+      internalID: 199452366861272962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SamadhiFireFX_0: 8899380335624424692
+      SamadhiFireFX_1: -2478540428749804452
+      SamadhiFireFX_10: 1371612835989915090
+      SamadhiFireFX_11: 5824959189251799931
+      SamadhiFireFX_12: -7826840102461506381
+      SamadhiFireFX_13: -131653829104362507
+      SamadhiFireFX_14: 4474795146005020010
+      SamadhiFireFX_15: 3587693429474357891
+      SamadhiFireFX_16: 7222403675383051291
+      SamadhiFireFX_17: -2810366875347646385
+      SamadhiFireFX_18: -5559264558357827415
+      SamadhiFireFX_19: 1307890296487122898
+      SamadhiFireFX_2: 6231959360903590990
+      SamadhiFireFX_20: -2073808298368816979
+      SamadhiFireFX_21: -2684234893301013468
+      SamadhiFireFX_22: 104414707793623260
+      SamadhiFireFX_23: -836215592418505819
+      SamadhiFireFX_24: 6836414780170633599
+      SamadhiFireFX_25: 1442660196563536360
+      SamadhiFireFX_26: 6853961547066430846
+      SamadhiFireFX_27: 1919377151728103014
+      SamadhiFireFX_28: -5795478220616851518
+      SamadhiFireFX_29: -3502112093902869180
+      SamadhiFireFX_3: 3152892562856081672
+      SamadhiFireFX_30: -4845009498188079154
+      SamadhiFireFX_31: -3855570704696378372
+      SamadhiFireFX_32: -4624596484475873360
+      SamadhiFireFX_33: -5383038597180276649
+      SamadhiFireFX_34: -4774719670784879896
+      SamadhiFireFX_35: 1153465420651340507
+      SamadhiFireFX_36: 4408664191930068285
+      SamadhiFireFX_37: -4773060560189370428
+      SamadhiFireFX_38: -6207859064571427669
+      SamadhiFireFX_39: 5883401980387955279
+      SamadhiFireFX_4: -7582118216887571009
+      SamadhiFireFX_40: -2366774170567600584
+      SamadhiFireFX_41: 5345364262017096745
+      SamadhiFireFX_42: -5598402462200918469
+      SamadhiFireFX_43: -1050474067027531562
+      SamadhiFireFX_44: 199452366861272962
+      SamadhiFireFX_5: -7863526520553815868
+      SamadhiFireFX_6: -7577948479722777436
+      SamadhiFireFX_7: -9059688723268543077
+      SamadhiFireFX_8: -9189794606332416267
+      SamadhiFireFX_9: 8095165906809514770
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

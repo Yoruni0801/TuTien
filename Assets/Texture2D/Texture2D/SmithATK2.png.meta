@@ -1,0 +1,1014 @@
+fileFormatVersion: 2
+guid: a21d1299a1bbc0f41a57ffa038135f5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7387658459740084204
+    second: SmithATK2_0
+  - first:
+      213: 3345568109011332522
+    second: SmithATK2_1
+  - first:
+      213: -2115237342357599659
+    second: SmithATK2_2
+  - first:
+      213: -3420744314389228788
+    second: SmithATK2_3
+  - first:
+      213: -3232700884980923447
+    second: SmithATK2_4
+  - first:
+      213: 309660788614567344
+    second: SmithATK2_5
+  - first:
+      213: -3535514350974078128
+    second: SmithATK2_6
+  - first:
+      213: 1425325258137035474
+    second: SmithATK2_7
+  - first:
+      213: 2270721524480861335
+    second: SmithATK2_8
+  - first:
+      213: -3093088823981000150
+    second: SmithATK2_9
+  - first:
+      213: -3954050699713077826
+    second: SmithATK2_10
+  - first:
+      213: 7852020314471495456
+    second: SmithATK2_11
+  - first:
+      213: -8312524599929593632
+    second: SmithATK2_12
+  - first:
+      213: -4033641076513811119
+    second: SmithATK2_13
+  - first:
+      213: -8682452267789136878
+    second: SmithATK2_14
+  - first:
+      213: -7838071132444926404
+    second: SmithATK2_15
+  - first:
+      213: 1216111357758417778
+    second: SmithATK2_16
+  - first:
+      213: 6253508441053985168
+    second: SmithATK2_17
+  - first:
+      213: -3954696261776461603
+    second: SmithATK2_18
+  - first:
+      213: 8665976784093768646
+    second: SmithATK2_19
+  - first:
+      213: 2637834676166891227
+    second: SmithATK2_20
+  - first:
+      213: 2680599105642803167
+    second: SmithATK2_21
+  - first:
+      213: -7022303827529608254
+    second: SmithATK2_22
+  - first:
+      213: -5372659049779827588
+    second: SmithATK2_23
+  - first:
+      213: -5109941116995957582
+    second: SmithATK2_24
+  - first:
+      213: -3381776894726667599
+    second: SmithATK2_25
+  - first:
+      213: 908817361894230478
+    second: SmithATK2_26
+  - first:
+      213: -446131853419248616
+    second: SmithATK2_27
+  - first:
+      213: -3054483723633707672
+    second: SmithATK2_28
+  - first:
+      213: 1191431624039364290
+    second: SmithATK2_29
+  - first:
+      213: 2797480799910984881
+    second: SmithATK2_30
+  - first:
+      213: 3346711946934471829
+    second: SmithATK2_31
+  - first:
+      213: -6391342289565299427
+    second: SmithATK2_32
+  - first:
+      213: -4666493795454644591
+    second: SmithATK2_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SmithATK2_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 706
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4186849b5c3c97990800000000000000
+      internalID: -7387658459740084204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithATK2_1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 706
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadee753878dd6e20800000000000000
+      internalID: 3345568109011332522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithATK2_2
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 706
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a422918da25a2e0800000000000000
+      internalID: -2115237342357599659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithATK2_3
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 706
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0394618b231780d0800000000000000
+      internalID: -3420744314389228788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithATK2_4
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 706
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c30f953ca32323d0800000000000000
+      internalID: -3232700884980923447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithATK2_5
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 706
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b51d3ab8d22c4400800000000000000
+      internalID: 309660788614567344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithATK2_6
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 546
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053f4e30e645feec0800000000000000
+      internalID: -3535514350974078128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithATK2_7
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 520
+        width: 123
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d266a445c5c7c310800000000000000
+      internalID: 1425325258137035474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithATK2_8
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 522
+        width: 99
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794e38a1239338f10800000000000000
+      internalID: 2270721524480861335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithATK2_9
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 520
+        width: 123
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ab1eb3a142315d0800000000000000
+      internalID: -3093088823981000150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithATK2_10
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 531
+        width: 49
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd97bb86d36029c0800000000000000
+      internalID: -3954050699713077826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithATK2_11
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 530
+        width: 85
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027793dcfdaf7fc60800000000000000
+      internalID: 7852020314471495456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithATK2_12
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 520
+        width: 123
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e020820beaf3ac80800000000000000
+      internalID: -8312524599929593632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithATK2_13
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 362
+        width: 99
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15558f2efc0a508c0800000000000000
+      internalID: -4033641076513811119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithATK2_14
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 360
+        width: 123
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cc42ff9abb18780800000000000000
+      internalID: -8682452267789136878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithATK2_15
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 371
+        width: 49
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e506a35d3993390800000000000000
+      internalID: -7838071132444926404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithATK2_16
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 370
+        width: 85
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b228e26de70e010800000000000000
+      internalID: 1216111357758417778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithATK2_17
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 360
+        width: 123
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099fdec6bcce8c650800000000000000
+      internalID: 6253508441053985168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithATK2_18
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 362
+        width: 99
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0bf3ae3b81e19c0800000000000000
+      internalID: -3954696261776461603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithATK2_19
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 360
+        width: 123
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbe0b788fbb34870800000000000000
+      internalID: 8665976784093768646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithATK2_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 211
+        width: 49
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6922189a87b9420800000000000000
+      internalID: 2637834676166891227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithATK2_21
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 210
+        width: 85
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfa1152fa6633520800000000000000
+      internalID: 2680599105642803167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithATK2_22
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 200
+        width: 123
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c35b37efd3cb8e90800000000000000
+      internalID: -7022303827529608254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithATK2_23
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 202
+        width: 99
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ce59e4f0b7075b0800000000000000
+      internalID: -5372659049779827588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithATK2_24
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 200
+        width: 123
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc0b42b0a7d519b0800000000000000
+      internalID: -5109941116995957582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithATK2_25
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 211
+        width: 49
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b28138e4d38111d0800000000000000
+      internalID: -3381776894726667599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithATK2_26
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 210
+        width: 85
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9c9655394cc9c00800000000000000
+      internalID: 908817361894230478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithATK2_27
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 200
+        width: 123
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81485f961750fc9f0800000000000000
+      internalID: -446131853419248616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithATK2_28
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 42
+        width: 99
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865b9989c3b4c95d0800000000000000
+      internalID: -3054483723633707672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithATK2_29
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 40
+        width: 123
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c67805efb0d88010800000000000000
+      internalID: 1191431624039364290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithATK2_30
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 51
+        width: 49
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc7ba047f5a2d620800000000000000
+      internalID: 2797480799910984881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithATK2_31
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 50
+        width: 85
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cc59ab8c8e17e20800000000000000
+      internalID: 3346711946934471829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithATK2_32
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 66
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d4788ec046d47a0800000000000000
+      internalID: -6391342289565299427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmithATK2_33
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 66
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e8c5ffd984d3fb0800000000000000
+      internalID: -4666493795454644591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SmithATK2_0: -7387658459740084204
+      SmithATK2_1: 3345568109011332522
+      SmithATK2_10: -3954050699713077826
+      SmithATK2_11: 7852020314471495456
+      SmithATK2_12: -8312524599929593632
+      SmithATK2_13: -4033641076513811119
+      SmithATK2_14: -8682452267789136878
+      SmithATK2_15: -7838071132444926404
+      SmithATK2_16: 1216111357758417778
+      SmithATK2_17: 6253508441053985168
+      SmithATK2_18: -3954696261776461603
+      SmithATK2_19: 8665976784093768646
+      SmithATK2_2: -2115237342357599659
+      SmithATK2_20: 2637834676166891227
+      SmithATK2_21: 2680599105642803167
+      SmithATK2_22: -7022303827529608254
+      SmithATK2_23: -5372659049779827588
+      SmithATK2_24: -5109941116995957582
+      SmithATK2_25: -3381776894726667599
+      SmithATK2_26: 908817361894230478
+      SmithATK2_27: -446131853419248616
+      SmithATK2_28: -3054483723633707672
+      SmithATK2_29: 1191431624039364290
+      SmithATK2_3: -3420744314389228788
+      SmithATK2_30: 2797480799910984881
+      SmithATK2_31: 3346711946934471829
+      SmithATK2_32: -6391342289565299427
+      SmithATK2_33: -4666493795454644591
+      SmithATK2_4: -3232700884980923447
+      SmithATK2_5: 309660788614567344
+      SmithATK2_6: -3535514350974078128
+      SmithATK2_7: 1425325258137035474
+      SmithATK2_8: 2270721524480861335
+      SmithATK2_9: -3093088823981000150
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

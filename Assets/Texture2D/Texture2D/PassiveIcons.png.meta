@@ -1,0 +1,3484 @@
+fileFormatVersion: 2
+guid: 6f6e6f913b14e974daaa6d3bac103cd9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3592271515609030893
+    second: PassiveIcons_0
+  - first:
+      213: -2914762001186705333
+    second: PassiveIcons_1
+  - first:
+      213: -3704716988818275191
+    second: PassiveIcons_2
+  - first:
+      213: 6020175171945923201
+    second: PassiveIcons_3
+  - first:
+      213: -7666828355496670867
+    second: PassiveIcons_4
+  - first:
+      213: 6272433758066291070
+    second: PassiveIcons_5
+  - first:
+      213: -3441716934076413839
+    second: PassiveIcons_6
+  - first:
+      213: 9109672951187821409
+    second: PassiveIcons_7
+  - first:
+      213: 7415618963098099010
+    second: PassiveIcons_8
+  - first:
+      213: 6153031086870294992
+    second: PassiveIcons_9
+  - first:
+      213: -3533248682009814220
+    second: PassiveIcons_10
+  - first:
+      213: 4647257426487799381
+    second: PassiveIcons_11
+  - first:
+      213: -6679942480407727215
+    second: PassiveIcons_12
+  - first:
+      213: -2374079250787442901
+    second: PassiveIcons_13
+  - first:
+      213: 2380334468969268886
+    second: PassiveIcons_14
+  - first:
+      213: 6540221432324407988
+    second: PassiveIcons_15
+  - first:
+      213: 8897751030587565210
+    second: PassiveIcons_16
+  - first:
+      213: -2116427733736303659
+    second: PassiveIcons_17
+  - first:
+      213: -5493463217698631466
+    second: PassiveIcons_18
+  - first:
+      213: -4683445089458965962
+    second: PassiveIcons_19
+  - first:
+      213: 5374816837685957907
+    second: PassiveIcons_20
+  - first:
+      213: 3881387132141603481
+    second: PassiveIcons_21
+  - first:
+      213: 4646221713339072654
+    second: PassiveIcons_22
+  - first:
+      213: 4775146991418322496
+    second: PassiveIcons_23
+  - first:
+      213: 640548098085360722
+    second: PassiveIcons_24
+  - first:
+      213: 8608769433153184650
+    second: PassiveIcons_25
+  - first:
+      213: 2204930913270706977
+    second: PassiveIcons_26
+  - first:
+      213: 1262048731656231739
+    second: PassiveIcons_27
+  - first:
+      213: -4984196505672421218
+    second: PassiveIcons_28
+  - first:
+      213: -8830083052784533604
+    second: PassiveIcons_29
+  - first:
+      213: -1333305878433792190
+    second: PassiveIcons_30
+  - first:
+      213: 8349089802377071737
+    second: PassiveIcons_31
+  - first:
+      213: -7698224762553436727
+    second: PassiveIcons_32
+  - first:
+      213: -1942336965019793769
+    second: PassiveIcons_33
+  - first:
+      213: 50990915328434718
+    second: PassiveIcons_34
+  - first:
+      213: -7519138506574018260
+    second: PassiveIcons_35
+  - first:
+      213: 8641139661627293125
+    second: PassiveIcons_36
+  - first:
+      213: 2260338785301012894
+    second: PassiveIcons_37
+  - first:
+      213: 6604764233500033664
+    second: PassiveIcons_38
+  - first:
+      213: 8493170109921557242
+    second: PassiveIcons_39
+  - first:
+      213: 6165245772745869970
+    second: PassiveIcons_40
+  - first:
+      213: 3916070660318995369
+    second: PassiveIcons_41
+  - first:
+      213: 5626114456248318237
+    second: PassiveIcons_42
+  - first:
+      213: -5735958106027902822
+    second: PassiveIcons_43
+  - first:
+      213: -7322798898214591493
+    second: PassiveIcons_44
+  - first:
+      213: -2436615388806052852
+    second: PassiveIcons_45
+  - first:
+      213: -165126868119064840
+    second: PassiveIcons_46
+  - first:
+      213: 643434466814369793
+    second: PassiveIcons_47
+  - first:
+      213: -4465869194438031439
+    second: PassiveIcons_48
+  - first:
+      213: -2581018841402137121
+    second: PassiveIcons_49
+  - first:
+      213: 3691495392865989327
+    second: PassiveIcons_50
+  - first:
+      213: -5152242528257339592
+    second: PassiveIcons_51
+  - first:
+      213: -4171995721936857676
+    second: PassiveIcons_52
+  - first:
+      213: -6390850857449100755
+    second: PassiveIcons_53
+  - first:
+      213: -7467188909153148297
+    second: PassiveIcons_54
+  - first:
+      213: -4980664177940440583
+    second: PassiveIcons_55
+  - first:
+      213: 5392685793899540829
+    second: PassiveIcons_56
+  - first:
+      213: -5979972376366762606
+    second: PassiveIcons_57
+  - first:
+      213: -1740857198310554549
+    second: PassiveIcons_58
+  - first:
+      213: -6428162492613112235
+    second: PassiveIcons_59
+  - first:
+      213: 1376258109516958565
+    second: PassiveIcons_60
+  - first:
+      213: 8195032996164275370
+    second: PassiveIcons_61
+  - first:
+      213: 8767397059670529103
+    second: PassiveIcons_62
+  - first:
+      213: 3789695383717262758
+    second: PassiveIcons_63
+  - first:
+      213: 5694615016007088251
+    second: PassiveIcons_64
+  - first:
+      213: 9017972921726723682
+    second: PassiveIcons_65
+  - first:
+      213: 7182774563627190965
+    second: PassiveIcons_66
+  - first:
+      213: -8622105741392976313
+    second: PassiveIcons_67
+  - first:
+      213: 1425884320195097824
+    second: PassiveIcons_68
+  - first:
+      213: -2873632804747198067
+    second: PassiveIcons_69
+  - first:
+      213: 4421224000629997199
+    second: PassiveIcons_70
+  - first:
+      213: -8555651719341451145
+    second: PassiveIcons_71
+  - first:
+      213: -6986442988699639171
+    second: PassiveIcons_72
+  - first:
+      213: -7913665217502704908
+    second: PassiveIcons_73
+  - first:
+      213: 4923004971970861781
+    second: PassiveIcons_74
+  - first:
+      213: 28844503504899341
+    second: PassiveIcons_75
+  - first:
+      213: -3682507530416633058
+    second: PassiveIcons_76
+  - first:
+      213: 1478048662017790468
+    second: PassiveIcons_77
+  - first:
+      213: 4348640236671427332
+    second: PassiveIcons_78
+  - first:
+      213: 7469826832461777274
+    second: PassiveIcons_79
+  - first:
+      213: 8254528670774461938
+    second: PassiveIcons_80
+  - first:
+      213: -2051055297020204623
+    second: PassiveIcons_81
+  - first:
+      213: -2153185567463424072
+    second: PassiveIcons_82
+  - first:
+      213: 7872164415458084075
+    second: PassiveIcons_83
+  - first:
+      213: 4843213050470950764
+    second: PassiveIcons_84
+  - first:
+      213: -7227920512453080886
+    second: PassiveIcons_85
+  - first:
+      213: -6671764200634482109
+    second: PassiveIcons_86
+  - first:
+      213: 8612144529336640822
+    second: PassiveIcons_87
+  - first:
+      213: -7280255073597035004
+    second: PassiveIcons_88
+  - first:
+      213: 2763582817342954377
+    second: PassiveIcons_89
+  - first:
+      213: 3667161864814815291
+    second: PassiveIcons_90
+  - first:
+      213: -638334200486169326
+    second: PassiveIcons_91
+  - first:
+      213: 8436979486253391913
+    second: PassiveIcons_92
+  - first:
+      213: 8901815731447275135
+    second: PassiveIcons_93
+  - first:
+      213: 6100840075576205005
+    second: PassiveIcons_94
+  - first:
+      213: -8130634503950024768
+    second: PassiveIcons_95
+  - first:
+      213: 7112997642430201325
+    second: PassiveIcons_96
+  - first:
+      213: -9214239791195051532
+    second: PassiveIcons_97
+  - first:
+      213: -4644835114219198574
+    second: PassiveIcons_98
+  - first:
+      213: 5528092240196217311
+    second: PassiveIcons_99
+  - first:
+      213: 6524876277633356867
+    second: PassiveIcons_100
+  - first:
+      213: 4334216562828901191
+    second: PassiveIcons_101
+  - first:
+      213: -3630403620720393328
+    second: PassiveIcons_102
+  - first:
+      213: 4897996815172790061
+    second: PassiveIcons_103
+  - first:
+      213: 4584287021192702952
+    second: PassiveIcons_104
+  - first:
+      213: 5905019722023225558
+    second: PassiveIcons_105
+  - first:
+      213: 3659564747551105392
+    second: PassiveIcons_106
+  - first:
+      213: 2476798793139729779
+    second: PassiveIcons_107
+  - first:
+      213: -2920940861150102510
+    second: PassiveIcons_108
+  - first:
+      213: 7289039158492639679
+    second: PassiveIcons_109
+  - first:
+      213: 5960630484841397376
+    second: PassiveIcons_110
+  - first:
+      213: -4305910329491054966
+    second: PassiveIcons_111
+  - first:
+      213: -1179608374582293193
+    second: PassiveIcons_112
+  - first:
+      213: -1500722474384833786
+    second: PassiveIcons_113
+  - first:
+      213: 7442361988244509441
+    second: PassiveIcons_114
+  - first:
+      213: 3054167840739900540
+    second: PassiveIcons_115
+  - first:
+      213: 4032701136840006178
+    second: PassiveIcons_116
+  - first:
+      213: 1847859924742790166
+    second: PassiveIcons_117
+  - first:
+      213: -4314932369143484353
+    second: PassiveIcons_118
+  - first:
+      213: -6072737285764169084
+    second: PassiveIcons_119
+  - first:
+      213: -3283384963533301540
+    second: PassiveIcons_120
+  - first:
+      213: 6764887948561457401
+    second: PassiveIcons_121
+  - first:
+      213: 3664820047432168193
+    second: PassiveIcons_122
+  - first:
+      213: 8566760200632257325
+    second: PassiveIcons_123
+  - first:
+      213: -6408674088168549266
+    second: PassiveIcons_124
+  - first:
+      213: 7024330997482898646
+    second: PassiveIcons_125
+  - first:
+      213: 2083992053728880112
+    second: PassiveIcons_126
+  - first:
+      213: -3657184355896682105
+    second: PassiveIcons_127
+  - first:
+      213: -7171431240474756875
+    second: PassiveIcons_128
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PassiveIcons_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 458
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f9e57d610b52ec0800000000000000
+      internalID: -3592271515609030893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 458
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40b57a276fac87d0800000000000000
+      internalID: -2914762001186705333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 458
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984c120f683369cc0800000000000000
+      internalID: -3704716988818275191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 458
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18286713c65fb8350800000000000000
+      internalID: 6020175171945923201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 458
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d698ab43b34f99590800000000000000
+      internalID: -7666828355496670867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_5
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 458
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71b5ba25492c0750800000000000000
+      internalID: 6272433758066291070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 458
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178cde6fea09c30d0800000000000000
+      internalID: -3441716934076413839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_7
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 458
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163d883b84f0c6e70800000000000000
+      internalID: 9109672951187821409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_8
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 458
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ddc15482299e660800000000000000
+      internalID: 7415618963098099010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_9
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 458
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1f6d06c25f36550800000000000000
+      internalID: 6153031086870294992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 420
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b10bd2b0167fec0800000000000000
+      internalID: -3533248682009814220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 420
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ee995d1006e7040800000000000000
+      internalID: 4647257426487799381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_12
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 420
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1937147b4b31c43a0800000000000000
+      internalID: -6679942480407727215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_13
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 420
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f5034ff739d0fd0800000000000000
+      internalID: -2374079250787442901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_14
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 420
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69608858695a80120800000000000000
+      internalID: 2380334468969268886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_15
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 420
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2c71abdb883ca50800000000000000
+      internalID: 6540221432324407988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_16
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 420
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94a9068b692b7b70800000000000000
+      internalID: 8897751030587565210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_17
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 420
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3dcd18030f0a2e0800000000000000
+      internalID: -2116427733736303659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_18
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 420
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d016622f4c43c3b0800000000000000
+      internalID: -5493463217698631466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_19
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 420
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63230cd418f010fb0800000000000000
+      internalID: -4683445089458965962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 382
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3155f07df6f279a40800000000000000
+      internalID: 5374816837685957907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 382
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a821f38057dd530800000000000000
+      internalID: 3881387132141603481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_22
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 382
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8048431802ba7040800000000000000
+      internalID: 4646221713339072654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_23
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 382
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ea3cd83eab44240800000000000000
+      internalID: 4775146991418322496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_24
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 382
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2541ee7f91fa3e800800000000000000
+      internalID: 640548098085360722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_25
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 382
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a832650303e787770800000000000000
+      internalID: 8608769433153184650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_26
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 382
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12337cfbbfc799e10800000000000000
+      internalID: 2204930913270706977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_27
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 382
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b1a9382a2b38110800000000000000
+      internalID: 1262048731656231739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_28
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 382
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90f6ac7fa394dab0800000000000000
+      internalID: -4984196505672421218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_29
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 382
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fb49d4f3e357580800000000000000
+      internalID: -8830083052784533604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 344
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f73032e552f7de0800000000000000
+      internalID: -1333305878433792190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_31
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 344
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c858c90fcedd370800000000000000
+      internalID: 8349089802377071737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_32
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 344
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5f2ea8d596a2590800000000000000
+      internalID: -7698224762553436727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_33
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 344
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79682ed32de6b05e0800000000000000
+      internalID: -1942336965019793769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_34
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 344
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e126ce2a7f725b000800000000000000
+      internalID: 50990915328434718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_35
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 344
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29c1bacd57a6a790800000000000000
+      internalID: -7519138506574018260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_36
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 344
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd75d15dbe7be770800000000000000
+      internalID: 8641139661627293125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_37
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 344
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91a7e146265e5f10800000000000000
+      internalID: 2260338785301012894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_38
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 344
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08289faa316d8ab50800000000000000
+      internalID: 6604764233500033664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_39
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 344
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afaf6da573dcdd570800000000000000
+      internalID: 8493170109921557242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 306
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a0f7d8d5a5f8550800000000000000
+      internalID: 6165245772745869970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_41
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 306
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3a4af648da85630800000000000000
+      internalID: 3916070660318995369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_42
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 306
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19fe5e1a49f31e40800000000000000
+      internalID: 5626114456248318237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_43
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 306
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a983fa33e78c560b0800000000000000
+      internalID: -5735958106027902822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_44
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 306
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf32c4e2331306a90800000000000000
+      internalID: -7322798898214591493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_45
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 306
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0407ffa6376f2ed0800000000000000
+      internalID: -2436615388806052852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_46
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 306
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fee3e20df955bdf0800000000000000
+      internalID: -165126868119064840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_47
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 306
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100a6be0d30fde800800000000000000
+      internalID: 643434466814369793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_48
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 306
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7492cf0ab0602c0800000000000000
+      internalID: -4465869194438031439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_49
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 306
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5a2afd9016e2cd0800000000000000
+      internalID: -2581018841402137121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 268
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2b4cd5083da3330800000000000000
+      internalID: 3691495392865989327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_51
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 268
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f8f82e7be8f78b0800000000000000
+      internalID: -5152242528257339592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_52
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 268
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5118dbef71a16c0800000000000000
+      internalID: -4171995721936857676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_53
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 268
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2aee3d51032f47a0800000000000000
+      internalID: -6390850857449100755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_54
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 268
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772a03fff373f5890800000000000000
+      internalID: -7467188909153148297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_55
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 268
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9d850a15021eab0800000000000000
+      internalID: -4980664177940440583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_56
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 268
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d517daa682ba6da40800000000000000
+      internalID: 5392685793899540829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_57
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 268
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295b2049eced20da0800000000000000
+      internalID: -5979972376366762606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_58
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 268
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4484020a9b37d7e0800000000000000
+      internalID: -1740857198310554549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_59
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 268
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e4e4555449ac6a0800000000000000
+      internalID: -6428162492613112235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 230
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b42097573791310800000000000000
+      internalID: 1376258109516958565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_61
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 230
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac0af2471b9ab170800000000000000
+      internalID: 8195032996164275370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_62
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 230
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4457729c2d0ca970800000000000000
+      internalID: 8767397059670529103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_63
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 230
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5b7617fd3b79430800000000000000
+      internalID: 3789695383717262758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_64
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 230
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7835b98f26570f40800000000000000
+      internalID: 5694615016007088251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_65
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 230
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266ec91d796462d70800000000000000
+      internalID: 9017972921726723682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_66
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 230
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bac5bed8675ea360800000000000000
+      internalID: 7182774563627190965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_67
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 230
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7466a649280285880800000000000000
+      internalID: -8622105741392976313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_68
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 230
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4370c0c32c9c310800000000000000
+      internalID: 1425884320195097824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_69
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 230
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d814222703ece18d0800000000000000
+      internalID: -2873632804747198067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 192
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e7bfdcdc75b5d30800000000000000
+      internalID: 4421224000629997199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_71
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 192
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77851be4718344980800000000000000
+      internalID: -8555651719341451145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_72
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 192
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d722a071e1b2b0f90800000000000000
+      internalID: -6986442988699639171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_73
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 192
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa036fb9630d2290800000000000000
+      internalID: -7913665217502704908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_74
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 192
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da1ec550f6025440800000000000000
+      internalID: 4923004971970861781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_75
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 192
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0dc1215ce9766000800000000000000
+      internalID: 28844503504899341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_76
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 192
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bc0de69ea15ecc0800000000000000
+      internalID: -3682507530416633058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_77
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 192
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402df445d65138410800000000000000
+      internalID: 1478048662017790468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_78
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 192
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40365c25149795c30800000000000000
+      internalID: 4348640236671427332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_79
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 192
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79c0926de72aa760800000000000000
+      internalID: 7469826832461777274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 154
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f50ac9771afd8270800000000000000
+      internalID: 8254528670774461938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_81
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 154
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b96d6603103983e0800000000000000
+      internalID: -2051055297020204623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_82
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 154
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf38db62295e12e0800000000000000
+      internalID: -2153185567463424072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_83
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 154
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be489dcc3db8f3d60800000000000000
+      internalID: 7872164415458084075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_84
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 154
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c676bd4eb9c863340800000000000000
+      internalID: 4843213050470950764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_85
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 154
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8897ec69441bb90800000000000000
+      internalID: -7227920512453080886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_86
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 154
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342830cdec12963a0800000000000000
+      internalID: -6671764200634482109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_87
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 154
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6352f6102db748770800000000000000
+      internalID: 8612144529336640822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_88
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 154
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e6300459657fa90800000000000000
+      internalID: -7280255073597035004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_89
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 154
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b99172ee73a5620800000000000000
+      internalID: 2763582817342954377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 116
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38652e594064e230800000000000000
+      internalID: 3667161864814815291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_91
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 116
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215f90c3d6e2427f0800000000000000
+      internalID: -638334200486169326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_92
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 116
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9202467442c261570800000000000000
+      internalID: 8436979486253391913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_93
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 116
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e16e07e3a998b70800000000000000
+      internalID: 8901815731447275135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_94
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 116
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcedf20a9b98aa450800000000000000
+      internalID: 6100840075576205005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_95
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 116
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf36812ffe2a2f80800000000000000
+      internalID: -8130634503950024768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_96
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 116
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded3e356ba176b260800000000000000
+      internalID: 7112997642430201325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_97
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 116
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9ac82aab1702080800000000000000
+      internalID: -9214239791195051532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_98
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 116
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29724b0b21b3a8fb0800000000000000
+      internalID: -4644835114219198574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_99
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 116
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd92d767a9ab7bc40800000000000000
+      internalID: 5528092240196217311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_100
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 78
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34495bb77640d8a50800000000000000
+      internalID: 6524876277633356867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_101
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 78
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bf70f000b362c30800000000000000
+      internalID: 4334216562828901191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_102
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 78
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0934ba344273e9dc0800000000000000
+      internalID: -3630403620720393328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_103
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 78
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d276e57172e29f340800000000000000
+      internalID: 4897996815172790061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_104
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 78
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebef96d1c8ae9f30800000000000000
+      internalID: 4584287021192702952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_105
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 78
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8cedaa628d2f150800000000000000
+      internalID: 5905019722023225558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_106
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 78
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071635aafb269c230800000000000000
+      internalID: 3659564747551105392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_107
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 78
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375b535316b5f5220800000000000000
+      internalID: 2476798793139729779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_108
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 78
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c793933cbb677d0800000000000000
+      internalID: -2920940861150102510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_109
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 78
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1bdd3ee7ed72560800000000000000
+      internalID: 7289039158492639679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_110
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 40
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cf55e58d968b250800000000000000
+      internalID: 5960630484841397376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_111
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 40
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e10087e555e34c0800000000000000
+      internalID: -4305910329491054966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_112
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 40
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d42f2ee6031afe0800000000000000
+      internalID: -1179608374582293193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_113
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 40
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603c8d75cdc5c2be0800000000000000
+      internalID: -1500722474384833786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_114
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 40
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1031f270cc4984760800000000000000
+      internalID: 7442361988244509441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_115
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 40
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c39bf2875926a20800000000000000
+      internalID: 3054167840739900540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_116
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 40
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a99aa515807f730800000000000000
+      internalID: 4032701136840006178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_117
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 40
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c59f8afcae4a910800000000000000
+      internalID: 1847859924742790166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_118
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 40
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f303e5b2fd74e14c0800000000000000
+      internalID: -4314932369143484353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_119
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 40
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482c1c30d9d49bba0800000000000000
+      internalID: -6072737285764169084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_120
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd81db395c21f62d0800000000000000
+      internalID: -3283384963533301540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_121
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0a35f4fb5b1ed50800000000000000
+      internalID: 6764887948561457401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_122
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103bce48a6e0cd230800000000000000
+      internalID: 3664820047432168193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_123
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bc3aa830f33e670800000000000000
+      internalID: 8566760200632257325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_124
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6496751fd0df07a0800000000000000
+      internalID: -6408674088168549266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_125
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4cbb163df6b7160800000000000000
+      internalID: 7024330997482898646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_126
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f52f3d3bb3dbec10800000000000000
+      internalID: 2083992053728880112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_127
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78999a474321f3dc0800000000000000
+      internalID: -3657184355896682105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PassiveIcons_128
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8fc5c5845f97c90800000000000000
+      internalID: -7171431240474756875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PassiveIcons_0: -3592271515609030893
+      PassiveIcons_1: -2914762001186705333
+      PassiveIcons_10: -3533248682009814220
+      PassiveIcons_100: 6524876277633356867
+      PassiveIcons_101: 4334216562828901191
+      PassiveIcons_102: -3630403620720393328
+      PassiveIcons_103: 4897996815172790061
+      PassiveIcons_104: 4584287021192702952
+      PassiveIcons_105: 5905019722023225558
+      PassiveIcons_106: 3659564747551105392
+      PassiveIcons_107: 2476798793139729779
+      PassiveIcons_108: -2920940861150102510
+      PassiveIcons_109: 7289039158492639679
+      PassiveIcons_11: 4647257426487799381
+      PassiveIcons_110: 5960630484841397376
+      PassiveIcons_111: -4305910329491054966
+      PassiveIcons_112: -1179608374582293193
+      PassiveIcons_113: -1500722474384833786
+      PassiveIcons_114: 7442361988244509441
+      PassiveIcons_115: 3054167840739900540
+      PassiveIcons_116: 4032701136840006178
+      PassiveIcons_117: 1847859924742790166
+      PassiveIcons_118: -4314932369143484353
+      PassiveIcons_119: -6072737285764169084
+      PassiveIcons_12: -6679942480407727215
+      PassiveIcons_120: -3283384963533301540
+      PassiveIcons_121: 6764887948561457401
+      PassiveIcons_122: 3664820047432168193
+      PassiveIcons_123: 8566760200632257325
+      PassiveIcons_124: -6408674088168549266
+      PassiveIcons_125: 7024330997482898646
+      PassiveIcons_126: 2083992053728880112
+      PassiveIcons_127: -3657184355896682105
+      PassiveIcons_128: -7171431240474756875
+      PassiveIcons_13: -2374079250787442901
+      PassiveIcons_14: 2380334468969268886
+      PassiveIcons_15: 6540221432324407988
+      PassiveIcons_16: 8897751030587565210
+      PassiveIcons_17: -2116427733736303659
+      PassiveIcons_18: -5493463217698631466
+      PassiveIcons_19: -4683445089458965962
+      PassiveIcons_2: -3704716988818275191
+      PassiveIcons_20: 5374816837685957907
+      PassiveIcons_21: 3881387132141603481
+      PassiveIcons_22: 4646221713339072654
+      PassiveIcons_23: 4775146991418322496
+      PassiveIcons_24: 640548098085360722
+      PassiveIcons_25: 8608769433153184650
+      PassiveIcons_26: 2204930913270706977
+      PassiveIcons_27: 1262048731656231739
+      PassiveIcons_28: -4984196505672421218
+      PassiveIcons_29: -8830083052784533604
+      PassiveIcons_3: 6020175171945923201
+      PassiveIcons_30: -1333305878433792190
+      PassiveIcons_31: 8349089802377071737
+      PassiveIcons_32: -7698224762553436727
+      PassiveIcons_33: -1942336965019793769
+      PassiveIcons_34: 50990915328434718
+      PassiveIcons_35: -7519138506574018260
+      PassiveIcons_36: 8641139661627293125
+      PassiveIcons_37: 2260338785301012894
+      PassiveIcons_38: 6604764233500033664
+      PassiveIcons_39: 8493170109921557242
+      PassiveIcons_4: -7666828355496670867
+      PassiveIcons_40: 6165245772745869970
+      PassiveIcons_41: 3916070660318995369
+      PassiveIcons_42: 5626114456248318237
+      PassiveIcons_43: -5735958106027902822
+      PassiveIcons_44: -7322798898214591493
+      PassiveIcons_45: -2436615388806052852
+      PassiveIcons_46: -165126868119064840
+      PassiveIcons_47: 643434466814369793
+      PassiveIcons_48: -4465869194438031439
+      PassiveIcons_49: -2581018841402137121
+      PassiveIcons_5: 6272433758066291070
+      PassiveIcons_50: 3691495392865989327
+      PassiveIcons_51: -5152242528257339592
+      PassiveIcons_52: -4171995721936857676
+      PassiveIcons_53: -6390850857449100755
+      PassiveIcons_54: -7467188909153148297
+      PassiveIcons_55: -4980664177940440583
+      PassiveIcons_56: 5392685793899540829
+      PassiveIcons_57: -5979972376366762606
+      PassiveIcons_58: -1740857198310554549
+      PassiveIcons_59: -6428162492613112235
+      PassiveIcons_6: -3441716934076413839
+      PassiveIcons_60: 1376258109516958565
+      PassiveIcons_61: 8195032996164275370
+      PassiveIcons_62: 8767397059670529103
+      PassiveIcons_63: 3789695383717262758
+      PassiveIcons_64: 5694615016007088251
+      PassiveIcons_65: 9017972921726723682
+      PassiveIcons_66: 7182774563627190965
+      PassiveIcons_67: -8622105741392976313
+      PassiveIcons_68: 1425884320195097824
+      PassiveIcons_69: -2873632804747198067
+      PassiveIcons_7: 9109672951187821409
+      PassiveIcons_70: 4421224000629997199
+      PassiveIcons_71: -8555651719341451145
+      PassiveIcons_72: -6986442988699639171
+      PassiveIcons_73: -7913665217502704908
+      PassiveIcons_74: 4923004971970861781
+      PassiveIcons_75: 28844503504899341
+      PassiveIcons_76: -3682507530416633058
+      PassiveIcons_77: 1478048662017790468
+      PassiveIcons_78: 4348640236671427332
+      PassiveIcons_79: 7469826832461777274
+      PassiveIcons_8: 7415618963098099010
+      PassiveIcons_80: 8254528670774461938
+      PassiveIcons_81: -2051055297020204623
+      PassiveIcons_82: -2153185567463424072
+      PassiveIcons_83: 7872164415458084075
+      PassiveIcons_84: 4843213050470950764
+      PassiveIcons_85: -7227920512453080886
+      PassiveIcons_86: -6671764200634482109
+      PassiveIcons_87: 8612144529336640822
+      PassiveIcons_88: -7280255073597035004
+      PassiveIcons_89: 2763582817342954377
+      PassiveIcons_9: 6153031086870294992
+      PassiveIcons_90: 3667161864814815291
+      PassiveIcons_91: -638334200486169326
+      PassiveIcons_92: 8436979486253391913
+      PassiveIcons_93: 8901815731447275135
+      PassiveIcons_94: 6100840075576205005
+      PassiveIcons_95: -8130634503950024768
+      PassiveIcons_96: 7112997642430201325
+      PassiveIcons_97: -9214239791195051532
+      PassiveIcons_98: -4644835114219198574
+      PassiveIcons_99: 5528092240196217311
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

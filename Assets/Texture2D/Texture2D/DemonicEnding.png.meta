@@ -1,0 +1,2964 @@
+fileFormatVersion: 2
+guid: b716538b986749c43b0125863afca1c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6785044930483561224
+    second: DemonicEnding_0
+  - first:
+      213: -5966843886353658316
+    second: DemonicEnding_1
+  - first:
+      213: -5636131470936468793
+    second: DemonicEnding_2
+  - first:
+      213: 9066097106661906432
+    second: DemonicEnding_3
+  - first:
+      213: 4742476876323939789
+    second: DemonicEnding_4
+  - first:
+      213: 8796938441460455495
+    second: DemonicEnding_5
+  - first:
+      213: 1326479318284671910
+    second: DemonicEnding_6
+  - first:
+      213: 1952598010122048830
+    second: DemonicEnding_7
+  - first:
+      213: -5286207454681555921
+    second: DemonicEnding_8
+  - first:
+      213: -254038233927666106
+    second: DemonicEnding_9
+  - first:
+      213: 2307054410012250370
+    second: DemonicEnding_10
+  - first:
+      213: -4304431034527455157
+    second: DemonicEnding_11
+  - first:
+      213: -3214123082002555918
+    second: DemonicEnding_12
+  - first:
+      213: -8076441139040308961
+    second: DemonicEnding_13
+  - first:
+      213: -8071198755922089699
+    second: DemonicEnding_14
+  - first:
+      213: 1786173525385299447
+    second: DemonicEnding_15
+  - first:
+      213: -7315585216939741378
+    second: DemonicEnding_16
+  - first:
+      213: -742874650068213901
+    second: DemonicEnding_17
+  - first:
+      213: 1333037053369305017
+    second: DemonicEnding_18
+  - first:
+      213: -3144913228533024487
+    second: DemonicEnding_19
+  - first:
+      213: 6621600872069279883
+    second: DemonicEnding_20
+  - first:
+      213: 8273651007445061989
+    second: DemonicEnding_21
+  - first:
+      213: -3591779840696404916
+    second: DemonicEnding_22
+  - first:
+      213: -1054775515989110347
+    second: DemonicEnding_23
+  - first:
+      213: 5672622755413932769
+    second: DemonicEnding_24
+  - first:
+      213: -6798023320920051156
+    second: DemonicEnding_25
+  - first:
+      213: 1146488610482636058
+    second: DemonicEnding_26
+  - first:
+      213: -6757905354967976722
+    second: DemonicEnding_27
+  - first:
+      213: -1012079057636526925
+    second: DemonicEnding_28
+  - first:
+      213: -2954183152582035604
+    second: DemonicEnding_29
+  - first:
+      213: 6770499411092490472
+    second: DemonicEnding_30
+  - first:
+      213: 1648169126379650216
+    second: DemonicEnding_31
+  - first:
+      213: -5787731163960947880
+    second: DemonicEnding_32
+  - first:
+      213: 4833893332498529303
+    second: DemonicEnding_33
+  - first:
+      213: 5958187297831188001
+    second: DemonicEnding_34
+  - first:
+      213: 7151323780180376727
+    second: DemonicEnding_35
+  - first:
+      213: 5572116837905469046
+    second: DemonicEnding_36
+  - first:
+      213: 3135812028275610377
+    second: DemonicEnding_37
+  - first:
+      213: 4345642979461139724
+    second: DemonicEnding_38
+  - first:
+      213: -5135715501978591761
+    second: DemonicEnding_39
+  - first:
+      213: 3421655225870676626
+    second: DemonicEnding_40
+  - first:
+      213: -8019866157141215651
+    second: DemonicEnding_41
+  - first:
+      213: 8061628968454267412
+    second: DemonicEnding_42
+  - first:
+      213: 3194507117905496991
+    second: DemonicEnding_43
+  - first:
+      213: -7969562697853109201
+    second: DemonicEnding_44
+  - first:
+      213: 7892912988972441551
+    second: DemonicEnding_45
+  - first:
+      213: 5088360864489618150
+    second: DemonicEnding_46
+  - first:
+      213: 3934800451914640369
+    second: DemonicEnding_47
+  - first:
+      213: -5358594511808109535
+    second: DemonicEnding_48
+  - first:
+      213: -2543800761565065285
+    second: DemonicEnding_49
+  - first:
+      213: -6548075712088276414
+    second: DemonicEnding_50
+  - first:
+      213: 736636377153519959
+    second: DemonicEnding_51
+  - first:
+      213: -4745219987399033197
+    second: DemonicEnding_52
+  - first:
+      213: 679696496925717952
+    second: DemonicEnding_53
+  - first:
+      213: -956657394873513768
+    second: DemonicEnding_54
+  - first:
+      213: 7262728903369771670
+    second: DemonicEnding_55
+  - first:
+      213: -7199432207168616838
+    second: DemonicEnding_56
+  - first:
+      213: 2859243670696005625
+    second: DemonicEnding_57
+  - first:
+      213: -6194671120772256007
+    second: DemonicEnding_58
+  - first:
+      213: -1122819690559854626
+    second: DemonicEnding_59
+  - first:
+      213: 1223992327592533375
+    second: DemonicEnding_60
+  - first:
+      213: -6092809794993653772
+    second: DemonicEnding_61
+  - first:
+      213: -7044587995742417794
+    second: DemonicEnding_62
+  - first:
+      213: 783566187962369046
+    second: DemonicEnding_63
+  - first:
+      213: -5880411395682016007
+    second: DemonicEnding_64
+  - first:
+      213: -137513229380516257
+    second: DemonicEnding_65
+  - first:
+      213: -1244830973658223221
+    second: DemonicEnding_66
+  - first:
+      213: 2230419139083887185
+    second: DemonicEnding_67
+  - first:
+      213: 8733975753946284691
+    second: DemonicEnding_68
+  - first:
+      213: -5596791450686582512
+    second: DemonicEnding_69
+  - first:
+      213: -5023661550529139237
+    second: DemonicEnding_70
+  - first:
+      213: -2561841759873178062
+    second: DemonicEnding_71
+  - first:
+      213: -8177520934389413827
+    second: DemonicEnding_72
+  - first:
+      213: -7599356219466638337
+    second: DemonicEnding_73
+  - first:
+      213: 6875492358249894553
+    second: DemonicEnding_74
+  - first:
+      213: -4970817497798821833
+    second: DemonicEnding_75
+  - first:
+      213: -1635417422082274947
+    second: DemonicEnding_76
+  - first:
+      213: -8690556324968636757
+    second: DemonicEnding_77
+  - first:
+      213: 61477542507339868
+    second: DemonicEnding_78
+  - first:
+      213: 785948449149147164
+    second: DemonicEnding_79
+  - first:
+      213: 6478266977502015579
+    second: DemonicEnding_80
+  - first:
+      213: 5902385422992250232
+    second: DemonicEnding_81
+  - first:
+      213: 7847296790832356579
+    second: DemonicEnding_82
+  - first:
+      213: -2037533362059441872
+    second: DemonicEnding_83
+  - first:
+      213: -3680580703931500998
+    second: DemonicEnding_84
+  - first:
+      213: -1287196181226455568
+    second: DemonicEnding_85
+  - first:
+      213: 6648795655006070406
+    second: DemonicEnding_86
+  - first:
+      213: -6451275355303688278
+    second: DemonicEnding_87
+  - first:
+      213: 6648696708416565894
+    second: DemonicEnding_88
+  - first:
+      213: -1655534195459756137
+    second: DemonicEnding_89
+  - first:
+      213: -359066840537605699
+    second: DemonicEnding_90
+  - first:
+      213: -2168705817886991713
+    second: DemonicEnding_91
+  - first:
+      213: 3486414753118411641
+    second: DemonicEnding_92
+  - first:
+      213: 2824052161130427816
+    second: DemonicEnding_93
+  - first:
+      213: 6957918473335367177
+    second: DemonicEnding_94
+  - first:
+      213: 2346285061917737019
+    second: DemonicEnding_95
+  - first:
+      213: -3080847173408941450
+    second: DemonicEnding_96
+  - first:
+      213: 3337199244893413331
+    second: DemonicEnding_97
+  - first:
+      213: -503886499217147063
+    second: DemonicEnding_98
+  - first:
+      213: 5333173119807118953
+    second: DemonicEnding_99
+  - first:
+      213: 6061339847415302149
+    second: DemonicEnding_100
+  - first:
+      213: 31001529391029690
+    second: DemonicEnding_101
+  - first:
+      213: 3578309276705533872
+    second: DemonicEnding_102
+  - first:
+      213: 7397233746613638273
+    second: DemonicEnding_103
+  - first:
+      213: -897687462220485671
+    second: DemonicEnding_104
+  - first:
+      213: -3495194059889050461
+    second: DemonicEnding_105
+  - first:
+      213: 5899763433591896068
+    second: DemonicEnding_106
+  - first:
+      213: 399554725624353235
+    second: DemonicEnding_107
+  - first:
+      213: -8673171067585570298
+    second: DemonicEnding_108
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DemonicEnding_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1781
+        width: 58
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803a9826a62592e50800000000000000
+      internalID: 6785044930483561224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1781
+        width: 58
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ecdab5913813da0800000000000000
+      internalID: -5966843886353658316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1781
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c29e67e94078c1b0800000000000000
+      internalID: -5636131470936468793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_3
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1781
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00897c5c84f31dd70800000000000000
+      internalID: 9066097106661906432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_4
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1781
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5eac0a799a0d140800000000000000
+      internalID: 4742476876323939789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_5
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1781
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7489a3287e0051a70800000000000000
+      internalID: 8796938441460455495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_6
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1781
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab924879e9986210800000000000000
+      internalID: 1326479318284671910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_7
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1781
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35957e7b85091b10800000000000000
+      internalID: 1952598010122048830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_8
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1781
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c1fa6d35e93a6b0800000000000000
+      internalID: -5286207454681555921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_9
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1781
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646bf5b7299797cf0800000000000000
+      internalID: -254038233927666106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_10
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1781
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201574a33cd440020800000000000000
+      internalID: 2307054410012250370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_11
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1781
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48e2daa7c69344c0800000000000000
+      internalID: -4304431034527455157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_12
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1781
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb9ad806142563d0800000000000000
+      internalID: -3214123082002555918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_13
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1781
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11b62a2397baef80800000000000000
+      internalID: -8076441139040308961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_14
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 1781
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1960b99e775dff80800000000000000
+      internalID: -8071198755922089699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1266
+        width: 58
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f54cc79b53c9c810800000000000000
+      internalID: 1786173525385299447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_16
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1276
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f253c3102d97a90800000000000000
+      internalID: -7315585216939741378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_17
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1277
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f9a021177c0b5f0800000000000000
+      internalID: -742874650068213901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_18
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1277
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7c2862326ef7210800000000000000
+      internalID: 1333037053369305017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_19
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1278
+        width: 32
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919bcd3c4160b54d0800000000000000
+      internalID: -3144913228533024487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_20
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1279
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b803b1019e6a4eb50800000000000000
+      internalID: 6621600872069279883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_21
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1280
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561d05e61c9e1d270800000000000000
+      internalID: 8273651007445061989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_22
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1278
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44b1e3d34f672ec0800000000000000
+      internalID: -3591779840696404916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_23
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1277
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b190b3b14fac51f0800000000000000
+      internalID: -1054775515989110347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_24
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1276
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eabe39575439be40800000000000000
+      internalID: 5672622755413932769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_25
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1277
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c223dbd9ec198a1a0800000000000000
+      internalID: -6798023320920051156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_26
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 1277
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1549de115529ef00800000000000000
+      internalID: 1146488610482636058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_27
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1278
+        width: 32
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee47c6372e81732a0800000000000000
+      internalID: -6757905354967976722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_28
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 1279
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b476f4957f54f1f0800000000000000
+      internalID: -1012079057636526925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_29
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1280
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6777ec1312a007d0800000000000000
+      internalID: -2954183152582035604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_30
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1266
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8c82eb755a5fd50800000000000000
+      internalID: 6770499411092490472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_31
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1266
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acff9b86197fd610800000000000000
+      internalID: 1648169126379650216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_32
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1266
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b46accb29ddafa0800000000000000
+      internalID: -5787731163960947880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_33
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1266
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c34b5ff50751340800000000000000
+      internalID: 4833893332498529303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_34
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1266
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126f87097cbbfa250800000000000000
+      internalID: 5958187297831188001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_35
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1266
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c7477b61b9e3360800000000000000
+      internalID: 7151323780180376727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_36
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1266
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e0452edb2245d40800000000000000
+      internalID: 5572116837905469046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_37
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1266
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903d3cbec64a48b20800000000000000
+      internalID: 3135812028275610377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_38
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1266
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d837ff343de4c30800000000000000
+      internalID: 4345642979461139724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_39
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1266
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed591d06f54ab8b0800000000000000
+      internalID: -5135715501978591761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_40
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 1266
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29271e99c492c7f20800000000000000
+      internalID: 3421655225870676626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_41
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1266
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56bb6d9836b3b090800000000000000
+      internalID: -8019866157141215651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_42
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 1266
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41227bf95d8a0ef60800000000000000
+      internalID: 8061628968454267412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_43
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1266
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bc63b6c4b255c20800000000000000
+      internalID: 3194507117905496991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_44
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 766
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cf24b63fc666190800000000000000
+      internalID: -7969562697853109201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_45
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 765
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfd4c68b82498d60800000000000000
+      internalID: 7892912988972441551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_46
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 766
+        width: 35
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea37e83f3d7d9640800000000000000
+      internalID: 5088360864489618150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_47
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 767
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb2b6ed9283b9630800000000000000
+      internalID: 3934800451914640369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_48
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 768
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124e15cbea272a5b0800000000000000
+      internalID: -5358594511808109535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_49
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 769
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfcb8b5faa92bcd0800000000000000
+      internalID: -2543800761565065285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_50
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 769
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2428d9245df8025a0800000000000000
+      internalID: -6548075712088276414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_51
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 768
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751cdd4d1ee093a00800000000000000
+      internalID: 736636377153519959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_52
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 767
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e3ffd0097952eb0800000000000000
+      internalID: -4745219987399033197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_53
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 766
+        width: 38
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5b55edc54ce6900800000000000000
+      internalID: 679696496925717952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_54
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 767
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d840defa2549b2f0800000000000000
+      internalID: -956657394873513768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_55
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 768
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a415145756ac460800000000000000
+      internalID: 7262728903369771670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_56
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 793
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7645334d8a761c90800000000000000
+      internalID: -7199432207168616838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_57
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 769
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff8e1638f21ea720800000000000000
+      internalID: 2859243670696005625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_58
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 795
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9feaff9bf6b180aa0800000000000000
+      internalID: -6194671120772256007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_59
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 768
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7ad5db071fa60f0800000000000000
+      internalID: -1122819690559854626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_60
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 799
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7dd4f5798e7cf010800000000000000
+      internalID: 1223992327592533375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_61
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 769
+        width: 33
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7f165c5cdf17ba0800000000000000
+      internalID: -6092809794993653772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_62
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 800
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ccaccaa889c3e90800000000000000
+      internalID: -7044587995742417794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_63
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 754
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6140183eb49cfda00800000000000000
+      internalID: 783566187962369046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_64
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 754
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4e63bcdf4946ea0800000000000000
+      internalID: -5880411395682016007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_65
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 754
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f568bda4274771ef0800000000000000
+      internalID: -137513229380516257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_66
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 754
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8da2b923d879bee0800000000000000
+      internalID: -1244830973658223221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_67
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 754
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152e355c36a04fe10800000000000000
+      internalID: 2230419139083887185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_68
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 754
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392c7d27ca0553970800000000000000
+      internalID: 8733975753946284691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_69
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 754
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01112e324d33452b0800000000000000
+      internalID: -5596791450686582512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_70
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 754
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd2ce0bf6e584ab0800000000000000
+      internalID: -5023661550529139237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_71
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 754
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2366ffb1e72827cd0800000000000000
+      internalID: -2561841759873178062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_72
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 754
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38066a590c938e80800000000000000
+      internalID: -8177520934389413827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_73
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 754
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb190118c9a98690800000000000000
+      internalID: -7599356219466638337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_74
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 754
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992d5653fd7aa6f50800000000000000
+      internalID: 6875492358249894553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_75
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 754
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738b76082db140bb0800000000000000
+      internalID: -4970817497798821833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_76
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 754
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d790d49f484dd49e0800000000000000
+      internalID: -1635417422082274947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_77
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 754
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae58b52111f46780800000000000000
+      internalID: -8690556324968636757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_78
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 259
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5060dacf796ad000800000000000000
+      internalID: 61477542507339868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_79
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 288
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18dd4b43ff38ea00800000000000000
+      internalID: 785948449149147164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_80
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 259
+        width: 36
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50b6222e7d67e950800000000000000
+      internalID: 6478266977502015579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_81
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 286
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87595e0254c79e150800000000000000
+      internalID: 5902385422992250232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_82
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 258
+        width: 39
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec10a0cad237ec60800000000000000
+      internalID: 7847296790832356579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_83
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 287
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0398078d33a39b3e0800000000000000
+      internalID: -2037533362059441872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_84
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 257
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36710fa953fbecc0800000000000000
+      internalID: -3680580703931500998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_85
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 288
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdf1cd94e5f22ee0800000000000000
+      internalID: -1287196181226455568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_86
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 255
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6862cc0eb64454c50800000000000000
+      internalID: 6648795655006070406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_87
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 288
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa744e2ae377876a0800000000000000
+      internalID: -6451275355303688278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_88
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 256
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6827a741e6ae44c50800000000000000
+      internalID: 6648696708416565894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_89
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 288
+        width: 10
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79feb1eab6c5609e0800000000000000
+      internalID: -1655534195459756137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_90
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 257
+        width: 33
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db952276c96540bf0800000000000000
+      internalID: -359066840537605699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_91
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 287
+        width: 12
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ad5868c8537e1e0800000000000000
+      internalID: -2168705817886991713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_92
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 258
+        width: 32
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bdd430fbb326030800000000000000
+      internalID: 3486414753118411641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_93
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 259
+        width: 133
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a57a536a7c013720800000000000000
+      internalID: 2824052161130427816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_94
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 259
+        width: 36
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9066843acfd7f8060800000000000000
+      internalID: 6957918473335367177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_95
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 258
+        width: 39
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30896925ddaf8020800000000000000
+      internalID: 2346285061917737019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_96
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 257
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a91bd91d1ae35d0800000000000000
+      internalID: -3080847173408941450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_97
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 242
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfd290380d105e20800000000000000
+      internalID: 3337199244893413331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_98
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 242
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bfb0f06e5d109f0800000000000000
+      internalID: -503886499217147063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_99
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 242
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ed3c332bc330a40800000000000000
+      internalID: 5333173119807118953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_100
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 242
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5080c141a743e1450800000000000000
+      internalID: 6061339847415302149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_101
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 242
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd98da0ab32e6000800000000000000
+      internalID: 31001529391029690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_102
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 242
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfa4861455b8a130800000000000000
+      internalID: 3578309276705533872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_103
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 242
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184107b76e048a660800000000000000
+      internalID: 7397233746613638273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_104
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 242
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dba60f5206ca83f0800000000000000
+      internalID: -897687462220485671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_105
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 242
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acf14755839e7fc0800000000000000
+      internalID: -3495194059889050461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_106
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 242
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4087516a59b20e150800000000000000
+      internalID: 5899763433591896068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_107
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 242
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d11b21f7e08b8500800000000000000
+      internalID: 399554725624353235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonicEnding_108
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 242
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60add50ddd4b2a780800000000000000
+      internalID: -8673171067585570298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DemonicEnding_0: 6785044930483561224
+      DemonicEnding_1: -5966843886353658316
+      DemonicEnding_10: 2307054410012250370
+      DemonicEnding_100: 6061339847415302149
+      DemonicEnding_101: 31001529391029690
+      DemonicEnding_102: 3578309276705533872
+      DemonicEnding_103: 7397233746613638273
+      DemonicEnding_104: -897687462220485671
+      DemonicEnding_105: -3495194059889050461
+      DemonicEnding_106: 5899763433591896068
+      DemonicEnding_107: 399554725624353235
+      DemonicEnding_108: -8673171067585570298
+      DemonicEnding_11: -4304431034527455157
+      DemonicEnding_12: -3214123082002555918
+      DemonicEnding_13: -8076441139040308961
+      DemonicEnding_14: -8071198755922089699
+      DemonicEnding_15: 1786173525385299447
+      DemonicEnding_16: -7315585216939741378
+      DemonicEnding_17: -742874650068213901
+      DemonicEnding_18: 1333037053369305017
+      DemonicEnding_19: -3144913228533024487
+      DemonicEnding_2: -5636131470936468793
+      DemonicEnding_20: 6621600872069279883
+      DemonicEnding_21: 8273651007445061989
+      DemonicEnding_22: -3591779840696404916
+      DemonicEnding_23: -1054775515989110347
+      DemonicEnding_24: 5672622755413932769
+      DemonicEnding_25: -6798023320920051156
+      DemonicEnding_26: 1146488610482636058
+      DemonicEnding_27: -6757905354967976722
+      DemonicEnding_28: -1012079057636526925
+      DemonicEnding_29: -2954183152582035604
+      DemonicEnding_3: 9066097106661906432
+      DemonicEnding_30: 6770499411092490472
+      DemonicEnding_31: 1648169126379650216
+      DemonicEnding_32: -5787731163960947880
+      DemonicEnding_33: 4833893332498529303
+      DemonicEnding_34: 5958187297831188001
+      DemonicEnding_35: 7151323780180376727
+      DemonicEnding_36: 5572116837905469046
+      DemonicEnding_37: 3135812028275610377
+      DemonicEnding_38: 4345642979461139724
+      DemonicEnding_39: -5135715501978591761
+      DemonicEnding_4: 4742476876323939789
+      DemonicEnding_40: 3421655225870676626
+      DemonicEnding_41: -8019866157141215651
+      DemonicEnding_42: 8061628968454267412
+      DemonicEnding_43: 3194507117905496991
+      DemonicEnding_44: -7969562697853109201
+      DemonicEnding_45: 7892912988972441551
+      DemonicEnding_46: 5088360864489618150
+      DemonicEnding_47: 3934800451914640369
+      DemonicEnding_48: -5358594511808109535
+      DemonicEnding_49: -2543800761565065285
+      DemonicEnding_5: 8796938441460455495
+      DemonicEnding_50: -6548075712088276414
+      DemonicEnding_51: 736636377153519959
+      DemonicEnding_52: -4745219987399033197
+      DemonicEnding_53: 679696496925717952
+      DemonicEnding_54: -956657394873513768
+      DemonicEnding_55: 7262728903369771670
+      DemonicEnding_56: -7199432207168616838
+      DemonicEnding_57: 2859243670696005625
+      DemonicEnding_58: -6194671120772256007
+      DemonicEnding_59: -1122819690559854626
+      DemonicEnding_6: 1326479318284671910
+      DemonicEnding_60: 1223992327592533375
+      DemonicEnding_61: -6092809794993653772
+      DemonicEnding_62: -7044587995742417794
+      DemonicEnding_63: 783566187962369046
+      DemonicEnding_64: -5880411395682016007
+      DemonicEnding_65: -137513229380516257
+      DemonicEnding_66: -1244830973658223221
+      DemonicEnding_67: 2230419139083887185
+      DemonicEnding_68: 8733975753946284691
+      DemonicEnding_69: -5596791450686582512
+      DemonicEnding_7: 1952598010122048830
+      DemonicEnding_70: -5023661550529139237
+      DemonicEnding_71: -2561841759873178062
+      DemonicEnding_72: -8177520934389413827
+      DemonicEnding_73: -7599356219466638337
+      DemonicEnding_74: 6875492358249894553
+      DemonicEnding_75: -4970817497798821833
+      DemonicEnding_76: -1635417422082274947
+      DemonicEnding_77: -8690556324968636757
+      DemonicEnding_78: 61477542507339868
+      DemonicEnding_79: 785948449149147164
+      DemonicEnding_8: -5286207454681555921
+      DemonicEnding_80: 6478266977502015579
+      DemonicEnding_81: 5902385422992250232
+      DemonicEnding_82: 7847296790832356579
+      DemonicEnding_83: -2037533362059441872
+      DemonicEnding_84: -3680580703931500998
+      DemonicEnding_85: -1287196181226455568
+      DemonicEnding_86: 6648795655006070406
+      DemonicEnding_87: -6451275355303688278
+      DemonicEnding_88: 6648696708416565894
+      DemonicEnding_89: -1655534195459756137
+      DemonicEnding_9: -254038233927666106
+      DemonicEnding_90: -359066840537605699
+      DemonicEnding_91: -2168705817886991713
+      DemonicEnding_92: 3486414753118411641
+      DemonicEnding_93: 2824052161130427816
+      DemonicEnding_94: 6957918473335367177
+      DemonicEnding_95: 2346285061917737019
+      DemonicEnding_96: -3080847173408941450
+      DemonicEnding_97: 3337199244893413331
+      DemonicEnding_98: -503886499217147063
+      DemonicEnding_99: 5333173119807118953
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

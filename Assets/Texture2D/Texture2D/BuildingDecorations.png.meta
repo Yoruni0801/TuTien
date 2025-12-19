@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 829a41d8a41d50b44afb8e2d6d73201c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2287705405940077103
+    second: BuildingDecorations_0
+  - first:
+      213: 3069905361660242408
+    second: BuildingDecorations_1
+  - first:
+      213: -9044840117800740084
+    second: BuildingDecorations_2
+  - first:
+      213: -98059554430900701
+    second: BuildingDecorations_3
+  - first:
+      213: 4048298613475567974
+    second: BuildingDecorations_4
+  - first:
+      213: 5387509118070743685
+    second: BuildingDecorations_5
+  - first:
+      213: -8459930027144482447
+    second: BuildingDecorations_6
+  - first:
+      213: -7512815513515510416
+    second: BuildingDecorations_7
+  - first:
+      213: -507206457405270502
+    second: BuildingDecorations_8
+  - first:
+      213: -4683341589347315410
+    second: BuildingDecorations_9
+  - first:
+      213: 6480801666662502011
+    second: BuildingDecorations_10
+  - first:
+      213: -1600599466923055326
+    second: BuildingDecorations_11
+  - first:
+      213: 8103194716718016250
+    second: BuildingDecorations_12
+  - first:
+      213: -8474075322784704174
+    second: BuildingDecorations_13
+  - first:
+      213: -8908732034880639598
+    second: BuildingDecorations_14
+  - first:
+      213: -1955745080748568634
+    second: BuildingDecorations_15
+  - first:
+      213: -6397328116029673591
+    second: BuildingDecorations_16
+  - first:
+      213: -623163768734574428
+    second: BuildingDecorations_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BuildingDecorations_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 287
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f229cc722ff8fbf10800000000000000
+      internalID: 2287705405940077103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuildingDecorations_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 287
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e963df49ae7a9a20800000000000000
+      internalID: 3069905361660242408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuildingDecorations_2
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 265
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bd840a5d54a7280800000000000000
+      internalID: -9044840117800740084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuildingDecorations_3
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 265
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3262053da5f93aef0800000000000000
+      internalID: -98059554430900701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuildingDecorations_4
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 288
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669eae0e3227e2830800000000000000
+      internalID: 4048298613475567974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuildingDecorations_5
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 288
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582e8c6aff644ca40800000000000000
+      internalID: 5387509118070743685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuildingDecorations_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 165
+        width: 24
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1717463867a489a80800000000000000
+      internalID: -8459930027144482447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuildingDecorations_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 168
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0753dd5581e1db790800000000000000
+      internalID: -7512815513515510416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuildingDecorations_8
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 168
+        width: 122
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16139e0a6a06f8f0800000000000000
+      internalID: -507206457405270502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuildingDecorations_9
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 172
+        width: 92
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21d32d43ad610fb0800000000000000
+      internalID: -4683341589347315410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuildingDecorations_10
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 168
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e8d2177ce60f950800000000000000
+      internalID: 6480801666662502011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuildingDecorations_11
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 168
+        width: 71
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2272f52e34789c9e0800000000000000
+      internalID: -1600599466923055326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuildingDecorations_12
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 48
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6accb89a4547070800000000000000
+      internalID: 8103194716718016250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuildingDecorations_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 48
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25993893469066a80800000000000000
+      internalID: -8474075322784704174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuildingDecorations_14
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 48
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29debcd2a63dd5480800000000000000
+      internalID: -8908732034880639598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuildingDecorations_15
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 48
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf83c6063ccbd4e0800000000000000
+      internalID: -1955745080748568634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuildingDecorations_16
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 48
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fae6419ff1837a0800000000000000
+      internalID: -6397328116029673591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuildingDecorations_17
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 55
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a89eaf9ad31a57f0800000000000000
+      internalID: -623163768734574428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BuildingDecorations_0: 2287705405940077103
+      BuildingDecorations_1: 3069905361660242408
+      BuildingDecorations_10: 6480801666662502011
+      BuildingDecorations_11: -1600599466923055326
+      BuildingDecorations_12: 8103194716718016250
+      BuildingDecorations_13: -8474075322784704174
+      BuildingDecorations_14: -8908732034880639598
+      BuildingDecorations_15: -1955745080748568634
+      BuildingDecorations_16: -6397328116029673591
+      BuildingDecorations_17: -623163768734574428
+      BuildingDecorations_2: -9044840117800740084
+      BuildingDecorations_3: -98059554430900701
+      BuildingDecorations_4: 4048298613475567974
+      BuildingDecorations_5: 5387509118070743685
+      BuildingDecorations_6: -8459930027144482447
+      BuildingDecorations_7: -7512815513515510416
+      BuildingDecorations_8: -507206457405270502
+      BuildingDecorations_9: -4683341589347315410
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

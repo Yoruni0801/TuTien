@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 50190f1b0ce83d04097605e586811283
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6777638470393326893
+    second: RocksterIdle_0
+  - first:
+      213: -8258374700182687292
+    second: RocksterIdle_1
+  - first:
+      213: -1380166046179211429
+    second: RocksterIdle_2
+  - first:
+      213: -8244942951613393160
+    second: RocksterIdle_3
+  - first:
+      213: 8512630634016331064
+    second: RocksterIdle_4
+  - first:
+      213: 5999088234464358229
+    second: RocksterIdle_5
+  - first:
+      213: 403118022020530488
+    second: RocksterIdle_6
+  - first:
+      213: 8960392223757914975
+    second: RocksterIdle_7
+  - first:
+      213: -1604400692970217680
+    second: RocksterIdle_8
+  - first:
+      213: -6317406546439806694
+    second: RocksterIdle_9
+  - first:
+      213: -6442121086724479000
+    second: RocksterIdle_10
+  - first:
+      213: 2955476595202015524
+    second: RocksterIdle_11
+  - first:
+      213: -2756171389214847772
+    second: RocksterIdle_12
+  - first:
+      213: -8675536193080565095
+    second: RocksterIdle_13
+  - first:
+      213: 1346910054003879442
+    second: RocksterIdle_14
+  - first:
+      213: 8463346593764530727
+    second: RocksterIdle_15
+  - first:
+      213: 5271200680905820740
+    second: RocksterIdle_16
+  - first:
+      213: 8242338726653927172
+    second: RocksterIdle_17
+  - first:
+      213: -6801040948896825995
+    second: RocksterIdle_18
+  - first:
+      213: 2127727415313071535
+    second: RocksterIdle_19
+  - first:
+      213: 5431195838177991266
+    second: RocksterIdle_20
+  - first:
+      213: 7792002574597906152
+    second: RocksterIdle_21
+  - first:
+      213: -9077666166954711601
+    second: RocksterIdle_22
+  - first:
+      213: 7993651425654145730
+    second: RocksterIdle_23
+  - first:
+      213: -4726433586175243368
+    second: RocksterIdle_24
+  - first:
+      213: 827541592085240694
+    second: RocksterIdle_25
+  - first:
+      213: 8016645961127367711
+    second: RocksterIdle_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RocksterIdle_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 197
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2de0d387420f0e50800000000000000
+      internalID: 6777638470393326893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterIdle_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 197
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1b98507fb546d80800000000000000
+      internalID: -8258374700182687292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterIdle_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 198
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57ce6e1b4aa8dce0800000000000000
+      internalID: -1380166046179211429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterIdle_3
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 199
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f619bfa114149d80800000000000000
+      internalID: -8244942951613393160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterIdle_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 186
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835d6a4b570f22670800000000000000
+      internalID: 8512630634016331064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterIdle_5
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 178
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f2977f6fa014350800000000000000
+      internalID: 5999088234464358229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterIdle_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 186
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831871984b9289500800000000000000
+      internalID: 403118022020530488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterIdle_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 178
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f535349d045b95c70800000000000000
+      internalID: 8960392223757914975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterIdle_8
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 186
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f9e1af1160cb9e0800000000000000
+      internalID: -1604400692970217680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterIdle_9
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 178
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a116ab197301458a0800000000000000
+      internalID: -6317406546439806694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterIdle_10
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 187
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7ebb1e00df896a0800000000000000
+      internalID: -6442121086724479000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterIdle_11
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 178
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4214ff6fd46f30920800000000000000
+      internalID: 2955476595202015524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterIdle_12
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 50
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec01cd69bc10c9d0800000000000000
+      internalID: -2756171389214847772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterIdle_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 70
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992636f1ccd4a9780800000000000000
+      internalID: -8675536193080565095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterIdle_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 61
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ead41de8f21b210800000000000000
+      internalID: 1346910054003879442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterIdle_15
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 50
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ad854e2e8d37570800000000000000
+      internalID: 8463346593764530727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterIdle_16
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 69
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a403d5711172940800000000000000
+      internalID: 5271200680905820740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterIdle_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 62
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f17a0f66ba26270800000000000000
+      internalID: 8242338726653927172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterIdle_18
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 50
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d7e1a5a49dd91a0800000000000000
+      internalID: -6801040948896825995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterIdle_19
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 69
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad7890afc4378d10800000000000000
+      internalID: 2127727415313071535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterIdle_20
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 61
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26add20d6db7f5b40800000000000000
+      internalID: 5431195838177991266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterIdle_21
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 50
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee56dbce01c22c60800000000000000
+      internalID: 7792002574597906152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterIdle_22
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 69
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5251977b6a50280800000000000000
+      internalID: -9077666166954711601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterIdle_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 60
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c209649e972fee60800000000000000
+      internalID: 7993651425654145730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterIdle_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b8c81f1b5586eb0800000000000000
+      internalID: -4726433586175243368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterIdle_25
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 58
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b1a1981b40c7b00800000000000000
+      internalID: 827541592085240694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterIdle_26
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 58
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1411131709d04f60800000000000000
+      internalID: 8016645961127367711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RocksterIdle_0: 6777638470393326893
+      RocksterIdle_1: -8258374700182687292
+      RocksterIdle_10: -6442121086724479000
+      RocksterIdle_11: 2955476595202015524
+      RocksterIdle_12: -2756171389214847772
+      RocksterIdle_13: -8675536193080565095
+      RocksterIdle_14: 1346910054003879442
+      RocksterIdle_15: 8463346593764530727
+      RocksterIdle_16: 5271200680905820740
+      RocksterIdle_17: 8242338726653927172
+      RocksterIdle_18: -6801040948896825995
+      RocksterIdle_19: 2127727415313071535
+      RocksterIdle_2: -1380166046179211429
+      RocksterIdle_20: 5431195838177991266
+      RocksterIdle_21: 7792002574597906152
+      RocksterIdle_22: -9077666166954711601
+      RocksterIdle_23: 7993651425654145730
+      RocksterIdle_24: -4726433586175243368
+      RocksterIdle_25: 827541592085240694
+      RocksterIdle_26: 8016645961127367711
+      RocksterIdle_3: -8244942951613393160
+      RocksterIdle_4: 8512630634016331064
+      RocksterIdle_5: 5999088234464358229
+      RocksterIdle_6: 403118022020530488
+      RocksterIdle_7: 8960392223757914975
+      RocksterIdle_8: -1604400692970217680
+      RocksterIdle_9: -6317406546439806694
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

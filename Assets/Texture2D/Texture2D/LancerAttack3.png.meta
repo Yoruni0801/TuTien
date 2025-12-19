@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 0d49eaf627b5856459f9685dc0ef49b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7239196808479511247
+    second: LancerAttack3_0
+  - first:
+      213: 824397315012955516
+    second: LancerAttack3_1
+  - first:
+      213: -3422024914585874723
+    second: LancerAttack3_2
+  - first:
+      213: -6155348719114069239
+    second: LancerAttack3_3
+  - first:
+      213: 3868463038573325186
+    second: LancerAttack3_4
+  - first:
+      213: -3070384807828514807
+    second: LancerAttack3_5
+  - first:
+      213: 2007467981199374825
+    second: LancerAttack3_6
+  - first:
+      213: -1378187995927407621
+    second: LancerAttack3_7
+  - first:
+      213: 6985503083729726121
+    second: LancerAttack3_8
+  - first:
+      213: 919737684183871671
+    second: LancerAttack3_9
+  - first:
+      213: 2364068894874331668
+    second: LancerAttack3_10
+  - first:
+      213: -4414347157133454556
+    second: LancerAttack3_11
+  - first:
+      213: -4310133993125798613
+    second: LancerAttack3_12
+  - first:
+      213: -3782152047346825344
+    second: LancerAttack3_13
+  - first:
+      213: -6207993084910978364
+    second: LancerAttack3_14
+  - first:
+      213: -8132467886512682351
+    second: LancerAttack3_15
+  - first:
+      213: 6803335160956640388
+    second: LancerAttack3_16
+  - first:
+      213: 1760373140904889334
+    second: LancerAttack3_17
+  - first:
+      213: -712023872006760147
+    second: LancerAttack3_18
+  - first:
+      213: 7782495066648479183
+    second: LancerAttack3_19
+  - first:
+      213: -2078526501964335073
+    second: LancerAttack3_20
+  - first:
+      213: 2600952131742373539
+    second: LancerAttack3_21
+  - first:
+      213: 4020942273193536273
+    second: LancerAttack3_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LancerAttack3_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 576
+        width: 31
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13def6b8bd4398b90800000000000000
+      internalID: -7239196808479511247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LancerAttack3_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 577
+        width: 31
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d022b7df8d07b00800000000000000
+      internalID: 824397315012955516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LancerAttack3_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 577
+        width: 31
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde829988768280d0800000000000000
+      internalID: -3422024914585874723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LancerAttack3_3
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 577
+        width: 31
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bdc80d3fec39aa0800000000000000
+      internalID: -6155348719114069239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LancerAttack3_4
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 577
+        width: 31
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b24e833aa8fa530800000000000000
+      internalID: 3868463038573325186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LancerAttack3_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 445
+        width: 31
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90810ade84dc365d0800000000000000
+      internalID: -3070384807828514807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LancerAttack3_6
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 445
+        width: 31
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9fb5d2e75fbdb10800000000000000
+      internalID: 2007467981199374825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LancerAttack3_7
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 445
+        width: 31
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf31a05d151bfdce0800000000000000
+      internalID: -1378187995927407621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LancerAttack3_8
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 445
+        width: 31
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa2b1b3b0e71f060800000000000000
+      internalID: 6985503083729726121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LancerAttack3_9
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 445
+        width: 31
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0f1500d8093cc00800000000000000
+      internalID: 919737684183871671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LancerAttack3_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 313
+        width: 31
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ae88f622cdec020800000000000000
+      internalID: 2364068894874331668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LancerAttack3_11
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 313
+        width: 31
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4231ec716a61db2c0800000000000000
+      internalID: -4414347157133454556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LancerAttack3_12
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 313
+        width: 31
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d966528f35f24c0800000000000000
+      internalID: -4310133993125798613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LancerAttack3_13
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 313
+        width: 31
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087406b60c8138bc0800000000000000
+      internalID: -3782152047346825344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LancerAttack3_14
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 313
+        width: 31
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cabccd3e27c8d9a0800000000000000
+      internalID: -6207993084910978364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LancerAttack3_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 181
+        width: 31
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ac32d7b8ba32f80800000000000000
+      internalID: -8132467886512682351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LancerAttack3_16
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 181
+        width: 31
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cdeb4884d4a6e50800000000000000
+      internalID: 6803335160956640388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LancerAttack3_17
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 181
+        width: 31
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb46c77b0a1e6810800000000000000
+      internalID: 1760373140904889334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LancerAttack3_18
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 181
+        width: 31
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2950759f026e16f0800000000000000
+      internalID: -712023872006760147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LancerAttack3_19
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 181
+        width: 31
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc500d9970af00c60800000000000000
+      internalID: 7782495066648479183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LancerAttack3_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 47
+        width: 31
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f183e22b8279723e0800000000000000
+      internalID: -2078526501964335073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LancerAttack3_21
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 48
+        width: 31
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a69c42fe20781420800000000000000
+      internalID: 2600952131742373539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LancerAttack3_22
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 48
+        width: 31
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b6d0091b14dc730800000000000000
+      internalID: 4020942273193536273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LancerAttack3_0: -7239196808479511247
+      LancerAttack3_1: 824397315012955516
+      LancerAttack3_10: 2364068894874331668
+      LancerAttack3_11: -4414347157133454556
+      LancerAttack3_12: -4310133993125798613
+      LancerAttack3_13: -3782152047346825344
+      LancerAttack3_14: -6207993084910978364
+      LancerAttack3_15: -8132467886512682351
+      LancerAttack3_16: 6803335160956640388
+      LancerAttack3_17: 1760373140904889334
+      LancerAttack3_18: -712023872006760147
+      LancerAttack3_19: 7782495066648479183
+      LancerAttack3_2: -3422024914585874723
+      LancerAttack3_20: -2078526501964335073
+      LancerAttack3_21: 2600952131742373539
+      LancerAttack3_22: 4020942273193536273
+      LancerAttack3_3: -6155348719114069239
+      LancerAttack3_4: 3868463038573325186
+      LancerAttack3_5: -3070384807828514807
+      LancerAttack3_6: 2007467981199374825
+      LancerAttack3_7: -1378187995927407621
+      LancerAttack3_8: 6985503083729726121
+      LancerAttack3_9: 919737684183871671
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

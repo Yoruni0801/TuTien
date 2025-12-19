@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: e92019a5f95a0cb4ca7655627413ac8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4304285319421536648
+    second: AFC_HomeBaseRez_0
+  - first:
+      213: 5884284178117280740
+    second: AFC_HomeBaseRez_1
+  - first:
+      213: 810102483413243273
+    second: AFC_HomeBaseRez_2
+  - first:
+      213: 8165668080350692853
+    second: AFC_HomeBaseRez_3
+  - first:
+      213: -1697798383004605407
+    second: AFC_HomeBaseRez_4
+  - first:
+      213: -1587929227139441921
+    second: AFC_HomeBaseRez_5
+  - first:
+      213: 2958051871877729389
+    second: AFC_HomeBaseRez_6
+  - first:
+      213: -284474145777212961
+    second: AFC_HomeBaseRez_7
+  - first:
+      213: -8957884376691333552
+    second: AFC_HomeBaseRez_8
+  - first:
+      213: 5117501678473395676
+    second: AFC_HomeBaseRez_9
+  - first:
+      213: -7243594324001829261
+    second: AFC_HomeBaseRez_10
+  - first:
+      213: 3613854497981753693
+    second: AFC_HomeBaseRez_11
+  - first:
+      213: 7441565723803103756
+    second: AFC_HomeBaseRez_12
+  - first:
+      213: -2525916286714778925
+    second: AFC_HomeBaseRez_13
+  - first:
+      213: 6297486695040611486
+    second: AFC_HomeBaseRez_14
+  - first:
+      213: 3890795806074654127
+    second: AFC_HomeBaseRez_15
+  - first:
+      213: 3827298383193126213
+    second: AFC_HomeBaseRez_16
+  - first:
+      213: 5826395895110093693
+    second: AFC_HomeBaseRez_17
+  - first:
+      213: 538945333848183217
+    second: AFC_HomeBaseRez_18
+  - first:
+      213: -6242303719365517546
+    second: AFC_HomeBaseRez_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AFC_HomeBaseRez_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1131
+        width: 6
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87653fb9e4b1444c0800000000000000
+      internalID: -4304285319421536648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_HomeBaseRez_1
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1073
+        width: 6
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3c122a84d29a150800000000000000
+      internalID: 5884284178117280740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_HomeBaseRez_2
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1019
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9851283aaef0e3b00800000000000000
+      internalID: 810102483413243273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_HomeBaseRez_3
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 996
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f58c030bd7425170800000000000000
+      internalID: 8165668080350692853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_HomeBaseRez_4
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 985
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12427c0bd553078e0800000000000000
+      internalID: -1697798383004605407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_HomeBaseRez_5
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 980
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa94e7f7ca86f9e0800000000000000
+      internalID: -1587929227139441921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_HomeBaseRez_6
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 945
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c837a418c1d0920800000000000000
+      internalID: 2958051871877729389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_HomeBaseRez_7
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 945
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1aa2985485d0cf0800000000000000
+      internalID: -284474145777212961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_HomeBaseRez_8
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 945
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056aa4cce933fa380800000000000000
+      internalID: -8957884376691333552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_HomeBaseRez_9
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 945
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd3fd2b9a4050740800000000000000
+      internalID: 5117501678473395676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_HomeBaseRez_10
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 945
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ec5dc2755997b90800000000000000
+      internalID: -7243594324001829261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_HomeBaseRez_11
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 945
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d596626d48df62230800000000000000
+      internalID: 3613854497981753693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_HomeBaseRez_12
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 945
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02b1044990c54760800000000000000
+      internalID: 7441565723803103756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_HomeBaseRez_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 305
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3daedf5258422fcd0800000000000000
+      internalID: -2525916286714778925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_HomeBaseRez_14
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 305
+        width: 156
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94f4ab98ca256750800000000000000
+      internalID: 6297486695040611486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_HomeBaseRez_15
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 305
+        width: 181
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadc8aadb22eef530800000000000000
+      internalID: 3890795806074654127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_HomeBaseRez_16
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 305
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54537a30a9b4d1530800000000000000
+      internalID: 3827298383193126213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_HomeBaseRez_17
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 305
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bc4d072348bd050800000000000000
+      internalID: 5826395895110093693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_HomeBaseRez_18
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 305
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b11069fce7ba7700800000000000000
+      internalID: 538945333848183217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFC_HomeBaseRez_19
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 305
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f5e1327d1ee59a0800000000000000
+      internalID: -6242303719365517546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AFC_HomeBaseRez_0: -4304285319421536648
+      AFC_HomeBaseRez_1: 5884284178117280740
+      AFC_HomeBaseRez_10: -7243594324001829261
+      AFC_HomeBaseRez_11: 3613854497981753693
+      AFC_HomeBaseRez_12: 7441565723803103756
+      AFC_HomeBaseRez_13: -2525916286714778925
+      AFC_HomeBaseRez_14: 6297486695040611486
+      AFC_HomeBaseRez_15: 3890795806074654127
+      AFC_HomeBaseRez_16: 3827298383193126213
+      AFC_HomeBaseRez_17: 5826395895110093693
+      AFC_HomeBaseRez_18: 538945333848183217
+      AFC_HomeBaseRez_19: -6242303719365517546
+      AFC_HomeBaseRez_2: 810102483413243273
+      AFC_HomeBaseRez_3: 8165668080350692853
+      AFC_HomeBaseRez_4: -1697798383004605407
+      AFC_HomeBaseRez_5: -1587929227139441921
+      AFC_HomeBaseRez_6: 2958051871877729389
+      AFC_HomeBaseRez_7: -284474145777212961
+      AFC_HomeBaseRez_8: -8957884376691333552
+      AFC_HomeBaseRez_9: 5117501678473395676
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

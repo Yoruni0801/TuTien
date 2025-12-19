@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: a08a9655cac06e34d9528ea55d85fd96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3992581158203571873
+    second: FireJieFX_0
+  - first:
+      213: 7623186590641792695
+    second: FireJieFX_1
+  - first:
+      213: 6748419242506800074
+    second: FireJieFX_2
+  - first:
+      213: -2303617236473084886
+    second: FireJieFX_3
+  - first:
+      213: -7074235929651609031
+    second: FireJieFX_4
+  - first:
+      213: -4867603577326207810
+    second: FireJieFX_5
+  - first:
+      213: -665711645674387660
+    second: FireJieFX_6
+  - first:
+      213: 2370979733244616149
+    second: FireJieFX_7
+  - first:
+      213: -2610238182987739345
+    second: FireJieFX_8
+  - first:
+      213: -3320228764659597361
+    second: FireJieFX_9
+  - first:
+      213: -7373058546754712783
+    second: FireJieFX_10
+  - first:
+      213: -8396774198413152220
+    second: FireJieFX_11
+  - first:
+      213: 1398303835723833568
+    second: FireJieFX_12
+  - first:
+      213: 3552338502938415614
+    second: FireJieFX_13
+  - first:
+      213: 5905610164215959752
+    second: FireJieFX_14
+  - first:
+      213: 611042663383580489
+    second: FireJieFX_15
+  - first:
+      213: -5049965449801099285
+    second: FireJieFX_16
+  - first:
+      213: 4196599679975851105
+    second: FireJieFX_17
+  - first:
+      213: 8635978190521341762
+    second: FireJieFX_18
+  - first:
+      213: -513994524914394731
+    second: FireJieFX_19
+  - first:
+      213: -3159508447674228709
+    second: FireJieFX_20
+  - first:
+      213: 84522302971864454
+    second: FireJieFX_21
+  - first:
+      213: 7584899513462280461
+    second: FireJieFX_22
+  - first:
+      213: -7460001329595581736
+    second: FireJieFX_23
+  - first:
+      213: -6877931977221427241
+    second: FireJieFX_24
+  - first:
+      213: -2943566229991803116
+    second: FireJieFX_25
+  - first:
+      213: -4213070354766003004
+    second: FireJieFX_26
+  - first:
+      213: -4192361350787134362
+    second: FireJieFX_27
+  - first:
+      213: -7912144295394668896
+    second: FireJieFX_28
+  - first:
+      213: 4742990396468488331
+    second: FireJieFX_29
+  - first:
+      213: -261309680994400328
+    second: FireJieFX_30
+  - first:
+      213: -8774751810443629635
+    second: FireJieFX_31
+  - first:
+      213: -5077039521541368337
+    second: FireJieFX_32
+  - first:
+      213: -874923721631123113
+    second: FireJieFX_33
+  - first:
+      213: -506032554538201246
+    second: FireJieFX_34
+  - first:
+      213: -6763684853926177773
+    second: FireJieFX_35
+  - first:
+      213: 2877867118221041021
+    second: FireJieFX_36
+  - first:
+      213: -7388729905136292700
+    second: FireJieFX_37
+  - first:
+      213: -1875852583943458329
+    second: FireJieFX_38
+  - first:
+      213: 8219117585930068550
+    second: FireJieFX_39
+  - first:
+      213: 3103459624445721258
+    second: FireJieFX_40
+  - first:
+      213: -4663356683662647988
+    second: FireJieFX_41
+  - first:
+      213: 3535513757686753885
+    second: FireJieFX_42
+  - first:
+      213: 7415077787462561103
+    second: FireJieFX_43
+  - first:
+      213: -4122759525678854064
+    second: FireJieFX_44
+  - first:
+      213: 2846493338774924534
+    second: FireJieFX_45
+  - first:
+      213: -3242181664425634664
+    second: FireJieFX_46
+  - first:
+      213: -3526797988962759678
+    second: FireJieFX_47
+  - first:
+      213: -4831746823711008945
+    second: FireJieFX_48
+  - first:
+      213: -4631852733203360880
+    second: FireJieFX_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireJieFX_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 609
+        width: 170
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae34a7e86f786730800000000000000
+      internalID: 3992581158203571873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_1
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 609
+        width: 170
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6a9b790dffac960800000000000000
+      internalID: 7623186590641792695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_2
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 609
+        width: 170
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb4701eb8337ad50800000000000000
+      internalID: 6748419242506800074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_3
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 609
+        width: 170
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a240e891458e700e0800000000000000
+      internalID: -2303617236473084886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 409
+        width: 176
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9328fc327e343dd90800000000000000
+      internalID: -7074235929651609031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_5
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 539
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcfc0a065cc27cb0800000000000000
+      internalID: -4867603577326207810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_6
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 408
+        width: 172
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437ccbc09cae2c6f0800000000000000
+      internalID: -665711645674387660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_7
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 417
+        width: 181
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd12b1618967e020800000000000000
+      internalID: 2370979733244616149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 409
+        width: 170
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fcad3c33296cbd0800000000000000
+      internalID: -2610238182987739345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_9
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 212
+        width: 187
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf3e65a78d2ce1d0800000000000000
+      internalID: -3320228764659597361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_10
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 374
+        width: 45
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b078cd052ada990800000000000000
+      internalID: -7373058546754712783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_11
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 376
+        width: 44
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4203b64ca5aa87b80800000000000000
+      internalID: -8396774198413152220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 216
+        width: 203
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0a2681ee5c76310800000000000000
+      internalID: 1398303835723833568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_13
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 220
+        width: 183
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1569d1c017c4130800000000000000
+      internalID: 3552338502938415614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_14
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 364
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c05704b721f4f150800000000000000
+      internalID: 5905610164215959752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_15
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 346
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f369d901cda7800800000000000000
+      internalID: 611042663383580489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_16
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 361
+        width: 55
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be71c94ed2beae9b0800000000000000
+      internalID: -5049965449801099285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_17
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 357
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1648a75ac215d3a30800000000000000
+      internalID: 4196599679975851105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_18
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 313
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2479b0ea86829d770800000000000000
+      internalID: 8635978190521341762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_19
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 332
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5995bfde3bcedd8f0800000000000000
+      internalID: -513994524914394731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_20
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 341
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10288f7ecb2724d0800000000000000
+      internalID: -3159508447674228709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_21
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 242
+        width: 57
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6856c3436984c2100800000000000000
+      internalID: 84522302971864454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_22
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 272
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01d3f4cbe9f24960800000000000000
+      internalID: 7584899513462280461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_23
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 299
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da7385c050c87890800000000000000
+      internalID: -7460001329595581736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_24
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 316
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfaa6cbe4dac80a0800000000000000
+      internalID: -6877931977221427241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_25
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 313
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417b0880c1a5627d0800000000000000
+      internalID: -2943566229991803116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_26
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 276
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4817a85da2885c0800000000000000
+      internalID: -4213070354766003004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_27
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 287
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c8144409db1d5c0800000000000000
+      internalID: -4192361350787134362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_28
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 254
+        width: 17
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae0e550faa623290800000000000000
+      internalID: -7912144295394668896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_29
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 294
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88e79ad2ac72d140800000000000000
+      internalID: 4742990396468488331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_30
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 235
+        width: 108
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b745f7ca34af5cf0800000000000000
+      internalID: -261309680994400328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_31
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 276
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbaa4218b1d93680800000000000000
+      internalID: -8774751810443629635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_32
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 254
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe558e7547bba89b0800000000000000
+      internalID: -5077039521541368337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_33
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 215
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7593d9eb285abd3f0800000000000000
+      internalID: -874923721631123113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_34
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 215
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f87fd92163af8f0800000000000000
+      internalID: -506032554538201246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_35
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 220
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3145a0df5709222a0800000000000000
+      internalID: -6763684853926177773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_36
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 224
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d975c75ec30f720800000000000000
+      internalID: 2877867118221041021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_37
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 155
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acab076c45f57990800000000000000
+      internalID: -7388729905136292700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_38
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 133
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e13d0b7302a7f5e0800000000000000
+      internalID: -1875852583943458329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_39
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 151
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642278cc5eb201270800000000000000
+      internalID: 8219117585930068550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_40
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 70
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaabad9e514b11b20800000000000000
+      internalID: 3103459624445721258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_41
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 146
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d1851cdcd684fb0800000000000000
+      internalID: -4663356683662647988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_42
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 73
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5aec69d70ba01130800000000000000
+      internalID: 3535513757686753885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_43
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 40
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d689ff5f5a7e660800000000000000
+      internalID: 7415077787462561103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_44
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 70
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050dd810e0409c6c0800000000000000
+      internalID: -4122759525678854064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_45
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 92
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fce1393c96c08720800000000000000
+      internalID: 2846493338774924534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_46
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 57
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89410aa34f47103d0800000000000000
+      internalID: -3242181664425634664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_47
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 19
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c00513aeb4e0fc0800000000000000
+      internalID: -3526797988962759678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_48
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 45
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4755101ddf22fcb0800000000000000
+      internalID: -4831746823711008945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireJieFX_49
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 40
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093dd71da7a58bfb0800000000000000
+      internalID: -4631852733203360880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FireJieFX_0: 3992581158203571873
+      FireJieFX_1: 7623186590641792695
+      FireJieFX_10: -7373058546754712783
+      FireJieFX_11: -8396774198413152220
+      FireJieFX_12: 1398303835723833568
+      FireJieFX_13: 3552338502938415614
+      FireJieFX_14: 5905610164215959752
+      FireJieFX_15: 611042663383580489
+      FireJieFX_16: -5049965449801099285
+      FireJieFX_17: 4196599679975851105
+      FireJieFX_18: 8635978190521341762
+      FireJieFX_19: -513994524914394731
+      FireJieFX_2: 6748419242506800074
+      FireJieFX_20: -3159508447674228709
+      FireJieFX_21: 84522302971864454
+      FireJieFX_22: 7584899513462280461
+      FireJieFX_23: -7460001329595581736
+      FireJieFX_24: -6877931977221427241
+      FireJieFX_25: -2943566229991803116
+      FireJieFX_26: -4213070354766003004
+      FireJieFX_27: -4192361350787134362
+      FireJieFX_28: -7912144295394668896
+      FireJieFX_29: 4742990396468488331
+      FireJieFX_3: -2303617236473084886
+      FireJieFX_30: -261309680994400328
+      FireJieFX_31: -8774751810443629635
+      FireJieFX_32: -5077039521541368337
+      FireJieFX_33: -874923721631123113
+      FireJieFX_34: -506032554538201246
+      FireJieFX_35: -6763684853926177773
+      FireJieFX_36: 2877867118221041021
+      FireJieFX_37: -7388729905136292700
+      FireJieFX_38: -1875852583943458329
+      FireJieFX_39: 8219117585930068550
+      FireJieFX_4: -7074235929651609031
+      FireJieFX_40: 3103459624445721258
+      FireJieFX_41: -4663356683662647988
+      FireJieFX_42: 3535513757686753885
+      FireJieFX_43: 7415077787462561103
+      FireJieFX_44: -4122759525678854064
+      FireJieFX_45: 2846493338774924534
+      FireJieFX_46: -3242181664425634664
+      FireJieFX_47: -3526797988962759678
+      FireJieFX_48: -4831746823711008945
+      FireJieFX_49: -4631852733203360880
+      FireJieFX_5: -4867603577326207810
+      FireJieFX_6: -665711645674387660
+      FireJieFX_7: 2370979733244616149
+      FireJieFX_8: -2610238182987739345
+      FireJieFX_9: -3320228764659597361
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

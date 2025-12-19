@@ -1,0 +1,2990 @@
+fileFormatVersion: 2
+guid: 6c8fecc2aa6a67449b64027049449d93
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3658580284646478296
+    second: MetalZhibao_0
+  - first:
+      213: -232859878738093768
+    second: MetalZhibao_1
+  - first:
+      213: -4875105313143424275
+    second: MetalZhibao_2
+  - first:
+      213: 2325641504425766602
+    second: MetalZhibao_3
+  - first:
+      213: 5216490804664193369
+    second: MetalZhibao_4
+  - first:
+      213: 4917443537589683022
+    second: MetalZhibao_5
+  - first:
+      213: 5392826509783467052
+    second: MetalZhibao_6
+  - first:
+      213: 8687423917024649371
+    second: MetalZhibao_7
+  - first:
+      213: 2730205044083353397
+    second: MetalZhibao_8
+  - first:
+      213: -1596549377174530160
+    second: MetalZhibao_9
+  - first:
+      213: 8510557265927065185
+    second: MetalZhibao_10
+  - first:
+      213: -5381336778504524351
+    second: MetalZhibao_11
+  - first:
+      213: -4414880006757328991
+    second: MetalZhibao_12
+  - first:
+      213: 886199666613925984
+    second: MetalZhibao_13
+  - first:
+      213: 2449473229347690367
+    second: MetalZhibao_14
+  - first:
+      213: -7041928073671871255
+    second: MetalZhibao_15
+  - first:
+      213: -1040304837951383318
+    second: MetalZhibao_16
+  - first:
+      213: 2038099332850935993
+    second: MetalZhibao_17
+  - first:
+      213: -7333947865818604497
+    second: MetalZhibao_18
+  - first:
+      213: 2862292279900787909
+    second: MetalZhibao_19
+  - first:
+      213: -8262937349476726375
+    second: MetalZhibao_20
+  - first:
+      213: -8545126314346467928
+    second: MetalZhibao_21
+  - first:
+      213: -4696875062042529122
+    second: MetalZhibao_22
+  - first:
+      213: -317128579526482138
+    second: MetalZhibao_23
+  - first:
+      213: -5961399446450748545
+    second: MetalZhibao_24
+  - first:
+      213: 542498402480557008
+    second: MetalZhibao_25
+  - first:
+      213: 6306951719766980454
+    second: MetalZhibao_26
+  - first:
+      213: -2801003260244343407
+    second: MetalZhibao_27
+  - first:
+      213: -2348691985154554985
+    second: MetalZhibao_28
+  - first:
+      213: -4832471331244100726
+    second: MetalZhibao_29
+  - first:
+      213: -6794361527591005120
+    second: MetalZhibao_30
+  - first:
+      213: -442278194467505142
+    second: MetalZhibao_31
+  - first:
+      213: 2676125478407349101
+    second: MetalZhibao_32
+  - first:
+      213: -1924286560071773334
+    second: MetalZhibao_33
+  - first:
+      213: -8726569148990496961
+    second: MetalZhibao_34
+  - first:
+      213: -4564807293201869644
+    second: MetalZhibao_35
+  - first:
+      213: -7326313910902808494
+    second: MetalZhibao_36
+  - first:
+      213: 3522799739005134972
+    second: MetalZhibao_37
+  - first:
+      213: 1242087923789223102
+    second: MetalZhibao_38
+  - first:
+      213: -3628534900791008978
+    second: MetalZhibao_39
+  - first:
+      213: -2523138470360024489
+    second: MetalZhibao_40
+  - first:
+      213: 3799098178141503080
+    second: MetalZhibao_41
+  - first:
+      213: 5672986422124710355
+    second: MetalZhibao_42
+  - first:
+      213: -5455062583172831648
+    second: MetalZhibao_43
+  - first:
+      213: 3652163346799649926
+    second: MetalZhibao_44
+  - first:
+      213: -2118087877813536054
+    second: MetalZhibao_45
+  - first:
+      213: 9092087087051800781
+    second: MetalZhibao_46
+  - first:
+      213: 8055958706695970179
+    second: MetalZhibao_47
+  - first:
+      213: -6231824725964888957
+    second: MetalZhibao_48
+  - first:
+      213: 6577342764663736467
+    second: MetalZhibao_49
+  - first:
+      213: -5506620380341585075
+    second: MetalZhibao_50
+  - first:
+      213: -2736677429593020721
+    second: MetalZhibao_51
+  - first:
+      213: -1670144408612805386
+    second: MetalZhibao_52
+  - first:
+      213: -3550031420134162773
+    second: MetalZhibao_53
+  - first:
+      213: -4783728309566873110
+    second: MetalZhibao_54
+  - first:
+      213: 1586108240122108820
+    second: MetalZhibao_55
+  - first:
+      213: -4814220234018713364
+    second: MetalZhibao_56
+  - first:
+      213: -3266008255091028954
+    second: MetalZhibao_57
+  - first:
+      213: -2112430898621599366
+    second: MetalZhibao_58
+  - first:
+      213: 7878195385320218320
+    second: MetalZhibao_59
+  - first:
+      213: 750786199901122306
+    second: MetalZhibao_60
+  - first:
+      213: -6320957790803921997
+    second: MetalZhibao_61
+  - first:
+      213: -5593866840120062684
+    second: MetalZhibao_62
+  - first:
+      213: 7289346913616538146
+    second: MetalZhibao_63
+  - first:
+      213: 2891394806071177688
+    second: MetalZhibao_64
+  - first:
+      213: 2596225124818143476
+    second: MetalZhibao_65
+  - first:
+      213: 1880265501705489460
+    second: MetalZhibao_66
+  - first:
+      213: 5793128339451242867
+    second: MetalZhibao_67
+  - first:
+      213: 9115026859806718537
+    second: MetalZhibao_68
+  - first:
+      213: 1951362895913488854
+    second: MetalZhibao_69
+  - first:
+      213: 2915505622260005541
+    second: MetalZhibao_70
+  - first:
+      213: -5327464829631616196
+    second: MetalZhibao_71
+  - first:
+      213: 4863052003499157859
+    second: MetalZhibao_72
+  - first:
+      213: -2583412775824946125
+    second: MetalZhibao_73
+  - first:
+      213: -8324588279410461915
+    second: MetalZhibao_74
+  - first:
+      213: -3283558567842407865
+    second: MetalZhibao_75
+  - first:
+      213: -5409765454118539727
+    second: MetalZhibao_76
+  - first:
+      213: 2790778386305290403
+    second: MetalZhibao_77
+  - first:
+      213: 7079411742558287570
+    second: MetalZhibao_78
+  - first:
+      213: -2303604034566231969
+    second: MetalZhibao_79
+  - first:
+      213: -555164752253118397
+    second: MetalZhibao_80
+  - first:
+      213: -2351920005047737293
+    second: MetalZhibao_81
+  - first:
+      213: 1117965892922653590
+    second: MetalZhibao_82
+  - first:
+      213: 67545669040498203
+    second: MetalZhibao_83
+  - first:
+      213: 4800069573802157020
+    second: MetalZhibao_84
+  - first:
+      213: -6020893846749390625
+    second: MetalZhibao_85
+  - first:
+      213: 8225379845033169186
+    second: MetalZhibao_86
+  - first:
+      213: 2279232533375613323
+    second: MetalZhibao_87
+  - first:
+      213: -4914631265929126479
+    second: MetalZhibao_88
+  - first:
+      213: -3436023331713570219
+    second: MetalZhibao_89
+  - first:
+      213: -2644652666809194014
+    second: MetalZhibao_90
+  - first:
+      213: -265529429100221565
+    second: MetalZhibao_91
+  - first:
+      213: -9123462154915483682
+    second: MetalZhibao_92
+  - first:
+      213: -1209296667479479869
+    second: MetalZhibao_93
+  - first:
+      213: 2028187398998045129
+    second: MetalZhibao_94
+  - first:
+      213: -5333019643666159204
+    second: MetalZhibao_95
+  - first:
+      213: -1491009409241139943
+    second: MetalZhibao_96
+  - first:
+      213: 3912941672408883519
+    second: MetalZhibao_97
+  - first:
+      213: -6963108572100270570
+    second: MetalZhibao_98
+  - first:
+      213: -7038254677386263692
+    second: MetalZhibao_99
+  - first:
+      213: -6972756442217311586
+    second: MetalZhibao_100
+  - first:
+      213: 3576323080215727005
+    second: MetalZhibao_101
+  - first:
+      213: 466634654240009860
+    second: MetalZhibao_102
+  - first:
+      213: 3700968180123300062
+    second: MetalZhibao_103
+  - first:
+      213: 775955696828196892
+    second: MetalZhibao_104
+  - first:
+      213: 8028591609109648453
+    second: MetalZhibao_105
+  - first:
+      213: -8795220688171982953
+    second: MetalZhibao_106
+  - first:
+      213: 2066192178491406788
+    second: MetalZhibao_107
+  - first:
+      213: -6841544218938763895
+    second: MetalZhibao_108
+  - first:
+      213: 7315720499775461035
+    second: MetalZhibao_109
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MetalZhibao_0
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 619
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e26677d9c1a3dc0800000000000000
+      internalID: -3658580284646478296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 623
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839106d8c27b4ccf0800000000000000
+      internalID: -232859878738093768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_2
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 611
+        width: 90
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea777f0c85285cb0800000000000000
+      internalID: -4875105313143424275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_3
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 652
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acee33260a6564020800000000000000
+      internalID: 2325641504425766602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_4
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 618
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951d91aafb2b46840800000000000000
+      internalID: 5216490804664193369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_5
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 639
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43c21df7d44e3440800000000000000
+      internalID: 4917443537589683022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_6
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 626
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2404f2632b27da40800000000000000
+      internalID: 5392826509783467052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 619
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90ac7b460eef8870800000000000000
+      internalID: 8687423917024649371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_8
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 603
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5376198b503a3e520800000000000000
+      internalID: 2730205044083353397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_9
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 627
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0971423eccae7d9e0800000000000000
+      internalID: -1596549377174530160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_10
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 606
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ec3341eb29b1670800000000000000
+      internalID: 8510557265927065185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_11
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 618
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd2e7426b6a155b0800000000000000
+      internalID: -5381336778504524351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_12
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 620
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7514f56023bb2c0800000000000000
+      internalID: -4414880006757328991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_13
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 618
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068b798c6e96c4c00800000000000000
+      internalID: 886199666613925984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_14
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 596
+        width: 88
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77191a9ce64ef120800000000000000
+      internalID: 2449473229347690367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 596
+        width: 44
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4ffea0abb064e90800000000000000
+      internalID: -7041928073671871255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_16
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 602
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae899cbf2481091f0800000000000000
+      internalID: -1040304837951383318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_17
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 596
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b86a8f7b88c84c10800000000000000
+      internalID: 2038099332850935993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_18
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 584
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cd5a0e545983a90800000000000000
+      internalID: -7333947865818604497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_19
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 586
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c454dad9a7e8b720800000000000000
+      internalID: 2862292279900787909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_20
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 582
+        width: 69
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999c1237246245d80800000000000000
+      internalID: -8262937349476726375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_21
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 575
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad298024ec996980800000000000000
+      internalID: -8545126314346467928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_22
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 563
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e927094240951deb0800000000000000
+      internalID: -4696875062042529122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_23
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 277
+        width: 300
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6272335bc35599bf0800000000000000
+      internalID: -317128579526482138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_24
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 468
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73c71ec9cad44da0800000000000000
+      internalID: -5961399446450748545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_25
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 443
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db021b3c67578700800000000000000
+      internalID: 542498402480557008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_26
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 453
+        width: 73
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667ff386c2bc68750800000000000000
+      internalID: 6306951719766980454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_27
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 456
+        width: 122
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195cc6a0066d029d0800000000000000
+      internalID: -2801003260244343407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_28
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 438
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7934e0a5515c76fd0800000000000000
+      internalID: -2348691985154554985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_29
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 451
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83bfe18dec9fecb0800000000000000
+      internalID: -4832471331244100726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_30
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 447
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0449b50503495b1a0800000000000000
+      internalID: -6794361527591005120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_31
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 410
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cfcde4356bcd9f0800000000000000
+      internalID: -442278194467505142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_32
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 424
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63a7d2a1f1832520800000000000000
+      internalID: 2676125478407349101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_33
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 443
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a631dd4a19f8b45e0800000000000000
+      internalID: -1924286560071773334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_34
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 435
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fd986289ff4e680800000000000000
+      internalID: -8726569148990496961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_35
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 442
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b41794c3fb86a0c0800000000000000
+      internalID: -4564807293201869644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_36
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 431
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250a2a38054b35a90800000000000000
+      internalID: -7326313910902808494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_37
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 424
+        width: 75
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c786d32b2bf73e030800000000000000
+      internalID: 3522799739005134972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_38
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 428
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb45245c268cc3110800000000000000
+      internalID: 1242087923789223102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_39
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 314
+        width: 190
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21ae378bbad4adc0800000000000000
+      internalID: -3628534900791008978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_40
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 428
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a711bede20cfcd0800000000000000
+      internalID: -2523138470360024489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_41
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 414
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e35fe1aab19b430800000000000000
+      internalID: 3799098178141503080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_42
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 312
+        width: 165
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d98b5a181f7abe40800000000000000
+      internalID: 5672986422124710355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_43
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 356
+        width: 13
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06665769b79bb44b0800000000000000
+      internalID: -5455062583172831648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_44
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 398
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684e1b3c6371fa230800000000000000
+      internalID: 3652163346799649926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_45
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 410
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acafcd71c4a0b92e0800000000000000
+      internalID: -2118087877813536054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_46
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 331
+        width: 19
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc083a2a8059d2e70800000000000000
+      internalID: 9092087087051800781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_47
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 388
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d14dde2c38ccf60800000000000000
+      internalID: 8055958706695970179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_48
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 389
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384ed5aed6c1489a0800000000000000
+      internalID: -6231824725964888957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_49
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 357
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39884cd656a674b50800000000000000
+      internalID: 6577342764663736467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_50
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 383
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b30dc70fd8493b0800000000000000
+      internalID: -5506620380341585075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_51
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 325
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc66748906e550ad0800000000000000
+      internalID: -2736677429593020721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_52
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 355
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f46709528472d8e0800000000000000
+      internalID: -1670144408612805386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_53
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 340
+        width: 13
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae7d657b31cbbec0800000000000000
+      internalID: -3550031420134162773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_54
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 284
+        width: 75
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1694e9278cc9db0800000000000000
+      internalID: -4783728309566873110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_55
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 318
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b5cc37a0df20610800000000000000
+      internalID: 1586108240122108820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_56
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 333
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce011d83434703db0800000000000000
+      internalID: -4814220234018713364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_57
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 19
+        width: 222
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c4ec9cbcecca2d0800000000000000
+      internalID: -3266008255091028954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_58
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 324
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71b9133a432fa2e0800000000000000
+      internalID: -2112430898621599366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_59
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 304
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de122566f8f45d60800000000000000
+      internalID: 7878195385320218320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_60
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 276
+        width: 67
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f2f5b22145b6a00800000000000000
+      internalID: 750786199901122306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_61
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 271
+        width: 99
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3f4ee01627748a0800000000000000
+      internalID: -6320957790803921997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_62
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 223
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d8ec91fb79e52b0800000000000000
+      internalID: -5593866840120062684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_63
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 230
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a24b6b566f82560800000000000000
+      internalID: 7289346913616538146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_64
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 225
+        width: 76
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d13841c14c402820800000000000000
+      internalID: 2891394806071177688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_65
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 234
+        width: 33
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8cab1eef4a70420800000000000000
+      internalID: 2596225124818143476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_66
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 228
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cc390038b081a10800000000000000
+      internalID: 1880265501705489460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_67
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 232
+        width: 57
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3796d3b0883556050800000000000000
+      internalID: 5793128339451242867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_68
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 213
+        width: 63
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a7ce0b2a41f7e70800000000000000
+      internalID: 9115026859806718537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_69
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 215
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d11dce0732a41b10800000000000000
+      internalID: 1951362895913488854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_70
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 210
+        width: 47
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa367b9ae4f57820800000000000000
+      internalID: 2915505622260005541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_71
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 197
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bab6ca6fa0116b0800000000000000
+      internalID: -5327464829631616196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_72
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 205
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369a1d818080d7340800000000000000
+      internalID: 4863052003499157859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_73
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 180
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c8fb494cfd52cd0800000000000000
+      internalID: -2583412775824946125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_74
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 150
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523fb50c01f197c80800000000000000
+      internalID: -8324588279410461915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_75
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 156
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a109c21e47e62d0800000000000000
+      internalID: -3283558567842407865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_76
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 157
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ea51d4bf6ace4b0800000000000000
+      internalID: -5409765454118539727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_77
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 61
+        width: 184
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0909af726dab620800000000000000
+      internalID: 2790778386305290403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_78
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 171
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d67ae5b87f1f3260800000000000000
+      internalID: 7079411742558287570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_79
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 170
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58e588e554f700e0800000000000000
+      internalID: -2303604034566231969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_80
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 115
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34892266998ab48f0800000000000000
+      internalID: -555164752253118397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_81
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 63
+        width: 178
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334aef6673d4c5fd0800000000000000
+      internalID: -2351920005047737293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_82
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 172
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b38ae6e00d38f00800000000000000
+      internalID: 1117965892922653590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_83
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 132
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1666499d68ffe000800000000000000
+      internalID: 67545669040498203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_84
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 149
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd363a378d54d9240800000000000000
+      internalID: 4800069573802157020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_85
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 90
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8da2a42fc717ca0800000000000000
+      internalID: -6020893846749390625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_86
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 121
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2211cdd936b662270800000000000000
+      internalID: 8225379845033169186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_87
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 53
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89fd58c9e571af10800000000000000
+      internalID: 2279232533375613323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_88
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 74
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd144807e8bbcbb0800000000000000
+      internalID: -4914631265929126479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_89
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 72
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a22411cfac050d0800000000000000
+      internalID: -3436023331713570219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_90
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 69
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e96c88596e4c4bd0800000000000000
+      internalID: -2644652666809194014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_91
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 63
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ba11d1466a05cf0800000000000000
+      internalID: -265529429100221565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_92
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 80
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfea8e1283f26180800000000000000
+      internalID: -9123462154915483682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_93
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 55
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c962da8617b73fe0800000000000000
+      internalID: -1209296667479479869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_94
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 42
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1b33f81b1952c10800000000000000
+      internalID: 2028187398998045129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_95
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 41
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99291fb3ee4df5b0800000000000000
+      internalID: -5333019643666159204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_96
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 48
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915ba6d87dede4be0800000000000000
+      internalID: -1491009409241139943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_97
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 64
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3121ca28bf8d4630800000000000000
+      internalID: 3912941672408883519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_98
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 58
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6166c7355a11e5f90800000000000000
+      internalID: -6963108572100270570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_99
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 34
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47309a349a8135e90800000000000000
+      internalID: -7038254677386263692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_100
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 16
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92125485facb3f90800000000000000
+      internalID: -6972756442217311586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_101
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 37
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b0a4ea4e6a1a130800000000000000
+      internalID: 3576323080215727005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_102
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 25
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48eecd5eeb1d97600800000000000000
+      internalID: 466634654240009860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_103
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 42
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0f54583fa7c5330800000000000000
+      internalID: 3700968180123300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_104
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 21
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18a2e6589fb4ca00800000000000000
+      internalID: 775955696828196892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_105
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 16
+        width: 46
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54499abf7894b6f60800000000000000
+      internalID: 8028591609109648453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_106
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 25
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f9758126911f580800000000000000
+      internalID: -8795220688171982953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_107
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 12
+        width: 71
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9bba4d6d69cac10800000000000000
+      internalID: 2066192178491406788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_108
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 10
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985170be7c3fd01a0800000000000000
+      internalID: -6841544218938763895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalZhibao_109
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 13
+        width: 46
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6d821c809a68560800000000000000
+      internalID: 7315720499775461035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MetalZhibao_0: -3658580284646478296
+      MetalZhibao_1: -232859878738093768
+      MetalZhibao_10: 8510557265927065185
+      MetalZhibao_100: -6972756442217311586
+      MetalZhibao_101: 3576323080215727005
+      MetalZhibao_102: 466634654240009860
+      MetalZhibao_103: 3700968180123300062
+      MetalZhibao_104: 775955696828196892
+      MetalZhibao_105: 8028591609109648453
+      MetalZhibao_106: -8795220688171982953
+      MetalZhibao_107: 2066192178491406788
+      MetalZhibao_108: -6841544218938763895
+      MetalZhibao_109: 7315720499775461035
+      MetalZhibao_11: -5381336778504524351
+      MetalZhibao_12: -4414880006757328991
+      MetalZhibao_13: 886199666613925984
+      MetalZhibao_14: 2449473229347690367
+      MetalZhibao_15: -7041928073671871255
+      MetalZhibao_16: -1040304837951383318
+      MetalZhibao_17: 2038099332850935993
+      MetalZhibao_18: -7333947865818604497
+      MetalZhibao_19: 2862292279900787909
+      MetalZhibao_2: -4875105313143424275
+      MetalZhibao_20: -8262937349476726375
+      MetalZhibao_21: -8545126314346467928
+      MetalZhibao_22: -4696875062042529122
+      MetalZhibao_23: -317128579526482138
+      MetalZhibao_24: -5961399446450748545
+      MetalZhibao_25: 542498402480557008
+      MetalZhibao_26: 6306951719766980454
+      MetalZhibao_27: -2801003260244343407
+      MetalZhibao_28: -2348691985154554985
+      MetalZhibao_29: -4832471331244100726
+      MetalZhibao_3: 2325641504425766602
+      MetalZhibao_30: -6794361527591005120
+      MetalZhibao_31: -442278194467505142
+      MetalZhibao_32: 2676125478407349101
+      MetalZhibao_33: -1924286560071773334
+      MetalZhibao_34: -8726569148990496961
+      MetalZhibao_35: -4564807293201869644
+      MetalZhibao_36: -7326313910902808494
+      MetalZhibao_37: 3522799739005134972
+      MetalZhibao_38: 1242087923789223102
+      MetalZhibao_39: -3628534900791008978
+      MetalZhibao_4: 5216490804664193369
+      MetalZhibao_40: -2523138470360024489
+      MetalZhibao_41: 3799098178141503080
+      MetalZhibao_42: 5672986422124710355
+      MetalZhibao_43: -5455062583172831648
+      MetalZhibao_44: 3652163346799649926
+      MetalZhibao_45: -2118087877813536054
+      MetalZhibao_46: 9092087087051800781
+      MetalZhibao_47: 8055958706695970179
+      MetalZhibao_48: -6231824725964888957
+      MetalZhibao_49: 6577342764663736467
+      MetalZhibao_5: 4917443537589683022
+      MetalZhibao_50: -5506620380341585075
+      MetalZhibao_51: -2736677429593020721
+      MetalZhibao_52: -1670144408612805386
+      MetalZhibao_53: -3550031420134162773
+      MetalZhibao_54: -4783728309566873110
+      MetalZhibao_55: 1586108240122108820
+      MetalZhibao_56: -4814220234018713364
+      MetalZhibao_57: -3266008255091028954
+      MetalZhibao_58: -2112430898621599366
+      MetalZhibao_59: 7878195385320218320
+      MetalZhibao_6: 5392826509783467052
+      MetalZhibao_60: 750786199901122306
+      MetalZhibao_61: -6320957790803921997
+      MetalZhibao_62: -5593866840120062684
+      MetalZhibao_63: 7289346913616538146
+      MetalZhibao_64: 2891394806071177688
+      MetalZhibao_65: 2596225124818143476
+      MetalZhibao_66: 1880265501705489460
+      MetalZhibao_67: 5793128339451242867
+      MetalZhibao_68: 9115026859806718537
+      MetalZhibao_69: 1951362895913488854
+      MetalZhibao_7: 8687423917024649371
+      MetalZhibao_70: 2915505622260005541
+      MetalZhibao_71: -5327464829631616196
+      MetalZhibao_72: 4863052003499157859
+      MetalZhibao_73: -2583412775824946125
+      MetalZhibao_74: -8324588279410461915
+      MetalZhibao_75: -3283558567842407865
+      MetalZhibao_76: -5409765454118539727
+      MetalZhibao_77: 2790778386305290403
+      MetalZhibao_78: 7079411742558287570
+      MetalZhibao_79: -2303604034566231969
+      MetalZhibao_8: 2730205044083353397
+      MetalZhibao_80: -555164752253118397
+      MetalZhibao_81: -2351920005047737293
+      MetalZhibao_82: 1117965892922653590
+      MetalZhibao_83: 67545669040498203
+      MetalZhibao_84: 4800069573802157020
+      MetalZhibao_85: -6020893846749390625
+      MetalZhibao_86: 8225379845033169186
+      MetalZhibao_87: 2279232533375613323
+      MetalZhibao_88: -4914631265929126479
+      MetalZhibao_89: -3436023331713570219
+      MetalZhibao_9: -1596549377174530160
+      MetalZhibao_90: -2644652666809194014
+      MetalZhibao_91: -265529429100221565
+      MetalZhibao_92: -9123462154915483682
+      MetalZhibao_93: -1209296667479479869
+      MetalZhibao_94: 2028187398998045129
+      MetalZhibao_95: -5333019643666159204
+      MetalZhibao_96: -1491009409241139943
+      MetalZhibao_97: 3912941672408883519
+      MetalZhibao_98: -6963108572100270570
+      MetalZhibao_99: -7038254677386263692
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

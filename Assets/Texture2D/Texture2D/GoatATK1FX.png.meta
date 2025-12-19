@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 57905ce83d24e894daedfd0186e9a980
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1480238298323497141
+    second: GoatATK1FX_0
+  - first:
+      213: 66653561996924315
+    second: GoatATK1FX_1
+  - first:
+      213: 5988317524287389019
+    second: GoatATK1FX_2
+  - first:
+      213: -4462242836228468685
+    second: GoatATK1FX_3
+  - first:
+      213: -3495906751752759815
+    second: GoatATK1FX_4
+  - first:
+      213: 4298189945139786164
+    second: GoatATK1FX_5
+  - first:
+      213: 4434124095847307322
+    second: GoatATK1FX_6
+  - first:
+      213: 6719271558954762237
+    second: GoatATK1FX_7
+  - first:
+      213: 5200442520493276436
+    second: GoatATK1FX_8
+  - first:
+      213: 2045834662576180166
+    second: GoatATK1FX_9
+  - first:
+      213: -1235151189409877398
+    second: GoatATK1FX_10
+  - first:
+      213: -8498148421766494414
+    second: GoatATK1FX_11
+  - first:
+      213: -6634718309091043326
+    second: GoatATK1FX_12
+  - first:
+      213: 1597369006751524729
+    second: GoatATK1FX_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GoatATK1FX_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 976
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fcf7d3c13257be0800000000000000
+      internalID: -1480238298323497141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoatATK1FX_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 976
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9557ddbf0dcce000800000000000000
+      internalID: 66653561996924315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoatATK1FX_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 976
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d75659f07ca1350800000000000000
+      internalID: 5988317524287389019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoatATK1FX_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 976
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330121d48cde212c0800000000000000
+      internalID: -4462242836228468685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoatATK1FX_4
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 976
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f513e5d45b0c7fc0800000000000000
+      internalID: -3495906751752759815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoatATK1FX_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 574
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b176397bfc36ab30800000000000000
+      internalID: 4298189945139786164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoatATK1FX_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 574
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a389af64f5c298d30800000000000000
+      internalID: 4434124095847307322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoatATK1FX_7
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 574
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff32e4f1e5af3d50800000000000000
+      internalID: 6719271558954762237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoatATK1FX_8
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 574
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41db6d45beeab2840800000000000000
+      internalID: 5200442520493276436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoatATK1FX_9
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 574
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbc80c49c3446c10800000000000000
+      internalID: 2045834662576180166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoatATK1FX_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 366
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62b25f898cdbdee0800000000000000
+      internalID: -1235151189409877398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoatATK1FX_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 172
+        width: 86
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237cf081903801a80800000000000000
+      internalID: -8498148421766494414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoatATK1FX_12
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 198
+        width: 12
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20819d1a9debce3a0800000000000000
+      internalID: -6634718309091043326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoatATK1FX_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 172
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977a4aef5aefa2610800000000000000
+      internalID: 1597369006751524729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GoatATK1FX_0: -1480238298323497141
+      GoatATK1FX_1: 66653561996924315
+      GoatATK1FX_10: -1235151189409877398
+      GoatATK1FX_11: -8498148421766494414
+      GoatATK1FX_12: -6634718309091043326
+      GoatATK1FX_13: 1597369006751524729
+      GoatATK1FX_2: 5988317524287389019
+      GoatATK1FX_3: -4462242836228468685
+      GoatATK1FX_4: -3495906751752759815
+      GoatATK1FX_5: 4298189945139786164
+      GoatATK1FX_6: 4434124095847307322
+      GoatATK1FX_7: 6719271558954762237
+      GoatATK1FX_8: 5200442520493276436
+      GoatATK1FX_9: 2045834662576180166
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

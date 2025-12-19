@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: cfc7821b7e28f48419d4aa052bd4a266
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6253526576069445052
+    second: LittleBlueAttack_0
+  - first:
+      213: 1465657018191797145
+    second: LittleBlueAttack_1
+  - first:
+      213: -6063750876677694327
+    second: LittleBlueAttack_2
+  - first:
+      213: 703338986971838277
+    second: LittleBlueAttack_3
+  - first:
+      213: 5262547873406972878
+    second: LittleBlueAttack_4
+  - first:
+      213: 7347792974659009096
+    second: LittleBlueAttack_5
+  - first:
+      213: -8833850687592523099
+    second: LittleBlueAttack_6
+  - first:
+      213: -7372455903218792417
+    second: LittleBlueAttack_7
+  - first:
+      213: 5787678781984472929
+    second: LittleBlueAttack_8
+  - first:
+      213: -3783447858733575195
+    second: LittleBlueAttack_9
+  - first:
+      213: 6146519633896585387
+    second: LittleBlueAttack_10
+  - first:
+      213: -282461256858009300
+    second: LittleBlueAttack_11
+  - first:
+      213: -8972742748669453544
+    second: LittleBlueAttack_12
+  - first:
+      213: -7000613556632686287
+    second: LittleBlueAttack_13
+  - first:
+      213: 7220970218992337988
+    second: LittleBlueAttack_14
+  - first:
+      213: -1646283534506371286
+    second: LittleBlueAttack_15
+  - first:
+      213: -6711049035058728858
+    second: LittleBlueAttack_16
+  - first:
+      213: -2648604098842558254
+    second: LittleBlueAttack_17
+  - first:
+      213: -242877893688120338
+    second: LittleBlueAttack_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LittleBlueAttack_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 320
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb58510d94df8c650800000000000000
+      internalID: 6253526576069445052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleBlueAttack_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 320
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b51ebea4f075410800000000000000
+      internalID: 1465657018191797145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleBlueAttack_2
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 320
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c992d64ba39dba0800000000000000
+      internalID: -6063750876677694327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleBlueAttack_3
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 320
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547b32b0513c2c900800000000000000
+      internalID: 703338986971838277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleBlueAttack_4
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 320
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3f8ef9863580940800000000000000
+      internalID: 5262547873406972878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleBlueAttack_5
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 224
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a39a9b7ca98f560800000000000000
+      internalID: 7347792974659009096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleBlueAttack_6
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 224
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa15377a9bd76580800000000000000
+      internalID: -8833850687592523099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleBlueAttack_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 206
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18896eba66cfa990800000000000000
+      internalID: -7372455903218792417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleBlueAttack_8
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 206
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fff321037f15050800000000000000
+      internalID: 5787678781984472929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleBlueAttack_9
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 224
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e319f1d73e7e7bc0800000000000000
+      internalID: -3783447858733575195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleBlueAttack_10
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 224
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8be579a03dc4550800000000000000
+      internalID: 6146519633896585387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleBlueAttack_11
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 128
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c210b22cbfe741cf0800000000000000
+      internalID: -282461256858009300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleBlueAttack_12
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 128
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b589c720a6a7380800000000000000
+      internalID: -8972742748669453544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleBlueAttack_13
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 128
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131ff13af03d8de90800000000000000
+      internalID: -7000613556632686287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleBlueAttack_14
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 128
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44486b4e72a063460800000000000000
+      internalID: 7220970218992337988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleBlueAttack_15
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 128
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a275c2609d93729e0800000000000000
+      internalID: -1646283534506371286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleBlueAttack_16
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 32
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660b81395709dd2a0800000000000000
+      internalID: -6711049035058728858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleBlueAttack_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 32
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d088d1ea944e3bd0800000000000000
+      internalID: -2648604098842558254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleBlueAttack_18
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 32
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebaceea7df11acf0800000000000000
+      internalID: -242877893688120338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LittleBlueAttack_0: 6253526576069445052
+      LittleBlueAttack_1: 1465657018191797145
+      LittleBlueAttack_10: 6146519633896585387
+      LittleBlueAttack_11: -282461256858009300
+      LittleBlueAttack_12: -8972742748669453544
+      LittleBlueAttack_13: -7000613556632686287
+      LittleBlueAttack_14: 7220970218992337988
+      LittleBlueAttack_15: -1646283534506371286
+      LittleBlueAttack_16: -6711049035058728858
+      LittleBlueAttack_17: -2648604098842558254
+      LittleBlueAttack_18: -242877893688120338
+      LittleBlueAttack_2: -6063750876677694327
+      LittleBlueAttack_3: 703338986971838277
+      LittleBlueAttack_4: 5262547873406972878
+      LittleBlueAttack_5: 7347792974659009096
+      LittleBlueAttack_6: -8833850687592523099
+      LittleBlueAttack_7: -7372455903218792417
+      LittleBlueAttack_8: 5787678781984472929
+      LittleBlueAttack_9: -3783447858733575195
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

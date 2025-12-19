@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 45241c6c4d82f834e99506f04a5b2c3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8636610615227627329
+    second: FlyingFishATK_0
+  - first:
+      213: 2564830707033326644
+    second: FlyingFishATK_1
+  - first:
+      213: 3370675546379075721
+    second: FlyingFishATK_2
+  - first:
+      213: 4123936856221076436
+    second: FlyingFishATK_3
+  - first:
+      213: -4682511336291800711
+    second: FlyingFishATK_4
+  - first:
+      213: 5061250955677657669
+    second: FlyingFishATK_5
+  - first:
+      213: 2707033361470837330
+    second: FlyingFishATK_6
+  - first:
+      213: -6278350967164334898
+    second: FlyingFishATK_7
+  - first:
+      213: -5639923748863577816
+    second: FlyingFishATK_8
+  - first:
+      213: -8932539925816252682
+    second: FlyingFishATK_9
+  - first:
+      213: -7671883441230323246
+    second: FlyingFishATK_10
+  - first:
+      213: -6553458202013471979
+    second: FlyingFishATK_11
+  - first:
+      213: 5718023433851372290
+    second: FlyingFishATK_12
+  - first:
+      213: -6114611667902843143
+    second: FlyingFishATK_13
+  - first:
+      213: -5148242875814488610
+    second: FlyingFishATK_14
+  - first:
+      213: 2690989528795946233
+    second: FlyingFishATK_15
+  - first:
+      213: -3676919143836983829
+    second: FlyingFishATK_16
+  - first:
+      213: -5395859920118844333
+    second: FlyingFishATK_17
+  - first:
+      213: -6605280513220875287
+    second: FlyingFishATK_18
+  - first:
+      213: 6578649965782748855
+    second: FlyingFishATK_19
+  - first:
+      213: -8402284515499601299
+    second: FlyingFishATK_20
+  - first:
+      213: -2783284259246146611
+    second: FlyingFishATK_21
+  - first:
+      213: 527641912084151524
+    second: FlyingFishATK_22
+  - first:
+      213: 6290085342957856140
+    second: FlyingFishATK_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FlyingFishATK_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 155
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147b20888976bd770800000000000000
+      internalID: 8636610615227627329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingFishATK_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 154
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4344cb160fb189320800000000000000
+      internalID: 2564830707033326644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingFishATK_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 153
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98045030d8b07ce20800000000000000
+      internalID: 3370675546379075721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingFishATK_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 154
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbc23f98ba2b3930800000000000000
+      internalID: 4123936856221076436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingFishATK_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 145
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9796697afb0640fb0800000000000000
+      internalID: -4682511336291800711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingFishATK_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 144
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ae544bdec2d3640800000000000000
+      internalID: 5061250955677657669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingFishATK_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 144
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252d991ff70519520800000000000000
+      internalID: 2707033361470837330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingFishATK_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 144
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc80fa3f01ded8a0800000000000000
+      internalID: -6278350967164334898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingFishATK_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 91
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82172b46b37fab1b0800000000000000
+      internalID: -5639923748863577816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingFishATK_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 92
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f66abb934e390480800000000000000
+      internalID: -8932539925816252682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingFishATK_10
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 93
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1e34758aef78590800000000000000
+      internalID: -7671883441230323246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingFishATK_11
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 92
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bed9aac707d05a0800000000000000
+      internalID: -6553458202013471979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingFishATK_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 80
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203021884008a5f40800000000000000
+      internalID: 5718023433851372290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingFishATK_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 81
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6313ba519842ba0800000000000000
+      internalID: -6114611667902843143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingFishATK_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 81
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed554a98164cd88b0800000000000000
+      internalID: -5148242875814488610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingFishATK_15
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 80
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc9d2e08b0585520800000000000000
+      internalID: 2690989528795946233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingFishATK_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 29
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed53c31585f8fcc0800000000000000
+      internalID: -3676919143836983829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingFishATK_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 28
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3547c8bbdfd0e15b0800000000000000
+      internalID: -5395859920118844333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingFishATK_18
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 30
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebe8a79e545554a0800000000000000
+      internalID: -6605280513220875287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingFishATK_19
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 28
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7becd18e94f0c4b50800000000000000
+      internalID: 6578649965782748855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingFishATK_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 16
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6291e710c6156b80800000000000000
+      internalID: -8402284515499601299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingFishATK_21
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 16
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb72b276b9cf59d0800000000000000
+      internalID: -2783284259246146611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingFishATK_22
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 16
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec3262068f825700800000000000000
+      internalID: 527641912084151524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingFishATK_23
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 17
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85e4e90b4fda4750800000000000000
+      internalID: 6290085342957856140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FlyingFishATK_0: 8636610615227627329
+      FlyingFishATK_1: 2564830707033326644
+      FlyingFishATK_10: -7671883441230323246
+      FlyingFishATK_11: -6553458202013471979
+      FlyingFishATK_12: 5718023433851372290
+      FlyingFishATK_13: -6114611667902843143
+      FlyingFishATK_14: -5148242875814488610
+      FlyingFishATK_15: 2690989528795946233
+      FlyingFishATK_16: -3676919143836983829
+      FlyingFishATK_17: -5395859920118844333
+      FlyingFishATK_18: -6605280513220875287
+      FlyingFishATK_19: 6578649965782748855
+      FlyingFishATK_2: 3370675546379075721
+      FlyingFishATK_20: -8402284515499601299
+      FlyingFishATK_21: -2783284259246146611
+      FlyingFishATK_22: 527641912084151524
+      FlyingFishATK_23: 6290085342957856140
+      FlyingFishATK_3: 4123936856221076436
+      FlyingFishATK_4: -4682511336291800711
+      FlyingFishATK_5: 5061250955677657669
+      FlyingFishATK_6: 2707033361470837330
+      FlyingFishATK_7: -6278350967164334898
+      FlyingFishATK_8: -5639923748863577816
+      FlyingFishATK_9: -8932539925816252682
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: f8fc8c22c8742dc4d8f7975ca3a06f99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7838490065495927120
+    second: LordCycleATK_0
+  - first:
+      213: -7187306058405523046
+    second: LordCycleATK_1
+  - first:
+      213: 742119214832148613
+    second: LordCycleATK_2
+  - first:
+      213: -276716949183527249
+    second: LordCycleATK_3
+  - first:
+      213: -4577226637355842013
+    second: LordCycleATK_4
+  - first:
+      213: -207970060812704631
+    second: LordCycleATK_5
+  - first:
+      213: -5095654077491052620
+    second: LordCycleATK_6
+  - first:
+      213: 8936966664203217549
+    second: LordCycleATK_7
+  - first:
+      213: -7130431205516779661
+    second: LordCycleATK_8
+  - first:
+      213: 8157569454933205090
+    second: LordCycleATK_9
+  - first:
+      213: -3084578175972576829
+    second: LordCycleATK_10
+  - first:
+      213: 7965562539341255845
+    second: LordCycleATK_11
+  - first:
+      213: -3401472901700797353
+    second: LordCycleATK_12
+  - first:
+      213: 2191138560011172682
+    second: LordCycleATK_13
+  - first:
+      213: -3717597212388328055
+    second: LordCycleATK_14
+  - first:
+      213: 7617161197037735602
+    second: LordCycleATK_15
+  - first:
+      213: 4076530370046188980
+    second: LordCycleATK_16
+  - first:
+      213: -4687183316991394727
+    second: LordCycleATK_17
+  - first:
+      213: -3985450504466474170
+    second: LordCycleATK_18
+  - first:
+      213: -151545103645270752
+    second: LordCycleATK_19
+  - first:
+      213: 1408718658801659365
+    second: LordCycleATK_20
+  - first:
+      213: 8179385218268924642
+    second: LordCycleATK_21
+  - first:
+      213: 5687065798964184723
+    second: LordCycleATK_22
+  - first:
+      213: 540697546751466278
+    second: LordCycleATK_23
+  - first:
+      213: 9073811245068025895
+    second: LordCycleATK_24
+  - first:
+      213: 8928533593400072451
+    second: LordCycleATK_25
+  - first:
+      213: -4355402917741562181
+    second: LordCycleATK_26
+  - first:
+      213: 9053989662616094293
+    second: LordCycleATK_27
+  - first:
+      213: 247968643211909019
+    second: LordCycleATK_28
+  - first:
+      213: 7209184861716738198
+    second: LordCycleATK_29
+  - first:
+      213: -4714610322369043052
+    second: LordCycleATK_30
+  - first:
+      213: 4047349676199275627
+    second: LordCycleATK_31
+  - first:
+      213: 5764310949950669685
+    second: LordCycleATK_32
+  - first:
+      213: 6325431936011901940
+    second: LordCycleATK_33
+  - first:
+      213: 8946636835397131685
+    second: LordCycleATK_34
+  - first:
+      213: 6877842731007959076
+    second: LordCycleATK_35
+  - first:
+      213: 5859027071576973663
+    second: LordCycleATK_36
+  - first:
+      213: 6669581389157927196
+    second: LordCycleATK_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LordCycleATK_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 670
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6dfa6c0d6183390800000000000000
+      internalID: -7838490065495927120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 671
+        width: 39
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91d9b8483f814c90800000000000000
+      internalID: -7187306058405523046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 672
+        width: 42
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580ef057e798c4a00800000000000000
+      internalID: 742119214832148613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_3
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 673
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6069c9667e82cf0800000000000000
+      internalID: -276716949183527249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_4
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 674
+        width: 45
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32603ffdf9c6a70c0800000000000000
+      internalID: -4577226637355842013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 657
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984a751e4542d1df0800000000000000
+      internalID: -207970060812704631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 657
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfffdc4d999849b0800000000000000
+      internalID: -5095654077491052620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 657
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a275db4db760c70800000000000000
+      internalID: 8936966664203217549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_8
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 657
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fdfc3e89e9b0d90800000000000000
+      internalID: -7130431205516779661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_9
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 657
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260eed7d232853170800000000000000
+      internalID: 8157569454933205090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 482
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c17b33ed706135d0800000000000000
+      internalID: -3084578175972576829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_11
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 481
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a418991dec5b8e60800000000000000
+      internalID: 7965562539341255845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 480
+        width: 45
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cb10dea6a8bc0d0800000000000000
+      internalID: -3401472901700797353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 479
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b702349ec786e10800000000000000
+      internalID: 2191138560011172682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_14
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 480
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d7c913801786cc0800000000000000
+      internalID: -3717597212388328055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 465
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bec25250c795b960800000000000000
+      internalID: 7617161197037735602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 465
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdd1bee5ceb29830800000000000000
+      internalID: 4076530370046188980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_17
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 465
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c37916b97c3feb0800000000000000
+      internalID: -4687183316991394727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_18
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 465
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64bdf5bc1e5d0b8c0800000000000000
+      internalID: -3985450504466474170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_19
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 465
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d16c9f78a95edf0800000000000000
+      internalID: -151545103645270752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 289
+        width: 45
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed665e0826cc8310800000000000000
+      internalID: 1408718658801659365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 290
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea00001583038170800000000000000
+      internalID: 8179385218268924642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_22
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 291
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396888976348cee40800000000000000
+      internalID: 5687065798964184723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_23
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 291
+        width: 45
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bdb05dd81f08700800000000000000
+      internalID: 540697546751466278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_24
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 290
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72089359047aced70800000000000000
+      internalID: 9073811245068025895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 273
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309d0cf6ff588eb70800000000000000
+      internalID: 8928533593400072451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_26
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 273
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6705a4f108e83c0800000000000000
+      internalID: -4355402917741562181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_27
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 273
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5568a48c0ab36ad70800000000000000
+      internalID: 9053989662616094293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_28
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 273
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97d41eca26f07300800000000000000
+      internalID: 247968643211909019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_29
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 273
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690ffb29f6b2c0460800000000000000
+      internalID: 7209184861716738198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_30
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 97
+        width: 60
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495adc014e6529eb0800000000000000
+      internalID: -4714610322369043052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_31
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 62
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c66a336131b2830800000000000000
+      internalID: 4047349676199275627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_32
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 97
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57344b2b442feff40800000000000000
+      internalID: 5764310949950669685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_33
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 97
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb96ec05d278c750800000000000000
+      internalID: 6325431936011901940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_34
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 81
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad554cecc6d82c70800000000000000
+      internalID: 8946636835397131685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_35
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 81
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4206bb20681037f50800000000000000
+      internalID: 6877842731007959076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_36
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 81
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f512eb244127f4150800000000000000
+      internalID: 5859027071576973663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LordCycleATK_37
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 81
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19805dbfec1f8c50800000000000000
+      internalID: 6669581389157927196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LordCycleATK_0: -7838490065495927120
+      LordCycleATK_1: -7187306058405523046
+      LordCycleATK_10: -3084578175972576829
+      LordCycleATK_11: 7965562539341255845
+      LordCycleATK_12: -3401472901700797353
+      LordCycleATK_13: 2191138560011172682
+      LordCycleATK_14: -3717597212388328055
+      LordCycleATK_15: 7617161197037735602
+      LordCycleATK_16: 4076530370046188980
+      LordCycleATK_17: -4687183316991394727
+      LordCycleATK_18: -3985450504466474170
+      LordCycleATK_19: -151545103645270752
+      LordCycleATK_2: 742119214832148613
+      LordCycleATK_20: 1408718658801659365
+      LordCycleATK_21: 8179385218268924642
+      LordCycleATK_22: 5687065798964184723
+      LordCycleATK_23: 540697546751466278
+      LordCycleATK_24: 9073811245068025895
+      LordCycleATK_25: 8928533593400072451
+      LordCycleATK_26: -4355402917741562181
+      LordCycleATK_27: 9053989662616094293
+      LordCycleATK_28: 247968643211909019
+      LordCycleATK_29: 7209184861716738198
+      LordCycleATK_3: -276716949183527249
+      LordCycleATK_30: -4714610322369043052
+      LordCycleATK_31: 4047349676199275627
+      LordCycleATK_32: 5764310949950669685
+      LordCycleATK_33: 6325431936011901940
+      LordCycleATK_34: 8946636835397131685
+      LordCycleATK_35: 6877842731007959076
+      LordCycleATK_36: 5859027071576973663
+      LordCycleATK_37: 6669581389157927196
+      LordCycleATK_4: -4577226637355842013
+      LordCycleATK_5: -207970060812704631
+      LordCycleATK_6: -5095654077491052620
+      LordCycleATK_7: 8936966664203217549
+      LordCycleATK_8: -7130431205516779661
+      LordCycleATK_9: 8157569454933205090
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

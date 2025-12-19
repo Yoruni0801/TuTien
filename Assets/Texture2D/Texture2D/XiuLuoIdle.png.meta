@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: bddb83d596cb4474e9d1d7722b921859
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5943981546544907991
+    second: XiuLuoIdle_0
+  - first:
+      213: 6420569695031668694
+    second: XiuLuoIdle_1
+  - first:
+      213: 2220224589983191394
+    second: XiuLuoIdle_2
+  - first:
+      213: -8934956633429366827
+    second: XiuLuoIdle_3
+  - first:
+      213: -1015503807885020831
+    second: XiuLuoIdle_4
+  - first:
+      213: 3247671988250025804
+    second: XiuLuoIdle_5
+  - first:
+      213: 363592078710110174
+    second: XiuLuoIdle_6
+  - first:
+      213: -2747465766965021919
+    second: XiuLuoIdle_7
+  - first:
+      213: -1489896701711432189
+    second: XiuLuoIdle_8
+  - first:
+      213: 758573411810197145
+    second: XiuLuoIdle_9
+  - first:
+      213: -6689468906474361926
+    second: XiuLuoIdle_10
+  - first:
+      213: -4070559094015266651
+    second: XiuLuoIdle_11
+  - first:
+      213: 3769971252005048174
+    second: XiuLuoIdle_12
+  - first:
+      213: 7667694103572649581
+    second: XiuLuoIdle_13
+  - first:
+      213: -3597117289366708100
+    second: XiuLuoIdle_14
+  - first:
+      213: 7688974236839139584
+    second: XiuLuoIdle_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: XiuLuoIdle_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 188
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929b6b6a64cb28da0800000000000000
+      internalID: -5943981546544907991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoIdle_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 189
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df2008be127a1950800000000000000
+      internalID: 6420569695031668694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoIdle_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 191
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26119875082dfce10800000000000000
+      internalID: 2220224589983191394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoIdle_3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 192
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d72ce40848a00480800000000000000
+      internalID: -8934956633429366827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoIdle_4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 177
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161f4f6caa438e1f0800000000000000
+      internalID: -1015503807885020831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoIdle_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 177
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f11a6677c021d20800000000000000
+      internalID: 3247671988250025804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoIdle_6
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 177
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed779a6b11dbb0500800000000000000
+      internalID: 363592078710110174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoIdle_7
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 177
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123f08f017a0fd9d0800000000000000
+      internalID: -2747465766965021919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoIdle_8
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 63
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306c676f7d2d25be0800000000000000
+      internalID: -1489896701711432189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoIdle_9
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 60
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99eb00bbf7ef68a00800000000000000
+      internalID: 758573411810197145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoIdle_10
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 59
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb239dc87b3a23a0800000000000000
+      internalID: -6689468906474361926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoIdle_11
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 58
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0fbfb12187287c0800000000000000
+      internalID: -4070559094015266651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoIdle_12
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 49
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f023921e0a15430800000000000000
+      internalID: 3769971252005048174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoIdle_13
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 49
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d661ec9792f196a60800000000000000
+      internalID: 7667694103572649581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoIdle_14
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 49
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70a1e732e8741ec0800000000000000
+      internalID: -3597117289366708100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoIdle_15
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 49
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0095de99459b4ba60800000000000000
+      internalID: 7688974236839139584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      XiuLuoIdle_0: -5943981546544907991
+      XiuLuoIdle_1: 6420569695031668694
+      XiuLuoIdle_10: -6689468906474361926
+      XiuLuoIdle_11: -4070559094015266651
+      XiuLuoIdle_12: 3769971252005048174
+      XiuLuoIdle_13: 7667694103572649581
+      XiuLuoIdle_14: -3597117289366708100
+      XiuLuoIdle_15: 7688974236839139584
+      XiuLuoIdle_2: 2220224589983191394
+      XiuLuoIdle_3: -8934956633429366827
+      XiuLuoIdle_4: -1015503807885020831
+      XiuLuoIdle_5: 3247671988250025804
+      XiuLuoIdle_6: 363592078710110174
+      XiuLuoIdle_7: -2747465766965021919
+      XiuLuoIdle_8: -1489896701711432189
+      XiuLuoIdle_9: 758573411810197145
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

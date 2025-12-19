@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: c57a5c55ad03f7e43b89fbcce9427848
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8124773548330064548
+    second: JadeStatueAtk_0
+  - first:
+      213: 7841760565135734773
+    second: JadeStatueAtk_1
+  - first:
+      213: 4982782396390254040
+    second: JadeStatueAtk_2
+  - first:
+      213: 7313947406060006779
+    second: JadeStatueAtk_3
+  - first:
+      213: 4768194335527381274
+    second: JadeStatueAtk_4
+  - first:
+      213: 5120534347440891881
+    second: JadeStatueAtk_5
+  - first:
+      213: -253714385437535157
+    second: JadeStatueAtk_6
+  - first:
+      213: -3485637820468475577
+    second: JadeStatueAtk_7
+  - first:
+      213: -3531694581139079290
+    second: JadeStatueAtk_8
+  - first:
+      213: 4252258635042577420
+    second: JadeStatueAtk_9
+  - first:
+      213: -5378439768078394887
+    second: JadeStatueAtk_10
+  - first:
+      213: -6610509627539968613
+    second: JadeStatueAtk_11
+  - first:
+      213: -998977818544985620
+    second: JadeStatueAtk_12
+  - first:
+      213: 2823376970336672056
+    second: JadeStatueAtk_13
+  - first:
+      213: -3454127869939160557
+    second: JadeStatueAtk_14
+  - first:
+      213: 8738189061934660373
+    second: JadeStatueAtk_15
+  - first:
+      213: -736114234321364847
+    second: JadeStatueAtk_16
+  - first:
+      213: -8319831335932339752
+    second: JadeStatueAtk_17
+  - first:
+      213: -8587196875532808970
+    second: JadeStatueAtk_18
+  - first:
+      213: -6197494803457794006
+    second: JadeStatueAtk_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JadeStatueAtk_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 316
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55eb4331810f3f80800000000000000
+      internalID: -8124773548330064548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JadeStatueAtk_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 316
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7f492cfa783dc60800000000000000
+      internalID: 7841760565135734773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JadeStatueAtk_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 316
+        width: 28
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d529e98036662540800000000000000
+      internalID: 4982782396390254040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JadeStatueAtk_3
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 316
+        width: 28
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7da8143a6c508560800000000000000
+      internalID: 7313947406060006779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JadeStatueAtk_4
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 316
+        width: 28
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19a3253c770c2240800000000000000
+      internalID: 4768194335527381274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JadeStatueAtk_5
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 316
+        width: 28
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7a667fbdacf0740800000000000000
+      internalID: 5120534347440891881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JadeStatueAtk_6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 182
+        width: 28
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44d6955c10aa7cf0800000000000000
+      internalID: -253714385437535157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JadeStatueAtk_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 166
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7494f47bed680afc0800000000000000
+      internalID: -3485637820468475577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JadeStatueAtk_8
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 167
+        width: 55
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f780c7d76ecfec0800000000000000
+      internalID: -3531694581139079290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JadeStatueAtk_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 182
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cdccaf2be030b30800000000000000
+      internalID: 4252258635042577420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JadeStatueAtk_10
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 175
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f95ad1f681fb55b0800000000000000
+      internalID: -5378439768078394887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JadeStatueAtk_11
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 182
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d2e2a8480c244a0800000000000000
+      internalID: -6610509627539968613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JadeStatueAtk_12
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 182
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9a12387fae222f0800000000000000
+      internalID: -998977818544985620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JadeStatueAtk_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 48
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8399fe74566ae2720800000000000000
+      internalID: 2823376970336672056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JadeStatueAtk_14
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 48
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31aef77c0097010d0800000000000000
+      internalID: -3454127869939160557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JadeStatueAtk_15
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 32
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bb1d8a7a8444970800000000000000
+      internalID: 8738189061934660373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JadeStatueAtk_16
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 34
+        width: 55
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1989a25010cc8c5f0800000000000000
+      internalID: -736114234321364847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JadeStatueAtk_17
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 48
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9d696fa750a8c80800000000000000
+      internalID: -8319831335932339752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JadeStatueAtk_18
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 41
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcc58940f524d880800000000000000
+      internalID: -8587196875532808970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JadeStatueAtk_19
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 48
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20a19edf431ef9a0800000000000000
+      internalID: -6197494803457794006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      JadeStatueAtk_0: -8124773548330064548
+      JadeStatueAtk_1: 7841760565135734773
+      JadeStatueAtk_10: -5378439768078394887
+      JadeStatueAtk_11: -6610509627539968613
+      JadeStatueAtk_12: -998977818544985620
+      JadeStatueAtk_13: 2823376970336672056
+      JadeStatueAtk_14: -3454127869939160557
+      JadeStatueAtk_15: 8738189061934660373
+      JadeStatueAtk_16: -736114234321364847
+      JadeStatueAtk_17: -8319831335932339752
+      JadeStatueAtk_18: -8587196875532808970
+      JadeStatueAtk_19: -6197494803457794006
+      JadeStatueAtk_2: 4982782396390254040
+      JadeStatueAtk_3: 7313947406060006779
+      JadeStatueAtk_4: 4768194335527381274
+      JadeStatueAtk_5: 5120534347440891881
+      JadeStatueAtk_6: -253714385437535157
+      JadeStatueAtk_7: -3485637820468475577
+      JadeStatueAtk_8: -3531694581139079290
+      JadeStatueAtk_9: 4252258635042577420
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

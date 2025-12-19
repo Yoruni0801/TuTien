@@ -1,0 +1,2184 @@
+fileFormatVersion: 2
+guid: 274489c9547015a4bbc5352f9a3500f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5340608615695072901
+    second: CrystalAttack_0
+  - first:
+      213: 5637510198716964087
+    second: CrystalAttack_1
+  - first:
+      213: 369406080586933301
+    second: CrystalAttack_2
+  - first:
+      213: 7278766595999132025
+    second: CrystalAttack_3
+  - first:
+      213: 7564349458587692978
+    second: CrystalAttack_4
+  - first:
+      213: -9158640818713115496
+    second: CrystalAttack_5
+  - first:
+      213: 5466250003090568275
+    second: CrystalAttack_6
+  - first:
+      213: 8888062602372500087
+    second: CrystalAttack_7
+  - first:
+      213: -6896966441968077105
+    second: CrystalAttack_8
+  - first:
+      213: 5773515569363862436
+    second: CrystalAttack_9
+  - first:
+      213: -3561917471866311668
+    second: CrystalAttack_10
+  - first:
+      213: -2937708598139196736
+    second: CrystalAttack_11
+  - first:
+      213: 6953405652370797685
+    second: CrystalAttack_12
+  - first:
+      213: 3936640944505021308
+    second: CrystalAttack_13
+  - first:
+      213: 5558814721643812458
+    second: CrystalAttack_14
+  - first:
+      213: 4244629824354290754
+    second: CrystalAttack_15
+  - first:
+      213: -2666241900569677143
+    second: CrystalAttack_16
+  - first:
+      213: -4579349558522574455
+    second: CrystalAttack_17
+  - first:
+      213: 2627655967224420445
+    second: CrystalAttack_18
+  - first:
+      213: -4628942853465178017
+    second: CrystalAttack_19
+  - first:
+      213: 3280491330385229558
+    second: CrystalAttack_20
+  - first:
+      213: -47479074505642418
+    second: CrystalAttack_21
+  - first:
+      213: 7849720407786759266
+    second: CrystalAttack_22
+  - first:
+      213: 6588261870737509781
+    second: CrystalAttack_23
+  - first:
+      213: -6748473194711464301
+    second: CrystalAttack_24
+  - first:
+      213: 3126144175209880019
+    second: CrystalAttack_25
+  - first:
+      213: 714398505361840944
+    second: CrystalAttack_26
+  - first:
+      213: -6654189207593148245
+    second: CrystalAttack_27
+  - first:
+      213: -7454722389019654610
+    second: CrystalAttack_28
+  - first:
+      213: -1310909097024882078
+    second: CrystalAttack_29
+  - first:
+      213: -4145025285045466046
+    second: CrystalAttack_30
+  - first:
+      213: 7716576071858055891
+    second: CrystalAttack_31
+  - first:
+      213: 8044623971884735148
+    second: CrystalAttack_32
+  - first:
+      213: 3590545229064663370
+    second: CrystalAttack_33
+  - first:
+      213: -6822132093854844098
+    second: CrystalAttack_34
+  - first:
+      213: 5863031670613955332
+    second: CrystalAttack_35
+  - first:
+      213: 4708852218160622299
+    second: CrystalAttack_36
+  - first:
+      213: 4793977961197385016
+    second: CrystalAttack_37
+  - first:
+      213: -5726280706893230452
+    second: CrystalAttack_38
+  - first:
+      213: -1623171705929096896
+    second: CrystalAttack_39
+  - first:
+      213: 7975707596940351699
+    second: CrystalAttack_40
+  - first:
+      213: 3284957723811656024
+    second: CrystalAttack_41
+  - first:
+      213: 8009641680173610335
+    second: CrystalAttack_42
+  - first:
+      213: 7120692596415489298
+    second: CrystalAttack_43
+  - first:
+      213: 6528068994112689385
+    second: CrystalAttack_44
+  - first:
+      213: -4914493261819134433
+    second: CrystalAttack_45
+  - first:
+      213: 7297018183331276823
+    second: CrystalAttack_46
+  - first:
+      213: -5002657898454837976
+    second: CrystalAttack_47
+  - first:
+      213: -9172211925628073363
+    second: CrystalAttack_48
+  - first:
+      213: 2866853945309416755
+    second: CrystalAttack_49
+  - first:
+      213: -3620537527474726294
+    second: CrystalAttack_50
+  - first:
+      213: 5687228766403173200
+    second: CrystalAttack_51
+  - first:
+      213: 5114762157166840091
+    second: CrystalAttack_52
+  - first:
+      213: 2567965579034208889
+    second: CrystalAttack_53
+  - first:
+      213: 4833605474380067725
+    second: CrystalAttack_54
+  - first:
+      213: 5260127473918692920
+    second: CrystalAttack_55
+  - first:
+      213: -5870686348050745447
+    second: CrystalAttack_56
+  - first:
+      213: -8239197452871098781
+    second: CrystalAttack_57
+  - first:
+      213: -6059945418353198446
+    second: CrystalAttack_58
+  - first:
+      213: -8184398185883988924
+    second: CrystalAttack_59
+  - first:
+      213: -3905096885939342380
+    second: CrystalAttack_60
+  - first:
+      213: -4435374706236527375
+    second: CrystalAttack_61
+  - first:
+      213: 6478763260550583135
+    second: CrystalAttack_62
+  - first:
+      213: -9106946769435519157
+    second: CrystalAttack_63
+  - first:
+      213: -489817513712092307
+    second: CrystalAttack_64
+  - first:
+      213: -6192809157723871603
+    second: CrystalAttack_65
+  - first:
+      213: 6068001723733611542
+    second: CrystalAttack_66
+  - first:
+      213: -5087316355899419354
+    second: CrystalAttack_67
+  - first:
+      213: -9068894015978356023
+    second: CrystalAttack_68
+  - first:
+      213: -1800387055578959658
+    second: CrystalAttack_69
+  - first:
+      213: 3004463766612283998
+    second: CrystalAttack_70
+  - first:
+      213: -7723001489448136
+    second: CrystalAttack_71
+  - first:
+      213: -3247485119660300833
+    second: CrystalAttack_72
+  - first:
+      213: -4316016418045787868
+    second: CrystalAttack_73
+  - first:
+      213: -454662775441013620
+    second: CrystalAttack_74
+  - first:
+      213: 5771249965841434969
+    second: CrystalAttack_75
+  - first:
+      213: -7473823500143416340
+    second: CrystalAttack_76
+  - first:
+      213: 2858706652627977532
+    second: CrystalAttack_77
+  - first:
+      213: 3011307919583569833
+    second: CrystalAttack_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CrystalAttack_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 457
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e35ee7d37ad1a40800000000000000
+      internalID: 5340608615695072901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 442
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc9a2c28a57c3e40800000000000000
+      internalID: 5637510198716964087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 466
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534e0438fd4602500800000000000000
+      internalID: 369406080586933301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_3
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 433
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979e18d87af530560800000000000000
+      internalID: 7278766595999132025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_4
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 433
+        width: 20
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfa90441c7f9f860800000000000000
+      internalID: 7564349458587692978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_5
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 468
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894463f23b8f5e080800000000000000
+      internalID: -9158640818713115496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_6
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 433
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354f0b79a650cdb40800000000000000
+      internalID: 5466250003090568275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_7
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 470
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ac8db88ddb85b70800000000000000
+      internalID: 8888062602372500087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_8
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 471
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6f3be009d0940a0800000000000000
+      internalID: -6896966441968077105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_9
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 433
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3ce1922d5af1050800000000000000
+      internalID: 5773515569363862436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_10
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 466
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ca6226ee6819ec0800000000000000
+      internalID: -3561917471866311668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 441
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca6d4a38992b37d0800000000000000
+      internalID: -2937708598139196736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 440
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57431c0a9957f7060800000000000000
+      internalID: 6953405652370797685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 455
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73ea71f412c1a630800000000000000
+      internalID: 3936640944505021308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_14
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 447
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a669ac79980e42d40800000000000000
+      internalID: 5558814721643812458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_15
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 455
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c8aa31654f7ea30800000000000000
+      internalID: 4244629824354290754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_16
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 455
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a238472e1b9ffad0800000000000000
+      internalID: -2666241900569677143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_17
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 455
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9898be5c6d1e270c0800000000000000
+      internalID: -4579349558522574455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_18
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 440
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58d8562e2f477420800000000000000
+      internalID: 2627655967224420445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_19
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 442
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5000adfff0b2cfb0800000000000000
+      internalID: -4628942853465178017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_20
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 433
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f63c54fb75a68d20800000000000000
+      internalID: 3280491330385229558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_21
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 437
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ea3d58802575ff0800000000000000
+      internalID: -47479074505642418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_22
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 327
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264a34c0f1fcfec60800000000000000
+      internalID: 7849720407786759266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_23
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 305
+        width: 20
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d4f8ce3453e6b50800000000000000
+      internalID: 6588261870737509781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 329
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3964af4626b9852a0800000000000000
+      internalID: -6748473194711464301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_25
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 328
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d99a08709b426b20800000000000000
+      internalID: 3126144175209880019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_26
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 305
+        width: 20
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b9924d7ad0ae900800000000000000
+      internalID: 714398505361840944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 328
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba02c2dcb2297a3a0800000000000000
+      internalID: -6654189207593148245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_28
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 327
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e260557eb718b8890800000000000000
+      internalID: -7454722389019654610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_29
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 305
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26af00b2f17becde0800000000000000
+      internalID: -1310909097024882078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_30
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 327
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c4adbe679e976c0800000000000000
+      internalID: -4145025285045466046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_31
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 328
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dae06d9d09c61b60800000000000000
+      internalID: 7716576071858055891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_32
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 305
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa18c351ee34af60800000000000000
+      internalID: 8044623971884735148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_33
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 328
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a417f50ccdd24d130800000000000000
+      internalID: 3590545229064663370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_34
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 327
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b7dfe710be251a0800000000000000
+      internalID: -6822132093854844098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_35
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 305
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4035fc1ad3cad5150800000000000000
+      internalID: 5863031670613955332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_36
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 327
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda2643d424395140800000000000000
+      internalID: 4708852218160622299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_37
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 200
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835b83e5e81a78240800000000000000
+      internalID: 4793977961197385016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_38
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 177
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ec475490a2880b0800000000000000
+      internalID: -5726280706893230452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_39
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 200
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041a1a2fee55979e0800000000000000
+      internalID: -1623171705929096896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_40
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 198
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d893046dc76fae60800000000000000
+      internalID: 7975707596940351699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_41
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 176
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85138f535a3869d20800000000000000
+      internalID: 3284957723811656024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_42
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 198
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5539e4dba6f72f60800000000000000
+      internalID: 8009641680173610335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_43
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 201
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215691c7038c1d260800000000000000
+      internalID: 7120692596415489298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_44
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 177
+        width: 18
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e41457b92c589a50800000000000000
+      internalID: 6528068994112689385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_45
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 201
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e383e9a663ccbb0800000000000000
+      internalID: -4914493261819134433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_46
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 200
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718e6016067344560800000000000000
+      internalID: 7297018183331276823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_47
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 177
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8251cc5852df29ab0800000000000000
+      internalID: -5002657898454837976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_48
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 200
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a4650a9d1c5b080800000000000000
+      internalID: -9172211925628073363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_49
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 199
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d4819597c19c720800000000000000
+      internalID: 2866853945309416755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_50
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 191
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ad5ea1d4441cdc0800000000000000
+      internalID: -3620537527474726294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_51
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 199
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b18d94e681dee40800000000000000
+      internalID: 5687228766403173200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_52
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 177
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b194a8035194bf640800000000000000
+      internalID: 5114762157166840091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_53
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 71
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97aa3c5a61f33a320800000000000000
+      internalID: 2567965579034208889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_54
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 63
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83bec4c19a641340800000000000000
+      internalID: 4833605474380067725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_55
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 71
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e4234711abff840800000000000000
+      internalID: 5260127473918692920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_56
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 63
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99733b4eed1278ea0800000000000000
+      internalID: -5870686348050745447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_57
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 62
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e905bd19d78ad80800000000000000
+      internalID: -8239197452871098781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_58
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 71
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a3dccbfbfb6eba0800000000000000
+      internalID: -6059945418353198446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_59
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 73
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c8806763d2b6e80800000000000000
+      internalID: -8184398185883988924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_60
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 59
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3f914821f4ec9c0800000000000000
+      internalID: -3905096885939342380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_61
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 71
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fce40d44326272c0800000000000000
+      internalID: -4435374706236527375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_62
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 72
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5318f80cd039e950800000000000000
+      internalID: 6478763260550583135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_63
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 58
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b479763f920ad9180800000000000000
+      internalID: -9106946769435519157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_64
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 70
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bfc620191d339f0800000000000000
+      internalID: -489817513712092307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_65
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 71
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d862518c1e8be0aa0800000000000000
+      internalID: -6192809157723871603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_66
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 57
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61499970b6fd53450800000000000000
+      internalID: 6068001723733611542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_67
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 69
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62594926ab83669b0800000000000000
+      internalID: -5087316355899419354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_68
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 49
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2c1f701f0d42280800000000000000
+      internalID: -9068894015978356023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_69
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 49
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d03106038db307e0800000000000000
+      internalID: -1800387055578959658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_70
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 57
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52157d90eff1b920800000000000000
+      internalID: 3004463766612283998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_71
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 49
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8332f9798ff84eff0800000000000000
+      internalID: -7723001489448136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_72
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 56
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5e7455d7d9ee2d0800000000000000
+      internalID: -3247485119660300833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_73
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 56
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42180ad5fed6a14c0800000000000000
+      internalID: -4316016418045787868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_74
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 49
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84ce395d96b0b9f0800000000000000
+      internalID: -454662775441013620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_75
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 55
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959c6fb3449971050800000000000000
+      internalID: 5771249965841434969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_76
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 55
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb2cf7ef15a74890800000000000000
+      internalID: -7473823500143416340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_77
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 49
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35cfe2fd8a2ca720800000000000000
+      internalID: 2858706652627977532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalAttack_78
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 54
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7691829905ac920800000000000000
+      internalID: 3011307919583569833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CrystalAttack_0: 5340608615695072901
+      CrystalAttack_1: 5637510198716964087
+      CrystalAttack_10: -3561917471866311668
+      CrystalAttack_11: -2937708598139196736
+      CrystalAttack_12: 6953405652370797685
+      CrystalAttack_13: 3936640944505021308
+      CrystalAttack_14: 5558814721643812458
+      CrystalAttack_15: 4244629824354290754
+      CrystalAttack_16: -2666241900569677143
+      CrystalAttack_17: -4579349558522574455
+      CrystalAttack_18: 2627655967224420445
+      CrystalAttack_19: -4628942853465178017
+      CrystalAttack_2: 369406080586933301
+      CrystalAttack_20: 3280491330385229558
+      CrystalAttack_21: -47479074505642418
+      CrystalAttack_22: 7849720407786759266
+      CrystalAttack_23: 6588261870737509781
+      CrystalAttack_24: -6748473194711464301
+      CrystalAttack_25: 3126144175209880019
+      CrystalAttack_26: 714398505361840944
+      CrystalAttack_27: -6654189207593148245
+      CrystalAttack_28: -7454722389019654610
+      CrystalAttack_29: -1310909097024882078
+      CrystalAttack_3: 7278766595999132025
+      CrystalAttack_30: -4145025285045466046
+      CrystalAttack_31: 7716576071858055891
+      CrystalAttack_32: 8044623971884735148
+      CrystalAttack_33: 3590545229064663370
+      CrystalAttack_34: -6822132093854844098
+      CrystalAttack_35: 5863031670613955332
+      CrystalAttack_36: 4708852218160622299
+      CrystalAttack_37: 4793977961197385016
+      CrystalAttack_38: -5726280706893230452
+      CrystalAttack_39: -1623171705929096896
+      CrystalAttack_4: 7564349458587692978
+      CrystalAttack_40: 7975707596940351699
+      CrystalAttack_41: 3284957723811656024
+      CrystalAttack_42: 8009641680173610335
+      CrystalAttack_43: 7120692596415489298
+      CrystalAttack_44: 6528068994112689385
+      CrystalAttack_45: -4914493261819134433
+      CrystalAttack_46: 7297018183331276823
+      CrystalAttack_47: -5002657898454837976
+      CrystalAttack_48: -9172211925628073363
+      CrystalAttack_49: 2866853945309416755
+      CrystalAttack_5: -9158640818713115496
+      CrystalAttack_50: -3620537527474726294
+      CrystalAttack_51: 5687228766403173200
+      CrystalAttack_52: 5114762157166840091
+      CrystalAttack_53: 2567965579034208889
+      CrystalAttack_54: 4833605474380067725
+      CrystalAttack_55: 5260127473918692920
+      CrystalAttack_56: -5870686348050745447
+      CrystalAttack_57: -8239197452871098781
+      CrystalAttack_58: -6059945418353198446
+      CrystalAttack_59: -8184398185883988924
+      CrystalAttack_6: 5466250003090568275
+      CrystalAttack_60: -3905096885939342380
+      CrystalAttack_61: -4435374706236527375
+      CrystalAttack_62: 6478763260550583135
+      CrystalAttack_63: -9106946769435519157
+      CrystalAttack_64: -489817513712092307
+      CrystalAttack_65: -6192809157723871603
+      CrystalAttack_66: 6068001723733611542
+      CrystalAttack_67: -5087316355899419354
+      CrystalAttack_68: -9068894015978356023
+      CrystalAttack_69: -1800387055578959658
+      CrystalAttack_7: 8888062602372500087
+      CrystalAttack_70: 3004463766612283998
+      CrystalAttack_71: -7723001489448136
+      CrystalAttack_72: -3247485119660300833
+      CrystalAttack_73: -4316016418045787868
+      CrystalAttack_74: -454662775441013620
+      CrystalAttack_75: 5771249965841434969
+      CrystalAttack_76: -7473823500143416340
+      CrystalAttack_77: 2858706652627977532
+      CrystalAttack_78: 3011307919583569833
+      CrystalAttack_8: -6896966441968077105
+      CrystalAttack_9: 5773515569363862436
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: 2c4a4a6238c4f2a45ba3db4beea30fe1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2047882560547911849
+    second: WishWellDestroyed_0
+  - first:
+      213: -7082336937906987259
+    second: WishWellDestroyed_1
+  - first:
+      213: 7824073616782084754
+    second: WishWellDestroyed_2
+  - first:
+      213: 1467876737653214236
+    second: WishWellDestroyed_3
+  - first:
+      213: 4105645401275402885
+    second: WishWellDestroyed_4
+  - first:
+      213: 1786627751804237647
+    second: WishWellDestroyed_5
+  - first:
+      213: 4889572887711848908
+    second: WishWellDestroyed_6
+  - first:
+      213: -3932180583330793434
+    second: WishWellDestroyed_7
+  - first:
+      213: -455480241643289778
+    second: WishWellDestroyed_8
+  - first:
+      213: 1102813339170373544
+    second: WishWellDestroyed_9
+  - first:
+      213: -1184643153933276317
+    second: WishWellDestroyed_10
+  - first:
+      213: -2787349081999446495
+    second: WishWellDestroyed_11
+  - first:
+      213: -3902473267421155415
+    second: WishWellDestroyed_12
+  - first:
+      213: 251371325568528669
+    second: WishWellDestroyed_13
+  - first:
+      213: 1972649134002749011
+    second: WishWellDestroyed_14
+  - first:
+      213: -5704390459987067131
+    second: WishWellDestroyed_15
+  - first:
+      213: -6850629959517867860
+    second: WishWellDestroyed_16
+  - first:
+      213: -8572580190863827117
+    second: WishWellDestroyed_17
+  - first:
+      213: 300012348417285921
+    second: WishWellDestroyed_18
+  - first:
+      213: 4676826775905198956
+    second: WishWellDestroyed_19
+  - first:
+      213: 8435920726905338222
+    second: WishWellDestroyed_20
+  - first:
+      213: -1369055684949026222
+    second: WishWellDestroyed_21
+  - first:
+      213: 3582238871812637720
+    second: WishWellDestroyed_22
+  - first:
+      213: 4639050359824085754
+    second: WishWellDestroyed_23
+  - first:
+      213: 2327922491006598492
+    second: WishWellDestroyed_24
+  - first:
+      213: -8857643575685960789
+    second: WishWellDestroyed_25
+  - first:
+      213: 5351802546848307688
+    second: WishWellDestroyed_26
+  - first:
+      213: 2731456500768774663
+    second: WishWellDestroyed_27
+  - first:
+      213: -384837669044117768
+    second: WishWellDestroyed_28
+  - first:
+      213: 8491485521747130778
+    second: WishWellDestroyed_29
+  - first:
+      213: 476542108810796037
+    second: WishWellDestroyed_30
+  - first:
+      213: 6036375456033011118
+    second: WishWellDestroyed_31
+  - first:
+      213: -390369034289507524
+    second: WishWellDestroyed_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WishWellDestroyed_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 466
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75703dc49a57493e0800000000000000
+      internalID: -2047882560547911849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WishWellDestroyed_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 466
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f1d6c241c76bd90800000000000000
+      internalID: -7082336937906987259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WishWellDestroyed_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 466
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a4dc03081b49c60800000000000000
+      internalID: 7824073616782084754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WishWellDestroyed_3
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 466
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c01e1ad12fe5410800000000000000
+      internalID: 1467876737653214236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WishWellDestroyed_4
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 466
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a8cb46dbe2af830800000000000000
+      internalID: 4105645401275402885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WishWellDestroyed_5
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 203
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47752c69706bc810800000000000000
+      internalID: 1786627751804237647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WishWellDestroyed_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 146
+        width: 50
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc91273a2a04bd340800000000000000
+      internalID: 4889572887711848908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WishWellDestroyed_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 200
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62831e1d7961e69c0800000000000000
+      internalID: -3932180583330793434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WishWellDestroyed_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 143
+        width: 186
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4384aa222fcda9f0800000000000000
+      internalID: -455480241643289778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WishWellDestroyed_9
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 208
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afffc693eafd4f00800000000000000
+      internalID: 1102813339170373544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WishWellDestroyed_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 193
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b6538f35d4f8fe0800000000000000
+      internalID: -1184643153933276317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WishWellDestroyed_11
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 191
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e696627c85159d0800000000000000
+      internalID: -2787349081999446495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WishWellDestroyed_12
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 168
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af67ed4d31a7d9c0800000000000000
+      internalID: -3902473267421155415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WishWellDestroyed_13
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 173
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d113b3783ec0d7300800000000000000
+      internalID: 251371325568528669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WishWellDestroyed_14
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 178
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e37b29fe1406b10800000000000000
+      internalID: 1972649134002749011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WishWellDestroyed_15
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 170
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ff75c891fe5d0b0800000000000000
+      internalID: -5704390459987067131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WishWellDestroyed_16
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 176
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0f947195cade0a0800000000000000
+      internalID: -6850629959517867860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WishWellDestroyed_17
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 175
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fd2036cb3180980800000000000000
+      internalID: -8572580190863827117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WishWellDestroyed_18
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 144
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f94af24abd92400800000000000000
+      internalID: 300012348417285921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WishWellDestroyed_19
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 173
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c636ddd7c2d67e040800000000000000
+      internalID: 4676826775905198956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WishWellDestroyed_20
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 145
+        width: 105
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e693c88a439621570800000000000000
+      internalID: 8435920726905338222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WishWellDestroyed_21
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 158
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a52ecab13200de0800000000000000
+      internalID: -1369055684949026222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WishWellDestroyed_22
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 165
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8140dfe364ba6b130800000000000000
+      internalID: 3582238871812637720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WishWellDestroyed_23
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 159
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2767839b7316040800000000000000
+      internalID: 4639050359824085754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WishWellDestroyed_24
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 168
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d3715fb217e4020800000000000000
+      internalID: 2327922491006598492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WishWellDestroyed_25
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 154
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baba7340914531580800000000000000
+      internalID: -8857643575685960789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WishWellDestroyed_26
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 158
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e99ce0bf0c654a40800000000000000
+      internalID: 5351802546848307688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WishWellDestroyed_27
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 149
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a11cf273518e520800000000000000
+      internalID: 2731456500768774663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WishWellDestroyed_28
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 157
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe9f60dd28c8aaf0800000000000000
+      internalID: -384837669044117768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WishWellDestroyed_29
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 144
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a993c1b9711d7d570800000000000000
+      internalID: 8491485521747130778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WishWellDestroyed_30
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 143
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cde2ce5840d9600800000000000000
+      internalID: 476542108810796037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WishWellDestroyed_31
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 143
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5fbb3ce7385c350800000000000000
+      internalID: 6036375456033011118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WishWellDestroyed_32
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 145
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c339cdb7e61259af0800000000000000
+      internalID: -390369034289507524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WishWellDestroyed_0: -2047882560547911849
+      WishWellDestroyed_1: -7082336937906987259
+      WishWellDestroyed_10: -1184643153933276317
+      WishWellDestroyed_11: -2787349081999446495
+      WishWellDestroyed_12: -3902473267421155415
+      WishWellDestroyed_13: 251371325568528669
+      WishWellDestroyed_14: 1972649134002749011
+      WishWellDestroyed_15: -5704390459987067131
+      WishWellDestroyed_16: -6850629959517867860
+      WishWellDestroyed_17: -8572580190863827117
+      WishWellDestroyed_18: 300012348417285921
+      WishWellDestroyed_19: 4676826775905198956
+      WishWellDestroyed_2: 7824073616782084754
+      WishWellDestroyed_20: 8435920726905338222
+      WishWellDestroyed_21: -1369055684949026222
+      WishWellDestroyed_22: 3582238871812637720
+      WishWellDestroyed_23: 4639050359824085754
+      WishWellDestroyed_24: 2327922491006598492
+      WishWellDestroyed_25: -8857643575685960789
+      WishWellDestroyed_26: 5351802546848307688
+      WishWellDestroyed_27: 2731456500768774663
+      WishWellDestroyed_28: -384837669044117768
+      WishWellDestroyed_29: 8491485521747130778
+      WishWellDestroyed_3: 1467876737653214236
+      WishWellDestroyed_30: 476542108810796037
+      WishWellDestroyed_31: 6036375456033011118
+      WishWellDestroyed_32: -390369034289507524
+      WishWellDestroyed_4: 4105645401275402885
+      WishWellDestroyed_5: 1786627751804237647
+      WishWellDestroyed_6: 4889572887711848908
+      WishWellDestroyed_7: -3932180583330793434
+      WishWellDestroyed_8: -455480241643289778
+      WishWellDestroyed_9: 1102813339170373544
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

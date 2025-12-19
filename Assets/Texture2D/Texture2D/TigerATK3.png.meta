@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 2ad322f033bf6724d9e9c03b58d87e0b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7125223643469000576
+    second: TigerATK3_0
+  - first:
+      213: 3484964139810761616
+    second: TigerATK3_1
+  - first:
+      213: 1113929407710984279
+    second: TigerATK3_2
+  - first:
+      213: 2048188530163875995
+    second: TigerATK3_3
+  - first:
+      213: 5650083129134066733
+    second: TigerATK3_4
+  - first:
+      213: 1275736836401871555
+    second: TigerATK3_5
+  - first:
+      213: -5961803046317460169
+    second: TigerATK3_6
+  - first:
+      213: 1279284254919834004
+    second: TigerATK3_7
+  - first:
+      213: 8044999589587194730
+    second: TigerATK3_8
+  - first:
+      213: -299098750910418779
+    second: TigerATK3_9
+  - first:
+      213: 6084572519870349845
+    second: TigerATK3_10
+  - first:
+      213: -5469239819488290033
+    second: TigerATK3_11
+  - first:
+      213: -6426554913562065379
+    second: TigerATK3_12
+  - first:
+      213: 4088490611621365945
+    second: TigerATK3_13
+  - first:
+      213: 248036986100860253
+    second: TigerATK3_14
+  - first:
+      213: 1952736903012351440
+    second: TigerATK3_15
+  - first:
+      213: -3854506238984462588
+    second: TigerATK3_16
+  - first:
+      213: -3407909853281340012
+    second: TigerATK3_17
+  - first:
+      213: 5705724645627673097
+    second: TigerATK3_18
+  - first:
+      213: -5426274564488491599
+    second: TigerATK3_19
+  - first:
+      213: -3396749432522929166
+    second: TigerATK3_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TigerATK3_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 404
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080d0d9e8de1e1d90800000000000000
+      internalID: -7125223643469000576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK3_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 404
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b2568cb641d5030800000000000000
+      internalID: 3484964139810761616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK3_2
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 404
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758797bf4e8757f00800000000000000
+      internalID: 1113929407710984279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK3_3
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 404
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90827dcd90ac6c10800000000000000
+      internalID: 2048188530163875995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK3_4
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 404
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ca677aba0296e40800000000000000
+      internalID: 5650083129134066733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK3_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 284
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca3d90c4e354b110800000000000000
+      internalID: 1275736836401871555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK3_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 284
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735f76367bb634da0800000000000000
+      internalID: -5961803046317460169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK3_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 284
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4993f3d704ee0c110800000000000000
+      internalID: 1279284254919834004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK3_8
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 284
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a631283a08495af60800000000000000
+      internalID: 8044999589587194730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK3_9
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 284
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0b83f454369dbf0800000000000000
+      internalID: -299098750910418779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK3_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 164
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512c9f8287eb07450800000000000000
+      internalID: 6084572519870349845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK3_11
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 164
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b9af78c5b5914b0800000000000000
+      internalID: -5469239819488290033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK3_12
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 164
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16879ffa5a40d6a0800000000000000
+      internalID: -6426554913562065379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK3_13
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 164
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8063dac8c3db830800000000000000
+      internalID: 4088490611621365945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK3_14
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 164
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5543bf1354317300800000000000000
+      internalID: 248036986100860253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK3_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 44
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddf8d30ed3891b10800000000000000
+      internalID: 1952736903012351440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK3_16
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 44
+        width: 78
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fddc86ffa028ac0800000000000000
+      internalID: -3854506238984462588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK3_17
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 74
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495bc985b0ca4b0d0800000000000000
+      internalID: -3407909853281340012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK3_18
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 44
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a34d0c55ece2f40800000000000000
+      internalID: 5705724645627673097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK3_19
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 44
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd0de1880002b4b0800000000000000
+      internalID: -5426274564488491599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerATK3_20
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 44
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb067b43625cd0d0800000000000000
+      internalID: -3396749432522929166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TigerATK3_0: -7125223643469000576
+      TigerATK3_1: 3484964139810761616
+      TigerATK3_10: 6084572519870349845
+      TigerATK3_11: -5469239819488290033
+      TigerATK3_12: -6426554913562065379
+      TigerATK3_13: 4088490611621365945
+      TigerATK3_14: 248036986100860253
+      TigerATK3_15: 1952736903012351440
+      TigerATK3_16: -3854506238984462588
+      TigerATK3_17: -3407909853281340012
+      TigerATK3_18: 5705724645627673097
+      TigerATK3_19: -5426274564488491599
+      TigerATK3_2: 1113929407710984279
+      TigerATK3_20: -3396749432522929166
+      TigerATK3_3: 2048188530163875995
+      TigerATK3_4: 5650083129134066733
+      TigerATK3_5: 1275736836401871555
+      TigerATK3_6: -5961803046317460169
+      TigerATK3_7: 1279284254919834004
+      TigerATK3_8: 8044999589587194730
+      TigerATK3_9: -299098750910418779
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

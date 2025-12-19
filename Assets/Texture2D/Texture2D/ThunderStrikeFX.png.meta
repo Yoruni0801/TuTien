@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: a03bd93595e23c440b415b6b47666323
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4499704226907028716
+    second: ThunderStrikeFX_0
+  - first:
+      213: 3512571507835122265
+    second: ThunderStrikeFX_1
+  - first:
+      213: -3976339819552091181
+    second: ThunderStrikeFX_2
+  - first:
+      213: 3288418060362769936
+    second: ThunderStrikeFX_3
+  - first:
+      213: 285437627747413843
+    second: ThunderStrikeFX_4
+  - first:
+      213: -685210720354395489
+    second: ThunderStrikeFX_5
+  - first:
+      213: -100404993430602
+    second: ThunderStrikeFX_6
+  - first:
+      213: -8723802350748204018
+    second: ThunderStrikeFX_7
+  - first:
+      213: 1572331709024655427
+    second: ThunderStrikeFX_8
+  - first:
+      213: 1990804621353747906
+    second: ThunderStrikeFX_9
+  - first:
+      213: 4842471788014012231
+    second: ThunderStrikeFX_10
+  - first:
+      213: 1748602809442421966
+    second: ThunderStrikeFX_11
+  - first:
+      213: 812317317156057696
+    second: ThunderStrikeFX_12
+  - first:
+      213: 551697552146901225
+    second: ThunderStrikeFX_13
+  - first:
+      213: 448691698368966580
+    second: ThunderStrikeFX_14
+  - first:
+      213: 3036188049981275187
+    second: ThunderStrikeFX_15
+  - first:
+      213: -1689011563376973980
+    second: ThunderStrikeFX_16
+  - first:
+      213: -7174967345376591065
+    second: ThunderStrikeFX_17
+  - first:
+      213: 5718644155863048957
+    second: ThunderStrikeFX_18
+  - first:
+      213: 3941746622394284219
+    second: ThunderStrikeFX_19
+  - first:
+      213: -7234458887034296002
+    second: ThunderStrikeFX_20
+  - first:
+      213: -460851651442328548
+    second: ThunderStrikeFX_21
+  - first:
+      213: 341880784310852072
+    second: ThunderStrikeFX_22
+  - first:
+      213: -1050245501664313993
+    second: ThunderStrikeFX_23
+  - first:
+      213: -7543840109827024155
+    second: ThunderStrikeFX_24
+  - first:
+      213: 1717971179442200775
+    second: ThunderStrikeFX_25
+  - first:
+      213: 1801855103441145702
+    second: ThunderStrikeFX_26
+  - first:
+      213: -4770897802321245262
+    second: ThunderStrikeFX_27
+  - first:
+      213: 4447836486687247697
+    second: ThunderStrikeFX_28
+  - first:
+      213: -201142212625583033
+    second: ThunderStrikeFX_29
+  - first:
+      213: 3561716293064294725
+    second: ThunderStrikeFX_30
+  - first:
+      213: -2817941558841882341
+    second: ThunderStrikeFX_31
+  - first:
+      213: 8527069059166474656
+    second: ThunderStrikeFX_32
+  - first:
+      213: 93887857564250023
+    second: ThunderStrikeFX_33
+  - first:
+      213: 7403945383393308576
+    second: ThunderStrikeFX_34
+  - first:
+      213: -7736299973841663578
+    second: ThunderStrikeFX_35
+  - first:
+      213: -4662030346237448645
+    second: ThunderStrikeFX_36
+  - first:
+      213: -3711716263813664381
+    second: ThunderStrikeFX_37
+  - first:
+      213: -8065193574235254449
+    second: ThunderStrikeFX_38
+  - first:
+      213: 6123521972860659450
+    second: ThunderStrikeFX_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ThunderStrikeFX_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1082
+        width: 95
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41302e898d6dd81c0800000000000000
+      internalID: -4499704226907028716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 868
+        width: 89
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952bbac0d292fb030800000000000000
+      internalID: 3512571507835122265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_2
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 868
+        width: 86
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d35b5d600431d8c0800000000000000
+      internalID: -3976339819552091181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 453
+        width: 198
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016e6e89dcec2ad20800000000000000
+      internalID: 3288418060362769936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 452
+        width: 200
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f2a67920416f300800000000000000
+      internalID: 285437627747413843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_5
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 537
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a9cf0fa74ad76f0800000000000000
+      internalID: -685210720354395489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_6
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 513
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb6804aea4affff0800000000000000
+      internalID: -100404993430602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_7
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 457
+        width: 150
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e048fe09bf3dee680800000000000000
+      internalID: -8723802350748204018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_8
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 169
+        width: 108
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3485f79db5b02d510800000000000000
+      internalID: 1572331709024655427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 334
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c50ff06142c0ab10800000000000000
+      internalID: 1990804621353747906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_10
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 333
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7470d674f6ae33340800000000000000
+      internalID: 4842471788014012231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_11
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 288
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccc01e9df8444810800000000000000
+      internalID: 1748602809442421966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_12
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 311
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0623cfdcb4ee54b00800000000000000
+      internalID: 812317317156057696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_13
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 292
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e82b2b200608a700800000000000000
+      internalID: 551697552146901225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_14
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 292
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfe2fee8b21a3600800000000000000
+      internalID: 448691698368966580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_15
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 221
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c7b6ee1f4b22a20800000000000000
+      internalID: 3036188049981275187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_16
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 263
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467636f8eec6f88e0800000000000000
+      internalID: -1689011563376973980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 272
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7230dc7c6356d6c90800000000000000
+      internalID: -7174967345376591065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_18
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 241
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2a413af84bc5f40800000000000000
+      internalID: 5718644155863048957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_19
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 201
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb838663ba5e3b630800000000000000
+      internalID: 3941746622394284219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_20
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 174
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e392728d8f90a9b90800000000000000
+      internalID: -7234458887034296002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_21
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 201
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cb0ad5dd9ba99f0800000000000000
+      internalID: -460851651442328548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_22
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 208
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9516013ca9eb400800000000000000
+      internalID: 341880784310852072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_23
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 170
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77db85ad747cc61f0800000000000000
+      internalID: -1050245501664313993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_24
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea9a6b9365ee4790800000000000000
+      internalID: -7543840109827024155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_25
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 188
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0e20d7fa577d710800000000000000
+      internalID: 1717971179442200775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_26
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 68
+        width: 97
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f85518ba9710910800000000000000
+      internalID: 1801855103441145702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_27
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 171
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb43f0e9bd5acdb0800000000000000
+      internalID: -4770897802321245262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_28
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 174
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15dc30018b3e9bd30800000000000000
+      internalID: 4447836486687247697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_29
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 139
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744bd1b2936653df0800000000000000
+      internalID: -201142212625583033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_30
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 151
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54181d60912cd6130800000000000000
+      internalID: 3561716293064294725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_31
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 107
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b194b631519a4e8d0800000000000000
+      internalID: -2817941558841882341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_32
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 130
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a197d6812c365670800000000000000
+      internalID: 8527069059166474656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_33
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 122
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afe6de428e8d4100800000000000000
+      internalID: 93887857564250023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_34
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 100
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af2d81391910c660800000000000000
+      internalID: 7403945383393308576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_35
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 68
+        width: 86
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9cd47992423a490800000000000000
+      internalID: -7736299973841663578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_36
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 68
+        width: 86
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3eec60c9142d4fb0800000000000000
+      internalID: -4662030346237448645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_37
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 108
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381b85c39b55d7cc0800000000000000
+      internalID: -3711716263813664381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_38
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 69
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41d1faec2da21090800000000000000
+      internalID: -8065193574235254449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThunderStrikeFX_39
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 66
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6a8ae5ace1bf450800000000000000
+      internalID: 6123521972860659450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ThunderStrikeFX_0: -4499704226907028716
+      ThunderStrikeFX_1: 3512571507835122265
+      ThunderStrikeFX_10: 4842471788014012231
+      ThunderStrikeFX_11: 1748602809442421966
+      ThunderStrikeFX_12: 812317317156057696
+      ThunderStrikeFX_13: 551697552146901225
+      ThunderStrikeFX_14: 448691698368966580
+      ThunderStrikeFX_15: 3036188049981275187
+      ThunderStrikeFX_16: -1689011563376973980
+      ThunderStrikeFX_17: -7174967345376591065
+      ThunderStrikeFX_18: 5718644155863048957
+      ThunderStrikeFX_19: 3941746622394284219
+      ThunderStrikeFX_2: -3976339819552091181
+      ThunderStrikeFX_20: -7234458887034296002
+      ThunderStrikeFX_21: -460851651442328548
+      ThunderStrikeFX_22: 341880784310852072
+      ThunderStrikeFX_23: -1050245501664313993
+      ThunderStrikeFX_24: -7543840109827024155
+      ThunderStrikeFX_25: 1717971179442200775
+      ThunderStrikeFX_26: 1801855103441145702
+      ThunderStrikeFX_27: -4770897802321245262
+      ThunderStrikeFX_28: 4447836486687247697
+      ThunderStrikeFX_29: -201142212625583033
+      ThunderStrikeFX_3: 3288418060362769936
+      ThunderStrikeFX_30: 3561716293064294725
+      ThunderStrikeFX_31: -2817941558841882341
+      ThunderStrikeFX_32: 8527069059166474656
+      ThunderStrikeFX_33: 93887857564250023
+      ThunderStrikeFX_34: 7403945383393308576
+      ThunderStrikeFX_35: -7736299973841663578
+      ThunderStrikeFX_36: -4662030346237448645
+      ThunderStrikeFX_37: -3711716263813664381
+      ThunderStrikeFX_38: -8065193574235254449
+      ThunderStrikeFX_39: 6123521972860659450
+      ThunderStrikeFX_4: 285437627747413843
+      ThunderStrikeFX_5: -685210720354395489
+      ThunderStrikeFX_6: -100404993430602
+      ThunderStrikeFX_7: -8723802350748204018
+      ThunderStrikeFX_8: 1572331709024655427
+      ThunderStrikeFX_9: 1990804621353747906
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

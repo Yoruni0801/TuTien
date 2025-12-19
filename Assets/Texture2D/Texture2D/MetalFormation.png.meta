@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 8315423d0a7cf85408c050ddff780441
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1989465738189660291
+    second: MetalFormation_0
+  - first:
+      213: -6133959899555129153
+    second: MetalFormation_1
+  - first:
+      213: 8602242184004306076
+    second: MetalFormation_2
+  - first:
+      213: 922962394634745169
+    second: MetalFormation_3
+  - first:
+      213: -6694572263790564877
+    second: MetalFormation_4
+  - first:
+      213: 2633255995322174234
+    second: MetalFormation_5
+  - first:
+      213: -8881651281940212449
+    second: MetalFormation_6
+  - first:
+      213: 8974291331704096684
+    second: MetalFormation_7
+  - first:
+      213: 8059451717909367756
+    second: MetalFormation_8
+  - first:
+      213: 5867989742859647284
+    second: MetalFormation_9
+  - first:
+      213: -5677858973141678770
+    second: MetalFormation_10
+  - first:
+      213: -6031121636780945313
+    second: MetalFormation_11
+  - first:
+      213: -5690116421407906103
+    second: MetalFormation_12
+  - first:
+      213: -6026545170000620202
+    second: MetalFormation_13
+  - first:
+      213: 4695354310145421767
+    second: MetalFormation_14
+  - first:
+      213: -5161321004722315588
+    second: MetalFormation_15
+  - first:
+      213: -7882120017390908108
+    second: MetalFormation_16
+  - first:
+      213: -1027660773538729409
+    second: MetalFormation_17
+  - first:
+      213: -2703062122695867293
+    second: MetalFormation_18
+  - first:
+      213: -3430042133466891575
+    second: MetalFormation_19
+  - first:
+      213: 8958983039535900957
+    second: MetalFormation_20
+  - first:
+      213: -4093732768141056762
+    second: MetalFormation_21
+  - first:
+      213: 1576136380270464807
+    second: MetalFormation_22
+  - first:
+      213: 7741224769993862853
+    second: MetalFormation_23
+  - first:
+      213: 591343507950831057
+    second: MetalFormation_24
+  - first:
+      213: 5114736410756364133
+    second: MetalFormation_25
+  - first:
+      213: 7615113401073952339
+    second: MetalFormation_26
+  - first:
+      213: 1851667595654267634
+    second: MetalFormation_27
+  - first:
+      213: -4789507785053505534
+    second: MetalFormation_28
+  - first:
+      213: 3089469367615408757
+    second: MetalFormation_29
+  - first:
+      213: 3126045090761548627
+    second: MetalFormation_30
+  - first:
+      213: 6311235049568874238
+    second: MetalFormation_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MetalFormation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1700
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f1566a37ff364e0800000000000000
+      internalID: -1989465738189660291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalFormation_1
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1700
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8968078fbcfdaa0800000000000000
+      internalID: -6133959899555129153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalFormation_2
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1700
+        width: 411
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94057190bd416770800000000000000
+      internalID: 8602242184004306076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalFormation_3
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1700
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1557f3968650fcc00800000000000000
+      internalID: 922962394634745169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalFormation_4
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1700
+        width: 409
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9a495def91813a0800000000000000
+      internalID: -6694572263790564877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalFormation_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1416
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b88db40643b8420800000000000000
+      internalID: 2633255995322174234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalFormation_6
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1416
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f159f0157390eb480800000000000000
+      internalID: -8881651281940212449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalFormation_7
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1416
+        width: 411
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca707191b661b8c70800000000000000
+      internalID: 8974291331704096684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalFormation_8
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1416
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb466af2ace8df60800000000000000
+      internalID: 8059451717909367756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalFormation_9
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1416
+        width: 409
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439f8c8c4994f6150800000000000000
+      internalID: 5867989742859647284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalFormation_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1133
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e454025b8513431b0800000000000000
+      internalID: -5677858973141678770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalFormation_11
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1133
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50df7a53d62d4ca0800000000000000
+      internalID: -6031121636780945313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalFormation_12
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1133
+        width: 411
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c66d532345a801b0800000000000000
+      internalID: -5690116421407906103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalFormation_13
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1133
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655544f09196d5ca0800000000000000
+      internalID: -6026545170000620202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalFormation_14
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1133
+        width: 409
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c131d63edf392140800000000000000
+      internalID: 4695354310145421767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalFormation_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 850
+        width: 410
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe93cd54ed4f58b0800000000000000
+      internalID: -5161321004722315588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalFormation_16
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 850
+        width: 410
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d4b6efa951d9290800000000000000
+      internalID: -7882120017390908108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalFormation_17
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 850
+        width: 411
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32fe93a8f30db1f0800000000000000
+      internalID: -1027660773538729409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalFormation_18
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 850
+        width: 410
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36446e2225bcc7ad0800000000000000
+      internalID: -2703062122695867293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalFormation_19
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 850
+        width: 409
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca351e4ada0660d0800000000000000
+      internalID: -3430042133466891575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalFormation_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 566
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1969449b93b45c70800000000000000
+      internalID: 8958983039535900957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalFormation_21
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 566
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6056395acb32037c0800000000000000
+      internalID: -4093732768141056762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalFormation_22
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 566
+        width: 411
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f4797efaf8fd510800000000000000
+      internalID: 1576136380270464807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalFormation_23
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 566
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce60fdd9ea5e6b60800000000000000
+      internalID: 7741224769993862853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalFormation_24
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 566
+        width: 409
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d584a399cfd43800800000000000000
+      internalID: 591343507950831057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalFormation_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 283
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567b3e2aaa13bf640800000000000000
+      internalID: 5114736410756364133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalFormation_26
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 283
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356645baa415ea960800000000000000
+      internalID: 7615113401073952339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalFormation_27
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 283
+        width: 411
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f203112ed172b910800000000000000
+      internalID: 1851667595654267634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalFormation_28
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 283
+        width: 410
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208faee9b00488db0800000000000000
+      internalID: -4789507785053505534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalFormation_29
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 283
+        width: 409
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57aca29650000ea20800000000000000
+      internalID: 3089469367615408757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalFormation_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 410
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35322b29271f16b20800000000000000
+      internalID: 3126045090761548627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalFormation_31
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 410
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe2c87d6d2069750800000000000000
+      internalID: 6311235049568874238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MetalFormation_0: -1989465738189660291
+      MetalFormation_1: -6133959899555129153
+      MetalFormation_10: -5677858973141678770
+      MetalFormation_11: -6031121636780945313
+      MetalFormation_12: -5690116421407906103
+      MetalFormation_13: -6026545170000620202
+      MetalFormation_14: 4695354310145421767
+      MetalFormation_15: -5161321004722315588
+      MetalFormation_16: -7882120017390908108
+      MetalFormation_17: -1027660773538729409
+      MetalFormation_18: -2703062122695867293
+      MetalFormation_19: -3430042133466891575
+      MetalFormation_2: 8602242184004306076
+      MetalFormation_20: 8958983039535900957
+      MetalFormation_21: -4093732768141056762
+      MetalFormation_22: 1576136380270464807
+      MetalFormation_23: 7741224769993862853
+      MetalFormation_24: 591343507950831057
+      MetalFormation_25: 5114736410756364133
+      MetalFormation_26: 7615113401073952339
+      MetalFormation_27: 1851667595654267634
+      MetalFormation_28: -4789507785053505534
+      MetalFormation_29: 3089469367615408757
+      MetalFormation_3: 922962394634745169
+      MetalFormation_30: 3126045090761548627
+      MetalFormation_31: 6311235049568874238
+      MetalFormation_4: -6694572263790564877
+      MetalFormation_5: 2633255995322174234
+      MetalFormation_6: -8881651281940212449
+      MetalFormation_7: 8974291331704096684
+      MetalFormation_8: 8059451717909367756
+      MetalFormation_9: 5867989742859647284
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

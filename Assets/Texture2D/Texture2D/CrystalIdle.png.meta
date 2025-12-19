@@ -1,0 +1,1352 @@
+fileFormatVersion: 2
+guid: 6c9386668d4f93545a71e1c452896a81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4366826079972718713
+    second: CrystalIdle_0
+  - first:
+      213: 7566519768038909016
+    second: CrystalIdle_1
+  - first:
+      213: 6569082128479412808
+    second: CrystalIdle_2
+  - first:
+      213: 2504855928303959115
+    second: CrystalIdle_3
+  - first:
+      213: 2786659531452080226
+    second: CrystalIdle_4
+  - first:
+      213: 592091724806389190
+    second: CrystalIdle_5
+  - first:
+      213: 9212412973538666330
+    second: CrystalIdle_6
+  - first:
+      213: -2618103597177478144
+    second: CrystalIdle_7
+  - first:
+      213: 5508713200894414174
+    second: CrystalIdle_8
+  - first:
+      213: 7320036383828804641
+    second: CrystalIdle_9
+  - first:
+      213: -6186033847075487057
+    second: CrystalIdle_10
+  - first:
+      213: 8081004208918507420
+    second: CrystalIdle_11
+  - first:
+      213: 1856111181765093599
+    second: CrystalIdle_12
+  - first:
+      213: -1508778875772177941
+    second: CrystalIdle_13
+  - first:
+      213: -699644781620246249
+    second: CrystalIdle_14
+  - first:
+      213: 7233960209107891072
+    second: CrystalIdle_15
+  - first:
+      213: -684064130188798285
+    second: CrystalIdle_16
+  - first:
+      213: -7403284973282924013
+    second: CrystalIdle_17
+  - first:
+      213: -2118000925157821990
+    second: CrystalIdle_18
+  - first:
+      213: 5755978395254548427
+    second: CrystalIdle_19
+  - first:
+      213: -3690340154085469567
+    second: CrystalIdle_20
+  - first:
+      213: 3743070458190591691
+    second: CrystalIdle_21
+  - first:
+      213: -7579979806293833099
+    second: CrystalIdle_22
+  - first:
+      213: 1059179748989397734
+    second: CrystalIdle_23
+  - first:
+      213: -969256046781022178
+    second: CrystalIdle_24
+  - first:
+      213: -7640430673036183793
+    second: CrystalIdle_25
+  - first:
+      213: 8627332592727747583
+    second: CrystalIdle_26
+  - first:
+      213: 1649224137789338254
+    second: CrystalIdle_27
+  - first:
+      213: 5541357455959048289
+    second: CrystalIdle_28
+  - first:
+      213: 6455415346707027464
+    second: CrystalIdle_29
+  - first:
+      213: 7227380767440933207
+    second: CrystalIdle_30
+  - first:
+      213: 1274186976540145822
+    second: CrystalIdle_31
+  - first:
+      213: 509169651487083944
+    second: CrystalIdle_32
+  - first:
+      213: -4815160099691910272
+    second: CrystalIdle_33
+  - first:
+      213: 1312041826509732586
+    second: CrystalIdle_34
+  - first:
+      213: -1019428040840886787
+    second: CrystalIdle_35
+  - first:
+      213: 6717172648201127696
+    second: CrystalIdle_36
+  - first:
+      213: -368130693567704670
+    second: CrystalIdle_37
+  - first:
+      213: 3604913642184388980
+    second: CrystalIdle_38
+  - first:
+      213: -8177528624122724451
+    second: CrystalIdle_39
+  - first:
+      213: 5819465981596301099
+    second: CrystalIdle_40
+  - first:
+      213: -7414277298190369187
+    second: CrystalIdle_41
+  - first:
+      213: 7674053367184886512
+    second: CrystalIdle_42
+  - first:
+      213: -4925918391187503936
+    second: CrystalIdle_43
+  - first:
+      213: 1218860668755950842
+    second: CrystalIdle_44
+  - first:
+      213: -2538916550599501317
+    second: CrystalIdle_45
+  - first:
+      213: -6633204706223684944
+    second: CrystalIdle_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CrystalIdle_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 201
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787805311dae563c0800000000000000
+      internalID: -4366826079972718713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 185
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8542eefc3ada10960800000000000000
+      internalID: 7566519768038909016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 199
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842e16034611a2b50800000000000000
+      internalID: 6569082128479412808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 200
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cb61c023903c220800000000000000
+      internalID: 2504855928303959115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_4
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 184
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260682a54143ca620800000000000000
+      internalID: 2786659531452080226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_5
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 199
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd78836948873800800000000000000
+      internalID: 592091724806389190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 200
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57e8fb3ac019df70800000000000000
+      internalID: 9212412973538666330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_7
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 177
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004601156a0aaabd0800000000000000
+      internalID: -2618103597177478144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_8
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 198
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d01d44871e27c40800000000000000
+      internalID: 5508713200894414174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_9
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 200
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1240d01de4ef59560800000000000000
+      internalID: 7320036383828804641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_10
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 186
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2c588bdfac62aa0800000000000000
+      internalID: -6186033847075487057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_11
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 197
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f2605538e752070800000000000000
+      internalID: 8081004208918507420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 185
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd82db4294b32c910800000000000000
+      internalID: 1856111181765093599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 177
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be17cf83b9dbf0be0800000000000000
+      internalID: -1508778875772177941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 184
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719c19a27cc5a46f0800000000000000
+      internalID: -699644781620246249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_15
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 185
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083bf27ab70346460800000000000000
+      internalID: 7233960209107891072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_16
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 177
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b692844c47b186f0800000000000000
+      internalID: -684064130188798285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_17
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 183
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31aeb748a8f324990800000000000000
+      internalID: -7403284973282924013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_18
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 184
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1f40651695b92e0800000000000000
+      internalID: -2118000925157821990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 182
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc768ff9ad751ef40800000000000000
+      internalID: 5755978395254548427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_20
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 183
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182106f9e2749ccc0800000000000000
+      internalID: -3690340154085469567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_21
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 177
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc675b500ce02f330800000000000000
+      internalID: 3743070458190591691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_22
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 182
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ac831d6808ec690800000000000000
+      internalID: -7579979806293833099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_23
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 73
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eaecc3be56f2be00800000000000000
+      internalID: 1059179748989397734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_24
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 59
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10c733c2c28c82f0800000000000000
+      internalID: -969256046781022178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_25
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 69
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07fdaa98ccb7f590800000000000000
+      internalID: -7640430673036183793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_26
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 74
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbefa498417ab770800000000000000
+      internalID: 8627332592727747583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_27
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 58
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82fee78d9833e610800000000000000
+      internalID: 1649224137789338254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_28
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 71
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160c6ef2f3bd6ec40800000000000000
+      internalID: 5541357455959048289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_29
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 74
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806d31a3e0e369950800000000000000
+      internalID: 6455415346707027464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_30
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 57
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7519ec30480dc4460800000000000000
+      internalID: 7227380767440933207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_31
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 72
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98ba12ed42dea110800000000000000
+      internalID: 1274186976540145822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_32
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 74
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad0c4fa91fe01700800000000000000
+      internalID: 509169651487083944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_33
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 57
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08baa31b66d1d2db0800000000000000
+      internalID: -4815160099691910272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_34
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 72
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea3197f61f453210800000000000000
+      internalID: 1312041826509732586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_35
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 55
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df54b9719934ad1f0800000000000000
+      internalID: -1019428040840886787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_36
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 56
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0178ff63fe0383d50800000000000000
+      internalID: 6717172648201127696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_37
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 57
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a19afaa51324eaf0800000000000000
+      internalID: -368130693567704670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_38
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 57
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4713c50abd9370230800000000000000
+      internalID: 3604913642184388980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_39
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 58
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f7392fa05938e80800000000000000
+      internalID: -8177528624122724451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_40
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 57
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2774873a75e2c050800000000000000
+      internalID: 5819465981596301099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_41
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 58
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ebe1f64123b1990800000000000000
+      internalID: -7414277298190369187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_42
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 57
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa027ae0e6bf7a60800000000000000
+      internalID: 7674053367184886512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_43
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 49
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c484b4625f93abb0800000000000000
+      internalID: -4925918391187503936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_44
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 49
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcb4e702534ae010800000000000000
+      internalID: 1218860668755950842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_45
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 49
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9182759d4f3ccd0800000000000000
+      internalID: -2538916550599501317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIdle_46
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 49
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b28613c67f12f3a0800000000000000
+      internalID: -6633204706223684944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CrystalIdle_0: -4366826079972718713
+      CrystalIdle_1: 7566519768038909016
+      CrystalIdle_10: -6186033847075487057
+      CrystalIdle_11: 8081004208918507420
+      CrystalIdle_12: 1856111181765093599
+      CrystalIdle_13: -1508778875772177941
+      CrystalIdle_14: -699644781620246249
+      CrystalIdle_15: 7233960209107891072
+      CrystalIdle_16: -684064130188798285
+      CrystalIdle_17: -7403284973282924013
+      CrystalIdle_18: -2118000925157821990
+      CrystalIdle_19: 5755978395254548427
+      CrystalIdle_2: 6569082128479412808
+      CrystalIdle_20: -3690340154085469567
+      CrystalIdle_21: 3743070458190591691
+      CrystalIdle_22: -7579979806293833099
+      CrystalIdle_23: 1059179748989397734
+      CrystalIdle_24: -969256046781022178
+      CrystalIdle_25: -7640430673036183793
+      CrystalIdle_26: 8627332592727747583
+      CrystalIdle_27: 1649224137789338254
+      CrystalIdle_28: 5541357455959048289
+      CrystalIdle_29: 6455415346707027464
+      CrystalIdle_3: 2504855928303959115
+      CrystalIdle_30: 7227380767440933207
+      CrystalIdle_31: 1274186976540145822
+      CrystalIdle_32: 509169651487083944
+      CrystalIdle_33: -4815160099691910272
+      CrystalIdle_34: 1312041826509732586
+      CrystalIdle_35: -1019428040840886787
+      CrystalIdle_36: 6717172648201127696
+      CrystalIdle_37: -368130693567704670
+      CrystalIdle_38: 3604913642184388980
+      CrystalIdle_39: -8177528624122724451
+      CrystalIdle_4: 2786659531452080226
+      CrystalIdle_40: 5819465981596301099
+      CrystalIdle_41: -7414277298190369187
+      CrystalIdle_42: 7674053367184886512
+      CrystalIdle_43: -4925918391187503936
+      CrystalIdle_44: 1218860668755950842
+      CrystalIdle_45: -2538916550599501317
+      CrystalIdle_46: -6633204706223684944
+      CrystalIdle_5: 592091724806389190
+      CrystalIdle_6: 9212412973538666330
+      CrystalIdle_7: -2618103597177478144
+      CrystalIdle_8: 5508713200894414174
+      CrystalIdle_9: 7320036383828804641
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

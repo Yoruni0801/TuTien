@@ -1,0 +1,1794 @@
+fileFormatVersion: 2
+guid: 724b433c9de21354e9ffe2a82e104a09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3614006005769515101
+    second: FoxYaoAttack1_0
+  - first:
+      213: 3716629546071093981
+    second: FoxYaoAttack1_1
+  - first:
+      213: 5647549325863993732
+    second: FoxYaoAttack1_2
+  - first:
+      213: 414742562700404061
+    second: FoxYaoAttack1_3
+  - first:
+      213: -8542455014101071937
+    second: FoxYaoAttack1_4
+  - first:
+      213: 3393149666333553819
+    second: FoxYaoAttack1_5
+  - first:
+      213: 3763611717972831989
+    second: FoxYaoAttack1_6
+  - first:
+      213: 4055822259655928458
+    second: FoxYaoAttack1_7
+  - first:
+      213: 1835456395711526112
+    second: FoxYaoAttack1_8
+  - first:
+      213: 3970786327786543103
+    second: FoxYaoAttack1_9
+  - first:
+      213: 4999672738285426416
+    second: FoxYaoAttack1_10
+  - first:
+      213: -1282231252281668391
+    second: FoxYaoAttack1_11
+  - first:
+      213: -3645757384398301062
+    second: FoxYaoAttack1_12
+  - first:
+      213: 1182785914226534055
+    second: FoxYaoAttack1_13
+  - first:
+      213: 849810274436390794
+    second: FoxYaoAttack1_14
+  - first:
+      213: -7243683185525946686
+    second: FoxYaoAttack1_15
+  - first:
+      213: -2124254647747120016
+    second: FoxYaoAttack1_16
+  - first:
+      213: 4222252511338231678
+    second: FoxYaoAttack1_17
+  - first:
+      213: -6859634504827979461
+    second: FoxYaoAttack1_18
+  - first:
+      213: -5360539245327075739
+    second: FoxYaoAttack1_19
+  - first:
+      213: -7010016992460329364
+    second: FoxYaoAttack1_20
+  - first:
+      213: -2425993732376266770
+    second: FoxYaoAttack1_21
+  - first:
+      213: -1448029536820373469
+    second: FoxYaoAttack1_22
+  - first:
+      213: -3188414326141560226
+    second: FoxYaoAttack1_23
+  - first:
+      213: -2327577987372288261
+    second: FoxYaoAttack1_24
+  - first:
+      213: -8012229269791145302
+    second: FoxYaoAttack1_25
+  - first:
+      213: 6841048611860230626
+    second: FoxYaoAttack1_26
+  - first:
+      213: -2622215124064636255
+    second: FoxYaoAttack1_27
+  - first:
+      213: 5726247926108612816
+    second: FoxYaoAttack1_28
+  - first:
+      213: 1605783538580716549
+    second: FoxYaoAttack1_29
+  - first:
+      213: 2243511143477227318
+    second: FoxYaoAttack1_30
+  - first:
+      213: 9112936040969066255
+    second: FoxYaoAttack1_31
+  - first:
+      213: -4944572276624809638
+    second: FoxYaoAttack1_32
+  - first:
+      213: -2690424442707043299
+    second: FoxYaoAttack1_33
+  - first:
+      213: -2318027715717202832
+    second: FoxYaoAttack1_34
+  - first:
+      213: 7492591129681651148
+    second: FoxYaoAttack1_35
+  - first:
+      213: 880078465502142279
+    second: FoxYaoAttack1_36
+  - first:
+      213: 5896332226695345246
+    second: FoxYaoAttack1_37
+  - first:
+      213: 2206438644276217747
+    second: FoxYaoAttack1_38
+  - first:
+      213: 4729871848943907900
+    second: FoxYaoAttack1_39
+  - first:
+      213: -8793813198305374082
+    second: FoxYaoAttack1_40
+  - first:
+      213: 407154066699999971
+    second: FoxYaoAttack1_41
+  - first:
+      213: -1280093525247006357
+    second: FoxYaoAttack1_42
+  - first:
+      213: 4884480608380349992
+    second: FoxYaoAttack1_43
+  - first:
+      213: 4585143361395261899
+    second: FoxYaoAttack1_44
+  - first:
+      213: 4465487690627748160
+    second: FoxYaoAttack1_45
+  - first:
+      213: 6384819883923984261
+    second: FoxYaoAttack1_46
+  - first:
+      213: 473796547159249080
+    second: FoxYaoAttack1_47
+  - first:
+      213: 3072082665389486901
+    second: FoxYaoAttack1_48
+  - first:
+      213: -5100670869340222530
+    second: FoxYaoAttack1_49
+  - first:
+      213: -3259683888107688151
+    second: FoxYaoAttack1_50
+  - first:
+      213: -605895929084804149
+    second: FoxYaoAttack1_51
+  - first:
+      213: -2025157664029941061
+    second: FoxYaoAttack1_52
+  - first:
+      213: -4393538438067592133
+    second: FoxYaoAttack1_53
+  - first:
+      213: -7504225232273402154
+    second: FoxYaoAttack1_54
+  - first:
+      213: 6806445815585929060
+    second: FoxYaoAttack1_55
+  - first:
+      213: 4950398601612276004
+    second: FoxYaoAttack1_56
+  - first:
+      213: -3451169284377989090
+    second: FoxYaoAttack1_57
+  - first:
+      213: -6298800585874655558
+    second: FoxYaoAttack1_58
+  - first:
+      213: 6295848345861531244
+    second: FoxYaoAttack1_59
+  - first:
+      213: 8694247078366808553
+    second: FoxYaoAttack1_60
+  - first:
+      213: -3936204498309237140
+    second: FoxYaoAttack1_61
+  - first:
+      213: -761619163620881716
+    second: FoxYaoAttack1_62
+  - first:
+      213: -7633362603943179546
+    second: FoxYaoAttack1_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FoxYaoAttack1_0
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1048
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afcaf18fa878ddc0800000000000000
+      internalID: -3614006005769515101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1049
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2f94f61ee149330800000000000000
+      internalID: 3716629546071093981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 952
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481ce9b9030206e40800000000000000
+      internalID: 5647549325863993732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_3
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 944
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d552ef2d92671c500800000000000000
+      internalID: 414742562700404061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 953
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb740ceac6a137980800000000000000
+      internalID: -8542455014101071937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 944
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94fb83d4a3e61f20800000000000000
+      internalID: 3393149666333553819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_6
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 952
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fea442cae80b3430800000000000000
+      internalID: 3763611717972831989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 944
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ae9e24bdc294830800000000000000
+      internalID: 4055822259655928458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_8
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 944
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4ba130ed9d87910800000000000000
+      internalID: 1835456395711526112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_9
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 953
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7d1b280211b1730800000000000000
+      internalID: 3970786327786543103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_10
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 944
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f615b6bdd7626540800000000000000
+      internalID: 4999672738285426416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_11
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 944
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcc8d73879943ee0800000000000000
+      internalID: -1282231252281668391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_12
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 953
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a789ea599faa76dc0800000000000000
+      internalID: -3645757384398301062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_13
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 944
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6eec6b5891a6010800000000000000
+      internalID: 1182785914226534055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 771
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f124e21f12bcb00800000000000000
+      internalID: 849810274436390794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_15
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 772
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6814d7584497b90800000000000000
+      internalID: -7243683185525946686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_16
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 764
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0747f8417a12582e0800000000000000
+      internalID: -2124254647747120016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_17
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 757
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77f052e944789a30800000000000000
+      internalID: 4222252511338231678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_18
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 755
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3937b203ceadc0a0800000000000000
+      internalID: -6859634504827979461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_19
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 755
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5663dbd25f98b95b0800000000000000
+      internalID: -5360539245327075739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_20
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 750
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e23fe9faa67be90800000000000000
+      internalID: -7010016992460329364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_21
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 680
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7736acd83255ed0800000000000000
+      internalID: -2425993732376266770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_22
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 681
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3285c89eec097ebe0800000000000000
+      internalID: -1448029536820373469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_23
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 680
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ad095301a70c3d0800000000000000
+      internalID: -3188414326141560226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_24
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 679
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6f7ab0728c2bfd0800000000000000
+      internalID: -2327577987372288261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_25
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 680
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa28c130ee7dec090800000000000000
+      internalID: -8012229269791145302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_26
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 681
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1bb11977940fe50800000000000000
+      internalID: 6841048611860230626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_27
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 680
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2787ddc350c9bd0800000000000000
+      internalID: -2622215124064636255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_28
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 670
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8658b5628b77f40800000000000000
+      internalID: 5726247926108612816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_29
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 670
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cf54bde93e84610800000000000000
+      internalID: 1605783538580716549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_30
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 670
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f27949f7d822f10800000000000000
+      internalID: 2243511143477227318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_31
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 670
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07d0defb07a77e70800000000000000
+      internalID: 9112936040969066255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_32
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 670
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51a88d36b9516bb0800000000000000
+      internalID: -4944572276624809638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_33
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 670
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c1b6d4931b9aad0800000000000000
+      internalID: -2690424442707043299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_34
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 670
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c7a21f216b4dfd0800000000000000
+      internalID: -2318027715717202832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_35
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 478
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5eaeb5fe70bf760800000000000000
+      internalID: 7492591129681651148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_36
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 474
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fd9b693baa63c00800000000000000
+      internalID: 880078465502142279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_37
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 475
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e543dd98beaf3d150800000000000000
+      internalID: 5896332226695345246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_38
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 473
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39747cab148de9e10800000000000000
+      internalID: 2206438644276217747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_39
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 475
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34fb6df261e3a140800000000000000
+      internalID: 4729871848943907900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_40
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 405
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70dddddc7916f580800000000000000
+      internalID: -8793813198305374082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_41
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 406
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea528a677086a500800000000000000
+      internalID: 407154066699999971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_42
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 407
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69ef5498b13c3ee0800000000000000
+      internalID: -1280093525247006357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_43
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 406
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e6bc6fb3929c340800000000000000
+      internalID: 4884480608380349992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_44
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 405
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc184341893b1af30800000000000000
+      internalID: 4585143361395261899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_45
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 419
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0411fbc356998fd30800000000000000
+      internalID: 4465487690627748160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_46
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 432
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fc3203bdf6b9850800000000000000
+      internalID: 6384819883923984261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_47
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 396
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0db390373439600800000000000000
+      internalID: 473796547159249080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_48
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 396
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533fc2758ea32aa20800000000000000
+      internalID: 3072082665389486901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_49
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 396
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb0bcc6ed6c639b0800000000000000
+      internalID: -5100670869340222530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_50
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 396
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fe64936c643c2d0800000000000000
+      internalID: -3259683888107688151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_51
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 396
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc38b08dcdc6797f0800000000000000
+      internalID: -605895929084804149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_52
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 397
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2e55595d135e3e0800000000000000
+      internalID: -2025157664029941061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_53
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 397
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34e4fb81140703c0800000000000000
+      internalID: -4393538438067592133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_54
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 161
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d612db09e2abd790800000000000000
+      internalID: -7504225232273402154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_55
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 156
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46771fc386a557e50800000000000000
+      internalID: 6806445815585929060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_56
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 135
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421b0b1cc4953b440800000000000000
+      internalID: 4950398601612276004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_57
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 132
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1039e822dbfa10d0800000000000000
+      internalID: -3451169284377989090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_58
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 131
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab63be75d3a2698a0800000000000000
+      internalID: -6298800585874655558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_59
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 123
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66aec6b6b85f5750800000000000000
+      internalID: 6295848345861531244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_60
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 122
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9088757ab28a870800000000000000
+      internalID: 8694247078366808553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_61
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 122
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66bbfa1ddacf59c0800000000000000
+      internalID: -3936204498309237140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_62
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 122
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca4f3ae76f2e65f0800000000000000
+      internalID: -761619163620881716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxYaoAttack1_63
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 122
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea473ea729d01690800000000000000
+      internalID: -7633362603943179546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FoxYaoAttack1_0: -3614006005769515101
+      FoxYaoAttack1_1: 3716629546071093981
+      FoxYaoAttack1_10: 4999672738285426416
+      FoxYaoAttack1_11: -1282231252281668391
+      FoxYaoAttack1_12: -3645757384398301062
+      FoxYaoAttack1_13: 1182785914226534055
+      FoxYaoAttack1_14: 849810274436390794
+      FoxYaoAttack1_15: -7243683185525946686
+      FoxYaoAttack1_16: -2124254647747120016
+      FoxYaoAttack1_17: 4222252511338231678
+      FoxYaoAttack1_18: -6859634504827979461
+      FoxYaoAttack1_19: -5360539245327075739
+      FoxYaoAttack1_2: 5647549325863993732
+      FoxYaoAttack1_20: -7010016992460329364
+      FoxYaoAttack1_21: -2425993732376266770
+      FoxYaoAttack1_22: -1448029536820373469
+      FoxYaoAttack1_23: -3188414326141560226
+      FoxYaoAttack1_24: -2327577987372288261
+      FoxYaoAttack1_25: -8012229269791145302
+      FoxYaoAttack1_26: 6841048611860230626
+      FoxYaoAttack1_27: -2622215124064636255
+      FoxYaoAttack1_28: 5726247926108612816
+      FoxYaoAttack1_29: 1605783538580716549
+      FoxYaoAttack1_3: 414742562700404061
+      FoxYaoAttack1_30: 2243511143477227318
+      FoxYaoAttack1_31: 9112936040969066255
+      FoxYaoAttack1_32: -4944572276624809638
+      FoxYaoAttack1_33: -2690424442707043299
+      FoxYaoAttack1_34: -2318027715717202832
+      FoxYaoAttack1_35: 7492591129681651148
+      FoxYaoAttack1_36: 880078465502142279
+      FoxYaoAttack1_37: 5896332226695345246
+      FoxYaoAttack1_38: 2206438644276217747
+      FoxYaoAttack1_39: 4729871848943907900
+      FoxYaoAttack1_4: -8542455014101071937
+      FoxYaoAttack1_40: -8793813198305374082
+      FoxYaoAttack1_41: 407154066699999971
+      FoxYaoAttack1_42: -1280093525247006357
+      FoxYaoAttack1_43: 4884480608380349992
+      FoxYaoAttack1_44: 4585143361395261899
+      FoxYaoAttack1_45: 4465487690627748160
+      FoxYaoAttack1_46: 6384819883923984261
+      FoxYaoAttack1_47: 473796547159249080
+      FoxYaoAttack1_48: 3072082665389486901
+      FoxYaoAttack1_49: -5100670869340222530
+      FoxYaoAttack1_5: 3393149666333553819
+      FoxYaoAttack1_50: -3259683888107688151
+      FoxYaoAttack1_51: -605895929084804149
+      FoxYaoAttack1_52: -2025157664029941061
+      FoxYaoAttack1_53: -4393538438067592133
+      FoxYaoAttack1_54: -7504225232273402154
+      FoxYaoAttack1_55: 6806445815585929060
+      FoxYaoAttack1_56: 4950398601612276004
+      FoxYaoAttack1_57: -3451169284377989090
+      FoxYaoAttack1_58: -6298800585874655558
+      FoxYaoAttack1_59: 6295848345861531244
+      FoxYaoAttack1_6: 3763611717972831989
+      FoxYaoAttack1_60: 8694247078366808553
+      FoxYaoAttack1_61: -3936204498309237140
+      FoxYaoAttack1_62: -761619163620881716
+      FoxYaoAttack1_63: -7633362603943179546
+      FoxYaoAttack1_7: 4055822259655928458
+      FoxYaoAttack1_8: 1835456395711526112
+      FoxYaoAttack1_9: 3970786327786543103
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

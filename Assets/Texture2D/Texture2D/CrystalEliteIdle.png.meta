@@ -1,0 +1,1456 @@
+fileFormatVersion: 2
+guid: 43ba05095579b8748bfe35636f5ae2e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4092057031663193212
+    second: CrystalEliteIdle_0
+  - first:
+      213: -3856239699453363741
+    second: CrystalEliteIdle_1
+  - first:
+      213: -2290816681019857158
+    second: CrystalEliteIdle_2
+  - first:
+      213: 3139359367754113492
+    second: CrystalEliteIdle_3
+  - first:
+      213: 8825442685354115520
+    second: CrystalEliteIdle_4
+  - first:
+      213: 2756173820992403280
+    second: CrystalEliteIdle_5
+  - first:
+      213: 3031091357278904752
+    second: CrystalEliteIdle_6
+  - first:
+      213: 56006151023701252
+    second: CrystalEliteIdle_7
+  - first:
+      213: 5799184414548311870
+    second: CrystalEliteIdle_8
+  - first:
+      213: -4002501343270394110
+    second: CrystalEliteIdle_9
+  - first:
+      213: 4376613962365184941
+    second: CrystalEliteIdle_10
+  - first:
+      213: -2763866747999347249
+    second: CrystalEliteIdle_11
+  - first:
+      213: 7056201234068225354
+    second: CrystalEliteIdle_12
+  - first:
+      213: -7713663021176111871
+    second: CrystalEliteIdle_13
+  - first:
+      213: -2053416394136702739
+    second: CrystalEliteIdle_14
+  - first:
+      213: 6047814472496778947
+    second: CrystalEliteIdle_15
+  - first:
+      213: 1597875698356284723
+    second: CrystalEliteIdle_16
+  - first:
+      213: 7279773827056809004
+    second: CrystalEliteIdle_17
+  - first:
+      213: 2626433274382844662
+    second: CrystalEliteIdle_18
+  - first:
+      213: 2053252049418984432
+    second: CrystalEliteIdle_19
+  - first:
+      213: -4272988902165301821
+    second: CrystalEliteIdle_20
+  - first:
+      213: 575697494987844727
+    second: CrystalEliteIdle_21
+  - first:
+      213: 4337146401574715980
+    second: CrystalEliteIdle_22
+  - first:
+      213: 2173208392330600319
+    second: CrystalEliteIdle_23
+  - first:
+      213: 1834298384613172531
+    second: CrystalEliteIdle_24
+  - first:
+      213: -3178439883398455526
+    second: CrystalEliteIdle_25
+  - first:
+      213: -8581712978294511793
+    second: CrystalEliteIdle_26
+  - first:
+      213: -255049983376787518
+    second: CrystalEliteIdle_27
+  - first:
+      213: -1578527953063274005
+    second: CrystalEliteIdle_28
+  - first:
+      213: 965141472077413074
+    second: CrystalEliteIdle_29
+  - first:
+      213: 3681616695193487143
+    second: CrystalEliteIdle_30
+  - first:
+      213: 7091056868291497340
+    second: CrystalEliteIdle_31
+  - first:
+      213: -7774054794238660727
+    second: CrystalEliteIdle_32
+  - first:
+      213: -534668841562200022
+    second: CrystalEliteIdle_33
+  - first:
+      213: -821709596368335671
+    second: CrystalEliteIdle_34
+  - first:
+      213: 1483310891968398263
+    second: CrystalEliteIdle_35
+  - first:
+      213: 4286424687427954634
+    second: CrystalEliteIdle_36
+  - first:
+      213: 8152207624551516767
+    second: CrystalEliteIdle_37
+  - first:
+      213: 6342799190019020992
+    second: CrystalEliteIdle_38
+  - first:
+      213: 3495614814279551493
+    second: CrystalEliteIdle_39
+  - first:
+      213: -2008848709296781288
+    second: CrystalEliteIdle_40
+  - first:
+      213: 2789896487548494210
+    second: CrystalEliteIdle_41
+  - first:
+      213: -4986850255786973289
+    second: CrystalEliteIdle_42
+  - first:
+      213: 7285026566258887362
+    second: CrystalEliteIdle_43
+  - first:
+      213: 7160908362221601075
+    second: CrystalEliteIdle_44
+  - first:
+      213: -380903179739997615
+    second: CrystalEliteIdle_45
+  - first:
+      213: 1931869046996554123
+    second: CrystalEliteIdle_46
+  - first:
+      213: -5523448939000561939
+    second: CrystalEliteIdle_47
+  - first:
+      213: -3782566977806503017
+    second: CrystalEliteIdle_48
+  - first:
+      213: -6678488723444828828
+    second: CrystalEliteIdle_49
+  - first:
+      213: -1044298137835938817
+    second: CrystalEliteIdle_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CrystalEliteIdle_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 199
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48373137fc71637c0800000000000000
+      internalID: -4092057031663193212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 217
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9b251bc62eb7ac0800000000000000
+      internalID: -3856239699453363741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 188
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6a54aad526530e0800000000000000
+      internalID: -2290816681019857158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 217
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1674146be319b20800000000000000
+      internalID: 3139359367754113492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 199
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c10a16fc554a7a70800000000000000
+      internalID: 8825442685354115520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 215
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057bb73cc75ef3620800000000000000
+      internalID: 2756173820992403280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_6
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 186
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1ad50b789901a20800000000000000
+      internalID: 3031091357278904752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_7
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 215
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d21013c49f6c000800000000000000
+      internalID: 56006151023701252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 213
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f3228ef77da7050800000000000000
+      internalID: 5799184414548311870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_9
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 213
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20728550c324478c0800000000000000
+      internalID: -4002501343270394110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_10
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 212
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabaac1e53bdcbc30800000000000000
+      internalID: 4376613962365184941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_11
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 212
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd1cf616d5c4a9d0800000000000000
+      internalID: -2763866747999347249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_12
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 179
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d3f4413a9ace160800000000000000
+      internalID: 7056201234068225354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 177
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d3bb9d95093f490800000000000000
+      internalID: -7713663021176111871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_14
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 197
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0b4834bacc083e0800000000000000
+      internalID: -2053416394136702739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 197
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce03a458372ee350800000000000000
+      internalID: 6047814472496778947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_16
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 195
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d61c35b7bcc2610800000000000000
+      internalID: 1597875698356284723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_17
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 185
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2438eec9b3f60560800000000000000
+      internalID: 7279773827056809004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_18
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 195
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f20bd9c527f27420800000000000000
+      internalID: 2626433274382844662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_19
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 194
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb16ff3cdd9e7c10800000000000000
+      internalID: 2053252049418984432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_20
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 184
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c530459b3b43b4c0800000000000000
+      internalID: -4272988902165301821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_21
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 194
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c25de42d94df700800000000000000
+      internalID: 575697494987844727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_22
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 177
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4289bc4ca3a03c30800000000000000
+      internalID: 4337146401574715980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 175
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f53c7c489c82e10800000000000000
+      internalID: 2173208392330600319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_24
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 174
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335e0fa89acb47910800000000000000
+      internalID: 1834298384613172531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_25
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 83
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fd91224c9e3e3d0800000000000000
+      internalID: -3178439883398455526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_26
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 57
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47656c9381a7e880800000000000000
+      internalID: -8581712978294511793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_27
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 83
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c77bd43461e57cf0800000000000000
+      internalID: -255049983376787518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_28
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 84
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be993a9a031f71ae0800000000000000
+      internalID: -1578527953063274005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_29
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 60
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dafb292e0fd46d00800000000000000
+      internalID: 965141472077413074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_30
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 84
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727c724d0eab71330800000000000000
+      internalID: 3681616695193487143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_31
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 87
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7dcb94d6ae786260800000000000000
+      internalID: 7091056868291497340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_32
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 61
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f6bf47a520d1490800000000000000
+      internalID: -7774054794238660727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_33
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 87
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28273a75897498f0800000000000000
+      internalID: -534668841562200022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_34
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 70
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc8fe7c973b894f0800000000000000
+      internalID: -821709596368335671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_35
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 88
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b38e37b567c59410800000000000000
+      internalID: 1483310891968398263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_36
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 62
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7ab92fa807c7b30800000000000000
+      internalID: 4286424687427954634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_37
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 88
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5acf9c64a5722170800000000000000
+      internalID: 8152207624551516767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_38
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 70
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c818baf146260850800000000000000
+      internalID: 6342799190019020992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_39
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 65
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ac9bc272be28030800000000000000
+      internalID: 3495614814279551493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_40
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 65
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8180dd20eb22f14e0800000000000000
+      internalID: -2008848709296781288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_41
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 66
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281207ce214b7b620800000000000000
+      internalID: 2789896487548494210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_42
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 66
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79760c32d162bcab0800000000000000
+      internalID: -4986850255786973289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_43
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 69
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca0525701d991560800000000000000
+      internalID: 7285026566258887362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_44
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 69
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331c75f1738a06360800000000000000
+      internalID: 7160908362221601075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_45
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 45
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ad7cd7392c6baf0800000000000000
+      internalID: -380903179739997615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_46
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 46
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b815dcaa9a06fca10800000000000000
+      internalID: 1931869046996554123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_47
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 49
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deefcd75474c853b0800000000000000
+      internalID: -5523448939000561939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_48
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 49
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79378b4ef5f918bc0800000000000000
+      internalID: -3782566977806503017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_49
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 50
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4657e92e3ed3153a0800000000000000
+      internalID: -6678488723444828828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalEliteIdle_50
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 49
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbdfa66068e181f0800000000000000
+      internalID: -1044298137835938817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CrystalEliteIdle_0: -4092057031663193212
+      CrystalEliteIdle_1: -3856239699453363741
+      CrystalEliteIdle_10: 4376613962365184941
+      CrystalEliteIdle_11: -2763866747999347249
+      CrystalEliteIdle_12: 7056201234068225354
+      CrystalEliteIdle_13: -7713663021176111871
+      CrystalEliteIdle_14: -2053416394136702739
+      CrystalEliteIdle_15: 6047814472496778947
+      CrystalEliteIdle_16: 1597875698356284723
+      CrystalEliteIdle_17: 7279773827056809004
+      CrystalEliteIdle_18: 2626433274382844662
+      CrystalEliteIdle_19: 2053252049418984432
+      CrystalEliteIdle_2: -2290816681019857158
+      CrystalEliteIdle_20: -4272988902165301821
+      CrystalEliteIdle_21: 575697494987844727
+      CrystalEliteIdle_22: 4337146401574715980
+      CrystalEliteIdle_23: 2173208392330600319
+      CrystalEliteIdle_24: 1834298384613172531
+      CrystalEliteIdle_25: -3178439883398455526
+      CrystalEliteIdle_26: -8581712978294511793
+      CrystalEliteIdle_27: -255049983376787518
+      CrystalEliteIdle_28: -1578527953063274005
+      CrystalEliteIdle_29: 965141472077413074
+      CrystalEliteIdle_3: 3139359367754113492
+      CrystalEliteIdle_30: 3681616695193487143
+      CrystalEliteIdle_31: 7091056868291497340
+      CrystalEliteIdle_32: -7774054794238660727
+      CrystalEliteIdle_33: -534668841562200022
+      CrystalEliteIdle_34: -821709596368335671
+      CrystalEliteIdle_35: 1483310891968398263
+      CrystalEliteIdle_36: 4286424687427954634
+      CrystalEliteIdle_37: 8152207624551516767
+      CrystalEliteIdle_38: 6342799190019020992
+      CrystalEliteIdle_39: 3495614814279551493
+      CrystalEliteIdle_4: 8825442685354115520
+      CrystalEliteIdle_40: -2008848709296781288
+      CrystalEliteIdle_41: 2789896487548494210
+      CrystalEliteIdle_42: -4986850255786973289
+      CrystalEliteIdle_43: 7285026566258887362
+      CrystalEliteIdle_44: 7160908362221601075
+      CrystalEliteIdle_45: -380903179739997615
+      CrystalEliteIdle_46: 1931869046996554123
+      CrystalEliteIdle_47: -5523448939000561939
+      CrystalEliteIdle_48: -3782566977806503017
+      CrystalEliteIdle_49: -6678488723444828828
+      CrystalEliteIdle_5: 2756173820992403280
+      CrystalEliteIdle_50: -1044298137835938817
+      CrystalEliteIdle_6: 3031091357278904752
+      CrystalEliteIdle_7: 56006151023701252
+      CrystalEliteIdle_8: 5799184414548311870
+      CrystalEliteIdle_9: -4002501343270394110
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

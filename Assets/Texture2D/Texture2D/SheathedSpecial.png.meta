@@ -1,0 +1,1404 @@
+fileFormatVersion: 2
+guid: 05a956dde60e6e84aa107abb0e78e3f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4843143237976907108
+    second: SheathedSpecial_0
+  - first:
+      213: -260221959644989350
+    second: SheathedSpecial_1
+  - first:
+      213: -3472611217491855902
+    second: SheathedSpecial_2
+  - first:
+      213: -5037839297775426534
+    second: SheathedSpecial_3
+  - first:
+      213: 419231247232340689
+    second: SheathedSpecial_4
+  - first:
+      213: -4672263235944963843
+    second: SheathedSpecial_5
+  - first:
+      213: -2026286274546124104
+    second: SheathedSpecial_6
+  - first:
+      213: 6348066712169137578
+    second: SheathedSpecial_7
+  - first:
+      213: 8562277407487473980
+    second: SheathedSpecial_8
+  - first:
+      213: -9208867676904373980
+    second: SheathedSpecial_9
+  - first:
+      213: 8439597164936808803
+    second: SheathedSpecial_10
+  - first:
+      213: 5818155497323021683
+    second: SheathedSpecial_11
+  - first:
+      213: 2821925892297118223
+    second: SheathedSpecial_12
+  - first:
+      213: 7391643316412946761
+    second: SheathedSpecial_13
+  - first:
+      213: -7859341340508252388
+    second: SheathedSpecial_14
+  - first:
+      213: -407125838093885697
+    second: SheathedSpecial_15
+  - first:
+      213: -7178654708592929901
+    second: SheathedSpecial_16
+  - first:
+      213: 309524359335250309
+    second: SheathedSpecial_17
+  - first:
+      213: 902006509944794855
+    second: SheathedSpecial_18
+  - first:
+      213: -1989434745519984833
+    second: SheathedSpecial_19
+  - first:
+      213: 6699618859936264950
+    second: SheathedSpecial_20
+  - first:
+      213: 7649650688393860648
+    second: SheathedSpecial_21
+  - first:
+      213: -8088878155932884343
+    second: SheathedSpecial_22
+  - first:
+      213: -1159920826029297212
+    second: SheathedSpecial_23
+  - first:
+      213: 5444564598791257675
+    second: SheathedSpecial_24
+  - first:
+      213: -4336298368422764430
+    second: SheathedSpecial_25
+  - first:
+      213: 41582096618850022
+    second: SheathedSpecial_26
+  - first:
+      213: 6296505142477970119
+    second: SheathedSpecial_27
+  - first:
+      213: -2655871690210189529
+    second: SheathedSpecial_28
+  - first:
+      213: -5553699273193704509
+    second: SheathedSpecial_29
+  - first:
+      213: -9018663627896334180
+    second: SheathedSpecial_30
+  - first:
+      213: 1312529438236575341
+    second: SheathedSpecial_31
+  - first:
+      213: 6251314349570725704
+    second: SheathedSpecial_32
+  - first:
+      213: -714675064843595776
+    second: SheathedSpecial_33
+  - first:
+      213: -3774037521869394567
+    second: SheathedSpecial_34
+  - first:
+      213: -595649489186640423
+    second: SheathedSpecial_35
+  - first:
+      213: 1134522200370278387
+    second: SheathedSpecial_36
+  - first:
+      213: 5080872690331442347
+    second: SheathedSpecial_37
+  - first:
+      213: -5666110049504985073
+    second: SheathedSpecial_38
+  - first:
+      213: 4153452169410472777
+    second: SheathedSpecial_39
+  - first:
+      213: -144938609301222721
+    second: SheathedSpecial_40
+  - first:
+      213: 6969297815139786873
+    second: SheathedSpecial_41
+  - first:
+      213: -3198476182733040005
+    second: SheathedSpecial_42
+  - first:
+      213: -1215540450518636591
+    second: SheathedSpecial_43
+  - first:
+      213: 8918909314220671136
+    second: SheathedSpecial_44
+  - first:
+      213: -3377370702434032762
+    second: SheathedSpecial_45
+  - first:
+      213: 5606396193047121103
+    second: SheathedSpecial_46
+  - first:
+      213: 2548108797600602983
+    second: SheathedSpecial_47
+  - first:
+      213: -4661607346003581786
+    second: SheathedSpecial_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SheathedSpecial_0
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 753
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c922d0892e2b9ccb0800000000000000
+      internalID: -4843143237976907108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_1
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 750
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58ba94a181836cf0800000000000000
+      internalID: -260221959644989350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_2
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 739
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e57c521f7ececfc0800000000000000
+      internalID: -3472611217491855902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_3
+      rect:
+        serializedVersion: 2
+        x: 2741
+        y: 755
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14a79ca9dff51ab0800000000000000
+      internalID: -5037839297775426534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_4
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 685
+        width: 233
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d21702299861d500800000000000000
+      internalID: 419231247232340689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_5
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 682
+        width: 196
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df022647759c82fb0800000000000000
+      internalID: -4672263235944963843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_6
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 415
+        width: 335
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8babd687e5f21e3e0800000000000000
+      internalID: -2026286274546124104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_7
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 380
+        width: 309
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5c25d8a0dd81850800000000000000
+      internalID: 6348066712169137578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_8
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 498
+        width: 109
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39b4adefe153d670800000000000000
+      internalID: 8562277407487473980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_9
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 499
+        width: 113
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421c98673a7833080800000000000000
+      internalID: -9208867676904373980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_10
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 509
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369c37718e87f1570800000000000000
+      internalID: 8439597164936808803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 457
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375cce1599d3eb050800000000000000
+      internalID: 5818155497323021683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_12
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 447
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02d8d8d5ae792720800000000000000
+      internalID: 2821925892297118223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_13
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 434
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9491f250f64649660800000000000000
+      internalID: 7391643316412946761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_14
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 453
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17967ef0b20ee290800000000000000
+      internalID: -7859341340508252388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_15
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 469
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffed7811539995af0800000000000000
+      internalID: -407125838093885697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_16
+      rect:
+        serializedVersion: 2
+        x: 3121
+        y: 470
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3931221a39b406c90800000000000000
+      internalID: -7178654708592929901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_17
+      rect:
+        serializedVersion: 2
+        x: 2743
+        y: 453
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589028fc3c6ab4400800000000000000
+      internalID: 309524359335250309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_18
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 406
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee695a4422948c00800000000000000
+      internalID: 902006509944794855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_19
+      rect:
+        serializedVersion: 2
+        x: 3121
+        y: 421
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f2671b3ab1464e0800000000000000
+      internalID: -1989434745519984833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_20
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 399
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f232056bd3d9fc50800000000000000
+      internalID: 6699618859936264950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_21
+      rect:
+        serializedVersion: 2
+        x: 3097
+        y: 414
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826d98185c4092a60800000000000000
+      internalID: 7649650688393860648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_22
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 405
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98224348c288ebf80800000000000000
+      internalID: -8088878155932884343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_23
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 379
+        width: 128
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c132fc772227efe0800000000000000
+      internalID: -1159920826029297212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_24
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 394
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ebe93f7aafe8b40800000000000000
+      internalID: 5444564598791257675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_25
+      rect:
+        serializedVersion: 2
+        x: 3043
+        y: 385
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2702e0ecb9f52d3c0800000000000000
+      internalID: -4336298368422764430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_26
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 203
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e68bf152bab39000800000000000000
+      internalID: 41582096618850022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_27
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 205
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cad1d7111ea16750800000000000000
+      internalID: 6296505142477970119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_28
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 206
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f5108e4c2742bd0800000000000000
+      internalID: -2655871690210189529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_29
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 194
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3b1ff8feb4de2b0800000000000000
+      internalID: -5553699273193704509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_30
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 80
+        width: 224
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98d08e963547d280800000000000000
+      internalID: -9018663627896334180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_31
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 122
+        width: 134
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66855be19a073210800000000000000
+      internalID: 1312529438236575341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_32
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 192
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8471771b74121c650800000000000000
+      internalID: 6251314349570725704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_33
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 196
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0001b26a0d6f416f0800000000000000
+      internalID: -714675064843595776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_34
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 170
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97daafb9edcef9bc0800000000000000
+      internalID: -3774037521869394567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_35
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 177
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd236a02f3dbb7f0800000000000000
+      internalID: -595649489186640423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_36
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 184
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff6dd62ee1aebf00800000000000000
+      internalID: 1134522200370278387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_37
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 177
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac5030dac2e28640800000000000000
+      internalID: 5080872690331442347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_38
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 153
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f000cf82eeeed51b0800000000000000
+      internalID: -5666110049504985073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_39
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 151
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b694dfdb604a930800000000000000
+      internalID: 4153452169410472777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_40
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 150
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba8c5e4a131dfdf0800000000000000
+      internalID: -144938609301222721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_41
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 153
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970205d107be7b060800000000000000
+      internalID: 6969297815139786873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_42
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 161
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7656a9abdabc93d0800000000000000
+      internalID: -3198476182733040005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_43
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 153
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7e7b48668812fe0800000000000000
+      internalID: -1215540450518636591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_44
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 122
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0cb0254c456cb70800000000000000
+      internalID: 8918909314220671136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_45
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 104
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683ab9e7d3b2121d0800000000000000
+      internalID: -3377370702434032762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_46
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 93
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc0da432abedcd40800000000000000
+      internalID: 5606396193047121103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_47
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 86
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b18027373bc5320800000000000000
+      internalID: 2548108797600602983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheathedSpecial_48
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 79
+        width: 57
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4ea1b21d4ae4fb0800000000000000
+      internalID: -4661607346003581786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SheathedSpecial_0: -4843143237976907108
+      SheathedSpecial_1: -260221959644989350
+      SheathedSpecial_10: 8439597164936808803
+      SheathedSpecial_11: 5818155497323021683
+      SheathedSpecial_12: 2821925892297118223
+      SheathedSpecial_13: 7391643316412946761
+      SheathedSpecial_14: -7859341340508252388
+      SheathedSpecial_15: -407125838093885697
+      SheathedSpecial_16: -7178654708592929901
+      SheathedSpecial_17: 309524359335250309
+      SheathedSpecial_18: 902006509944794855
+      SheathedSpecial_19: -1989434745519984833
+      SheathedSpecial_2: -3472611217491855902
+      SheathedSpecial_20: 6699618859936264950
+      SheathedSpecial_21: 7649650688393860648
+      SheathedSpecial_22: -8088878155932884343
+      SheathedSpecial_23: -1159920826029297212
+      SheathedSpecial_24: 5444564598791257675
+      SheathedSpecial_25: -4336298368422764430
+      SheathedSpecial_26: 41582096618850022
+      SheathedSpecial_27: 6296505142477970119
+      SheathedSpecial_28: -2655871690210189529
+      SheathedSpecial_29: -5553699273193704509
+      SheathedSpecial_3: -5037839297775426534
+      SheathedSpecial_30: -9018663627896334180
+      SheathedSpecial_31: 1312529438236575341
+      SheathedSpecial_32: 6251314349570725704
+      SheathedSpecial_33: -714675064843595776
+      SheathedSpecial_34: -3774037521869394567
+      SheathedSpecial_35: -595649489186640423
+      SheathedSpecial_36: 1134522200370278387
+      SheathedSpecial_37: 5080872690331442347
+      SheathedSpecial_38: -5666110049504985073
+      SheathedSpecial_39: 4153452169410472777
+      SheathedSpecial_4: 419231247232340689
+      SheathedSpecial_40: -144938609301222721
+      SheathedSpecial_41: 6969297815139786873
+      SheathedSpecial_42: -3198476182733040005
+      SheathedSpecial_43: -1215540450518636591
+      SheathedSpecial_44: 8918909314220671136
+      SheathedSpecial_45: -3377370702434032762
+      SheathedSpecial_46: 5606396193047121103
+      SheathedSpecial_47: 2548108797600602983
+      SheathedSpecial_48: -4661607346003581786
+      SheathedSpecial_5: -4672263235944963843
+      SheathedSpecial_6: -2026286274546124104
+      SheathedSpecial_7: 6348066712169137578
+      SheathedSpecial_8: 8562277407487473980
+      SheathedSpecial_9: -9208867676904373980
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

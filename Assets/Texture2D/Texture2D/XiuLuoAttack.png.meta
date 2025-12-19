@@ -1,0 +1,1690 @@
+fileFormatVersion: 2
+guid: f51056d11a342e949bb6db4d09a55e1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4806869427789223982
+    second: XiuLuoAttack_0
+  - first:
+      213: -4069541476392004192
+    second: XiuLuoAttack_1
+  - first:
+      213: 3312509144140354280
+    second: XiuLuoAttack_2
+  - first:
+      213: -1682055445120129916
+    second: XiuLuoAttack_3
+  - first:
+      213: 1005757706236618192
+    second: XiuLuoAttack_4
+  - first:
+      213: 4081683885856247399
+    second: XiuLuoAttack_5
+  - first:
+      213: 6133099578466441147
+    second: XiuLuoAttack_6
+  - first:
+      213: 2909138560035722906
+    second: XiuLuoAttack_7
+  - first:
+      213: -3886500821831136593
+    second: XiuLuoAttack_8
+  - first:
+      213: 2491331743931012683
+    second: XiuLuoAttack_9
+  - first:
+      213: 2588311983165838153
+    second: XiuLuoAttack_10
+  - first:
+      213: 8482461820782096027
+    second: XiuLuoAttack_11
+  - first:
+      213: -6236072689220545946
+    second: XiuLuoAttack_12
+  - first:
+      213: 4858119855625149273
+    second: XiuLuoAttack_13
+  - first:
+      213: -2344367306314080264
+    second: XiuLuoAttack_14
+  - first:
+      213: 2383196205743412277
+    second: XiuLuoAttack_15
+  - first:
+      213: -7711118814661567544
+    second: XiuLuoAttack_16
+  - first:
+      213: -5479786779808932683
+    second: XiuLuoAttack_17
+  - first:
+      213: -6580689843529709780
+    second: XiuLuoAttack_18
+  - first:
+      213: -3509707434090681493
+    second: XiuLuoAttack_19
+  - first:
+      213: 3221063889598454741
+    second: XiuLuoAttack_20
+  - first:
+      213: -6449387607438417237
+    second: XiuLuoAttack_21
+  - first:
+      213: 4197561455321809628
+    second: XiuLuoAttack_22
+  - first:
+      213: -4807950171029061104
+    second: XiuLuoAttack_23
+  - first:
+      213: 9051726951660683317
+    second: XiuLuoAttack_24
+  - first:
+      213: -8732722219024147324
+    second: XiuLuoAttack_25
+  - first:
+      213: -4321151787423074279
+    second: XiuLuoAttack_26
+  - first:
+      213: -8807160301822232964
+    second: XiuLuoAttack_27
+  - first:
+      213: 7958196099979084111
+    second: XiuLuoAttack_28
+  - first:
+      213: -7576235198799915311
+    second: XiuLuoAttack_29
+  - first:
+      213: 5266311791722784365
+    second: XiuLuoAttack_30
+  - first:
+      213: 7171118324636034568
+    second: XiuLuoAttack_31
+  - first:
+      213: 7407352505750571730
+    second: XiuLuoAttack_32
+  - first:
+      213: -8451436150237275777
+    second: XiuLuoAttack_33
+  - first:
+      213: -8524141061984581938
+    second: XiuLuoAttack_34
+  - first:
+      213: -2725082875501907484
+    second: XiuLuoAttack_35
+  - first:
+      213: -1171338600614597023
+    second: XiuLuoAttack_36
+  - first:
+      213: -819564806075145148
+    second: XiuLuoAttack_37
+  - first:
+      213: -3223725989746744806
+    second: XiuLuoAttack_38
+  - first:
+      213: -2820552785019576723
+    second: XiuLuoAttack_39
+  - first:
+      213: 3698316897317309577
+    second: XiuLuoAttack_40
+  - first:
+      213: 1818049726778640153
+    second: XiuLuoAttack_41
+  - first:
+      213: -3421977276794340505
+    second: XiuLuoAttack_42
+  - first:
+      213: -2783227034161663329
+    second: XiuLuoAttack_43
+  - first:
+      213: 8574696546037026136
+    second: XiuLuoAttack_44
+  - first:
+      213: 6074540088868204730
+    second: XiuLuoAttack_45
+  - first:
+      213: 2599883043066720578
+    second: XiuLuoAttack_46
+  - first:
+      213: 8749970350334163184
+    second: XiuLuoAttack_47
+  - first:
+      213: -3781188834546116090
+    second: XiuLuoAttack_48
+  - first:
+      213: -9110357050001296665
+    second: XiuLuoAttack_49
+  - first:
+      213: -6942895959164701259
+    second: XiuLuoAttack_50
+  - first:
+      213: -4473478569438707195
+    second: XiuLuoAttack_51
+  - first:
+      213: 2539336077940326183
+    second: XiuLuoAttack_52
+  - first:
+      213: -5200552503425802670
+    second: XiuLuoAttack_53
+  - first:
+      213: 5609727115167713080
+    second: XiuLuoAttack_54
+  - first:
+      213: -7056949609449328412
+    second: XiuLuoAttack_55
+  - first:
+      213: -8081165160914927720
+    second: XiuLuoAttack_56
+  - first:
+      213: -8983154233241070530
+    second: XiuLuoAttack_57
+  - first:
+      213: 1428460563077519027
+    second: XiuLuoAttack_58
+  - first:
+      213: 4889987439196975140
+    second: XiuLuoAttack_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: XiuLuoAttack_0
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 504
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d720fa29b19a4db0800000000000000
+      internalID: -4806869427789223982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_1
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 498
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a59feca6951687c0800000000000000
+      internalID: -4069541476392004192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_2
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 498
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e218b3248568fd20800000000000000
+      internalID: 3312509144140354280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 444
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4846a1d0c7328a8e0800000000000000
+      internalID: -1682055445120129916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 443
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5685a1e4b25fd00800000000000000
+      internalID: 1005757706236618192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_5
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 469
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ec5e55edd05a830800000000000000
+      internalID: 4081683885856247399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 442
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7179272952d1550800000000000000
+      internalID: 6133099578466441147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 468
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9612596b165f5820800000000000000
+      internalID: 2909138560035722906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_8
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 463
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faacd771810601ac0800000000000000
+      internalID: -3886500821831136593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_9
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 433
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4699ae750df29220800000000000000
+      internalID: 2491331743931012683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_10
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 462
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9439c7409088be320800000000000000
+      internalID: 2588311983165838153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_11
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 463
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ea7808512c7b570800000000000000
+      internalID: 8482461820782096027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_12
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 433
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6629e75ede40579a0800000000000000
+      internalID: -6236072689220545946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_13
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 462
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b1fcee4428b6340800000000000000
+      internalID: 4858119855625149273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 433
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff1c1c1b52277fd0800000000000000
+      internalID: -2344367306314080264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_15
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 433
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53415698250d21120800000000000000
+      internalID: 2383196205743412277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_16
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 433
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb14471b4a9cf490800000000000000
+      internalID: -7711118814661567544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_17
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 369
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc5b98f4f2e3f3b0800000000000000
+      internalID: -5479786779808932683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_18
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 364
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27046b0471bca4a0800000000000000
+      internalID: -6580689843529709780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_19
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 367
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b2a751fa30b4fc0800000000000000
+      internalID: -3509707434090681493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_20
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 369
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db9a5aaa8483bc20800000000000000
+      internalID: 3221063889598454741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_21
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 364
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2a3df242c2f76a0800000000000000
+      internalID: -6449387607438417237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_22
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 305
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2045b67ebb04a30800000000000000
+      internalID: 4197561455321809628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_23
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 305
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012c8060bcab64db0800000000000000
+      internalID: -4807950171029061104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 347
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530809554b13e9d70800000000000000
+      internalID: 9051726951660683317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_25
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 347
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c97e4e8632fc680800000000000000
+      internalID: -8732722219024147324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_26
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 305
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9187a12085f2804c0800000000000000
+      internalID: -4321151787423074279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_27
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 305
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76b6f92e5ea6c580800000000000000
+      internalID: -8807160301822232964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_28
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 305
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4107284031317e60800000000000000
+      internalID: 7958196099979084111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_29
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 347
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d658b03a3ecbd690800000000000000
+      internalID: -7576235198799915311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_30
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 334
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6666162ca2b51940800000000000000
+      internalID: 5266311791722784365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 333
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806a93e3f1ee48360800000000000000
+      internalID: 7171118324636034568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_32
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 334
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dacc5fabd33cc660800000000000000
+      internalID: 7407352505750571730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_33
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 333
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f795637599776ba80800000000000000
+      internalID: -8451436150237275777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_34
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 239
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec68611fdda24b980800000000000000
+      internalID: -8524141061984581938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_35
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 241
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e17536109f8e2ad0800000000000000
+      internalID: -2725082875501907484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_36
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 236
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ee9aeafb19ebfe0800000000000000
+      internalID: -1171338600614597023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_37
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 239
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444aa7fa62250a4f0800000000000000
+      internalID: -819564806075145148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_38
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 219
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1263f7da460343d0800000000000000
+      internalID: -3223725989746744806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_39
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 177
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e5baa9f226bd8d0800000000000000
+      internalID: -2820552785019576723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_40
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 177
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c4c63af9f035330800000000000000
+      internalID: 3698316897317309577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_41
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 177
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91703a418920b3910800000000000000
+      internalID: 1818049726778640153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_42
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 219
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bf6331cc1b280d0800000000000000
+      internalID: -3421977276794340505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_43
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 219
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92b78332cdff59d0800000000000000
+      internalID: -2783227034161663329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_44
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 177
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d4e43f3117ff670800000000000000
+      internalID: 8574696546037026136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_45
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 177
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0fbdac60a1d4450800000000000000
+      internalID: 6074540088868204730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_46
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 206
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241bd875ad3a41420800000000000000
+      internalID: 2599883043066720578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 205
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f83ede9ca32e6970800000000000000
+      internalID: 8749970350334163184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_48
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 206
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a9430e9c4868bc0800000000000000
+      internalID: -3781188834546116090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_49
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 205
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e272b12882819180800000000000000
+      internalID: -9110357050001296665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_50
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 108
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b53e7109e0e5af90800000000000000
+      internalID: -6942895959164701259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_51
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 111
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502884e41f20be1c0800000000000000
+      internalID: -4473478569438707195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_52
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 60
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f77fa75b88d3320800000000000000
+      internalID: 2539336077940326183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_53
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 61
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e59854d0de3d7b0800000000000000
+      internalID: -5200552503425802670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_54
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 49
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837c272f611c9dd40800000000000000
+      internalID: 5609727115167713080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_55
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 49
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0f0f238bda01e90800000000000000
+      internalID: -7056949609449328412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_56
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 77
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f376c1a1fe9df80800000000000000
+      internalID: -8081165160914927720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_57
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 49
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e349e15d1dc655380800000000000000
+      internalID: -8983154233241070530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_58
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 49
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6d3e55059e2d310800000000000000
+      internalID: 1428460563077519027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XiuLuoAttack_59
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 49
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420357deaa9bcd340800000000000000
+      internalID: 4889987439196975140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      XiuLuoAttack_0: -4806869427789223982
+      XiuLuoAttack_1: -4069541476392004192
+      XiuLuoAttack_10: 2588311983165838153
+      XiuLuoAttack_11: 8482461820782096027
+      XiuLuoAttack_12: -6236072689220545946
+      XiuLuoAttack_13: 4858119855625149273
+      XiuLuoAttack_14: -2344367306314080264
+      XiuLuoAttack_15: 2383196205743412277
+      XiuLuoAttack_16: -7711118814661567544
+      XiuLuoAttack_17: -5479786779808932683
+      XiuLuoAttack_18: -6580689843529709780
+      XiuLuoAttack_19: -3509707434090681493
+      XiuLuoAttack_2: 3312509144140354280
+      XiuLuoAttack_20: 3221063889598454741
+      XiuLuoAttack_21: -6449387607438417237
+      XiuLuoAttack_22: 4197561455321809628
+      XiuLuoAttack_23: -4807950171029061104
+      XiuLuoAttack_24: 9051726951660683317
+      XiuLuoAttack_25: -8732722219024147324
+      XiuLuoAttack_26: -4321151787423074279
+      XiuLuoAttack_27: -8807160301822232964
+      XiuLuoAttack_28: 7958196099979084111
+      XiuLuoAttack_29: -7576235198799915311
+      XiuLuoAttack_3: -1682055445120129916
+      XiuLuoAttack_30: 5266311791722784365
+      XiuLuoAttack_31: 7171118324636034568
+      XiuLuoAttack_32: 7407352505750571730
+      XiuLuoAttack_33: -8451436150237275777
+      XiuLuoAttack_34: -8524141061984581938
+      XiuLuoAttack_35: -2725082875501907484
+      XiuLuoAttack_36: -1171338600614597023
+      XiuLuoAttack_37: -819564806075145148
+      XiuLuoAttack_38: -3223725989746744806
+      XiuLuoAttack_39: -2820552785019576723
+      XiuLuoAttack_4: 1005757706236618192
+      XiuLuoAttack_40: 3698316897317309577
+      XiuLuoAttack_41: 1818049726778640153
+      XiuLuoAttack_42: -3421977276794340505
+      XiuLuoAttack_43: -2783227034161663329
+      XiuLuoAttack_44: 8574696546037026136
+      XiuLuoAttack_45: 6074540088868204730
+      XiuLuoAttack_46: 2599883043066720578
+      XiuLuoAttack_47: 8749970350334163184
+      XiuLuoAttack_48: -3781188834546116090
+      XiuLuoAttack_49: -9110357050001296665
+      XiuLuoAttack_5: 4081683885856247399
+      XiuLuoAttack_50: -6942895959164701259
+      XiuLuoAttack_51: -4473478569438707195
+      XiuLuoAttack_52: 2539336077940326183
+      XiuLuoAttack_53: -5200552503425802670
+      XiuLuoAttack_54: 5609727115167713080
+      XiuLuoAttack_55: -7056949609449328412
+      XiuLuoAttack_56: -8081165160914927720
+      XiuLuoAttack_57: -8983154233241070530
+      XiuLuoAttack_58: 1428460563077519027
+      XiuLuoAttack_59: 4889987439196975140
+      XiuLuoAttack_6: 6133099578466441147
+      XiuLuoAttack_7: 2909138560035722906
+      XiuLuoAttack_8: -3886500821831136593
+      XiuLuoAttack_9: 2491331743931012683
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

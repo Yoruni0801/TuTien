@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 52a30dd09ee69b3479b3206c27dc1b4c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7913047167602541773
+    second: PeachATK3FX_0
+  - first:
+      213: -6356006817650787337
+    second: PeachATK3FX_1
+  - first:
+      213: -6465505694297035283
+    second: PeachATK3FX_2
+  - first:
+      213: -5195905203239497061
+    second: PeachATK3FX_3
+  - first:
+      213: 7553380096455058217
+    second: PeachATK3FX_4
+  - first:
+      213: -8511634696975864120
+    second: PeachATK3FX_5
+  - first:
+      213: 5511888140397852192
+    second: PeachATK3FX_6
+  - first:
+      213: 730441696390239966
+    second: PeachATK3FX_7
+  - first:
+      213: -1998919653024661769
+    second: PeachATK3FX_8
+  - first:
+      213: 1194683344604975880
+    second: PeachATK3FX_9
+  - first:
+      213: -5712194480405898258
+    second: PeachATK3FX_10
+  - first:
+      213: 5252787287839885320
+    second: PeachATK3FX_11
+  - first:
+      213: 6048673468472812918
+    second: PeachATK3FX_12
+  - first:
+      213: -8700655763915674515
+    second: PeachATK3FX_13
+  - first:
+      213: 4503095157688484924
+    second: PeachATK3FX_14
+  - first:
+      213: 6282453700760868686
+    second: PeachATK3FX_15
+  - first:
+      213: 1744325995623542940
+    second: PeachATK3FX_16
+  - first:
+      213: -8296960355977130711
+    second: PeachATK3FX_17
+  - first:
+      213: 3848070899128045333
+    second: PeachATK3FX_18
+  - first:
+      213: 2969597248714181623
+    second: PeachATK3FX_19
+  - first:
+      213: -3603120078914559645
+    second: PeachATK3FX_20
+  - first:
+      213: 772593304864648733
+    second: PeachATK3FX_21
+  - first:
+      213: -6978035473467512855
+    second: PeachATK3FX_22
+  - first:
+      213: 7416763827810443354
+    second: PeachATK3FX_23
+  - first:
+      213: 1653998580922656794
+    second: PeachATK3FX_24
+  - first:
+      213: 1163671324062672686
+    second: PeachATK3FX_25
+  - first:
+      213: 8817665583131221479
+    second: PeachATK3FX_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PeachATK3FX_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 856
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc44cdb497ac0dd60800000000000000
+      internalID: 7913047167602541773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachATK3FX_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 856
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbb6f3997deac7a0800000000000000
+      internalID: -6356006817650787337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachATK3FX_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 856
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dede826a3d8e546a0800000000000000
+      internalID: -6465505694297035283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachATK3FX_3
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 856
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b925e4a2fbf64e7b0800000000000000
+      internalID: -5195905203239497061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachATK3FX_4
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 856
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923a5be9d2ff2d860800000000000000
+      internalID: 7553380096455058217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachATK3FX_5
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 856
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce2dd4f65990e980800000000000000
+      internalID: -8511634696975864120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachATK3FX_6
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 720
+        width: 86
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0263a1a7f092e7c40800000000000000
+      internalID: 5511888140397852192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachATK3FX_7
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 720
+        width: 86
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed659725adc032a00800000000000000
+      internalID: 730441696390239966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachATK3FX_8
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 720
+        width: 86
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fefae29a296244e0800000000000000
+      internalID: -1998919653024661769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachATK3FX_9
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 720
+        width: 86
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80351461c2e549010800000000000000
+      internalID: 1194683344604975880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachATK3FX_10
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 720
+        width: 86
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb957372653ab0b0800000000000000
+      internalID: -5712194480405898258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachATK3FX_11
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 720
+        width: 86
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80842643536a5e840800000000000000
+      internalID: 5252787287839885320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachATK3FX_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 556
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675e6aae87431f350800000000000000
+      internalID: 6048673468472812918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachATK3FX_13
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 556
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ce9d64eaf014780800000000000000
+      internalID: -8700655763915674515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachATK3FX_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 556
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34cdcfff253e7e30800000000000000
+      internalID: 4503095157688484924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachATK3FX_15
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 540
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4790bfda52cf2750800000000000000
+      internalID: 6282453700760868686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachATK3FX_16
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 420
+        width: 86
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90fe9d4047153810800000000000000
+      internalID: 1744325995623542940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachATK3FX_17
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 420
+        width: 86
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d0c72f3864bdc80800000000000000
+      internalID: -8296960355977130711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachATK3FX_18
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 420
+        width: 86
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f8b054818176530800000000000000
+      internalID: 3848070899128045333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachATK3FX_19
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 420
+        width: 86
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb069fc6f0263920800000000000000
+      internalID: 2969597248714181623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachATK3FX_20
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 416
+        width: 98
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361683dd0652ffdc0800000000000000
+      internalID: -3603120078914559645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachATK3FX_21
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 408
+        width: 120
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e6d44748dc8ba00800000000000000
+      internalID: 772593304864648733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachATK3FX_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 104
+        width: 128
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7e4e545b9092f90800000000000000
+      internalID: -6978035473467512855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachATK3FX_23
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 104
+        width: 130
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50ab9bd763ade660800000000000000
+      internalID: 7416763827810443354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachATK3FX_24
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 135
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1825e232fe24f610800000000000000
+      internalID: 1653998580922656794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachATK3FX_25
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 135
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27601267e0362010800000000000000
+      internalID: 1163671324062672686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeachATK3FX_26
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 135
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed59be3124ae5a70800000000000000
+      internalID: 8817665583131221479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PeachATK3FX_0: 7913047167602541773
+      PeachATK3FX_1: -6356006817650787337
+      PeachATK3FX_10: -5712194480405898258
+      PeachATK3FX_11: 5252787287839885320
+      PeachATK3FX_12: 6048673468472812918
+      PeachATK3FX_13: -8700655763915674515
+      PeachATK3FX_14: 4503095157688484924
+      PeachATK3FX_15: 6282453700760868686
+      PeachATK3FX_16: 1744325995623542940
+      PeachATK3FX_17: -8296960355977130711
+      PeachATK3FX_18: 3848070899128045333
+      PeachATK3FX_19: 2969597248714181623
+      PeachATK3FX_2: -6465505694297035283
+      PeachATK3FX_20: -3603120078914559645
+      PeachATK3FX_21: 772593304864648733
+      PeachATK3FX_22: -6978035473467512855
+      PeachATK3FX_23: 7416763827810443354
+      PeachATK3FX_24: 1653998580922656794
+      PeachATK3FX_25: 1163671324062672686
+      PeachATK3FX_26: 8817665583131221479
+      PeachATK3FX_3: -5195905203239497061
+      PeachATK3FX_4: 7553380096455058217
+      PeachATK3FX_5: -8511634696975864120
+      PeachATK3FX_6: 5511888140397852192
+      PeachATK3FX_7: 730441696390239966
+      PeachATK3FX_8: -1998919653024661769
+      PeachATK3FX_9: 1194683344604975880
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

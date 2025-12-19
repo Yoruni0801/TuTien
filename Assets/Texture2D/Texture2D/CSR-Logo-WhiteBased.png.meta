@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: 3e4f93bdfe88fc343825fea66517a31d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1354278933595138
+    second: CSR-Logo-WhiteBased_0
+  - first:
+      213: 5840203661752882355
+    second: CSR-Logo-WhiteBased_1
+  - first:
+      213: -3673990227578492232
+    second: CSR-Logo-WhiteBased_2
+  - first:
+      213: 1168185714296411796
+    second: CSR-Logo-WhiteBased_3
+  - first:
+      213: -6589896278129793284
+    second: CSR-Logo-WhiteBased_4
+  - first:
+      213: -4078122143821140384
+    second: CSR-Logo-WhiteBased_5
+  - first:
+      213: 3884917997215032791
+    second: CSR-Logo-WhiteBased_6
+  - first:
+      213: -4582002287144416161
+    second: CSR-Logo-WhiteBased_7
+  - first:
+      213: -1266980673802689901
+    second: CSR-Logo-WhiteBased_8
+  - first:
+      213: 2196640005279381588
+    second: CSR-Logo-WhiteBased_9
+  - first:
+      213: -3769212221823295839
+    second: CSR-Logo-WhiteBased_10
+  - first:
+      213: 9124896636332115176
+    second: CSR-Logo-WhiteBased_11
+  - first:
+      213: -4915487116507545856
+    second: CSR-Logo-WhiteBased_12
+  - first:
+      213: 5584594528831890514
+    second: CSR-Logo-WhiteBased_13
+  - first:
+      213: -6874851505283674671
+    second: CSR-Logo-WhiteBased_14
+  - first:
+      213: 5405300826054829412
+    second: CSR-Logo-WhiteBased_15
+  - first:
+      213: 1313058302889970500
+    second: CSR-Logo-WhiteBased_16
+  - first:
+      213: -734488693746448020
+    second: CSR-Logo-WhiteBased_17
+  - first:
+      213: 530208347369149302
+    second: CSR-Logo-WhiteBased_18
+  - first:
+      213: 1870739440878042303
+    second: CSR-Logo-WhiteBased_19
+  - first:
+      213: 8225131846322000751
+    second: CSR-Logo-WhiteBased_20
+  - first:
+      213: -4518639241269762569
+    second: CSR-Logo-WhiteBased_21
+  - first:
+      213: -6189672640764606903
+    second: CSR-Logo-WhiteBased_22
+  - first:
+      213: -3158327876280946426
+    second: CSR-Logo-WhiteBased_23
+  - first:
+      213: 4531496057982771213
+    second: CSR-Logo-WhiteBased_24
+  - first:
+      213: -3384587489024845520
+    second: CSR-Logo-WhiteBased_25
+  - first:
+      213: 3759371418366104471
+    second: CSR-Logo-WhiteBased_26
+  - first:
+      213: -112262410329921305
+    second: CSR-Logo-WhiteBased_27
+  - first:
+      213: -3836789742478592451
+    second: CSR-Logo-WhiteBased_28
+  - first:
+      213: 2851359837603493407
+    second: CSR-Logo-WhiteBased_29
+  - first:
+      213: 4897165848635656810
+    second: CSR-Logo-WhiteBased_30
+  - first:
+      213: -4031681340894802118
+    second: CSR-Logo-WhiteBased_31
+  - first:
+      213: 7727234265439118166
+    second: CSR-Logo-WhiteBased_32
+  - first:
+      213: 785878396966067953
+    second: CSR-Logo-WhiteBased_33
+  - first:
+      213: 2740492295327306074
+    second: CSR-Logo-WhiteBased_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_0
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 564
+        width: 259
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20483c2a5bfc40000800000000000000
+      internalID: 1354278933595138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 430
+        width: 372
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b457b2a9429c0150800000000000000
+      internalID: 5840203661752882355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_2
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 713
+        width: 143
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba6de88a5d530dc0800000000000000
+      internalID: -3673990227578492232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_3
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 423
+        width: 438
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496d254c7ba363010800000000000000
+      internalID: 1168185714296411796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_4
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 449
+        width: 330
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6a763ff3cfb84a0800000000000000
+      internalID: -6589896278129793284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_5
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 400
+        width: 220
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ee2ea54899767c0800000000000000
+      internalID: -4078122143821140384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_6
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 401
+        width: 201
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d52685d5500ae530800000000000000
+      internalID: 3884917997215032791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 285
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ccab242357960c0800000000000000
+      internalID: -4582002287144416161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_8
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 285
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392a4b83ac7ca6ee0800000000000000
+      internalID: -1266980673802689901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_9
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 284
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458f61e42780c7e10800000000000000
+      internalID: 2196640005279381588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_10
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 285
+        width: 21
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae5923547111bbc0800000000000000
+      internalID: -3769212221823295839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_11
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 284
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e48bbc152522ae70800000000000000
+      internalID: 9124896636332115176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_12
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 284
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ffe8ac28ea8cbb0800000000000000
+      internalID: -4915487116507545856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_13
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 285
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2546d91b227708d40800000000000000
+      internalID: 5584594528831890514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_14
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 284
+        width: 19
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddc1000bfe9790a0800000000000000
+      internalID: -6874851505283674671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_15
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 285
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465af19767c730b40800000000000000
+      internalID: 5405300826054829412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_16
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 283
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b4221d19be83210800000000000000
+      internalID: 1313058302889970500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_17
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 190
+        width: 74
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69c3bdac629ec5f0800000000000000
+      internalID: -734488693746448020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_18
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 190
+        width: 59
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67392e9ceadab5700800000000000000
+      internalID: 530208347369149302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_19
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 190
+        width: 34
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc39d02c9336f910800000000000000
+      internalID: 1870739440878042303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_20
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 186
+        width: 69
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6396cae5d9852270800000000000000
+      internalID: 8225131846322000751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_21
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 190
+        width: 69
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5a9f30d819a41c0800000000000000
+      internalID: -4518639241269762569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_22
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 189
+        width: 69
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946854b078dd91aa0800000000000000
+      internalID: -6189672640764606903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_23
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 191
+        width: 74
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6017f02b78d5b24d0800000000000000
+      internalID: -3158327876280946426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_24
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 190
+        width: 66
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d006525e7ab13ee30800000000000000
+      internalID: 4531496057982771213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_25
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 186
+        width: 72
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039517d6c978701d0800000000000000
+      internalID: -3384587489024845520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_26
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 188
+        width: 72
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793d7721368fb2430800000000000000
+      internalID: 3759371418366104471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_27
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 189
+        width: 32
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8e7aebee9217ef0800000000000000
+      internalID: -112262410329921305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_28
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 188
+        width: 64
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3673b1be0cf0cac0800000000000000
+      internalID: -3836789742478592451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_29
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 189
+        width: 74
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16fb274aa0129720800000000000000
+      internalID: 2851359837603493407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_30
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 190
+        width: 33
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a4a1e946a36f340800000000000000
+      internalID: 4897165848635656810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_31
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 190
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f05646e279c08c0800000000000000
+      internalID: -4031681340894802118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_32
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 189
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653a9bfaf96ac3b60800000000000000
+      internalID: 7727234265439118166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_33
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 190
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fed0dffc3008ea00800000000000000
+      internalID: 785878396966067953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSR-Logo-WhiteBased_34
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 190
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51ddac093f280620800000000000000
+      internalID: 2740492295327306074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CSR-Logo-WhiteBased_0: 1354278933595138
+      CSR-Logo-WhiteBased_1: 5840203661752882355
+      CSR-Logo-WhiteBased_10: -3769212221823295839
+      CSR-Logo-WhiteBased_11: 9124896636332115176
+      CSR-Logo-WhiteBased_12: -4915487116507545856
+      CSR-Logo-WhiteBased_13: 5584594528831890514
+      CSR-Logo-WhiteBased_14: -6874851505283674671
+      CSR-Logo-WhiteBased_15: 5405300826054829412
+      CSR-Logo-WhiteBased_16: 1313058302889970500
+      CSR-Logo-WhiteBased_17: -734488693746448020
+      CSR-Logo-WhiteBased_18: 530208347369149302
+      CSR-Logo-WhiteBased_19: 1870739440878042303
+      CSR-Logo-WhiteBased_2: -3673990227578492232
+      CSR-Logo-WhiteBased_20: 8225131846322000751
+      CSR-Logo-WhiteBased_21: -4518639241269762569
+      CSR-Logo-WhiteBased_22: -6189672640764606903
+      CSR-Logo-WhiteBased_23: -3158327876280946426
+      CSR-Logo-WhiteBased_24: 4531496057982771213
+      CSR-Logo-WhiteBased_25: -3384587489024845520
+      CSR-Logo-WhiteBased_26: 3759371418366104471
+      CSR-Logo-WhiteBased_27: -112262410329921305
+      CSR-Logo-WhiteBased_28: -3836789742478592451
+      CSR-Logo-WhiteBased_29: 2851359837603493407
+      CSR-Logo-WhiteBased_3: 1168185714296411796
+      CSR-Logo-WhiteBased_30: 4897165848635656810
+      CSR-Logo-WhiteBased_31: -4031681340894802118
+      CSR-Logo-WhiteBased_32: 7727234265439118166
+      CSR-Logo-WhiteBased_33: 785878396966067953
+      CSR-Logo-WhiteBased_34: 2740492295327306074
+      CSR-Logo-WhiteBased_4: -6589896278129793284
+      CSR-Logo-WhiteBased_5: -4078122143821140384
+      CSR-Logo-WhiteBased_6: 3884917997215032791
+      CSR-Logo-WhiteBased_7: -4582002287144416161
+      CSR-Logo-WhiteBased_8: -1266980673802689901
+      CSR-Logo-WhiteBased_9: 2196640005279381588
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

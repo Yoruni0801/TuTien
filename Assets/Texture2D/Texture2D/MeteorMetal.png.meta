@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 19e5eb453ee88ee4f8b78a923db00ffb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5391608325204323075
+    second: MeteorMetal_0
+  - first:
+      213: 9028889304111247714
+    second: MeteorMetal_1
+  - first:
+      213: 8256734720146046460
+    second: MeteorMetal_2
+  - first:
+      213: 9083626951668104076
+    second: MeteorMetal_3
+  - first:
+      213: -1613498181688118209
+    second: MeteorMetal_4
+  - first:
+      213: -6046532352851043300
+    second: MeteorMetal_5
+  - first:
+      213: -4936811422912125054
+    second: MeteorMetal_6
+  - first:
+      213: 6448079453088809306
+    second: MeteorMetal_7
+  - first:
+      213: 2770156669424620234
+    second: MeteorMetal_8
+  - first:
+      213: 3364989229216230302
+    second: MeteorMetal_9
+  - first:
+      213: 1483382586672707852
+    second: MeteorMetal_10
+  - first:
+      213: -8997231870855802836
+    second: MeteorMetal_11
+  - first:
+      213: 4366996780007639084
+    second: MeteorMetal_12
+  - first:
+      213: -1925494802354797283
+    second: MeteorMetal_13
+  - first:
+      213: 8615264936571323283
+    second: MeteorMetal_14
+  - first:
+      213: -1568029070910008471
+    second: MeteorMetal_15
+  - first:
+      213: 2259057913453939057
+    second: MeteorMetal_16
+  - first:
+      213: -6037159738195799183
+    second: MeteorMetal_17
+  - first:
+      213: 4399514247389230671
+    second: MeteorMetal_18
+  - first:
+      213: 4380175842888739674
+    second: MeteorMetal_19
+  - first:
+      213: 4709280275134730155
+    second: MeteorMetal_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MeteorMetal_0
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1961
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ba7dfa437d2da40800000000000000
+      internalID: 5391608325204323075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorMetal_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1671
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261ffd72cfe0d4d70800000000000000
+      internalID: 9028889304111247714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorMetal_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1671
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd70fe5b70d59270800000000000000
+      internalID: 8256734720146046460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorMetal_3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1671
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b775ed5968f0e70800000000000000
+      internalID: 9083626951668104076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorMetal_4
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1671
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34bdb2d3f3bb99e0800000000000000
+      internalID: -1613498181688118209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorMetal_5
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1671
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c18696cd6661ca0800000000000000
+      internalID: -6046532352851043300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorMetal_6
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1671
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2876b3eca2cec7bb0800000000000000
+      internalID: -4936811422912125054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorMetal_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1189
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a518ad4691e2c7950800000000000000
+      internalID: 6448079453088809306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorMetal_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1080
+        width: 41
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2db3d50d2917620800000000000000
+      internalID: 2770156669424620234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorMetal_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 988
+        width: 107
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9be27020e7d2be20800000000000000
+      internalID: 3364989229216230302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorMetal_10
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 988
+        width: 107
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0970a07a98069410800000000000000
+      internalID: 1483382586672707852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorMetal_11
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 988
+        width: 107
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2011d76849632380800000000000000
+      internalID: -8997231870855802836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorMetal_12
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 999
+        width: 113
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2841af1f60ba9c30800000000000000
+      internalID: 4366996780007639084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorMetal_13
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 993
+        width: 113
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1508c0dda44745e0800000000000000
+      internalID: -1925494802354797283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorMetal_14
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 989
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393463e60d19f8770800000000000000
+      internalID: 8615264936571323283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorMetal_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 306
+        width: 113
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9635ce62edd3d3ae0800000000000000
+      internalID: -1568029070910008471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorMetal_16
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 307
+        width: 113
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179057a0439c95f10800000000000000
+      internalID: 2259057913453939057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorMetal_17
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 317
+        width: 113
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1739c805433b73ca0800000000000000
+      internalID: -6037159738195799183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorMetal_18
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 317
+        width: 113
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46b7ebf5e63e0d30800000000000000
+      internalID: 4399514247389230671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorMetal_19
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 331
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b6121d8b289cc30800000000000000
+      internalID: 4380175842888739674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteorMetal_20
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 331
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafc82b9579ba5140800000000000000
+      internalID: 4709280275134730155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MeteorMetal_0: 5391608325204323075
+      MeteorMetal_1: 9028889304111247714
+      MeteorMetal_10: 1483382586672707852
+      MeteorMetal_11: -8997231870855802836
+      MeteorMetal_12: 4366996780007639084
+      MeteorMetal_13: -1925494802354797283
+      MeteorMetal_14: 8615264936571323283
+      MeteorMetal_15: -1568029070910008471
+      MeteorMetal_16: 2259057913453939057
+      MeteorMetal_17: -6037159738195799183
+      MeteorMetal_18: 4399514247389230671
+      MeteorMetal_19: 4380175842888739674
+      MeteorMetal_2: 8256734720146046460
+      MeteorMetal_20: 4709280275134730155
+      MeteorMetal_3: 9083626951668104076
+      MeteorMetal_4: -1613498181688118209
+      MeteorMetal_5: -6046532352851043300
+      MeteorMetal_6: -4936811422912125054
+      MeteorMetal_7: 6448079453088809306
+      MeteorMetal_8: 2770156669424620234
+      MeteorMetal_9: 3364989229216230302
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

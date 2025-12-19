@@ -1,0 +1,3328 @@
+fileFormatVersion: 2
+guid: 8053dd1e2520bb0479c104c4e8b8aeac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1391174028831190479
+    second: EarthTornado_0
+  - first:
+      213: 1970484682483557231
+    second: EarthTornado_1
+  - first:
+      213: 8477910671148621552
+    second: EarthTornado_2
+  - first:
+      213: 8072117447124554955
+    second: EarthTornado_3
+  - first:
+      213: -1893914607265552555
+    second: EarthTornado_4
+  - first:
+      213: -7616964157966196006
+    second: EarthTornado_5
+  - first:
+      213: -4384401744023456570
+    second: EarthTornado_6
+  - first:
+      213: 6235270873553212749
+    second: EarthTornado_7
+  - first:
+      213: -3515601874814344811
+    second: EarthTornado_8
+  - first:
+      213: -6931347779032406964
+    second: EarthTornado_9
+  - first:
+      213: 6246824803860873432
+    second: EarthTornado_10
+  - first:
+      213: 7090129943234673445
+    second: EarthTornado_11
+  - first:
+      213: 8954499407616446
+    second: EarthTornado_12
+  - first:
+      213: 3379053651022908968
+    second: EarthTornado_13
+  - first:
+      213: -2342325586059563278
+    second: EarthTornado_14
+  - first:
+      213: 7484642099977799769
+    second: EarthTornado_15
+  - first:
+      213: -3412778048937240994
+    second: EarthTornado_16
+  - first:
+      213: -8627747622826457320
+    second: EarthTornado_17
+  - first:
+      213: -8988415203326748585
+    second: EarthTornado_18
+  - first:
+      213: 7987105941454123540
+    second: EarthTornado_19
+  - first:
+      213: 8632043320355519907
+    second: EarthTornado_20
+  - first:
+      213: 3016539062611675335
+    second: EarthTornado_21
+  - first:
+      213: -608837693470172771
+    second: EarthTornado_22
+  - first:
+      213: -6608774444763972792
+    second: EarthTornado_23
+  - first:
+      213: -4776484253782831770
+    second: EarthTornado_24
+  - first:
+      213: -4077251374990919265
+    second: EarthTornado_25
+  - first:
+      213: 6529758827472487013
+    second: EarthTornado_26
+  - first:
+      213: -8865786621516345940
+    second: EarthTornado_27
+  - first:
+      213: 4529709296729316661
+    second: EarthTornado_28
+  - first:
+      213: -5683866764434290011
+    second: EarthTornado_29
+  - first:
+      213: 7984073543226172919
+    second: EarthTornado_30
+  - first:
+      213: 828424978604801866
+    second: EarthTornado_31
+  - first:
+      213: 2740409676489227068
+    second: EarthTornado_32
+  - first:
+      213: 4148421762667139891
+    second: EarthTornado_33
+  - first:
+      213: -3394006117101012678
+    second: EarthTornado_34
+  - first:
+      213: -4068948572970267084
+    second: EarthTornado_35
+  - first:
+      213: -8735901979435495857
+    second: EarthTornado_36
+  - first:
+      213: -3139708687576948827
+    second: EarthTornado_37
+  - first:
+      213: 749037732440889084
+    second: EarthTornado_38
+  - first:
+      213: -5283574663672886922
+    second: EarthTornado_39
+  - first:
+      213: 7546940272692300886
+    second: EarthTornado_40
+  - first:
+      213: -2324507135837573263
+    second: EarthTornado_41
+  - first:
+      213: 8227195258250947588
+    second: EarthTornado_42
+  - first:
+      213: 661731670314034896
+    second: EarthTornado_43
+  - first:
+      213: 465130463232160497
+    second: EarthTornado_44
+  - first:
+      213: -8568917870230454986
+    second: EarthTornado_45
+  - first:
+      213: -694437610169461881
+    second: EarthTornado_46
+  - first:
+      213: -4588282635035468111
+    second: EarthTornado_47
+  - first:
+      213: -6072340740878345546
+    second: EarthTornado_48
+  - first:
+      213: -331289189817987394
+    second: EarthTornado_49
+  - first:
+      213: -8334909920855439743
+    second: EarthTornado_50
+  - first:
+      213: 6738968166307526934
+    second: EarthTornado_51
+  - first:
+      213: -2799754743614895711
+    second: EarthTornado_52
+  - first:
+      213: 7870922688101811513
+    second: EarthTornado_53
+  - first:
+      213: -5891642771199892325
+    second: EarthTornado_54
+  - first:
+      213: -9182541813606101462
+    second: EarthTornado_55
+  - first:
+      213: -5583792728466732307
+    second: EarthTornado_56
+  - first:
+      213: 5095701025132170889
+    second: EarthTornado_57
+  - first:
+      213: 544399769486103663
+    second: EarthTornado_58
+  - first:
+      213: -3415299432948858865
+    second: EarthTornado_59
+  - first:
+      213: -5645262075327607219
+    second: EarthTornado_60
+  - first:
+      213: -6646574070876391208
+    second: EarthTornado_61
+  - first:
+      213: 7211034568195989218
+    second: EarthTornado_62
+  - first:
+      213: 1717888713935329081
+    second: EarthTornado_63
+  - first:
+      213: -2634173377449142415
+    second: EarthTornado_64
+  - first:
+      213: 7521488837565181030
+    second: EarthTornado_65
+  - first:
+      213: -5969769684606085997
+    second: EarthTornado_66
+  - first:
+      213: 260572604841048348
+    second: EarthTornado_67
+  - first:
+      213: -2223484397185556497
+    second: EarthTornado_68
+  - first:
+      213: 6940056526939617951
+    second: EarthTornado_69
+  - first:
+      213: 5148674139278634680
+    second: EarthTornado_70
+  - first:
+      213: -1050552345503712727
+    second: EarthTornado_71
+  - first:
+      213: 6053343922036816479
+    second: EarthTornado_72
+  - first:
+      213: 4220689663992392860
+    second: EarthTornado_73
+  - first:
+      213: 4624031740428012235
+    second: EarthTornado_74
+  - first:
+      213: 6269179876730718937
+    second: EarthTornado_75
+  - first:
+      213: 8482244600240133924
+    second: EarthTornado_76
+  - first:
+      213: -6335380866104832644
+    second: EarthTornado_77
+  - first:
+      213: -4858166214780075585
+    second: EarthTornado_78
+  - first:
+      213: -4849099064019427679
+    second: EarthTornado_79
+  - first:
+      213: -6576118948639340607
+    second: EarthTornado_80
+  - first:
+      213: -6115745233741369045
+    second: EarthTornado_81
+  - first:
+      213: -579627629714617381
+    second: EarthTornado_82
+  - first:
+      213: -4404636285958499971
+    second: EarthTornado_83
+  - first:
+      213: 5811453860312509703
+    second: EarthTornado_84
+  - first:
+      213: -5058558724406361536
+    second: EarthTornado_85
+  - first:
+      213: 5094755186569420803
+    second: EarthTornado_86
+  - first:
+      213: 9187044236561095089
+    second: EarthTornado_87
+  - first:
+      213: 740725759346510626
+    second: EarthTornado_88
+  - first:
+      213: 1698248751977370480
+    second: EarthTornado_89
+  - first:
+      213: 748858943476902262
+    second: EarthTornado_90
+  - first:
+      213: 2425935874542891172
+    second: EarthTornado_91
+  - first:
+      213: -5737250513409156243
+    second: EarthTornado_92
+  - first:
+      213: -3188161447126949137
+    second: EarthTornado_93
+  - first:
+      213: -6860731726846463744
+    second: EarthTornado_94
+  - first:
+      213: -5947874645522977412
+    second: EarthTornado_95
+  - first:
+      213: 7072836201624083822
+    second: EarthTornado_96
+  - first:
+      213: 253467159337002931
+    second: EarthTornado_97
+  - first:
+      213: 9174410467109698657
+    second: EarthTornado_98
+  - first:
+      213: 7654965574689253195
+    second: EarthTornado_99
+  - first:
+      213: -7048963431285847044
+    second: EarthTornado_100
+  - first:
+      213: 7985815660635693018
+    second: EarthTornado_101
+  - first:
+      213: -3276098720277772048
+    second: EarthTornado_102
+  - first:
+      213: -6427276590087460091
+    second: EarthTornado_103
+  - first:
+      213: 7991419028843671619
+    second: EarthTornado_104
+  - first:
+      213: -6823083191768519247
+    second: EarthTornado_105
+  - first:
+      213: 6982337349667068582
+    second: EarthTornado_106
+  - first:
+      213: -3543465598203651818
+    second: EarthTornado_107
+  - first:
+      213: 7418859254752503208
+    second: EarthTornado_108
+  - first:
+      213: 1142742839416507753
+    second: EarthTornado_109
+  - first:
+      213: -4263937491469560428
+    second: EarthTornado_110
+  - first:
+      213: -5704293956447575736
+    second: EarthTornado_111
+  - first:
+      213: -4400370132445281225
+    second: EarthTornado_112
+  - first:
+      213: 8983131081321506970
+    second: EarthTornado_113
+  - first:
+      213: 819904057865499807
+    second: EarthTornado_114
+  - first:
+      213: -2618059362919103843
+    second: EarthTornado_115
+  - first:
+      213: 6451483566338543569
+    second: EarthTornado_116
+  - first:
+      213: 2300458764535194941
+    second: EarthTornado_117
+  - first:
+      213: 2153535621618740960
+    second: EarthTornado_118
+  - first:
+      213: 8651452426462542451
+    second: EarthTornado_119
+  - first:
+      213: 2751439648897515022
+    second: EarthTornado_120
+  - first:
+      213: -9006089734771568403
+    second: EarthTornado_121
+  - first:
+      213: 5618547129764153364
+    second: EarthTornado_122
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EarthTornado_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 441
+        width: 200
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13294ce679e81bce0800000000000000
+      internalID: -1391174028831190479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_1
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 534
+        width: 102
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63e7cee061985b10800000000000000
+      internalID: 1970484682483557231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_2
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 508
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe9e4766d697a570800000000000000
+      internalID: 8477910671148621552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_3
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 420
+        width: 215
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4971ddc0ce50070800000000000000
+      internalID: 8072117447124554955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_4
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 559
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5576307f2b677b5e0800000000000000
+      internalID: -1893914607265552555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_5
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 497
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2ea89647b1b4690800000000000000
+      internalID: -7616964157966196006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_6
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 532
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4f0e6e7d97723c0800000000000000
+      internalID: -4384401744023456570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_7
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 527
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d459a78d2d1288650800000000000000
+      internalID: 6235270873553212749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_8
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 462
+        width: 131
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5916ef7a8b2163fc0800000000000000
+      internalID: -3515601874814344811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 486
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44a4183be7eecf90800000000000000
+      internalID: -6931347779032406964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_10
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 478
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d00a30ef0e21b650800000000000000
+      internalID: 6246824803860873432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_11
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 450
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bfcd54e93356260800000000000000
+      internalID: 7090129943234673445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_12
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 513
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9155cd110df1000800000000000000
+      internalID: 8954499407616446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 493
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e0532846fc4ee20800000000000000
+      internalID: 3379053651022908968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_14
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 489
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe6c962a436e7fd0800000000000000
+      internalID: -2342325586059563278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_15
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 466
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9584c18a55aced760800000000000000
+      internalID: 7484642099977799769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_16
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 496
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5658d7327063a0d0800000000000000
+      internalID: -3412778048937240994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_17
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 514
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81745b1bf35144880800000000000000
+      internalID: -8627747622826457320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_18
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 465
+        width: 13
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7581df7cefbb24380800000000000000
+      internalID: -8988415203326748585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_19
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 495
+        width: 12
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412f8c74986e7de60800000000000000
+      internalID: 7987105941454123540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_20
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 494
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adf2935aad2bc770800000000000000
+      internalID: 8632043320355519907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_21
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 477
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c80f0e8b46ecd920800000000000000
+      internalID: 3016539062611675335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_22
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 444
+        width: 73
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9997d2f759fc87f0800000000000000
+      internalID: -608837693470172771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_23
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 438
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bf92348aae844a0800000000000000
+      internalID: -6608774444763972792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_24
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 445
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d070ac0e486bdb0800000000000000
+      internalID: -4776484253782831770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 445
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9971b50a71ba67c0800000000000000
+      internalID: -4077251374990919265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_26
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 450
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5620874be0d5e9a50800000000000000
+      internalID: 6529758827472487013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_27
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 421
+        width: 136
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad8b1a6a0666f480800000000000000
+      internalID: -8865786621516345940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_28
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 435
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53dd55f1b92ccde30800000000000000
+      internalID: 4529709296729316661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_29
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 420
+        width: 53
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aace3bca49de11b0800000000000000
+      internalID: -5683866764434290011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_30
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 426
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5279c06902dce60800000000000000
+      internalID: 7984073543226172919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_31
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 417
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fbcccf0282f7b00800000000000000
+      internalID: 828424978604801866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_32
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 342
+        width: 84
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bfe2ad414e70620800000000000000
+      internalID: 2740409676489227068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_33
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 340
+        width: 120
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33356462d97229930800000000000000
+      internalID: 4148421762667139891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_34
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 366
+        width: 36
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39f0b03b6116e0d0800000000000000
+      internalID: -3394006117101012678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_35
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 317
+        width: 85
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e46c2c4d03887c0800000000000000
+      internalID: -4068948572970267084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_36
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 238
+        width: 184
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e8d1b3f67d3c680800000000000000
+      internalID: -8735901979435495857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_37
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 338
+        width: 100
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af94c265938d64d0800000000000000
+      internalID: -3139708687576948827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_38
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 331
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6d08d59dd156a00800000000000000
+      internalID: 749037732440889084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_39
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 344
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679068346d8fca6b0800000000000000
+      internalID: -5283574663672886922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_40
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 340
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c0aee413e1cb860800000000000000
+      internalID: 7546940272692300886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_41
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 349
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f6a826311bdbfd0800000000000000
+      internalID: -2324507135837573263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_42
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 288
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c63d17f7edc2270800000000000000
+      internalID: 8227195258250947588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_43
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 309
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6a1b9b271fe2900800000000000000
+      internalID: 661731670314034896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_44
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 317
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f27a2321b9747600800000000000000
+      internalID: 465130463232160497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_45
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 333
+        width: 50
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63dba6bd896151980800000000000000
+      internalID: -8568917870230454986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_46
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 321
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7839d2f3cacdc56f0800000000000000
+      internalID: -694437610169461881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_47
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 328
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be1e91d0452350c0800000000000000
+      internalID: -4588282635035468111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_48
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 338
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba50d0d446babba0800000000000000
+      internalID: -6072340740878345546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_49
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 334
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebec8f2bc36076bf0800000000000000
+      internalID: -331289189817987394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_50
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 297
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18648845693745c80800000000000000
+      internalID: -8334909920855439743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_51
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 304
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619fc69b7df958d50800000000000000
+      internalID: 6738968166307526934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_52
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 313
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a98e98f4e54529d0800000000000000
+      internalID: -2799754743614895711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_53
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 255
+        width: 131
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9350fde9b722b3d60800000000000000
+      internalID: 7870922688101811513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_54
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 322
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94e1276d1eac3ea0800000000000000
+      internalID: -5891642771199892325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_55
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 324
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e46d82fde019080800000000000000
+      internalID: -9182541813606101462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_56
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 324
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deac45009126282b0800000000000000
+      internalID: -5583792728466732307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_57
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 324
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ec89c851197b640800000000000000
+      internalID: 5095701025132170889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_58
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 309
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64160cb4b81e8700800000000000000
+      internalID: 544399769486103663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_59
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 314
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f008d71c24b6a90d0800000000000000
+      internalID: -3415299432948858865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_60
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 271
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e0d186d0008a1b0800000000000000
+      internalID: -5645262075327607219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_61
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 310
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8371cf810a2c3a0800000000000000
+      internalID: -6646574070876391208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_62
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 299
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee526cebbdb21460800000000000000
+      internalID: 7211034568195989218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_63
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 314
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93794cdfeaa27d710800000000000000
+      internalID: 1717888713935329081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_64
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 295
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1775a580549817bd0800000000000000
+      internalID: -2634173377449142415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_65
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 297
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c63294f32b16860800000000000000
+      internalID: 7521488837565181030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_66
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 305
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394982ed91e172da0800000000000000
+      internalID: -5969769684606085997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_67
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 259
+        width: 17
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19bfbd476dbd9300800000000000000
+      internalID: 260572604841048348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_68
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 304
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef9126a8b89421e0800000000000000
+      internalID: -2223484397185556497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_69
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 265
+        width: 13
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9afd5924a8005060800000000000000
+      internalID: 6940056526939617951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_70
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 270
+        width: 92
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be61ffc9d3c37740800000000000000
+      internalID: 5148674139278634680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_71
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 294
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a3c443530bb61f0800000000000000
+      internalID: -1050552345503712727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_72
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 289
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a3640a93cc10450800000000000000
+      internalID: 6053343922036816479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_73
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 272
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ced6123e6e29a30800000000000000
+      internalID: 4220689663992392860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_74
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 249
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcac7566e5cdb2040800000000000000
+      internalID: 4624031740428012235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_75
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 279
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dacf81e1e9900750800000000000000
+      internalID: 6269179876730718937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_76
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 260
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427d947e58cf6b570800000000000000
+      internalID: 8482244600240133924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_77
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 252
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7dc3072ba43418a0800000000000000
+      internalID: -6335380866104832644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_78
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 232
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1ca3c3193549cb0800000000000000
+      internalID: -4858166214780075585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_79
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 246
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae5178c71a84bcb0800000000000000
+      internalID: -4849099064019427679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_80
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 260
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c703a178aeecb4a0800000000000000
+      internalID: -6576118948639340607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_81
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 239
+        width: 82
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21be0ecc12802ba0800000000000000
+      internalID: -6115745233741369045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_82
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 243
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbcbd4edbfb4f7f0800000000000000
+      internalID: -579627629714617381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_83
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 257
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71d5aa72a69fd2c0800000000000000
+      internalID: -4404636285958499971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_84
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 244
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70def7cde7e66a050800000000000000
+      internalID: 5811453860312509703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_85
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 256
+        width: 69
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0424e4c34a36cc9b0800000000000000
+      internalID: -5058558724406361536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_86
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 242
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300ac0959d434b640800000000000000
+      internalID: 5094755186569420803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_87
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 249
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b91600ee00fe7f70800000000000000
+      internalID: 9187044236561095089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_88
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 223
+        width: 99
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b84d15726974a00800000000000000
+      internalID: 740725759346510626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_89
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 238
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0739cd10e34619710800000000000000
+      internalID: 1698248751977370480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_90
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 237
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679a0d0dd3b746a00800000000000000
+      internalID: 748858943476902262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_91
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 223
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0710223d7aaa120800000000000000
+      internalID: 2425935874542891172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_92
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 235
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bd1d82e013160b0800000000000000
+      internalID: -5737250513409156243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_93
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 222
+        width: 51
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe227613e0061c3d0800000000000000
+      internalID: -3188161447126949137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_94
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 229
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001701a18d8c9c0a0800000000000000
+      internalID: -6860731726846463744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_95
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 231
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7dec09e587e47da0800000000000000
+      internalID: -5947874645522977412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_96
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 226
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d93584d03c72260800000000000000
+      internalID: 7072836201624083822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_97
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 37
+        width: 223
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7628ad90f748300800000000000000
+      internalID: 253467159337002931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_98
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 152
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cf2b336bd025f70800000000000000
+      internalID: 9174410467109698657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_99
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 50
+        width: 199
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b476237e1a6eb3a60800000000000000
+      internalID: 7654965574689253195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_100
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 159
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb0d733b1d0d2e90800000000000000
+      internalID: -7048963431285847044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_101
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 163
+        width: 100
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf11fd580153de60800000000000000
+      internalID: 7985815660635693018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_102
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 23
+        width: 215
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f84bb84295f882d0800000000000000
+      internalID: -3276098720277772048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_103
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 169
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b27a69ef9bdc6a0800000000000000
+      internalID: -6427276590087460091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_104
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 113
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3403681344937ee60800000000000000
+      internalID: 7991419028843671619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_105
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 129
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bde2b1ccf98f41a0800000000000000
+      internalID: -6823083191768519247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_106
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 59
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa19d453de36e060800000000000000
+      internalID: 6982337349667068582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_107
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 94
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619114100d413dec0800000000000000
+      internalID: -3543465598203651818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_108
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 101
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a564267f2515f660800000000000000
+      internalID: 7418859254752503208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_109
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 114
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96dca05de86dbdf00800000000000000
+      internalID: 1142742839416507753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_110
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 65
+        width: 13
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4959c7c517373d4c0800000000000000
+      internalID: -4263937491469560428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_111
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 95
+        width: 12
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841e8878ed646d0b0800000000000000
+      internalID: -5704293956447575736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_112
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 94
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7344c5fbdaebee2c0800000000000000
+      internalID: -4400370132445281225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_113
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 57
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9860f0bf1e7aac70800000000000000
+      internalID: 8983131081321506970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_114
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 48
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9479f68562e06b00800000000000000
+      internalID: 819904057865499807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_115
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 43
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92425861e8caabd0800000000000000
+      internalID: -2618059362919103843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_116
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 22
+        width: 136
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df01e54f16488950800000000000000
+      internalID: 6451483566338543569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_117
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 40
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35ed88de0fdcef10800000000000000
+      internalID: 2300458764535194941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_118
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 25
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee2cb9ec35e2ed10800000000000000
+      internalID: 2153535621618740960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_119
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 38
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37abd7ef422201870800000000000000
+      internalID: 8651452426462542451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_120
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 29
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e367d68c31f2620800000000000000
+      internalID: 2751439648897515022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_121
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 24
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de016af3a11f30380800000000000000
+      internalID: -9006089734771568403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthTornado_122
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 22
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418026f98d619fd40800000000000000
+      internalID: 5618547129764153364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EarthTornado_0: -1391174028831190479
+      EarthTornado_1: 1970484682483557231
+      EarthTornado_10: 6246824803860873432
+      EarthTornado_100: -7048963431285847044
+      EarthTornado_101: 7985815660635693018
+      EarthTornado_102: -3276098720277772048
+      EarthTornado_103: -6427276590087460091
+      EarthTornado_104: 7991419028843671619
+      EarthTornado_105: -6823083191768519247
+      EarthTornado_106: 6982337349667068582
+      EarthTornado_107: -3543465598203651818
+      EarthTornado_108: 7418859254752503208
+      EarthTornado_109: 1142742839416507753
+      EarthTornado_11: 7090129943234673445
+      EarthTornado_110: -4263937491469560428
+      EarthTornado_111: -5704293956447575736
+      EarthTornado_112: -4400370132445281225
+      EarthTornado_113: 8983131081321506970
+      EarthTornado_114: 819904057865499807
+      EarthTornado_115: -2618059362919103843
+      EarthTornado_116: 6451483566338543569
+      EarthTornado_117: 2300458764535194941
+      EarthTornado_118: 2153535621618740960
+      EarthTornado_119: 8651452426462542451
+      EarthTornado_12: 8954499407616446
+      EarthTornado_120: 2751439648897515022
+      EarthTornado_121: -9006089734771568403
+      EarthTornado_122: 5618547129764153364
+      EarthTornado_13: 3379053651022908968
+      EarthTornado_14: -2342325586059563278
+      EarthTornado_15: 7484642099977799769
+      EarthTornado_16: -3412778048937240994
+      EarthTornado_17: -8627747622826457320
+      EarthTornado_18: -8988415203326748585
+      EarthTornado_19: 7987105941454123540
+      EarthTornado_2: 8477910671148621552
+      EarthTornado_20: 8632043320355519907
+      EarthTornado_21: 3016539062611675335
+      EarthTornado_22: -608837693470172771
+      EarthTornado_23: -6608774444763972792
+      EarthTornado_24: -4776484253782831770
+      EarthTornado_25: -4077251374990919265
+      EarthTornado_26: 6529758827472487013
+      EarthTornado_27: -8865786621516345940
+      EarthTornado_28: 4529709296729316661
+      EarthTornado_29: -5683866764434290011
+      EarthTornado_3: 8072117447124554955
+      EarthTornado_30: 7984073543226172919
+      EarthTornado_31: 828424978604801866
+      EarthTornado_32: 2740409676489227068
+      EarthTornado_33: 4148421762667139891
+      EarthTornado_34: -3394006117101012678
+      EarthTornado_35: -4068948572970267084
+      EarthTornado_36: -8735901979435495857
+      EarthTornado_37: -3139708687576948827
+      EarthTornado_38: 749037732440889084
+      EarthTornado_39: -5283574663672886922
+      EarthTornado_4: -1893914607265552555
+      EarthTornado_40: 7546940272692300886
+      EarthTornado_41: -2324507135837573263
+      EarthTornado_42: 8227195258250947588
+      EarthTornado_43: 661731670314034896
+      EarthTornado_44: 465130463232160497
+      EarthTornado_45: -8568917870230454986
+      EarthTornado_46: -694437610169461881
+      EarthTornado_47: -4588282635035468111
+      EarthTornado_48: -6072340740878345546
+      EarthTornado_49: -331289189817987394
+      EarthTornado_5: -7616964157966196006
+      EarthTornado_50: -8334909920855439743
+      EarthTornado_51: 6738968166307526934
+      EarthTornado_52: -2799754743614895711
+      EarthTornado_53: 7870922688101811513
+      EarthTornado_54: -5891642771199892325
+      EarthTornado_55: -9182541813606101462
+      EarthTornado_56: -5583792728466732307
+      EarthTornado_57: 5095701025132170889
+      EarthTornado_58: 544399769486103663
+      EarthTornado_59: -3415299432948858865
+      EarthTornado_6: -4384401744023456570
+      EarthTornado_60: -5645262075327607219
+      EarthTornado_61: -6646574070876391208
+      EarthTornado_62: 7211034568195989218
+      EarthTornado_63: 1717888713935329081
+      EarthTornado_64: -2634173377449142415
+      EarthTornado_65: 7521488837565181030
+      EarthTornado_66: -5969769684606085997
+      EarthTornado_67: 260572604841048348
+      EarthTornado_68: -2223484397185556497
+      EarthTornado_69: 6940056526939617951
+      EarthTornado_7: 6235270873553212749
+      EarthTornado_70: 5148674139278634680
+      EarthTornado_71: -1050552345503712727
+      EarthTornado_72: 6053343922036816479
+      EarthTornado_73: 4220689663992392860
+      EarthTornado_74: 4624031740428012235
+      EarthTornado_75: 6269179876730718937
+      EarthTornado_76: 8482244600240133924
+      EarthTornado_77: -6335380866104832644
+      EarthTornado_78: -4858166214780075585
+      EarthTornado_79: -4849099064019427679
+      EarthTornado_8: -3515601874814344811
+      EarthTornado_80: -6576118948639340607
+      EarthTornado_81: -6115745233741369045
+      EarthTornado_82: -579627629714617381
+      EarthTornado_83: -4404636285958499971
+      EarthTornado_84: 5811453860312509703
+      EarthTornado_85: -5058558724406361536
+      EarthTornado_86: 5094755186569420803
+      EarthTornado_87: 9187044236561095089
+      EarthTornado_88: 740725759346510626
+      EarthTornado_89: 1698248751977370480
+      EarthTornado_9: -6931347779032406964
+      EarthTornado_90: 748858943476902262
+      EarthTornado_91: 2425935874542891172
+      EarthTornado_92: -5737250513409156243
+      EarthTornado_93: -3188161447126949137
+      EarthTornado_94: -6860731726846463744
+      EarthTornado_95: -5947874645522977412
+      EarthTornado_96: 7072836201624083822
+      EarthTornado_97: 253467159337002931
+      EarthTornado_98: 9174410467109698657
+      EarthTornado_99: 7654965574689253195
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

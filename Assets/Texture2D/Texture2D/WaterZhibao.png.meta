@@ -1,0 +1,3744 @@
+fileFormatVersion: 2
+guid: 243ae40c3abdeaf43a1676ad018c1bda
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8650200294234632645
+    second: WaterZhibao_0
+  - first:
+      213: -5968353475398897361
+    second: WaterZhibao_1
+  - first:
+      213: 409168249412903204
+    second: WaterZhibao_2
+  - first:
+      213: 924240952588438025
+    second: WaterZhibao_3
+  - first:
+      213: -1774301658653355013
+    second: WaterZhibao_4
+  - first:
+      213: 6849020950911011850
+    second: WaterZhibao_5
+  - first:
+      213: -6288873957458507875
+    second: WaterZhibao_6
+  - first:
+      213: -4279094785925893068
+    second: WaterZhibao_7
+  - first:
+      213: -8287689853134666101
+    second: WaterZhibao_8
+  - first:
+      213: 2425975650291831240
+    second: WaterZhibao_9
+  - first:
+      213: -7923234564654173935
+    second: WaterZhibao_10
+  - first:
+      213: 1037180291496332188
+    second: WaterZhibao_11
+  - first:
+      213: -2213720956766827893
+    second: WaterZhibao_12
+  - first:
+      213: -7756337574729386742
+    second: WaterZhibao_13
+  - first:
+      213: 4363372900629950815
+    second: WaterZhibao_14
+  - first:
+      213: -9173643225980798978
+    second: WaterZhibao_15
+  - first:
+      213: 2649953172184789029
+    second: WaterZhibao_16
+  - first:
+      213: -8967611399060078779
+    second: WaterZhibao_17
+  - first:
+      213: 6324426878763566404
+    second: WaterZhibao_18
+  - first:
+      213: 5538960104552736958
+    second: WaterZhibao_19
+  - first:
+      213: -7095105734529020637
+    second: WaterZhibao_20
+  - first:
+      213: -208174403870639280
+    second: WaterZhibao_21
+  - first:
+      213: 1428120109836634423
+    second: WaterZhibao_22
+  - first:
+      213: 4307513829522823785
+    second: WaterZhibao_23
+  - first:
+      213: -4010494495499019136
+    second: WaterZhibao_24
+  - first:
+      213: -3682911997146428676
+    second: WaterZhibao_25
+  - first:
+      213: 7555988589350400152
+    second: WaterZhibao_26
+  - first:
+      213: -7662826297809672258
+    second: WaterZhibao_27
+  - first:
+      213: -6763213676656509937
+    second: WaterZhibao_28
+  - first:
+      213: -8149146481434169410
+    second: WaterZhibao_29
+  - first:
+      213: 3777186907245098580
+    second: WaterZhibao_30
+  - first:
+      213: -7991754992570902803
+    second: WaterZhibao_31
+  - first:
+      213: -6980028608807023784
+    second: WaterZhibao_32
+  - first:
+      213: -8454530181188677175
+    second: WaterZhibao_33
+  - first:
+      213: 3185128667970354445
+    second: WaterZhibao_34
+  - first:
+      213: 3092734488849675293
+    second: WaterZhibao_35
+  - first:
+      213: -7992373645627477295
+    second: WaterZhibao_36
+  - first:
+      213: -1163420136936789418
+    second: WaterZhibao_37
+  - first:
+      213: 5505420966928041392
+    second: WaterZhibao_38
+  - first:
+      213: -6487948722097979281
+    second: WaterZhibao_39
+  - first:
+      213: 4209981003136872072
+    second: WaterZhibao_40
+  - first:
+      213: -1163032750389164057
+    second: WaterZhibao_41
+  - first:
+      213: -1621919696604032146
+    second: WaterZhibao_42
+  - first:
+      213: -1147996530851056371
+    second: WaterZhibao_43
+  - first:
+      213: -7664117674186843753
+    second: WaterZhibao_44
+  - first:
+      213: -4032657749637258083
+    second: WaterZhibao_45
+  - first:
+      213: 4418933393721072324
+    second: WaterZhibao_46
+  - first:
+      213: -3152988878378640872
+    second: WaterZhibao_47
+  - first:
+      213: 1201088857350210547
+    second: WaterZhibao_48
+  - first:
+      213: 726295797541863548
+    second: WaterZhibao_49
+  - first:
+      213: -6070850910910952449
+    second: WaterZhibao_50
+  - first:
+      213: -6904479760172768663
+    second: WaterZhibao_51
+  - first:
+      213: 1998039972643983154
+    second: WaterZhibao_52
+  - first:
+      213: -6276284723786824799
+    second: WaterZhibao_53
+  - first:
+      213: 6657712436994013500
+    second: WaterZhibao_54
+  - first:
+      213: 3325032458635695286
+    second: WaterZhibao_55
+  - first:
+      213: -6387895704582488386
+    second: WaterZhibao_56
+  - first:
+      213: -6809354445657592288
+    second: WaterZhibao_57
+  - first:
+      213: 52203145299774124
+    second: WaterZhibao_58
+  - first:
+      213: -2611605063231953567
+    second: WaterZhibao_59
+  - first:
+      213: -6409461989424886131
+    second: WaterZhibao_60
+  - first:
+      213: -7217002234937075684
+    second: WaterZhibao_61
+  - first:
+      213: 3015299575779172190
+    second: WaterZhibao_62
+  - first:
+      213: 7249836386182392179
+    second: WaterZhibao_63
+  - first:
+      213: -7387543041710857636
+    second: WaterZhibao_64
+  - first:
+      213: 8241258842127064381
+    second: WaterZhibao_65
+  - first:
+      213: -5400406502718155221
+    second: WaterZhibao_66
+  - first:
+      213: 2383136850330137362
+    second: WaterZhibao_67
+  - first:
+      213: 6136718114342288256
+    second: WaterZhibao_68
+  - first:
+      213: -948731958406875308
+    second: WaterZhibao_69
+  - first:
+      213: -7040335018390421940
+    second: WaterZhibao_70
+  - first:
+      213: 974606338243130978
+    second: WaterZhibao_71
+  - first:
+      213: 555603709648197294
+    second: WaterZhibao_72
+  - first:
+      213: -138749437193660252
+    second: WaterZhibao_73
+  - first:
+      213: -3149006200952324854
+    second: WaterZhibao_74
+  - first:
+      213: 6663217456119975057
+    second: WaterZhibao_75
+  - first:
+      213: -4022012578440689979
+    second: WaterZhibao_76
+  - first:
+      213: 497842986062929168
+    second: WaterZhibao_77
+  - first:
+      213: -4842297579314481230
+    second: WaterZhibao_78
+  - first:
+      213: 3943345977047712555
+    second: WaterZhibao_79
+  - first:
+      213: 1623145131047108082
+    second: WaterZhibao_80
+  - first:
+      213: 3426561569025290898
+    second: WaterZhibao_81
+  - first:
+      213: 7825479863599160818
+    second: WaterZhibao_82
+  - first:
+      213: 6671246055626639747
+    second: WaterZhibao_83
+  - first:
+      213: -5778670985915713369
+    second: WaterZhibao_84
+  - first:
+      213: -968404118700259731
+    second: WaterZhibao_85
+  - first:
+      213: 2985826893079653843
+    second: WaterZhibao_86
+  - first:
+      213: 5135261639970752560
+    second: WaterZhibao_87
+  - first:
+      213: -986915164154848076
+    second: WaterZhibao_88
+  - first:
+      213: -1635494180898566987
+    second: WaterZhibao_89
+  - first:
+      213: -1867994273709762915
+    second: WaterZhibao_90
+  - first:
+      213: 4447841151060285630
+    second: WaterZhibao_91
+  - first:
+      213: -4693655721855866047
+    second: WaterZhibao_92
+  - first:
+      213: -4015143296155072501
+    second: WaterZhibao_93
+  - first:
+      213: 1878384564681530377
+    second: WaterZhibao_94
+  - first:
+      213: 8119293565634330517
+    second: WaterZhibao_95
+  - first:
+      213: -3793175165264695886
+    second: WaterZhibao_96
+  - first:
+      213: 8440155726531252087
+    second: WaterZhibao_97
+  - first:
+      213: -6218621970259839750
+    second: WaterZhibao_98
+  - first:
+      213: -6469474268414655997
+    second: WaterZhibao_99
+  - first:
+      213: 447506805166941383
+    second: WaterZhibao_100
+  - first:
+      213: -4901052232146494024
+    second: WaterZhibao_101
+  - first:
+      213: -2903837892890473177
+    second: WaterZhibao_102
+  - first:
+      213: -837936579624247807
+    second: WaterZhibao_103
+  - first:
+      213: -982304477831355177
+    second: WaterZhibao_104
+  - first:
+      213: -751113318007444308
+    second: WaterZhibao_105
+  - first:
+      213: 7015437689211863212
+    second: WaterZhibao_106
+  - first:
+      213: -7606598730815941548
+    second: WaterZhibao_107
+  - first:
+      213: -2456225583048081807
+    second: WaterZhibao_108
+  - first:
+      213: 3968440748016559620
+    second: WaterZhibao_109
+  - first:
+      213: -5847102404931361331
+    second: WaterZhibao_110
+  - first:
+      213: 4469409088564654017
+    second: WaterZhibao_111
+  - first:
+      213: 8315633393649070836
+    second: WaterZhibao_112
+  - first:
+      213: 7752821521901438742
+    second: WaterZhibao_113
+  - first:
+      213: 2774375654507869499
+    second: WaterZhibao_114
+  - first:
+      213: 4008605338329552787
+    second: WaterZhibao_115
+  - first:
+      213: -2651170306038426055
+    second: WaterZhibao_116
+  - first:
+      213: 8823825721598968144
+    second: WaterZhibao_117
+  - first:
+      213: 4771947827084803433
+    second: WaterZhibao_118
+  - first:
+      213: -3676681760303459857
+    second: WaterZhibao_119
+  - first:
+      213: 4007145657060394739
+    second: WaterZhibao_120
+  - first:
+      213: -8856401813435996448
+    second: WaterZhibao_121
+  - first:
+      213: -8468280453377277532
+    second: WaterZhibao_122
+  - first:
+      213: 9063777216590219083
+    second: WaterZhibao_123
+  - first:
+      213: 3710985196839869443
+    second: WaterZhibao_124
+  - first:
+      213: 3268521951473698031
+    second: WaterZhibao_125
+  - first:
+      213: -872764320864987148
+    second: WaterZhibao_126
+  - first:
+      213: 5178096853288062811
+    second: WaterZhibao_127
+  - first:
+      213: 7493630347186441906
+    second: WaterZhibao_128
+  - first:
+      213: 7507229874181982933
+    second: WaterZhibao_129
+  - first:
+      213: -4951593449588965006
+    second: WaterZhibao_130
+  - first:
+      213: 1051679249007563884
+    second: WaterZhibao_131
+  - first:
+      213: -7625000920768352270
+    second: WaterZhibao_132
+  - first:
+      213: -6007181688537869194
+    second: WaterZhibao_133
+  - first:
+      213: -3582033719912012327
+    second: WaterZhibao_134
+  - first:
+      213: -619054346550644578
+    second: WaterZhibao_135
+  - first:
+      213: 5876585817643661466
+    second: WaterZhibao_136
+  - first:
+      213: -8108751393953426835
+    second: WaterZhibao_137
+  - first:
+      213: -7129531459191102184
+    second: WaterZhibao_138
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WaterZhibao_0
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 619
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1b5dd365fab0870800000000000000
+      internalID: 8650200294234632645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_1
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 565
+        width: 92
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2171e4c2262c2da0800000000000000
+      internalID: -5968353475398897361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_2
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 636
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421ef9fda58ada500800000000000000
+      internalID: 409168249412903204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_3
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 653
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a07e1ef3093dc00800000000000000
+      internalID: 924240952588438025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_4
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 619
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf39497ca0a6067e0800000000000000
+      internalID: -1774301658653355013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_5
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 547
+        width: 135
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c4246644c9c0f50800000000000000
+      internalID: 6849020950911011850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_6
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 613
+        width: 79
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d970b70a47e69b8a0800000000000000
+      internalID: -6288873957458507875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_7
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 652
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43439acb6f99d94c0800000000000000
+      internalID: -4279094785925893068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_8
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 618
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b868c471df53cfc80800000000000000
+      internalID: -8287689853134666101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_9
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 642
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c15465200ccaa120800000000000000
+      internalID: 2425975650291831240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_10
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 631
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111f0bd74240b0290800000000000000
+      internalID: -7923234564654173935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_11
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 625
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bccaadafdc46e00800000000000000
+      internalID: 1037180291496332188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_12
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 603
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a4314c4884741e0800000000000000
+      internalID: -2213720956766827893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_13
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 627
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a057d341214fb5490800000000000000
+      internalID: -7756337574729386742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_14
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 606
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f513d94f880dd8c30800000000000000
+      internalID: 4363372900629950815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_15
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 620
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7fe3b071ca0b080800000000000000
+      internalID: -9173643225980798978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_16
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 596
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5207e7bbe5686c420800000000000000
+      internalID: 2649953172184789029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_17
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 626
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fb74be1f4ac8380800000000000000
+      internalID: -8967611399060078779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_18
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 612
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44582acecb0e4c750800000000000000
+      internalID: 6324426878763566404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_19
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 618
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb82de05ed65edc40800000000000000
+      internalID: 5538960104552736958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_20
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 596
+        width: 44
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d8f890dee198d90800000000000000
+      internalID: -7095105734529020637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_21
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 602
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b36fd8b7a6c1df0800000000000000
+      internalID: -208174403870639280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_22
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 584
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73987636ca3b1d310800000000000000
+      internalID: 1428120109836634423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_23
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 586
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a5ac9710d57cb30800000000000000
+      internalID: 4307513829522823785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_24
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 603
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c1f1e318cd758c0800000000000000
+      internalID: -4010494495499019136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_25
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 563
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa001f2d0ba3ecc0800000000000000
+      internalID: -3682911997146428676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_26
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 575
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890b223b6934cd860800000000000000
+      internalID: 7555988589350400152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_27
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 582
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7688fd41c28a590800000000000000
+      internalID: -7662826297809672258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_28
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 558
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c33de7efc3422a0800000000000000
+      internalID: -6763213676656509937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_29
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 550
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfed7f737a68ee80800000000000000
+      internalID: -8149146481434169410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_30
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 536
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456b990da734b6430800000000000000
+      internalID: 3777186907245098580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_31
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 539
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de65bd72d25971190800000000000000
+      internalID: -7991754992570902803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_32
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 519
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b4ef946f4f12f90800000000000000
+      internalID: -6980028608807023784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_33
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 471
+        width: 72
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c11e6f18997baa80800000000000000
+      internalID: -8454530181188677175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_34
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 458
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d3942e5a9d33c20800000000000000
+      internalID: 3185128667970354445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_35
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 276
+        width: 300
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14fb70b1a99bea20800000000000000
+      internalID: 3092734488849675293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_36
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 468
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d23e24c382651190800000000000000
+      internalID: -7992373645627477295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_37
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 426
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65aa85dac83badfe0800000000000000
+      internalID: -1163420136936789418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_38
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 412
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5cbb0533f276c40800000000000000
+      internalID: 5505420966928041392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_39
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 455
+        width: 129
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60866a030d26f5a0800000000000000
+      internalID: -6487948722097979281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_40
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 438
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ead1bba6bdc6a30800000000000000
+      internalID: 4209981003136872072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_41
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 451
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e788e220e31cdfe0800000000000000
+      internalID: -1163032750389164057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_42
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 443
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6315b511a8cd79e0800000000000000
+      internalID: -1621919696604032146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_43
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 447
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05fd3fcc3f7110f0800000000000000
+      internalID: -1147996530851056371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_44
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 450
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799dc41e49593a590800000000000000
+      internalID: -7664117674186843753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_45
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 424
+        width: 76
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d942524842f1908c0800000000000000
+      internalID: -4032657749637258083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_46
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 410
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca1bd25284335d30800000000000000
+      internalID: 4418933393721072324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_47
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 424
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81adb7302555e34d0800000000000000
+      internalID: -3152988878378640872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_48
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 422
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f30a0eb3ff1ba010800000000000000
+      internalID: 1201088857350210547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_49
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 442
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7087560e22541a00800000000000000
+      internalID: 726295797541863548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_50
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 431
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbcbc2e24100cba0800000000000000
+      internalID: -6070850910910952449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_51
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 428
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96227085d3c5e20a0800000000000000
+      internalID: -6904479760172768663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_52
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 428
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fc970e4c67abb10800000000000000
+      internalID: 1998039972643983154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_53
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 397
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3c9710c4826e8a0800000000000000
+      internalID: -6276284723786824799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_54
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 414
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c397ab7ff22f46c50800000000000000
+      internalID: 6657712436994013500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_55
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 318
+        width: 134
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4df938763e42e20800000000000000
+      internalID: 3325032458635695286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_56
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 412
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebefd1283b2a957a0800000000000000
+      internalID: -6387895704582488386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_57
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 356
+        width: 13
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e2adc85305081a0800000000000000
+      internalID: -6809354445657592288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_58
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 383
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa40cbeb7679b000800000000000000
+      internalID: 52203145299774124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_59
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 383
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165a2782807b1cbd0800000000000000
+      internalID: -2611605063231953567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_60
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 398
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e06f687440d07a0800000000000000
+      internalID: -6409461989424886131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_61
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 410
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18106364be08db90800000000000000
+      internalID: -7217002234937075684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_62
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 331
+        width: 27
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f14b90dfe78d920800000000000000
+      internalID: 3015299575779172190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_63
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 388
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3796a1e28c79c9460800000000000000
+      internalID: 7249836386182392179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_64
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 393
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c526ae39ebc2a7990800000000000000
+      internalID: -7387543041710857636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_65
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 397
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3dd70bb045de5270800000000000000
+      internalID: 8241258842127064381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_66
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 389
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2656caf5e6ed05b0800000000000000
+      internalID: -5400406502718155221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_67
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 386
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2133217c65a921120800000000000000
+      internalID: 2383136850330137362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_68
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 386
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bb31c7c900a2550800000000000000
+      internalID: 6136718114342288256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_69
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 375
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457f8187f4d65d2f0800000000000000
+      internalID: -948731958406875308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_70
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 389
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e78112a94bb4e90800000000000000
+      internalID: -7040335018390421940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_71
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 378
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26673da0d4f768d00800000000000000
+      internalID: 974606338243130978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_72
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 357
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6587551a6e5b700800000000000000
+      internalID: 555603709648197294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_73
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 371
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8594b3f10131ef0800000000000000
+      internalID: -138749437193660252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_74
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 371
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0dfbbc5b8b7c44d0800000000000000
+      internalID: -3149006200952324854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_75
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 301
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c863d19f0887c50800000000000000
+      internalID: 6663217456119975057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_76
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 348
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6c3e39ed0fe28c0800000000000000
+      internalID: -4022012578440689979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_77
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 325
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d5332ee81b8e600800000000000000
+      internalID: 497842986062929168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_78
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 340
+        width: 13
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7f938d104bcccb0800000000000000
+      internalID: -4842297579314481230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_79
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 284
+        width: 75
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23056cf54499b630800000000000000
+      internalID: 3943345977047712555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_80
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 336
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdb7fa95e1968610800000000000000
+      internalID: 1623145131047108082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_81
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 297
+        width: 73
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292f1c2a7979d8f20800000000000000
+      internalID: 3426561569025290898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_82
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 318
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fddcca8970b99c60800000000000000
+      internalID: 7825479863599160818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_83
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 333
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3890ada11f6059c50800000000000000
+      internalID: 6671246055626639747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_84
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 325
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a833a2ea590ecfa0800000000000000
+      internalID: -5778670985915713369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_85
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 19
+        width: 223
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6688d9b5998f82f0800000000000000
+      internalID: -968404118700259731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_86
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 313
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd22da5db9cf6920800000000000000
+      internalID: 2985826893079653843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_87
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 304
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0388527f04d144740800000000000000
+      internalID: 5135261639970752560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_88
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 294
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc9a1913e5cd42f0800000000000000
+      internalID: -986915164154848076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_89
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 276
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc825b25be8d49e0800000000000000
+      internalID: -1635494180898566987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_90
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 271
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96d019ea1d8316e0800000000000000
+      internalID: -1867994273709762915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_91
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 278
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8105216f7e9bd30800000000000000
+      internalID: 4447841151060285630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_92
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 271
+        width: 99
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b2dc03df8ccdeb0800000000000000
+      internalID: -4693655721855866047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_93
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 223
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08c26ef1785748c0800000000000000
+      internalID: -4015143296155072501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_94
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 230
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c5b693fcc511a10800000000000000
+      internalID: 1878384564681530377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_95
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 225
+        width: 76
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fbfb6ea768da070800000000000000
+      internalID: 8119293565634330517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_96
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 234
+        width: 33
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd6097c84feb5bc0800000000000000
+      internalID: -3793175165264695886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_97
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 228
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fcfd85ae4712570800000000000000
+      internalID: 8440155726531252087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_98
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 232
+        width: 57
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4f836044403b9a0800000000000000
+      internalID: -6218621970259839750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_99
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 213
+        width: 63
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3024d9bfd6fc736a0800000000000000
+      internalID: -6469474268414655997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_100
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 215
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4ab8c711dd53600800000000000000
+      internalID: 447506805166941383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_101
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 210
+        width: 47
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdd54536f6fbfbb0800000000000000
+      internalID: -4901052232146494024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_102
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 197
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72dc1f452de73b7d0800000000000000
+      internalID: -2903837892890473177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_103
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 205
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ed033de1d0f54f0800000000000000
+      internalID: -837936579624247807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_104
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 180
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4269928472e52f0800000000000000
+      internalID: -982304477831355177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_105
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 150
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cace916ba628395f0800000000000000
+      internalID: -751113318007444308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_106
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 156
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca04c51b867db5160800000000000000
+      internalID: 7015437689211863212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_107
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 157
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45457cc71ceef6690800000000000000
+      internalID: -7606598730815941548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_108
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 171
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e313a88dbb9edd0800000000000000
+      internalID: -2456225583048081807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_109
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 170
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40666b9a5dbb21730800000000000000
+      internalID: 3968440748016559620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_110
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 115
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5ebbc875beadea0800000000000000
+      internalID: -5847102404931361331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_111
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 172
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf6cc7d2e7860e30800000000000000
+      internalID: 4469409088564654017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_112
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 132
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f234de6380176370800000000000000
+      internalID: 8315633393649070836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_113
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 149
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61740f3191e879b60800000000000000
+      internalID: 7752821521901438742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_114
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 90
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35fe6065ff808620800000000000000
+      internalID: 2774375654507869499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_115
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 121
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3971ed3115d61a730800000000000000
+      internalID: 4008605338329552787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_116
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 53
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936148537a6253bd0800000000000000
+      internalID: -2651170306038426055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_117
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 74
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0518cdf3eb6847a70800000000000000
+      internalID: 8823825721598968144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_118
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 72
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d3610144d593240800000000000000
+      internalID: 4771947827084803433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_119
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 69
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe154fc3b6dc9fcc0800000000000000
+      internalID: -3676681760303459857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_120
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 63
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6855c8ebd3c9730800000000000000
+      internalID: 4007145657060394739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_121
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 80
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6a502597db71580800000000000000
+      internalID: -8856401813435996448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_122
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 55
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a140166bcf9a7a80800000000000000
+      internalID: -8468280453377277532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_123
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 42
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4783264b5109cd70800000000000000
+      internalID: 9063777216590219083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_124
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 41
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c9f58ff51108330800000000000000
+      internalID: 3710985196839869443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_125
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 48
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe40822c56f1c5d20800000000000000
+      internalID: 3268521951473698031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_126
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 64
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7153a697153e3f0800000000000000
+      internalID: -872764320864987148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_127
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 58
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f8dc047ab4cd740800000000000000
+      internalID: 5178096853288062811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_128
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 34
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be822a0919bef760800000000000000
+      internalID: 7493630347186441906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_129
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 16
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da41d9abc90f2860800000000000000
+      internalID: 7507229874181982933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_130
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 37
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27149150ef7684bb0800000000000000
+      internalID: -4951593449588965006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_131
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 25
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64deb674b0589e00800000000000000
+      internalID: 1051679249007563884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_132
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 42
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff6391cf0e8e2690800000000000000
+      internalID: -7625000920768352270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_133
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 21
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6741879e41432aca0800000000000000
+      internalID: -6007181688537869194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_134
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 16
+        width: 46
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d56c276f4f0a4ec0800000000000000
+      internalID: -3582033719912012327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_135
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 25
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90ff290a5da867f0800000000000000
+      internalID: -619054346550644578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_136
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 12
+        width: 71
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98bfb86aa3dd8150800000000000000
+      internalID: 5876585817643661466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_137
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 10
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62d377b19de77f80800000000000000
+      internalID: -8108751393953426835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterZhibao_138
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 13
+        width: 46
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81521f769e0de0d90800000000000000
+      internalID: -7129531459191102184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WaterZhibao_0: 8650200294234632645
+      WaterZhibao_1: -5968353475398897361
+      WaterZhibao_10: -7923234564654173935
+      WaterZhibao_100: 447506805166941383
+      WaterZhibao_101: -4901052232146494024
+      WaterZhibao_102: -2903837892890473177
+      WaterZhibao_103: -837936579624247807
+      WaterZhibao_104: -982304477831355177
+      WaterZhibao_105: -751113318007444308
+      WaterZhibao_106: 7015437689211863212
+      WaterZhibao_107: -7606598730815941548
+      WaterZhibao_108: -2456225583048081807
+      WaterZhibao_109: 3968440748016559620
+      WaterZhibao_11: 1037180291496332188
+      WaterZhibao_110: -5847102404931361331
+      WaterZhibao_111: 4469409088564654017
+      WaterZhibao_112: 8315633393649070836
+      WaterZhibao_113: 7752821521901438742
+      WaterZhibao_114: 2774375654507869499
+      WaterZhibao_115: 4008605338329552787
+      WaterZhibao_116: -2651170306038426055
+      WaterZhibao_117: 8823825721598968144
+      WaterZhibao_118: 4771947827084803433
+      WaterZhibao_119: -3676681760303459857
+      WaterZhibao_12: -2213720956766827893
+      WaterZhibao_120: 4007145657060394739
+      WaterZhibao_121: -8856401813435996448
+      WaterZhibao_122: -8468280453377277532
+      WaterZhibao_123: 9063777216590219083
+      WaterZhibao_124: 3710985196839869443
+      WaterZhibao_125: 3268521951473698031
+      WaterZhibao_126: -872764320864987148
+      WaterZhibao_127: 5178096853288062811
+      WaterZhibao_128: 7493630347186441906
+      WaterZhibao_129: 7507229874181982933
+      WaterZhibao_13: -7756337574729386742
+      WaterZhibao_130: -4951593449588965006
+      WaterZhibao_131: 1051679249007563884
+      WaterZhibao_132: -7625000920768352270
+      WaterZhibao_133: -6007181688537869194
+      WaterZhibao_134: -3582033719912012327
+      WaterZhibao_135: -619054346550644578
+      WaterZhibao_136: 5876585817643661466
+      WaterZhibao_137: -8108751393953426835
+      WaterZhibao_138: -7129531459191102184
+      WaterZhibao_14: 4363372900629950815
+      WaterZhibao_15: -9173643225980798978
+      WaterZhibao_16: 2649953172184789029
+      WaterZhibao_17: -8967611399060078779
+      WaterZhibao_18: 6324426878763566404
+      WaterZhibao_19: 5538960104552736958
+      WaterZhibao_2: 409168249412903204
+      WaterZhibao_20: -7095105734529020637
+      WaterZhibao_21: -208174403870639280
+      WaterZhibao_22: 1428120109836634423
+      WaterZhibao_23: 4307513829522823785
+      WaterZhibao_24: -4010494495499019136
+      WaterZhibao_25: -3682911997146428676
+      WaterZhibao_26: 7555988589350400152
+      WaterZhibao_27: -7662826297809672258
+      WaterZhibao_28: -6763213676656509937
+      WaterZhibao_29: -8149146481434169410
+      WaterZhibao_3: 924240952588438025
+      WaterZhibao_30: 3777186907245098580
+      WaterZhibao_31: -7991754992570902803
+      WaterZhibao_32: -6980028608807023784
+      WaterZhibao_33: -8454530181188677175
+      WaterZhibao_34: 3185128667970354445
+      WaterZhibao_35: 3092734488849675293
+      WaterZhibao_36: -7992373645627477295
+      WaterZhibao_37: -1163420136936789418
+      WaterZhibao_38: 5505420966928041392
+      WaterZhibao_39: -6487948722097979281
+      WaterZhibao_4: -1774301658653355013
+      WaterZhibao_40: 4209981003136872072
+      WaterZhibao_41: -1163032750389164057
+      WaterZhibao_42: -1621919696604032146
+      WaterZhibao_43: -1147996530851056371
+      WaterZhibao_44: -7664117674186843753
+      WaterZhibao_45: -4032657749637258083
+      WaterZhibao_46: 4418933393721072324
+      WaterZhibao_47: -3152988878378640872
+      WaterZhibao_48: 1201088857350210547
+      WaterZhibao_49: 726295797541863548
+      WaterZhibao_5: 6849020950911011850
+      WaterZhibao_50: -6070850910910952449
+      WaterZhibao_51: -6904479760172768663
+      WaterZhibao_52: 1998039972643983154
+      WaterZhibao_53: -6276284723786824799
+      WaterZhibao_54: 6657712436994013500
+      WaterZhibao_55: 3325032458635695286
+      WaterZhibao_56: -6387895704582488386
+      WaterZhibao_57: -6809354445657592288
+      WaterZhibao_58: 52203145299774124
+      WaterZhibao_59: -2611605063231953567
+      WaterZhibao_6: -6288873957458507875
+      WaterZhibao_60: -6409461989424886131
+      WaterZhibao_61: -7217002234937075684
+      WaterZhibao_62: 3015299575779172190
+      WaterZhibao_63: 7249836386182392179
+      WaterZhibao_64: -7387543041710857636
+      WaterZhibao_65: 8241258842127064381
+      WaterZhibao_66: -5400406502718155221
+      WaterZhibao_67: 2383136850330137362
+      WaterZhibao_68: 6136718114342288256
+      WaterZhibao_69: -948731958406875308
+      WaterZhibao_7: -4279094785925893068
+      WaterZhibao_70: -7040335018390421940
+      WaterZhibao_71: 974606338243130978
+      WaterZhibao_72: 555603709648197294
+      WaterZhibao_73: -138749437193660252
+      WaterZhibao_74: -3149006200952324854
+      WaterZhibao_75: 6663217456119975057
+      WaterZhibao_76: -4022012578440689979
+      WaterZhibao_77: 497842986062929168
+      WaterZhibao_78: -4842297579314481230
+      WaterZhibao_79: 3943345977047712555
+      WaterZhibao_8: -8287689853134666101
+      WaterZhibao_80: 1623145131047108082
+      WaterZhibao_81: 3426561569025290898
+      WaterZhibao_82: 7825479863599160818
+      WaterZhibao_83: 6671246055626639747
+      WaterZhibao_84: -5778670985915713369
+      WaterZhibao_85: -968404118700259731
+      WaterZhibao_86: 2985826893079653843
+      WaterZhibao_87: 5135261639970752560
+      WaterZhibao_88: -986915164154848076
+      WaterZhibao_89: -1635494180898566987
+      WaterZhibao_9: 2425975650291831240
+      WaterZhibao_90: -1867994273709762915
+      WaterZhibao_91: 4447841151060285630
+      WaterZhibao_92: -4693655721855866047
+      WaterZhibao_93: -4015143296155072501
+      WaterZhibao_94: 1878384564681530377
+      WaterZhibao_95: 8119293565634330517
+      WaterZhibao_96: -3793175165264695886
+      WaterZhibao_97: 8440155726531252087
+      WaterZhibao_98: -6218621970259839750
+      WaterZhibao_99: -6469474268414655997
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

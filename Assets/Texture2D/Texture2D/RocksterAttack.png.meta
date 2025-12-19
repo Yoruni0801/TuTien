@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: 3e1d600ee25640a49903b62d7bc8cda7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 64480706057278923
+    second: RocksterAttack_0
+  - first:
+      213: 1159779655696164870
+    second: RocksterAttack_1
+  - first:
+      213: -3512262482770766406
+    second: RocksterAttack_2
+  - first:
+      213: -3168866776476322938
+    second: RocksterAttack_3
+  - first:
+      213: 4984291694041740723
+    second: RocksterAttack_4
+  - first:
+      213: -5851429588128028436
+    second: RocksterAttack_5
+  - first:
+      213: 358283214847806059
+    second: RocksterAttack_6
+  - first:
+      213: -6911870734989047158
+    second: RocksterAttack_7
+  - first:
+      213: 7585310530351233369
+    second: RocksterAttack_8
+  - first:
+      213: 8076095919853833023
+    second: RocksterAttack_9
+  - first:
+      213: 5766114109244577907
+    second: RocksterAttack_10
+  - first:
+      213: 7594724332411338466
+    second: RocksterAttack_11
+  - first:
+      213: -4944243550993582461
+    second: RocksterAttack_12
+  - first:
+      213: -5950871497409844797
+    second: RocksterAttack_13
+  - first:
+      213: -269106321048147055
+    second: RocksterAttack_14
+  - first:
+      213: -2936803255075587376
+    second: RocksterAttack_15
+  - first:
+      213: 783781726281836178
+    second: RocksterAttack_16
+  - first:
+      213: -2780994974887863123
+    second: RocksterAttack_17
+  - first:
+      213: -7580007192605199091
+    second: RocksterAttack_18
+  - first:
+      213: -8306659701844858583
+    second: RocksterAttack_19
+  - first:
+      213: 9202650607429750159
+    second: RocksterAttack_20
+  - first:
+      213: 2963402929253316193
+    second: RocksterAttack_21
+  - first:
+      213: 3028486421696585888
+    second: RocksterAttack_22
+  - first:
+      213: 2747875523834528944
+    second: RocksterAttack_23
+  - first:
+      213: -3798335731432677246
+    second: RocksterAttack_24
+  - first:
+      213: 4054291654570019527
+    second: RocksterAttack_25
+  - first:
+      213: -8508308890163817683
+    second: RocksterAttack_26
+  - first:
+      213: 3289871119369881212
+    second: RocksterAttack_27
+  - first:
+      213: -2980306595030093285
+    second: RocksterAttack_28
+  - first:
+      213: -6083268491367416707
+    second: RocksterAttack_29
+  - first:
+      213: 2716481757011235510
+    second: RocksterAttack_30
+  - first:
+      213: 354798967969665137
+    second: RocksterAttack_31
+  - first:
+      213: -4973265648187453795
+    second: RocksterAttack_32
+  - first:
+      213: 1069770767338763444
+    second: RocksterAttack_33
+  - first:
+      213: 4200862538385614790
+    second: RocksterAttack_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RocksterAttack_0
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 336
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5196b4cd415e000800000000000000
+      internalID: 64480706057278923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 326
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608ae7bb37d581010800000000000000
+      internalID: 1159779655696164870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 334
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5548471efe14fc0800000000000000
+      internalID: -3512262482770766406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 335
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6837797c47ce504d0800000000000000
+      internalID: -3168866776476322938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_4
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 327
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5b94843e2cb2540800000000000000
+      internalID: 4984291694041740723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 334
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce82b63bacb8bcea0800000000000000
+      internalID: -5851429588128028436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_6
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 336
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a0df58fa0e8f400800000000000000
+      internalID: 358283214847806059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_7
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 326
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a4f8bef2a1410a0800000000000000
+      internalID: -6911870734989047158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_8
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 334
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9597d981dbf644960800000000000000
+      internalID: 7585310530351233369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_9
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 335
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b8eda337e041070800000000000000
+      internalID: 8076095919853833023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_10
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 327
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37814ef6b3a550050800000000000000
+      internalID: 5766114109244577907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_11
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 334
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eeb460ba81e56960800000000000000
+      internalID: 7594724332411338466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 306
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386f204afa4826bb0800000000000000
+      internalID: -4944243550993582461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_13
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 318
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9a3e4f6e14a6da0800000000000000
+      internalID: -5950871497409844797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_14
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 306
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bec1f0a31f34cf0800000000000000
+      internalID: -269106321048147055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_15
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 306
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da3206dff06e37d0800000000000000
+      internalID: -2936803255075587376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_16
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 306
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296a870d35d80ea00800000000000000
+      internalID: 783781726281836178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_17
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 306
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac99affdcbe769d0800000000000000
+      internalID: -2780994974887863123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_18
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 211
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d057cd17e976ec690800000000000000
+      internalID: -7580007192605199091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_19
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 213
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9292c710301d8bc80800000000000000
+      internalID: -8306659701844858583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_20
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 195
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d02ef38f166bf70800000000000000
+      internalID: 9202650607429750159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_21
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 200
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166fe7c634f102920800000000000000
+      internalID: 2963402929253316193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_22
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 217
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0a15cda58570a20800000000000000
+      internalID: 3028486421696585888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_23
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 172
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4c525ea3a622620800000000000000
+      internalID: 2747875523834528944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_24
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 172
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2802846d6c9994bc0800000000000000
+      internalID: -3798335731432677246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_25
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 173
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca0a7e77ccb34830800000000000000
+      internalID: 4054291654570019527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_26
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 178
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23dc72b42a6ce980800000000000000
+      internalID: -8508308890163817683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_27
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 181
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76cbd24a58f7ad20800000000000000
+      internalID: 3289871119369881212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_28
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 172
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b123a7131f2d3a6d0800000000000000
+      internalID: -2980306595030093285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 85
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cf7b2a983e39ba0800000000000000
+      internalID: -6083268491367416707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_30
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 47
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2db75f3c1e2b520800000000000000
+      internalID: 2716481757011235510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_31
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 45
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170d18418cf7ce400800000000000000
+      internalID: 354798967969665137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_32
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 46
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e42221e396bfab0800000000000000
+      internalID: -4973265648187453795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_33
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 44
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4f25258d698de00800000000000000
+      internalID: 1069770767338763444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocksterAttack_34
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 44
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c768b6b8367c4a30800000000000000
+      internalID: 4200862538385614790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RocksterAttack_0: 64480706057278923
+      RocksterAttack_1: 1159779655696164870
+      RocksterAttack_10: 5766114109244577907
+      RocksterAttack_11: 7594724332411338466
+      RocksterAttack_12: -4944243550993582461
+      RocksterAttack_13: -5950871497409844797
+      RocksterAttack_14: -269106321048147055
+      RocksterAttack_15: -2936803255075587376
+      RocksterAttack_16: 783781726281836178
+      RocksterAttack_17: -2780994974887863123
+      RocksterAttack_18: -7580007192605199091
+      RocksterAttack_19: -8306659701844858583
+      RocksterAttack_2: -3512262482770766406
+      RocksterAttack_20: 9202650607429750159
+      RocksterAttack_21: 2963402929253316193
+      RocksterAttack_22: 3028486421696585888
+      RocksterAttack_23: 2747875523834528944
+      RocksterAttack_24: -3798335731432677246
+      RocksterAttack_25: 4054291654570019527
+      RocksterAttack_26: -8508308890163817683
+      RocksterAttack_27: 3289871119369881212
+      RocksterAttack_28: -2980306595030093285
+      RocksterAttack_29: -6083268491367416707
+      RocksterAttack_3: -3168866776476322938
+      RocksterAttack_30: 2716481757011235510
+      RocksterAttack_31: 354798967969665137
+      RocksterAttack_32: -4973265648187453795
+      RocksterAttack_33: 1069770767338763444
+      RocksterAttack_34: 4200862538385614790
+      RocksterAttack_4: 4984291694041740723
+      RocksterAttack_5: -5851429588128028436
+      RocksterAttack_6: 358283214847806059
+      RocksterAttack_7: -6911870734989047158
+      RocksterAttack_8: 7585310530351233369
+      RocksterAttack_9: 8076095919853833023
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

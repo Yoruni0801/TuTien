@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 23b5ebd2ea46545409a72b6bed1853c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8006083196769680705
+    second: WaterCloneExplode_0
+  - first:
+      213: 8083084066340408206
+    second: WaterCloneExplode_1
+  - first:
+      213: 1999994349146919792
+    second: WaterCloneExplode_2
+  - first:
+      213: -2479502133570065583
+    second: WaterCloneExplode_3
+  - first:
+      213: 6314725858938431426
+    second: WaterCloneExplode_4
+  - first:
+      213: -7110931732286583514
+    second: WaterCloneExplode_5
+  - first:
+      213: -1783949058822493750
+    second: WaterCloneExplode_6
+  - first:
+      213: 215985199191783670
+    second: WaterCloneExplode_7
+  - first:
+      213: -2042170889738502881
+    second: WaterCloneExplode_8
+  - first:
+      213: 8156483143596387031
+    second: WaterCloneExplode_9
+  - first:
+      213: -6848074093064979594
+    second: WaterCloneExplode_10
+  - first:
+      213: 455591737442051729
+    second: WaterCloneExplode_11
+  - first:
+      213: -1063707348454026908
+    second: WaterCloneExplode_12
+  - first:
+      213: -2573533407442168109
+    second: WaterCloneExplode_13
+  - first:
+      213: 4623036447925022959
+    second: WaterCloneExplode_14
+  - first:
+      213: 1192554263111043435
+    second: WaterCloneExplode_15
+  - first:
+      213: 4365361845968522004
+    second: WaterCloneExplode_16
+  - first:
+      213: -132801863348871508
+    second: WaterCloneExplode_17
+  - first:
+      213: 4127120041397751336
+    second: WaterCloneExplode_18
+  - first:
+      213: 4400720162249445123
+    second: WaterCloneExplode_19
+  - first:
+      213: -7264878790061349758
+    second: WaterCloneExplode_20
+  - first:
+      213: 3419499928260208254
+    second: WaterCloneExplode_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WaterCloneExplode_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 227
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2c15620cda4e090800000000000000
+      internalID: -8006083196769680705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterCloneExplode_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 227
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b07dfd122ec2070800000000000000
+      internalID: 8083084066340408206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterCloneExplode_2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 227
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073d0bd934861cb10800000000000000
+      internalID: 1999994349146919792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterCloneExplode_3
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 227
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15babbc42f9079dd0800000000000000
+      internalID: -2479502133570065583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterCloneExplode_4
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 227
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7affb36b962a750800000000000000
+      internalID: 6314725858938431426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterCloneExplode_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 131
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d410bc345e05d90800000000000000
+      internalID: -7110931732286583514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterCloneExplode_6
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 131
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac92e7368c32e37e0800000000000000
+      internalID: -1783949058822493750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterCloneExplode_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 131
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f87192f4655ff200800000000000000
+      internalID: 215985199191783670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterCloneExplode_8
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 131
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d3e7a4560c8a3e0800000000000000
+      internalID: -2042170889738502881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterCloneExplode_9
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 131
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da26864436a13170800000000000000
+      internalID: 8156483143596387031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterCloneExplode_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 23
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b7e4f15e0c6f0a0800000000000000
+      internalID: -6848074093064979594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterCloneExplode_11
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 75
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19626d87546925600800000000000000
+      internalID: 455591737442051729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterCloneExplode_12
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 81
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461dc666dc3fc31f0800000000000000
+      internalID: -1063707348454026908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterCloneExplode_13
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 77
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d61fc74009f84cd0800000000000000
+      internalID: -2573533407442168109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterCloneExplode_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 29
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0314ec723582040800000000000000
+      internalID: 4623036447925022959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterCloneExplode_15
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 55
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b698c1ca8cdcc8010800000000000000
+      internalID: 1192554263111043435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterCloneExplode_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 28
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b4ff06871e49c30800000000000000
+      internalID: 4365361845968522004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterCloneExplode_17
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 65
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae949da861382ef0800000000000000
+      internalID: -132801863348871508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterCloneExplode_18
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 43
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e88ecafc9764930800000000000000
+      internalID: 4127120041397751336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterCloneExplode_19
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f07caebaf721d30800000000000000
+      internalID: 4400720162249445123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterCloneExplode_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 23
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284af1e3b37fd2b90800000000000000
+      internalID: -7264878790061349758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterCloneExplode_21
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 22
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e766c654111847f20800000000000000
+      internalID: 3419499928260208254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WaterCloneExplode_0: -8006083196769680705
+      WaterCloneExplode_1: 8083084066340408206
+      WaterCloneExplode_10: -6848074093064979594
+      WaterCloneExplode_11: 455591737442051729
+      WaterCloneExplode_12: -1063707348454026908
+      WaterCloneExplode_13: -2573533407442168109
+      WaterCloneExplode_14: 4623036447925022959
+      WaterCloneExplode_15: 1192554263111043435
+      WaterCloneExplode_16: 4365361845968522004
+      WaterCloneExplode_17: -132801863348871508
+      WaterCloneExplode_18: 4127120041397751336
+      WaterCloneExplode_19: 4400720162249445123
+      WaterCloneExplode_2: 1999994349146919792
+      WaterCloneExplode_20: -7264878790061349758
+      WaterCloneExplode_21: 3419499928260208254
+      WaterCloneExplode_3: -2479502133570065583
+      WaterCloneExplode_4: 6314725858938431426
+      WaterCloneExplode_5: -7110931732286583514
+      WaterCloneExplode_6: -1783949058822493750
+      WaterCloneExplode_7: 215985199191783670
+      WaterCloneExplode_8: -2042170889738502881
+      WaterCloneExplode_9: 8156483143596387031
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

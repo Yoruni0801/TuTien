@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 1a629ca809f11cf418b0efed00d79d34
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8259093668778139930
+    second: DanluPostCharge_0
+  - first:
+      213: -5719615677506867475
+    second: DanluPostCharge_1
+  - first:
+      213: 2831152455235985955
+    second: DanluPostCharge_2
+  - first:
+      213: -6479702725990526252
+    second: DanluPostCharge_3
+  - first:
+      213: -5607426338841551670
+    second: DanluPostCharge_4
+  - first:
+      213: -9180302823983083870
+    second: DanluPostCharge_5
+  - first:
+      213: -1158524804379175819
+    second: DanluPostCharge_6
+  - first:
+      213: 6548330165339778893
+    second: DanluPostCharge_7
+  - first:
+      213: -8171936506863628567
+    second: DanluPostCharge_8
+  - first:
+      213: -8797340302915359996
+    second: DanluPostCharge_9
+  - first:
+      213: 5138402087584320101
+    second: DanluPostCharge_10
+  - first:
+      213: 4629651920290427173
+    second: DanluPostCharge_11
+  - first:
+      213: 1860233762867136453
+    second: DanluPostCharge_12
+  - first:
+      213: 2010021921244873630
+    second: DanluPostCharge_13
+  - first:
+      213: 360800750042710805
+    second: DanluPostCharge_14
+  - first:
+      213: 981552081186912702
+    second: DanluPostCharge_15
+  - first:
+      213: -4713676793093670407
+    second: DanluPostCharge_16
+  - first:
+      213: -5322678026772957555
+    second: DanluPostCharge_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DanluPostCharge_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1396
+        width: 198
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee1dc9111ec16d80800000000000000
+      internalID: -8259093668778139930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluPostCharge_1
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1389
+        width: 190
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deea27a58d7df90b0800000000000000
+      internalID: -5719615677506867475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluPostCharge_2
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1389
+        width: 176
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322e05f68264a4720800000000000000
+      internalID: 2831152455235985955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluPostCharge_3
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1389
+        width: 173
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2543f93b87316a0800000000000000
+      internalID: -6479702725990526252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluPostCharge_4
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1389
+        width: 174
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc1e29447b6e22b0800000000000000
+      internalID: -5607426338841551670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluPostCharge_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 979
+        width: 173
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae09fd8833099080800000000000000
+      internalID: -9180302823983083870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluPostCharge_6
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 979
+        width: 174
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574108b14d71cefe0800000000000000
+      internalID: -1158524804379175819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluPostCharge_7
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 979
+        width: 174
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f6d01479750ea50800000000000000
+      internalID: 6548330165339778893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluPostCharge_8
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 979
+        width: 173
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eec8553b03779e80800000000000000
+      internalID: -8171936506863628567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluPostCharge_9
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 979
+        width: 175
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ba084da9199e580800000000000000
+      internalID: -8797340302915359996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluPostCharge_10
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 570
+        width: 180
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ac69769754f4740800000000000000
+      internalID: 5138402087584320101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluPostCharge_11
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 570
+        width: 180
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521bd9e74e3df3040800000000000000
+      internalID: 4629651920290427173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluPostCharge_12
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 570
+        width: 180
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c742ea50c0e0d910800000000000000
+      internalID: 1860233762867136453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluPostCharge_13
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 570
+        width: 180
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e938c8ea94805eb10800000000000000
+      internalID: 2010021921244873630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluPostCharge_14
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 570
+        width: 180
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5138dfcde52d10500800000000000000
+      internalID: 360800750042710805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluPostCharge_15
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 160
+        width: 180
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9f0b7da6c2f9d00800000000000000
+      internalID: 981552081186912702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluPostCharge_16
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 160
+        width: 180
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f936a94ee7a59eb0800000000000000
+      internalID: -4713676793093670407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluPostCharge_17
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 160
+        width: 180
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86bb60198c0226b0800000000000000
+      internalID: -5322678026772957555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DanluPostCharge_0: -8259093668778139930
+      DanluPostCharge_1: -5719615677506867475
+      DanluPostCharge_10: 5138402087584320101
+      DanluPostCharge_11: 4629651920290427173
+      DanluPostCharge_12: 1860233762867136453
+      DanluPostCharge_13: 2010021921244873630
+      DanluPostCharge_14: 360800750042710805
+      DanluPostCharge_15: 981552081186912702
+      DanluPostCharge_16: -4713676793093670407
+      DanluPostCharge_17: -5322678026772957555
+      DanluPostCharge_2: 2831152455235985955
+      DanluPostCharge_3: -6479702725990526252
+      DanluPostCharge_4: -5607426338841551670
+      DanluPostCharge_5: -9180302823983083870
+      DanluPostCharge_6: -1158524804379175819
+      DanluPostCharge_7: 6548330165339778893
+      DanluPostCharge_8: -8171936506863628567
+      DanluPostCharge_9: -8797340302915359996
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

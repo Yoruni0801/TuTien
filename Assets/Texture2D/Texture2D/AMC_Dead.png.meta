@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: 4fa3177089d45764ca42ec30f3e11cee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7025360619753414716
+    second: AMC_Dead_0
+  - first:
+      213: 837910052402374396
+    second: AMC_Dead_1
+  - first:
+      213: -1410312867841058106
+    second: AMC_Dead_2
+  - first:
+      213: -5064170171913856509
+    second: AMC_Dead_3
+  - first:
+      213: -3140501566979737688
+    second: AMC_Dead_4
+  - first:
+      213: -4662845860778815509
+    second: AMC_Dead_5
+  - first:
+      213: -7487779948685695290
+    second: AMC_Dead_6
+  - first:
+      213: -5538097383751601328
+    second: AMC_Dead_7
+  - first:
+      213: -8717521671686723088
+    second: AMC_Dead_8
+  - first:
+      213: 2269216633951244569
+    second: AMC_Dead_9
+  - first:
+      213: 7179176487418428326
+    second: AMC_Dead_10
+  - first:
+      213: -635210364044748841
+    second: AMC_Dead_11
+  - first:
+      213: 830845364781019276
+    second: AMC_Dead_12
+  - first:
+      213: 3943842489115236055
+    second: AMC_Dead_13
+  - first:
+      213: -7824797055898411383
+    second: AMC_Dead_14
+  - first:
+      213: 8900030523245045550
+    second: AMC_Dead_15
+  - first:
+      213: 5834547268362969621
+    second: AMC_Dead_16
+  - first:
+      213: -4929252618094883994
+    second: AMC_Dead_17
+  - first:
+      213: -4837782740332197198
+    second: AMC_Dead_18
+  - first:
+      213: -210229291211166727
+    second: AMC_Dead_19
+  - first:
+      213: 7657607562108577888
+    second: AMC_Dead_20
+  - first:
+      213: -461108763131285295
+    second: AMC_Dead_21
+  - first:
+      213: -1289407760980895581
+    second: AMC_Dead_22
+  - first:
+      213: -8890258315125432500
+    second: AMC_Dead_23
+  - first:
+      213: 6951590818923450560
+    second: AMC_Dead_24
+  - first:
+      213: -8916399198829432027
+    second: AMC_Dead_25
+  - first:
+      213: -3623177077981864681
+    second: AMC_Dead_26
+  - first:
+      213: -4459718224223476371
+    second: AMC_Dead_27
+  - first:
+      213: 4907027473133647022
+    second: AMC_Dead_28
+  - first:
+      213: -6940392985942651708
+    second: AMC_Dead_29
+  - first:
+      213: -1835472382591273163
+    second: AMC_Dead_30
+  - first:
+      213: 6675016063813486573
+    second: AMC_Dead_31
+  - first:
+      213: -7151021550417807095
+    second: AMC_Dead_32
+  - first:
+      213: -7360912839207228028
+    second: AMC_Dead_33
+  - first:
+      213: 5061578476986170987
+    second: AMC_Dead_34
+  - first:
+      213: -7851144434802077835
+    second: AMC_Dead_35
+  - first:
+      213: -8269324832964596466
+    second: AMC_Dead_36
+  - first:
+      213: 8843343165926359163
+    second: AMC_Dead_37
+  - first:
+      213: -2510084658413802679
+    second: AMC_Dead_38
+  - first:
+      213: -476151720371857382
+    second: AMC_Dead_39
+  - first:
+      213: -611100559820903226
+    second: AMC_Dead_40
+  - first:
+      213: -2205428012280186878
+    second: AMC_Dead_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AMC_Dead_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1012
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf54900db7e08e90800000000000000
+      internalID: -7025360619753414716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1012
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf62c23d0cad0ab00800000000000000
+      internalID: 837910052402374396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1012
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cadb2a3bef8d6ce0800000000000000
+      internalID: -1410312867841058106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1012
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a12fc4f0478b9b0800000000000000
+      internalID: -5064170171913856509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1013
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a77d93c672ba64d0800000000000000
+      internalID: -3140501566979737688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1012
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befc0e9f46e3a4fb0800000000000000
+      internalID: -4662845860778815509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1012
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6eb420fcf061890800000000000000
+      internalID: -7487779948685695290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_7
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1012
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05337f585c9b423b0800000000000000
+      internalID: -5538097383751601328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_8
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1012
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9e75d1a34250780800000000000000
+      internalID: -8717521671686723088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_9
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1012
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91152197180ed7f10800000000000000
+      internalID: 2269216633951244569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 602
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab79687afe81a360800000000000000
+      internalID: 7179176487418428326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 602
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d757751a874f27f0800000000000000
+      internalID: -635210364044748841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_12
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 614
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c807d0f0571c78b00800000000000000
+      internalID: 830845364781019276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_13
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 615
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d65ec539d75bb630800000000000000
+      internalID: 3943842489115236055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_14
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 616
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e17a3098cb86390800000000000000
+      internalID: -7824797055898411383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_15
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 616
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27a7244b92438b70800000000000000
+      internalID: 8900030523245045550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_16
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 617
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512200ce3d978f050800000000000000
+      internalID: 5834547268362969621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_17
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 618
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b4a423cd6c79bb0800000000000000
+      internalID: -4929252618094883994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_18
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 619
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bacbf5ba3ebcdcb0800000000000000
+      internalID: -4837782740332197198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_19
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 618
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbe9ffc29d151df0800000000000000
+      internalID: -210229291211166727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_20
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 602
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068a3d88189454a60800000000000000
+      internalID: 7657607562108577888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 602
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d07db2e500d999f0800000000000000
+      internalID: -461108763131285295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_22
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 602
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a81a14197a1b1ee0800000000000000
+      internalID: -1289407760980895581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_23
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 602
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f5c7d3a257f9480800000000000000
+      internalID: -8890258315125432500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_24
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 209
+        width: 72
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c09cc9c403097060800000000000000
+      internalID: 6951590818923450560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_25
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 602
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523b1367b26924480800000000000000
+      internalID: -8916399198829432027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_26
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 602
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d9d8cd4a3e7bdc0800000000000000
+      internalID: -3623177077981864681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_27
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 602
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65e2d657e5eb12c0800000000000000
+      internalID: -4459718224223476371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_28
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 207
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4b63ffc73491440800000000000000
+      internalID: 4907027473133647022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_29
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 206
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc864fd955ceaf90800000000000000
+      internalID: -6940392985942651708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_30
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 207
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5377b90c7971786e0800000000000000
+      internalID: -1835472382591273163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_31
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 208
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de701a98ebb62ac50800000000000000
+      internalID: 6675016063813486573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_32
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 209
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909fe22a9c772cc90800000000000000
+      internalID: -7151021550417807095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_33
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 192
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48de074c5c8c8d990800000000000000
+      internalID: -7360912839207228028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_34
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 192
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ef583bec65e3640800000000000000
+      internalID: 5061578476986170987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_35
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 192
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f4653dbb12b0390800000000000000
+      internalID: -7851144434802077835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_36
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 192
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d24de80e47d3d80800000000000000
+      internalID: -8269324832964596466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_37
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 192
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b704bef51cdd9ba70800000000000000
+      internalID: 8843343165926359163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_38
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 192
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b661b5d436a2dd0800000000000000
+      internalID: -2510084658413802679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_39
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 192
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a185b08788e5469f0800000000000000
+      internalID: -476151720371857382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_40
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 192
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc25d1574fe487f0800000000000000
+      internalID: -611100559820903226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_Dead_41
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 192
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208f75e58eeb461e0800000000000000
+      internalID: -2205428012280186878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AMC_Dead_0: -7025360619753414716
+      AMC_Dead_1: 837910052402374396
+      AMC_Dead_10: 7179176487418428326
+      AMC_Dead_11: -635210364044748841
+      AMC_Dead_12: 830845364781019276
+      AMC_Dead_13: 3943842489115236055
+      AMC_Dead_14: -7824797055898411383
+      AMC_Dead_15: 8900030523245045550
+      AMC_Dead_16: 5834547268362969621
+      AMC_Dead_17: -4929252618094883994
+      AMC_Dead_18: -4837782740332197198
+      AMC_Dead_19: -210229291211166727
+      AMC_Dead_2: -1410312867841058106
+      AMC_Dead_20: 7657607562108577888
+      AMC_Dead_21: -461108763131285295
+      AMC_Dead_22: -1289407760980895581
+      AMC_Dead_23: -8890258315125432500
+      AMC_Dead_24: 6951590818923450560
+      AMC_Dead_25: -8916399198829432027
+      AMC_Dead_26: -3623177077981864681
+      AMC_Dead_27: -4459718224223476371
+      AMC_Dead_28: 4907027473133647022
+      AMC_Dead_29: -6940392985942651708
+      AMC_Dead_3: -5064170171913856509
+      AMC_Dead_30: -1835472382591273163
+      AMC_Dead_31: 6675016063813486573
+      AMC_Dead_32: -7151021550417807095
+      AMC_Dead_33: -7360912839207228028
+      AMC_Dead_34: 5061578476986170987
+      AMC_Dead_35: -7851144434802077835
+      AMC_Dead_36: -8269324832964596466
+      AMC_Dead_37: 8843343165926359163
+      AMC_Dead_38: -2510084658413802679
+      AMC_Dead_39: -476151720371857382
+      AMC_Dead_4: -3140501566979737688
+      AMC_Dead_40: -611100559820903226
+      AMC_Dead_41: -2205428012280186878
+      AMC_Dead_5: -4662845860778815509
+      AMC_Dead_6: -7487779948685695290
+      AMC_Dead_7: -5538097383751601328
+      AMC_Dead_8: -8717521671686723088
+      AMC_Dead_9: 2269216633951244569
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

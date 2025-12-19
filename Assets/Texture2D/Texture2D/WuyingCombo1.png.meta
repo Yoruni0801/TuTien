@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 1c4e607baeb39a14e8210912b45d1a18
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3789596593749684403
+    second: WuyingCombo1_0
+  - first:
+      213: -1886350000023038625
+    second: WuyingCombo1_1
+  - first:
+      213: -5669334846534038646
+    second: WuyingCombo1_2
+  - first:
+      213: 7454278102335770294
+    second: WuyingCombo1_3
+  - first:
+      213: 135902686703043701
+    second: WuyingCombo1_4
+  - first:
+      213: -8169861114408850913
+    second: WuyingCombo1_5
+  - first:
+      213: -5648918962767236231
+    second: WuyingCombo1_6
+  - first:
+      213: -9049214504836871845
+    second: WuyingCombo1_7
+  - first:
+      213: 8211526733519612952
+    second: WuyingCombo1_8
+  - first:
+      213: -9222498839552883852
+    second: WuyingCombo1_9
+  - first:
+      213: 8294814346162037602
+    second: WuyingCombo1_10
+  - first:
+      213: -7813318353754322328
+    second: WuyingCombo1_11
+  - first:
+      213: 3606913009005397560
+    second: WuyingCombo1_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WuyingCombo1_0
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 237
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0fa7c160a579430800000000000000
+      internalID: 3789596593749684403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WuyingCombo1_1
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 247
+        width: 116
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5591965ba652d5e0800000000000000
+      internalID: -1886350000023038625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WuyingCombo1_2
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 187
+        width: 182
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b48979ef97251b0800000000000000
+      internalID: -5669334846534038646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WuyingCombo1_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 188
+        width: 140
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be42ba807ae27760800000000000000
+      internalID: 7454278102335770294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WuyingCombo1_4
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 188
+        width: 163
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574c4f406c2d2e100800000000000000
+      internalID: 135902686703043701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WuyingCombo1_5
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 222
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a226b2a92de9e80800000000000000
+      internalID: -8169861114408850913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WuyingCombo1_6
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 43
+        width: 179
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9737a43f1220b91b0800000000000000
+      internalID: -5648918962767236231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WuyingCombo1_7
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 72
+        width: 160
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59c2e64a5bba6280800000000000000
+      internalID: -9049214504836871845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WuyingCombo1_8
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 68
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c6f0fbe0435f170800000000000000
+      internalID: 8211526733519612952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WuyingCombo1_9
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 56
+        width: 80
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4738ff61b2a130080800000000000000
+      internalID: -9222498839552883852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WuyingCombo1_10
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 70
+        width: 163
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2636dc433b91d1370800000000000000
+      internalID: 8294814346162037602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WuyingCombo1_11
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 51
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a0f6f9a54819390800000000000000
+      internalID: -7813318353754322328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WuyingCombo1_12
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 72
+        width: 99
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836808d75445e0230800000000000000
+      internalID: 3606913009005397560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WuyingCombo1_0: 3789596593749684403
+      WuyingCombo1_1: -1886350000023038625
+      WuyingCombo1_10: 8294814346162037602
+      WuyingCombo1_11: -7813318353754322328
+      WuyingCombo1_12: 3606913009005397560
+      WuyingCombo1_2: -5669334846534038646
+      WuyingCombo1_3: 7454278102335770294
+      WuyingCombo1_4: 135902686703043701
+      WuyingCombo1_5: -8169861114408850913
+      WuyingCombo1_6: -5648918962767236231
+      WuyingCombo1_7: -9049214504836871845
+      WuyingCombo1_8: 8211526733519612952
+      WuyingCombo1_9: -9222498839552883852
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

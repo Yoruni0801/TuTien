@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: b637cf5c1be6fd64caf102e60ec24c92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3959652349025547403
+    second: FakeDanATK_0
+  - first:
+      213: 7957492216046290537
+    second: FakeDanATK_1
+  - first:
+      213: 8429168693349537763
+    second: FakeDanATK_2
+  - first:
+      213: -8587576193115406063
+    second: FakeDanATK_3
+  - first:
+      213: 5805466462190132127
+    second: FakeDanATK_4
+  - first:
+      213: -8744405301895703941
+    second: FakeDanATK_5
+  - first:
+      213: -8490004857325247268
+    second: FakeDanATK_6
+  - first:
+      213: 3665894842337505900
+    second: FakeDanATK_7
+  - first:
+      213: -906629380607862738
+    second: FakeDanATK_8
+  - first:
+      213: 6198883316966463269
+    second: FakeDanATK_9
+  - first:
+      213: -7600296830844999911
+    second: FakeDanATK_10
+  - first:
+      213: 5244620439262585124
+    second: FakeDanATK_11
+  - first:
+      213: 3640673268619716183
+    second: FakeDanATK_12
+  - first:
+      213: -5994414122674918188
+    second: FakeDanATK_13
+  - first:
+      213: 567316080323267056
+    second: FakeDanATK_14
+  - first:
+      213: 1179854481707977229
+    second: FakeDanATK_15
+  - first:
+      213: -2870377002623378570
+    second: FakeDanATK_16
+  - first:
+      213: -8217551275065663373
+    second: FakeDanATK_17
+  - first:
+      213: 1760920435586003264
+    second: FakeDanATK_18
+  - first:
+      213: 6174706417567238506
+    second: FakeDanATK_19
+  - first:
+      213: 3457944923369343229
+    second: FakeDanATK_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FakeDanATK_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 235
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b8a4eea2d7c09c0800000000000000
+      internalID: -3959652349025547403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeDanATK_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 235
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96600688201be6e60800000000000000
+      internalID: 7957492216046290537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeDanATK_2
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 243
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e751f6544c6af470800000000000000
+      internalID: 8429168693349537763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeDanATK_3
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 249
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11141c783fcc2d880800000000000000
+      internalID: -8587576193115406063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeDanATK_4
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 251
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b594a1df8219050800000000000000
+      internalID: 5805466462190132127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeDanATK_5
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 235
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72d67035b1a5a680800000000000000
+      internalID: -8744405301895703941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeDanATK_6
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 235
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4a9c170917d2a80800000000000000
+      internalID: -8490004857325247268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeDanATK_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 235
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62b675bfefdfd230800000000000000
+      internalID: 3665894842337505900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeDanATK_8
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 235
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e289fe1c1610b63f0800000000000000
+      internalID: -906629380607862738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeDanATK_9
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 135
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52791ef988bd60650800000000000000
+      internalID: 6198883316966463269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeDanATK_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 135
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917e4f9ec42568690800000000000000
+      internalID: -7600296830844999911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeDanATK_11
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 135
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421eff79082a8c840800000000000000
+      internalID: 5244620439262585124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeDanATK_12
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 135
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756a6577c05468230800000000000000
+      internalID: 3640673268619716183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeDanATK_13
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 135
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc606d7d109fcca0800000000000000
+      internalID: -5994414122674918188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeDanATK_14
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 135
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9090328f28fd700800000000000000
+      internalID: 567316080323267056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeDanATK_15
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 35
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a4bd4666faf5010800000000000000
+      internalID: 1179854481707977229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeDanATK_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 35
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bde23f25f5a28d0800000000000000
+      internalID: -2870377002623378570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeDanATK_17
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 35
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370272e57a465fd80800000000000000
+      internalID: -8217551275065663373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeDanATK_18
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 35
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04174d07ecb007810800000000000000
+      internalID: 1760920435586003264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeDanATK_19
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 35
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a698b6395c6f0b550800000000000000
+      internalID: 6174706417567238506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeDanATK_20
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 35
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df88b4a36961dff20800000000000000
+      internalID: 3457944923369343229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FakeDanATK_0: -3959652349025547403
+      FakeDanATK_1: 7957492216046290537
+      FakeDanATK_10: -7600296830844999911
+      FakeDanATK_11: 5244620439262585124
+      FakeDanATK_12: 3640673268619716183
+      FakeDanATK_13: -5994414122674918188
+      FakeDanATK_14: 567316080323267056
+      FakeDanATK_15: 1179854481707977229
+      FakeDanATK_16: -2870377002623378570
+      FakeDanATK_17: -8217551275065663373
+      FakeDanATK_18: 1760920435586003264
+      FakeDanATK_19: 6174706417567238506
+      FakeDanATK_2: 8429168693349537763
+      FakeDanATK_20: 3457944923369343229
+      FakeDanATK_3: -8587576193115406063
+      FakeDanATK_4: 5805466462190132127
+      FakeDanATK_5: -8744405301895703941
+      FakeDanATK_6: -8490004857325247268
+      FakeDanATK_7: 3665894842337505900
+      FakeDanATK_8: -906629380607862738
+      FakeDanATK_9: 6198883316966463269
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

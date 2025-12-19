@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 6274a9cc15d170d4b80348b87759af15
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7772471626587934672
+    second: AMC_HomeBaseRez_0
+  - first:
+      213: 3250567898144146995
+    second: AMC_HomeBaseRez_1
+  - first:
+      213: -8294097082032043340
+    second: AMC_HomeBaseRez_2
+  - first:
+      213: -3033879341188307268
+    second: AMC_HomeBaseRez_3
+  - first:
+      213: 8376749768174862637
+    second: AMC_HomeBaseRez_4
+  - first:
+      213: 9212301115722821675
+    second: AMC_HomeBaseRez_5
+  - first:
+      213: -4386235525583033588
+    second: AMC_HomeBaseRez_6
+  - first:
+      213: 6196898778672009016
+    second: AMC_HomeBaseRez_7
+  - first:
+      213: -1047687813628348224
+    second: AMC_HomeBaseRez_8
+  - first:
+      213: -1935533413391231683
+    second: AMC_HomeBaseRez_9
+  - first:
+      213: 3518555265079163696
+    second: AMC_HomeBaseRez_10
+  - first:
+      213: -5047725386655651497
+    second: AMC_HomeBaseRez_11
+  - first:
+      213: 4212186417860471819
+    second: AMC_HomeBaseRez_12
+  - first:
+      213: 5030744253699728755
+    second: AMC_HomeBaseRez_13
+  - first:
+      213: -306612453481157054
+    second: AMC_HomeBaseRez_14
+  - first:
+      213: -3881568743538069595
+    second: AMC_HomeBaseRez_15
+  - first:
+      213: 1505834987065508400
+    second: AMC_HomeBaseRez_16
+  - first:
+      213: 4004042604780167699
+    second: AMC_HomeBaseRez_17
+  - first:
+      213: -4525262543486788454
+    second: AMC_HomeBaseRez_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AMC_HomeBaseRez_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1131
+        width: 6
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df839993cd5ddb60800000000000000
+      internalID: 7772471626587934672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_HomeBaseRez_1
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1073
+        width: 6
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3368b27f7465c1d20800000000000000
+      internalID: 3250567898144146995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_HomeBaseRez_2
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1019
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba40ecd5a275ec80800000000000000
+      internalID: -8294097082032043340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_HomeBaseRez_3
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 996
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6231930de75e5d0800000000000000
+      internalID: -3033879341188307268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_HomeBaseRez_4
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 985
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2106604881304470800000000000000
+      internalID: 8376749768174862637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_HomeBaseRez_5
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 945
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20f79e4e0ba8df70800000000000000
+      internalID: 9212301115722821675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_HomeBaseRez_6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 945
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bac6c5706f023c0800000000000000
+      internalID: -4386235525583033588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_HomeBaseRez_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 945
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f0ccb4b9ecff550800000000000000
+      internalID: 6196898778672009016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_HomeBaseRez_8
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 945
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c83d210c7dd571f0800000000000000
+      internalID: -1047687813628348224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_HomeBaseRez_9
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 945
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d359aeb8d9a9325e0800000000000000
+      internalID: -1935533413391231683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_HomeBaseRez_10
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 945
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bbf991f5b64d030800000000000000
+      internalID: 3518555265079163696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_HomeBaseRez_11
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 945
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7592bac3180e2f9b0800000000000000
+      internalID: -5047725386655651497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_HomeBaseRez_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 305
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c6c4cda31b47a30800000000000000
+      internalID: 4212186417860471819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_HomeBaseRez_13
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 305
+        width: 156
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3752c95ae3bc0d540800000000000000
+      internalID: 5030744253699728755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_HomeBaseRez_14
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 305
+        width: 181
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e6b8a1991bebbf0800000000000000
+      internalID: -306612453481157054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_HomeBaseRez_15
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 305
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af672e0bc5e12ac0800000000000000
+      internalID: -3881568743538069595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_HomeBaseRez_16
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 305
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032056641fcc5e410800000000000000
+      internalID: 1505834987065508400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_HomeBaseRez_17
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 305
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312a373e887319730800000000000000
+      internalID: 4004042604780167699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMC_HomeBaseRez_18
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 305
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cd61c41b90331c0800000000000000
+      internalID: -4525262543486788454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AMC_HomeBaseRez_0: 7772471626587934672
+      AMC_HomeBaseRez_1: 3250567898144146995
+      AMC_HomeBaseRez_10: 3518555265079163696
+      AMC_HomeBaseRez_11: -5047725386655651497
+      AMC_HomeBaseRez_12: 4212186417860471819
+      AMC_HomeBaseRez_13: 5030744253699728755
+      AMC_HomeBaseRez_14: -306612453481157054
+      AMC_HomeBaseRez_15: -3881568743538069595
+      AMC_HomeBaseRez_16: 1505834987065508400
+      AMC_HomeBaseRez_17: 4004042604780167699
+      AMC_HomeBaseRez_18: -4525262543486788454
+      AMC_HomeBaseRez_2: -8294097082032043340
+      AMC_HomeBaseRez_3: -3033879341188307268
+      AMC_HomeBaseRez_4: 8376749768174862637
+      AMC_HomeBaseRez_5: 9212301115722821675
+      AMC_HomeBaseRez_6: -4386235525583033588
+      AMC_HomeBaseRez_7: 6196898778672009016
+      AMC_HomeBaseRez_8: -1047687813628348224
+      AMC_HomeBaseRez_9: -1935533413391231683
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

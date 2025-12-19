@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 4fb8308e9e2063041af2718de2331882
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8049293964187951790
+    second: ShopReadyATK_0
+  - first:
+      213: 7533364921858465196
+    second: ShopReadyATK_1
+  - first:
+      213: -5873604133041103679
+    second: ShopReadyATK_2
+  - first:
+      213: -1858338866903514727
+    second: ShopReadyATK_3
+  - first:
+      213: -7521934572296428575
+    second: ShopReadyATK_4
+  - first:
+      213: -3365469111979104798
+    second: ShopReadyATK_5
+  - first:
+      213: -6160287529113082547
+    second: ShopReadyATK_6
+  - first:
+      213: -1584571624912896297
+    second: ShopReadyATK_7
+  - first:
+      213: 5068627663162538284
+    second: ShopReadyATK_8
+  - first:
+      213: 6385062929884161493
+    second: ShopReadyATK_9
+  - first:
+      213: -8332207625953006390
+    second: ShopReadyATK_10
+  - first:
+      213: -5467619836827478927
+    second: ShopReadyATK_11
+  - first:
+      213: -4914871694694307605
+    second: ShopReadyATK_12
+  - first:
+      213: -8557143237252237291
+    second: ShopReadyATK_13
+  - first:
+      213: -2795769647411127659
+    second: ShopReadyATK_14
+  - first:
+      213: -8336843342086326824
+    second: ShopReadyATK_15
+  - first:
+      213: -442223080948647917
+    second: ShopReadyATK_16
+  - first:
+      213: -8830340936846419917
+    second: ShopReadyATK_17
+  - first:
+      213: -1308442182071631790
+    second: ShopReadyATK_18
+  - first:
+      213: 2405899962383419037
+    second: ShopReadyATK_19
+  - first:
+      213: -5955481416993560420
+    second: ShopReadyATK_20
+  - first:
+      213: 5352652866980111788
+    second: ShopReadyATK_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShopReadyATK_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 683
+        width: 77
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea26e14a636d4bf60800000000000000
+      internalID: 8049293964187951790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopReadyATK_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 683
+        width: 77
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad13c2ab73eb8860800000000000000
+      internalID: 7533364921858465196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopReadyATK_2
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 683
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc91d22924cc7ea0800000000000000
+      internalID: -5873604133041103679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopReadyATK_3
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 683
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9910aed75aad536e0800000000000000
+      internalID: -1858338866903514727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopReadyATK_4
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 683
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3aa820c58bc9790800000000000000
+      internalID: -7521934572296428575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopReadyATK_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 483
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5afe57ca37b41d0800000000000000
+      internalID: -3365469111979104798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopReadyATK_6
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 483
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4522f08123428aa0800000000000000
+      internalID: -6160287529113082547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopReadyATK_7
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 495
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de37e7a088720ae0800000000000000
+      internalID: -1584571624912896297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopReadyATK_8
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 483
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2975814102675640800000000000000
+      internalID: 5068627663162538284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopReadyATK_9
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 496
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5a24cb7ec4c9850800000000000000
+      internalID: 6385062929884161493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopReadyATK_10
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 483
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc25446f4d0e5c80800000000000000
+      internalID: -8332207625953006390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopReadyATK_11
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 483
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174d4032abc1f14b0800000000000000
+      internalID: -5467619836827478927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopReadyATK_12
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 283
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8af19db3edacbb0800000000000000
+      internalID: -4914871694694307605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopReadyATK_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 283
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518b17b309bee3980800000000000000
+      internalID: -8557143237252237291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopReadyATK_14
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 283
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a9d3c715e6339d0800000000000000
+      internalID: -2795769647411127659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopReadyATK_15
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 283
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d53dde96259d4c80800000000000000
+      internalID: -8336843342086326824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopReadyATK_16
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 283
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318b39c6378ecd9f0800000000000000
+      internalID: -442223080948647917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopReadyATK_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 83
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338ddadf3b3547580800000000000000
+      internalID: -8830340936846419917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopReadyATK_18
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 83
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250cb7094ca77dde0800000000000000
+      internalID: -1308442182071631790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopReadyATK_19
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 83
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d964dfec449736120800000000000000
+      internalID: 2405899962383419037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopReadyATK_20
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 83
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98a8a96431e95da0800000000000000
+      internalID: -5955481416993560420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopReadyATK_21
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 83
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca563564c61784a40800000000000000
+      internalID: 5352652866980111788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ShopReadyATK_0: 8049293964187951790
+      ShopReadyATK_1: 7533364921858465196
+      ShopReadyATK_10: -8332207625953006390
+      ShopReadyATK_11: -5467619836827478927
+      ShopReadyATK_12: -4914871694694307605
+      ShopReadyATK_13: -8557143237252237291
+      ShopReadyATK_14: -2795769647411127659
+      ShopReadyATK_15: -8336843342086326824
+      ShopReadyATK_16: -442223080948647917
+      ShopReadyATK_17: -8830340936846419917
+      ShopReadyATK_18: -1308442182071631790
+      ShopReadyATK_19: 2405899962383419037
+      ShopReadyATK_2: -5873604133041103679
+      ShopReadyATK_20: -5955481416993560420
+      ShopReadyATK_21: 5352652866980111788
+      ShopReadyATK_3: -1858338866903514727
+      ShopReadyATK_4: -7521934572296428575
+      ShopReadyATK_5: -3365469111979104798
+      ShopReadyATK_6: -6160287529113082547
+      ShopReadyATK_7: -1584571624912896297
+      ShopReadyATK_8: 5068627663162538284
+      ShopReadyATK_9: 6385062929884161493
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

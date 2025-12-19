@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 4d52ff27149e22d4dba13094704b4eaa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3158561039790657182
+    second: BookKeeperEngage_0
+  - first:
+      213: -3514925751158375550
+    second: BookKeeperEngage_1
+  - first:
+      213: -4633216461409588006
+    second: BookKeeperEngage_2
+  - first:
+      213: 1539816214011828501
+    second: BookKeeperEngage_3
+  - first:
+      213: -6045747648791297168
+    second: BookKeeperEngage_4
+  - first:
+      213: 1447871825087663226
+    second: BookKeeperEngage_5
+  - first:
+      213: -3625316505174393681
+    second: BookKeeperEngage_6
+  - first:
+      213: 1973115267072585332
+    second: BookKeeperEngage_7
+  - first:
+      213: 1394436104466741895
+    second: BookKeeperEngage_8
+  - first:
+      213: 131905361389900414
+    second: BookKeeperEngage_9
+  - first:
+      213: 6392463892551051658
+    second: BookKeeperEngage_10
+  - first:
+      213: 3500067165686702588
+    second: BookKeeperEngage_11
+  - first:
+      213: 5364170367965716004
+    second: BookKeeperEngage_12
+  - first:
+      213: 286366557473866345
+    second: BookKeeperEngage_13
+  - first:
+      213: 3864080372378701967
+    second: BookKeeperEngage_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BookKeeperEngage_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 211
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e4c1ae78675db20800000000000000
+      internalID: 3158561039790657182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookKeeperEngage_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 211
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bf456f6a9783fc0800000000000000
+      internalID: -3514925751158375550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookKeeperEngage_2
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 211
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc603a1d2283bfb0800000000000000
+      internalID: -4633216461409588006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookKeeperEngage_3
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 211
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519df8730b68e5510800000000000000
+      internalID: 1539816214011828501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookKeeperEngage_4
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 211
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07344209b80391ca0800000000000000
+      internalID: -6045747648791297168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookKeeperEngage_5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 115
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c85a6f0cfd71410800000000000000
+      internalID: 1447871825087663226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookKeeperEngage_6
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 114
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac38b6a8d940bdc0800000000000000
+      internalID: -3625316505174393681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookKeeperEngage_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 109
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ee2c2a1e9e16b10800000000000000
+      internalID: 1973115267072585332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookKeeperEngage_8
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 108
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a38bcbf380a5310800000000000000
+      internalID: 1394436104466741895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookKeeperEngage_9
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 107
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e725d913a3f94d100800000000000000
+      internalID: 131905361389900414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookKeeperEngage_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 18
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a892403aa0896b850800000000000000
+      internalID: 6392463892551051658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookKeeperEngage_11
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 18
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1a3c40b8cb29030800000000000000
+      internalID: 3500067165686702588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookKeeperEngage_12
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 34
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ed541778c517a40800000000000000
+      internalID: 5364170367965716004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookKeeperEngage_13
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 10
+        width: 46
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96208c5edd069f300800000000000000
+      internalID: 286366557473866345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookKeeperEngage_14
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 9
+        width: 46
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80113b30a8ff9530800000000000000
+      internalID: 3864080372378701967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BookKeeperEngage_0: 3158561039790657182
+      BookKeeperEngage_1: -3514925751158375550
+      BookKeeperEngage_10: 6392463892551051658
+      BookKeeperEngage_11: 3500067165686702588
+      BookKeeperEngage_12: 5364170367965716004
+      BookKeeperEngage_13: 286366557473866345
+      BookKeeperEngage_14: 3864080372378701967
+      BookKeeperEngage_2: -4633216461409588006
+      BookKeeperEngage_3: 1539816214011828501
+      BookKeeperEngage_4: -6045747648791297168
+      BookKeeperEngage_5: 1447871825087663226
+      BookKeeperEngage_6: -3625316505174393681
+      BookKeeperEngage_7: 1973115267072585332
+      BookKeeperEngage_8: 1394436104466741895
+      BookKeeperEngage_9: 131905361389900414
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

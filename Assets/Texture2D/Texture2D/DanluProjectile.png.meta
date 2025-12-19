@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 15ea512195ee1034eb669773ac34c71e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3592324007430649761
+    second: DanluProjectile_0
+  - first:
+      213: 4183602822142284699
+    second: DanluProjectile_1
+  - first:
+      213: -6596915010545041655
+    second: DanluProjectile_2
+  - first:
+      213: 2843870282796466596
+    second: DanluProjectile_3
+  - first:
+      213: 7173331854491879362
+    second: DanluProjectile_4
+  - first:
+      213: 3362888672134595132
+    second: DanluProjectile_5
+  - first:
+      213: 4909999599795930616
+    second: DanluProjectile_6
+  - first:
+      213: 7573612160466131248
+    second: DanluProjectile_7
+  - first:
+      213: 6852847378661102002
+    second: DanluProjectile_8
+  - first:
+      213: 2952676226298079749
+    second: DanluProjectile_9
+  - first:
+      213: 2380763316662287389
+    second: DanluProjectile_10
+  - first:
+      213: -5071821177951948512
+    second: DanluProjectile_11
+  - first:
+      213: 4172649181270867145
+    second: DanluProjectile_12
+  - first:
+      213: -9091538548791301377
+    second: DanluProjectile_13
+  - first:
+      213: 4864480356903159391
+    second: DanluProjectile_14
+  - first:
+      213: 6907179925090101556
+    second: DanluProjectile_15
+  - first:
+      213: -4708736410108863032
+    second: DanluProjectile_16
+  - first:
+      213: 6103777495982469976
+    second: DanluProjectile_17
+  - first:
+      213: -6933554882625409908
+    second: DanluProjectile_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DanluProjectile_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1002
+        width: 196
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7f20dd6af7ad130800000000000000
+      internalID: 3592324007430649761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluProjectile_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1002
+        width: 196
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93dc1fd9942f0a30800000000000000
+      internalID: 4183602822142284699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluProjectile_2
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1002
+        width: 213
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f3507ffbc0374a0800000000000000
+      internalID: -6596915010545041655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluProjectile_3
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1002
+        width: 200
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a18f5964f4777720800000000000000
+      internalID: 2843870282796466596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluProjectile_4
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1002
+        width: 200
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c78bf2d05bcc8360800000000000000
+      internalID: 7173331854491879362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluProjectile_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 702
+        width: 200
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3284c11e616bae20800000000000000
+      internalID: 3362888672134595132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluProjectile_6
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 702
+        width: 200
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f585292f92d32440800000000000000
+      internalID: 4909999599795930616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluProjectile_7
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 702
+        width: 200
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039992b1220ea1960800000000000000
+      internalID: 7573612160466131248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluProjectile_8
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 702
+        width: 200
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1df0902643a1f50800000000000000
+      internalID: 6852847378661102002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluProjectile_9
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 702
+        width: 200
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50aec3542630af820800000000000000
+      internalID: 2952676226298079749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluProjectile_10
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 402
+        width: 200
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cbfe76f9b2a0120800000000000000
+      internalID: 2380763316662287389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluProjectile_11
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 402
+        width: 200
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021fed3a2854d99b0800000000000000
+      internalID: -5071821177951948512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluProjectile_12
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 402
+        width: 200
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc79fd925a38e930800000000000000
+      internalID: 4172649181270867145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluProjectile_13
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 402
+        width: 200
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa2681ebdd54d180800000000000000
+      internalID: -9091538548791301377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluProjectile_14
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 402
+        width: 200
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56041a8c1b128340800000000000000
+      internalID: 4864480356903159391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluProjectile_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 102
+        width: 220
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43964bacb8b3bdf50800000000000000
+      internalID: 6907179925090101556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluProjectile_16
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 103
+        width: 191
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd5386de2537aeb0800000000000000
+      internalID: -4708736410108863032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluProjectile_17
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 102
+        width: 196
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853fe0c1b49f4b450800000000000000
+      internalID: 6103777495982469976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluProjectile_18
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 102
+        width: 196
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cef6ed19017cf90800000000000000
+      internalID: -6933554882625409908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DanluProjectile_0: 3592324007430649761
+      DanluProjectile_1: 4183602822142284699
+      DanluProjectile_10: 2380763316662287389
+      DanluProjectile_11: -5071821177951948512
+      DanluProjectile_12: 4172649181270867145
+      DanluProjectile_13: -9091538548791301377
+      DanluProjectile_14: 4864480356903159391
+      DanluProjectile_15: 6907179925090101556
+      DanluProjectile_16: -4708736410108863032
+      DanluProjectile_17: 6103777495982469976
+      DanluProjectile_18: -6933554882625409908
+      DanluProjectile_2: -6596915010545041655
+      DanluProjectile_3: 2843870282796466596
+      DanluProjectile_4: 7173331854491879362
+      DanluProjectile_5: 3362888672134595132
+      DanluProjectile_6: 4909999599795930616
+      DanluProjectile_7: 7573612160466131248
+      DanluProjectile_8: 6852847378661102002
+      DanluProjectile_9: 2952676226298079749
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 272cadc79b935f44b80ca8fc0992810e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8676091625971434830
+    second: TombCHIReward_0
+  - first:
+      213: 7524195370172936029
+    second: TombCHIReward_1
+  - first:
+      213: 8855020552167473344
+    second: TombCHIReward_2
+  - first:
+      213: 3987225419416364093
+    second: TombCHIReward_3
+  - first:
+      213: 7211146287176255361
+    second: TombCHIReward_4
+  - first:
+      213: -1398978550915946425
+    second: TombCHIReward_5
+  - first:
+      213: -6593354272061916961
+    second: TombCHIReward_6
+  - first:
+      213: -8923344434532368549
+    second: TombCHIReward_7
+  - first:
+      213: -783887151528670970
+    second: TombCHIReward_8
+  - first:
+      213: 4359704211464661212
+    second: TombCHIReward_9
+  - first:
+      213: -6587591550615366481
+    second: TombCHIReward_10
+  - first:
+      213: 5729803791913538642
+    second: TombCHIReward_11
+  - first:
+      213: -4183413951530451932
+    second: TombCHIReward_12
+  - first:
+      213: 6656163984070577604
+    second: TombCHIReward_13
+  - first:
+      213: 5379628210785880070
+    second: TombCHIReward_14
+  - first:
+      213: -5727987676545885197
+    second: TombCHIReward_15
+  - first:
+      213: 8005944298582885239
+    second: TombCHIReward_16
+  - first:
+      213: 5678484280855840078
+    second: TombCHIReward_17
+  - first:
+      213: -1354250135866505849
+    second: TombCHIReward_18
+  - first:
+      213: -2370649440954606865
+    second: TombCHIReward_19
+  - first:
+      213: -8457420236581611726
+    second: TombCHIReward_20
+  - first:
+      213: 8597844965221399728
+    second: TombCHIReward_21
+  - first:
+      213: -2880161939877385849
+    second: TombCHIReward_22
+  - first:
+      213: 8454512745886749425
+    second: TombCHIReward_23
+  - first:
+      213: -12782069687698330
+    second: TombCHIReward_24
+  - first:
+      213: -6384517936246305809
+    second: TombCHIReward_25
+  - first:
+      213: -3405109866432162096
+    second: TombCHIReward_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TombCHIReward_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 49
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45c4ccad5ba76870800000000000000
+      internalID: 8676091625971434830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombCHIReward_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 53
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5febc303df4b6860800000000000000
+      internalID: 7524195370172936029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombCHIReward_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 49
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0c9bab64a53ea70800000000000000
+      internalID: 8855020552167473344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombCHIReward_3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3468bbc468755730800000000000000
+      internalID: 3987225419416364093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombCHIReward_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 46
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18784868753231460800000000000000
+      internalID: 7211146287176255361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombCHIReward_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 53
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748a3488b64d59ce0800000000000000
+      internalID: -1398978550915946425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombCHIReward_6
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 45
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8f17ff833bf74a0800000000000000
+      internalID: -6593354272061916961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombCHIReward_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 50
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f3d33c389e92480800000000000000
+      internalID: -8923344434532368549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombCHIReward_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 56
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6090425f9c21f15f0800000000000000
+      internalID: -783887151528670970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombCHIReward_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 55
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd82022b1e7c08c30800000000000000
+      internalID: 4359704211464661212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombCHIReward_10
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4d434236c2494a0800000000000000
+      internalID: -6587591550615366481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombCHIReward_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 42
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25451b1e03a548f40800000000000000
+      internalID: 5729803791913538642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombCHIReward_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 42
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c3d9efc2781f5c0800000000000000
+      internalID: -4183413951530451932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombCHIReward_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 42
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd864da0e17f5c50800000000000000
+      internalID: 6656163984070577604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombCHIReward_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 44
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608009fea5748aa40800000000000000
+      internalID: 5379628210785880070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombCHIReward_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 45
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbdaad6e891280b0800000000000000
+      internalID: -5727987676545885197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombCHIReward_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 18
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773c8981ce3da1f60800000000000000
+      internalID: 8005944298582885239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombCHIReward_17
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 15
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e454d071e570ece40800000000000000
+      internalID: 5678484280855840078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombCHIReward_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 13
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78507a23dacb43de0800000000000000
+      internalID: -1354250135866505849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombCHIReward_19
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 12
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea1ce8c4e2c91fd0800000000000000
+      internalID: -2370649440954606865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombCHIReward_20
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 16
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2375a5aaa1531aa80800000000000000
+      internalID: -8457420236581611726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombCHIReward_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 21
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcf6e9417ea15770800000000000000
+      internalID: 8597844965221399728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombCHIReward_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 11
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7892206b9fb9708d0800000000000000
+      internalID: -2880161939877385849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombCHIReward_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 15
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f297976c86745570800000000000000
+      internalID: 8454512745886749425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombCHIReward_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 13
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c35cc76c692dff0800000000000000
+      internalID: -12782069687698330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombCHIReward_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 10
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febcdeb73c2a567a0800000000000000
+      internalID: -6384517936246305809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TombCHIReward_26
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 11
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d612261e9e9eb0d0800000000000000
+      internalID: -3405109866432162096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TombCHIReward_0: 8676091625971434830
+      TombCHIReward_1: 7524195370172936029
+      TombCHIReward_10: -6587591550615366481
+      TombCHIReward_11: 5729803791913538642
+      TombCHIReward_12: -4183413951530451932
+      TombCHIReward_13: 6656163984070577604
+      TombCHIReward_14: 5379628210785880070
+      TombCHIReward_15: -5727987676545885197
+      TombCHIReward_16: 8005944298582885239
+      TombCHIReward_17: 5678484280855840078
+      TombCHIReward_18: -1354250135866505849
+      TombCHIReward_19: -2370649440954606865
+      TombCHIReward_2: 8855020552167473344
+      TombCHIReward_20: -8457420236581611726
+      TombCHIReward_21: 8597844965221399728
+      TombCHIReward_22: -2880161939877385849
+      TombCHIReward_23: 8454512745886749425
+      TombCHIReward_24: -12782069687698330
+      TombCHIReward_25: -6384517936246305809
+      TombCHIReward_26: -3405109866432162096
+      TombCHIReward_3: 3987225419416364093
+      TombCHIReward_4: 7211146287176255361
+      TombCHIReward_5: -1398978550915946425
+      TombCHIReward_6: -6593354272061916961
+      TombCHIReward_7: -8923344434532368549
+      TombCHIReward_8: -783887151528670970
+      TombCHIReward_9: 4359704211464661212
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

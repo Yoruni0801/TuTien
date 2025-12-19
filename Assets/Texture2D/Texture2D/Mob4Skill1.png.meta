@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 7b0588e3f4873c04d98b6ca94b30bbb3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3915071004479530844
+    second: Mob4Skill1_0
+  - first:
+      213: -5019843541177833589
+    second: Mob4Skill1_1
+  - first:
+      213: -6564755033121487095
+    second: Mob4Skill1_2
+  - first:
+      213: 8531294131123664612
+    second: Mob4Skill1_3
+  - first:
+      213: -2091960636676885835
+    second: Mob4Skill1_4
+  - first:
+      213: 1393399142645298156
+    second: Mob4Skill1_5
+  - first:
+      213: 8966848278582656546
+    second: Mob4Skill1_6
+  - first:
+      213: -8551470350394073436
+    second: Mob4Skill1_7
+  - first:
+      213: -4080886230215787198
+    second: Mob4Skill1_8
+  - first:
+      213: 5993709956926786645
+    second: Mob4Skill1_9
+  - first:
+      213: -6156705017176253168
+    second: Mob4Skill1_10
+  - first:
+      213: 8685217153535169998
+    second: Mob4Skill1_11
+  - first:
+      213: -8760767134871486594
+    second: Mob4Skill1_12
+  - first:
+      213: 2193878708626304716
+    second: Mob4Skill1_13
+  - first:
+      213: 6153976011667967517
+    second: Mob4Skill1_14
+  - first:
+      213: -4551559641969561502
+    second: Mob4Skill1_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mob4Skill1_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 335
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c572f6ce550255630800000000000000
+      internalID: 3915071004479530844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob4Skill1_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 335
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b876e0445eee55ab0800000000000000
+      internalID: -5019843541177833589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob4Skill1_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 335
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9070655341e45e4a0800000000000000
+      internalID: -6564755033121487095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob4Skill1_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 335
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e63000cfce356670800000000000000
+      internalID: 8531294131123664612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob4Skill1_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 235
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b236c672ecd7f2e0800000000000000
+      internalID: -2091960636676885835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob4Skill1_5
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 235
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3f4bf3329565310800000000000000
+      internalID: 1393399142645298156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob4Skill1_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 235
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22efdbf3005a07c70800000000000000
+      internalID: 8966848278582656546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob4Skill1_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 235
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aed9712603135980800000000000000
+      internalID: -8551470350394073436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob4Skill1_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 135
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d74375897cd57c0800000000000000
+      internalID: -4080886230215787198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob4Skill1_9
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 135
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cc755237fed2350800000000000000
+      internalID: 5993709956926786645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob4Skill1_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 135
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d1850186dfe8aa0800000000000000
+      internalID: -6156705017176253168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob4Skill1_11
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 135
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5d7912cf6188870800000000000000
+      internalID: 8685217153535169998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob4Skill1_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 35
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f711615b08b6680800000000000000
+      internalID: -8760767134871486594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob4Skill1_13
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 35
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccea6f3df09327e10800000000000000
+      internalID: 2193878708626304716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob4Skill1_14
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 35
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e8eb3d390576550800000000000000
+      internalID: 6153976011667967517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob4Skill1_15
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 35
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260766eee9c95d0c0800000000000000
+      internalID: -4551559641969561502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mob4Skill1_0: 3915071004479530844
+      Mob4Skill1_1: -5019843541177833589
+      Mob4Skill1_10: -6156705017176253168
+      Mob4Skill1_11: 8685217153535169998
+      Mob4Skill1_12: -8760767134871486594
+      Mob4Skill1_13: 2193878708626304716
+      Mob4Skill1_14: 6153976011667967517
+      Mob4Skill1_15: -4551559641969561502
+      Mob4Skill1_2: -6564755033121487095
+      Mob4Skill1_3: 8531294131123664612
+      Mob4Skill1_4: -2091960636676885835
+      Mob4Skill1_5: 1393399142645298156
+      Mob4Skill1_6: 8966848278582656546
+      Mob4Skill1_7: -8551470350394073436
+      Mob4Skill1_8: -4080886230215787198
+      Mob4Skill1_9: 5993709956926786645
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: c3ecdb7b6feadec4198327759d88c1de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5668277735804991714
+    second: FatalStrikeFX_0
+  - first:
+      213: 6858166741022289661
+    second: FatalStrikeFX_1
+  - first:
+      213: -3020571820809051552
+    second: FatalStrikeFX_2
+  - first:
+      213: 6875634496815398232
+    second: FatalStrikeFX_3
+  - first:
+      213: 7269612846382954274
+    second: FatalStrikeFX_4
+  - first:
+      213: -8731252233556354117
+    second: FatalStrikeFX_5
+  - first:
+      213: 3860683409813857352
+    second: FatalStrikeFX_6
+  - first:
+      213: 2687863885294583602
+    second: FatalStrikeFX_7
+  - first:
+      213: 7337125312966545441
+    second: FatalStrikeFX_8
+  - first:
+      213: -6786665564176215024
+    second: FatalStrikeFX_9
+  - first:
+      213: -3310443921513601237
+    second: FatalStrikeFX_10
+  - first:
+      213: 9403226091349819
+    second: FatalStrikeFX_11
+  - first:
+      213: 5465874821008987147
+    second: FatalStrikeFX_12
+  - first:
+      213: 5215633504276830302
+    second: FatalStrikeFX_13
+  - first:
+      213: -7319604479871168615
+    second: FatalStrikeFX_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FatalStrikeFX_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 30
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17861d5e6b3651b0800000000000000
+      internalID: -5668277735804991714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatalStrikeFX_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 27
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe2809905a1d2f50800000000000000
+      internalID: 6858166741022289661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatalStrikeFX_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 52
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0622f12cee5c416d0800000000000000
+      internalID: -3020571820809051552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatalStrikeFX_3
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 51
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d7a1c65292b6f50800000000000000
+      internalID: 6875634496815398232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatalStrikeFX_4
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 53
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227b5432e5ad2e460800000000000000
+      internalID: 7269612846382954274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatalStrikeFX_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 53
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb998e8a5c54d680800000000000000
+      internalID: -8731252233556354117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatalStrikeFX_6
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 56
+        width: 68
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844e2304b17e39530800000000000000
+      internalID: 3860683409813857352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatalStrikeFX_7
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 23
+        width: 15
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fb59776f53d4520800000000000000
+      internalID: 2687863885294583602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatalStrikeFX_8
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 5
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120d5ef2994b2d560800000000000000
+      internalID: 7337125312966545441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatalStrikeFX_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 8
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01496ed60abe0d1a0800000000000000
+      internalID: -6786665564176215024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatalStrikeFX_10
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 13
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27a459fac0fe02d0800000000000000
+      internalID: -3310443921513601237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatalStrikeFX_11
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 37
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37eaee2f28612000800000000000000
+      internalID: 9403226091349819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatalStrikeFX_12
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 42
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b041ef4b030badb40800000000000000
+      internalID: 5465874821008987147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatalStrikeFX_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 10
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58db0dd907a16840800000000000000
+      internalID: 5215633504276830302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatalStrikeFX_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 22
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fcbe8a18a8b6a90800000000000000
+      internalID: -7319604479871168615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FatalStrikeFX_0: -5668277735804991714
+      FatalStrikeFX_1: 6858166741022289661
+      FatalStrikeFX_10: -3310443921513601237
+      FatalStrikeFX_11: 9403226091349819
+      FatalStrikeFX_12: 5465874821008987147
+      FatalStrikeFX_13: 5215633504276830302
+      FatalStrikeFX_14: -7319604479871168615
+      FatalStrikeFX_2: -3020571820809051552
+      FatalStrikeFX_3: 6875634496815398232
+      FatalStrikeFX_4: 7269612846382954274
+      FatalStrikeFX_5: -8731252233556354117
+      FatalStrikeFX_6: 3860683409813857352
+      FatalStrikeFX_7: 2687863885294583602
+      FatalStrikeFX_8: 7337125312966545441
+      FatalStrikeFX_9: -6786665564176215024
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

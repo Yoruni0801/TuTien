@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 2c4a1e2842048f84298a5876156379ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4665771356952769110
+    second: SwordAtk2_0
+  - first:
+      213: 6219988819546500023
+    second: SwordAtk2_1
+  - first:
+      213: -1923238061741242362
+    second: SwordAtk2_2
+  - first:
+      213: -5698066894148290605
+    second: SwordAtk2_3
+  - first:
+      213: -8860245917347616212
+    second: SwordAtk2_4
+  - first:
+      213: -1057980167620264582
+    second: SwordAtk2_5
+  - first:
+      213: 7836048487913244028
+    second: SwordAtk2_6
+  - first:
+      213: 1264907613702727253
+    second: SwordAtk2_7
+  - first:
+      213: -2502319376971245662
+    second: SwordAtk2_8
+  - first:
+      213: -6548236465857027477
+    second: SwordAtk2_9
+  - first:
+      213: 3507008445061909797
+    second: SwordAtk2_10
+  - first:
+      213: 8803549259231431830
+    second: SwordAtk2_11
+  - first:
+      213: -2552452960319006913
+    second: SwordAtk2_12
+  - first:
+      213: 9205464951754115345
+    second: SwordAtk2_13
+  - first:
+      213: 3403075720649258003
+    second: SwordAtk2_14
+  - first:
+      213: -8534225602015563362
+    second: SwordAtk2_15
+  - first:
+      213: 8740514927818646376
+    second: SwordAtk2_16
+  - first:
+      213: -3362942796117197924
+    second: SwordAtk2_17
+  - first:
+      213: -6136701566388203373
+    second: SwordAtk2_18
+  - first:
+      213: -3805001721151452607
+    second: SwordAtk2_19
+  - first:
+      213: -7799530478688028279
+    second: SwordAtk2_20
+  - first:
+      213: 1576950111059938685
+    second: SwordAtk2_21
+  - first:
+      213: 7565539343796174001
+    second: SwordAtk2_22
+  - first:
+      213: 2195650944970889230
+    second: SwordAtk2_23
+  - first:
+      213: 6347932804531304476
+    second: SwordAtk2_24
+  - first:
+      213: 2248069462574400789
+    second: SwordAtk2_25
+  - first:
+      213: 3830882000783515110
+    second: SwordAtk2_26
+  - first:
+      213: 6507391548238654677
+    second: SwordAtk2_27
+  - first:
+      213: 6852488374258771286
+    second: SwordAtk2_28
+  - first:
+      213: -6016932299267729578
+    second: SwordAtk2_29
+  - first:
+      213: -8254634842952062360
+    second: SwordAtk2_30
+  - first:
+      213: -1277657750821407664
+    second: SwordAtk2_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SwordAtk2_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1777
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad43a1dba9df3fb0800000000000000
+      internalID: -4665771356952769110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordAtk2_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1777
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb68ff50e6d15650800000000000000
+      internalID: 6219988819546500023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordAtk2_2
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1777
+        width: 41
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608076f2c294f45e0800000000000000
+      internalID: -1923238061741242362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordAtk2_3
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1777
+        width: 41
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7b0e379566ce0b0800000000000000
+      internalID: -5698066894148290605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordAtk2_4
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1806
+        width: 35
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ae3e128451a0580800000000000000
+      internalID: -8860245917347616212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordAtk2_5
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1831
+        width: 36
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7df59994ac4151f0800000000000000
+      internalID: -1057980167620264582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordAtk2_6
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1777
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c754ec4259c3fbc60800000000000000
+      internalID: 7836048487913244028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordAtk2_7
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1780
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556207cd5cadd8110800000000000000
+      internalID: 1264907613702727253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordAtk2_8
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1425
+        width: 9
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a75d05d8c9f54dd0800000000000000
+      internalID: -2502319376971245662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordAtk2_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1343
+        width: 17
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62255bd0adff15a0800000000000000
+      internalID: -6548236465857027477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordAtk2_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1388
+        width: 11
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dc53099956ba030800000000000000
+      internalID: 3507008445061909797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordAtk2_11
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1227
+        width: 137
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c8427786d7c2a70800000000000000
+      internalID: 8803549259231431830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordAtk2_12
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1227
+        width: 136
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f379a4a5e8dd39cd0800000000000000
+      internalID: -2552452960319006913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordAtk2_13
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1227
+        width: 137
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119cc99d99160cf70800000000000000
+      internalID: 9205464951754115345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordAtk2_14
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1227
+        width: 137
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3143e0176572a3f20800000000000000
+      internalID: 3403075720649258003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordAtk2_15
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1227
+        width: 137
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9171def707509980800000000000000
+      internalID: -8534225602015563362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordAtk2_16
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 934
+        width: 9
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86321a2840c8c4970800000000000000
+      internalID: 8740514927818646376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordAtk2_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 858
+        width: 17
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bb975385d6451d0800000000000000
+      internalID: -3362942796117197924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordAtk2_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 902
+        width: 11
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39019d2607e06daa0800000000000000
+      internalID: -6136701566388203373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordAtk2_19
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 916
+        width: 35
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a8409281be13bc0800000000000000
+      internalID: -3805001721151452607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordAtk2_20
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 910
+        width: 36
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989b7f27a5082c390800000000000000
+      internalID: -7799530478688028279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordAtk2_21
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 821
+        width: 36
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d8d3e55c372e510800000000000000
+      internalID: 1576950111059938685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordAtk2_22
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 729
+        width: 149
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc763103f13ef860800000000000000
+      internalID: 7565539343796174001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordAtk2_23
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 721
+        width: 148
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e089db1c6e4887e10800000000000000
+      internalID: 2195650944970889230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordAtk2_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 715
+        width: 137
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c183320c043681850800000000000000
+      internalID: 6347932804531304476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordAtk2_25
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 715
+        width: 137
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5158623f34fb23f10800000000000000
+      internalID: 2248069462574400789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordAtk2_26
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 715
+        width: 137
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed932102e60a2530800000000000000
+      internalID: 3830882000783515110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordAtk2_27
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 715
+        width: 137
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dce42fa226ee4a50800000000000000
+      internalID: 6507391548238654677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordAtk2_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 205
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655203fcedde81f50800000000000000
+      internalID: 6852488374258771286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordAtk2_29
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 202
+        width: 149
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6579290f3ff8f7ca0800000000000000
+      internalID: -6016932299267729578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordAtk2_30
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 204
+        width: 149
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86aa7436855a17d80800000000000000
+      internalID: -8254634842952062360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordAtk2_31
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 241
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054f3c18b09d44ee0800000000000000
+      internalID: -1277657750821407664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SwordAtk2_0: -4665771356952769110
+      SwordAtk2_1: 6219988819546500023
+      SwordAtk2_10: 3507008445061909797
+      SwordAtk2_11: 8803549259231431830
+      SwordAtk2_12: -2552452960319006913
+      SwordAtk2_13: 9205464951754115345
+      SwordAtk2_14: 3403075720649258003
+      SwordAtk2_15: -8534225602015563362
+      SwordAtk2_16: 8740514927818646376
+      SwordAtk2_17: -3362942796117197924
+      SwordAtk2_18: -6136701566388203373
+      SwordAtk2_19: -3805001721151452607
+      SwordAtk2_2: -1923238061741242362
+      SwordAtk2_20: -7799530478688028279
+      SwordAtk2_21: 1576950111059938685
+      SwordAtk2_22: 7565539343796174001
+      SwordAtk2_23: 2195650944970889230
+      SwordAtk2_24: 6347932804531304476
+      SwordAtk2_25: 2248069462574400789
+      SwordAtk2_26: 3830882000783515110
+      SwordAtk2_27: 6507391548238654677
+      SwordAtk2_28: 6852488374258771286
+      SwordAtk2_29: -6016932299267729578
+      SwordAtk2_3: -5698066894148290605
+      SwordAtk2_30: -8254634842952062360
+      SwordAtk2_31: -1277657750821407664
+      SwordAtk2_4: -8860245917347616212
+      SwordAtk2_5: -1057980167620264582
+      SwordAtk2_6: 7836048487913244028
+      SwordAtk2_7: 1264907613702727253
+      SwordAtk2_8: -2502319376971245662
+      SwordAtk2_9: -6548236465857027477
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2184 @@
+fileFormatVersion: 2
+guid: 0b6c5c37270650c479ae2d27425651c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -257563897921956127
+    second: ZhuQueFX_0
+  - first:
+      213: 8458492534317888702
+    second: ZhuQueFX_1
+  - first:
+      213: -4164099658187057648
+    second: ZhuQueFX_2
+  - first:
+      213: -4180397731904400364
+    second: ZhuQueFX_3
+  - first:
+      213: -5072812562406703304
+    second: ZhuQueFX_4
+  - first:
+      213: -1457354051109249108
+    second: ZhuQueFX_5
+  - first:
+      213: -1673367456252508559
+    second: ZhuQueFX_6
+  - first:
+      213: 2469319558687420663
+    second: ZhuQueFX_7
+  - first:
+      213: -149885111523330911
+    second: ZhuQueFX_8
+  - first:
+      213: 8721006846150242316
+    second: ZhuQueFX_9
+  - first:
+      213: -1814540269936594141
+    second: ZhuQueFX_10
+  - first:
+      213: -2312298926580092655
+    second: ZhuQueFX_11
+  - first:
+      213: 4469240799570003915
+    second: ZhuQueFX_12
+  - first:
+      213: -6414657432623694181
+    second: ZhuQueFX_13
+  - first:
+      213: -8089704921165465065
+    second: ZhuQueFX_14
+  - first:
+      213: 5985593134521237137
+    second: ZhuQueFX_15
+  - first:
+      213: -3594615012656610286
+    second: ZhuQueFX_16
+  - first:
+      213: -3632774640733715250
+    second: ZhuQueFX_17
+  - first:
+      213: -5696977308020916109
+    second: ZhuQueFX_18
+  - first:
+      213: 4177327066877732830
+    second: ZhuQueFX_19
+  - first:
+      213: 5772313519061214785
+    second: ZhuQueFX_20
+  - first:
+      213: 8740212596107030621
+    second: ZhuQueFX_21
+  - first:
+      213: -7086037315226440861
+    second: ZhuQueFX_22
+  - first:
+      213: 7915641079866621143
+    second: ZhuQueFX_23
+  - first:
+      213: 1848392830850446046
+    second: ZhuQueFX_24
+  - first:
+      213: -6845703287258045361
+    second: ZhuQueFX_25
+  - first:
+      213: -1247524969642031650
+    second: ZhuQueFX_26
+  - first:
+      213: 1268617431283430766
+    second: ZhuQueFX_27
+  - first:
+      213: -3038684005864391262
+    second: ZhuQueFX_28
+  - first:
+      213: 4164348727231997848
+    second: ZhuQueFX_29
+  - first:
+      213: 4509596906912545752
+    second: ZhuQueFX_30
+  - first:
+      213: -5771481236821998719
+    second: ZhuQueFX_31
+  - first:
+      213: 5092473041406427794
+    second: ZhuQueFX_32
+  - first:
+      213: 6659193128458809160
+    second: ZhuQueFX_33
+  - first:
+      213: -7476659352863507912
+    second: ZhuQueFX_34
+  - first:
+      213: 456683094651938734
+    second: ZhuQueFX_35
+  - first:
+      213: -3853140820297529443
+    second: ZhuQueFX_36
+  - first:
+      213: -9190124244703526038
+    second: ZhuQueFX_37
+  - first:
+      213: -2322320446234873023
+    second: ZhuQueFX_38
+  - first:
+      213: -6387843659972869940
+    second: ZhuQueFX_39
+  - first:
+      213: 6802505995542067521
+    second: ZhuQueFX_40
+  - first:
+      213: 5564094448229429954
+    second: ZhuQueFX_41
+  - first:
+      213: 8039636979553871410
+    second: ZhuQueFX_42
+  - first:
+      213: -7326239974378889907
+    second: ZhuQueFX_43
+  - first:
+      213: -2768850376844132407
+    second: ZhuQueFX_44
+  - first:
+      213: -7516857786704058970
+    second: ZhuQueFX_45
+  - first:
+      213: 1552596152048224081
+    second: ZhuQueFX_46
+  - first:
+      213: -2950317511340515890
+    second: ZhuQueFX_47
+  - first:
+      213: -6938059269094052147
+    second: ZhuQueFX_48
+  - first:
+      213: 1146228368157615218
+    second: ZhuQueFX_49
+  - first:
+      213: -2494700433830543368
+    second: ZhuQueFX_50
+  - first:
+      213: 1345717213615807745
+    second: ZhuQueFX_51
+  - first:
+      213: -3411088434283585893
+    second: ZhuQueFX_52
+  - first:
+      213: -4644477820501992255
+    second: ZhuQueFX_53
+  - first:
+      213: 6481601296883407706
+    second: ZhuQueFX_54
+  - first:
+      213: 3789389729410712288
+    second: ZhuQueFX_55
+  - first:
+      213: -3621402696833527627
+    second: ZhuQueFX_56
+  - first:
+      213: -8854459919428221587
+    second: ZhuQueFX_57
+  - first:
+      213: -4555221350217714305
+    second: ZhuQueFX_58
+  - first:
+      213: 2711412155641441985
+    second: ZhuQueFX_59
+  - first:
+      213: 3450786311106618917
+    second: ZhuQueFX_60
+  - first:
+      213: -3896956367189536265
+    second: ZhuQueFX_61
+  - first:
+      213: -6739338301336905115
+    second: ZhuQueFX_62
+  - first:
+      213: 882177576974291143
+    second: ZhuQueFX_63
+  - first:
+      213: -8099317902300932324
+    second: ZhuQueFX_64
+  - first:
+      213: 1855330914138285209
+    second: ZhuQueFX_65
+  - first:
+      213: 6783573732306870161
+    second: ZhuQueFX_66
+  - first:
+      213: 321989304366849282
+    second: ZhuQueFX_67
+  - first:
+      213: 8046641581868164597
+    second: ZhuQueFX_68
+  - first:
+      213: 8463945329699111814
+    second: ZhuQueFX_69
+  - first:
+      213: -3797027558007136308
+    second: ZhuQueFX_70
+  - first:
+      213: 3428045199962104441
+    second: ZhuQueFX_71
+  - first:
+      213: -2164470316130158993
+    second: ZhuQueFX_72
+  - first:
+      213: 6616143218246555207
+    second: ZhuQueFX_73
+  - first:
+      213: -1392260129451571085
+    second: ZhuQueFX_74
+  - first:
+      213: -2949672558373822981
+    second: ZhuQueFX_75
+  - first:
+      213: 6439537505794662369
+    second: ZhuQueFX_76
+  - first:
+      213: 6148104817251647303
+    second: ZhuQueFX_77
+  - first:
+      213: -3920105684830611073
+    second: ZhuQueFX_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ZhuQueFX_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 328
+        width: 89
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6956ddff2fc6cf0800000000000000
+      internalID: -257563897921956127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 314
+        width: 125
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4bf4b152a926570800000000000000
+      internalID: 8458492534317888702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 312
+        width: 132
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0165f685c652636c0800000000000000
+      internalID: -4164099658187057648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_3
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 314
+        width: 122
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4145df9596e3cf5c0800000000000000
+      internalID: -4180397731904400364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_4
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 241
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ffb95f9dfb999b0800000000000000
+      internalID: -5072812562406703304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_5
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 266
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf18af363076cbe0800000000000000
+      internalID: -1457354051109249108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_6
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 273
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176ce571a2107c8e0800000000000000
+      internalID: -1673367456252508559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_7
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 280
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0fc7c3e09c44220800000000000000
+      internalID: 2469319558687420663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_8
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 268
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4388209408bedf0800000000000000
+      internalID: -149885111523330911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_9
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 256
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00f88c458d370970800000000000000
+      internalID: 8721006846150242316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_10
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 258
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323b9c30d3571d6e0800000000000000
+      internalID: -1814540269936594141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_11
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 268
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1113daa906019efd0800000000000000
+      internalID: -2312298926580092655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 212
+        width: 79
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc78d0204dee50e30800000000000000
+      internalID: 4469240799570003915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_13
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 217
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e35a42d0f8af6a0800000000000000
+      internalID: -6414657432623694181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_14
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 219
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71af33c3c389bbf80800000000000000
+      internalID: -8089704921165465065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_15
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 240
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19eb7292e39111350800000000000000
+      internalID: 5985593134521237137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_16
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 245
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214015ae0bc5d1ec0800000000000000
+      internalID: -3594615012656610286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_17
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 246
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4050626bac59dc0800000000000000
+      internalID: -3632774640733715250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_18
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 245
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370c3fd725540f0b0800000000000000
+      internalID: -5696977308020916109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_19
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 230
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed72fdbb5d8d8f930800000000000000
+      internalID: 4177327066877732830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_20
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 222
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14624d300906b1050800000000000000
+      internalID: 5772313519061214785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_21
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 223
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50ba5c6c097b4970800000000000000
+      internalID: 8740212596107030621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_22
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 236
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36be3c0fa9659ad90800000000000000
+      internalID: -7086037315226440861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_23
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 232
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc70fe8f910add60800000000000000
+      internalID: 7915641079866621143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_24
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 228
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed238388c7fc6a910800000000000000
+      internalID: 1848392830850446046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_25
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 214
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44a24d512d2ff0a0800000000000000
+      internalID: -6845703287258045361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_26
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 210
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed58e0856a6efaee0800000000000000
+      internalID: -1247524969642031650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_27
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 217
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65748315d80b9110800000000000000
+      internalID: 1268617431283430766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_28
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 219
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adbacd0ffc64d5d0800000000000000
+      internalID: -3038684005864391262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_29
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 222
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897638f8a1dbac930800000000000000
+      internalID: 4164348727231997848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_30
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 181
+        width: 96
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbf8b47e7e459e30800000000000000
+      internalID: 4509596906912545752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_31
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 192
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183846bc46497efa0800000000000000
+      internalID: -5771481236821998719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_32
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 196
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292884500491ca640800000000000000
+      internalID: 5092473041406427794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_33
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 211
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f62805ed43a6c50800000000000000
+      internalID: 6659193128458809160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_34
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 212
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83af7fd7ee19d3890800000000000000
+      internalID: -7476659352863507912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_35
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 211
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7a7afdad6765600800000000000000
+      internalID: 456683094651938734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_36
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 214
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97cb98b6d4e68ac0800000000000000
+      internalID: -3853140820297529443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_37
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 187
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63cdb8d0be167080800000000000000
+      internalID: -9190124244703526038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_38
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 196
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1433b8bbbd575cfd0800000000000000
+      internalID: -2322320446234873023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_39
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 202
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc006961902d957a0800000000000000
+      internalID: -6387843659972869940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_40
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 197
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149ffb6692b576e50800000000000000
+      internalID: 6802505995542067521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_41
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 142
+        width: 65
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2307bbb62a73d40800000000000000
+      internalID: 5564094448229429954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_42
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 144
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2362761bc37829f60800000000000000
+      internalID: 8039636979553871410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_43
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 161
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d11e33f87f35a90800000000000000
+      internalID: -7326239974378889907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_44
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 169
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfbff390411399d0800000000000000
+      internalID: -2768850376844132407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_45
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 174
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a520644ba1cea790800000000000000
+      internalID: -7516857786704058970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_46
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 174
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157097a69fdeb8510800000000000000
+      internalID: 1552596152048224081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_47
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 160
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd1fe9dadd5e07d0800000000000000
+      internalID: -2950317511340515890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_48
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 171
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dceea0baadf07bf90800000000000000
+      internalID: -6938059269094052147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_49
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 177
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274a28bb0a838ef00800000000000000
+      internalID: 1146228368157615218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_50
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 178
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff74844c2b016dd0800000000000000
+      internalID: -2494700433830543368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_51
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 184
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10dd2b50da2fca210800000000000000
+      internalID: 1345717213615807745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_52
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 176
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e5519442169a0d0800000000000000
+      internalID: -3411088434283585893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_53
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 172
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc5ccd97008b8fb0800000000000000
+      internalID: -4644477820501992255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_54
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 150
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b527cd90643f950800000000000000
+      internalID: 6481601296883407706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_55
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 152
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e20a01c1ed969430800000000000000
+      internalID: 3789389729410712288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_56
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 163
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0989a2f613ebdc0800000000000000
+      internalID: -3621402696833527627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_57
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 103
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d650c80cd93ae1580800000000000000
+      internalID: -8854459919428221587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_58
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 135
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f757ffa015a98c0c0800000000000000
+      internalID: -4555221350217714305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_59
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 140
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce2fa86dfed0a520800000000000000
+      internalID: 2711412155641441985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_60
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 131
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5266a4dedd7a3ef20800000000000000
+      internalID: 3450786311106618917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_61
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 139
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1987cb4da3be9c0800000000000000
+      internalID: -3896956367189536265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_62
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 145
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a11af758f0972a0800000000000000
+      internalID: -6739338301336905115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_63
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 135
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c01e5015df1e3c00800000000000000
+      internalID: 882177576974291143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_64
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 143
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c171466a741799f80800000000000000
+      internalID: -8099317902300932324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_65
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 100
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994630ee2a57fb910800000000000000
+      internalID: 1855330914138285209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_66
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 98
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f52dd5e58142e50800000000000000
+      internalID: 6783573732306870161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_67
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 121
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20dd24cf09fe77400800000000000000
+      internalID: 321989304366849282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_68
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 108
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5a322c2e96baf60800000000000000
+      internalID: 8046641581868164597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_69
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 115
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683ca07fe69f57570800000000000000
+      internalID: 8463945329699111814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_70
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 121
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf9d92bd8f3e4bc0800000000000000
+      internalID: -3797027558007136308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_71
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 108
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97269b162fcd29f20800000000000000
+      internalID: 3428045199962104441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_72
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 124
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f663f2027b146f1e0800000000000000
+      internalID: -2164470316130158993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_73
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 112
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74612b2043341db50800000000000000
+      internalID: 6616143218246555207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_74
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 118
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378891de9c2bdace0800000000000000
+      internalID: -1392260129451571085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_75
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 129
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd196aaf68a017d0800000000000000
+      internalID: -2949672558373822981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_76
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 123
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef12be4e35dd5950800000000000000
+      internalID: 6439537505794662369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_77
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 124
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ff62ad1c4725550800000000000000
+      internalID: 6148104817251647303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZhuQueFX_78
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 110
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f799ea536acf899c0800000000000000
+      internalID: -3920105684830611073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ZhuQueFX_0: -257563897921956127
+      ZhuQueFX_1: 8458492534317888702
+      ZhuQueFX_10: -1814540269936594141
+      ZhuQueFX_11: -2312298926580092655
+      ZhuQueFX_12: 4469240799570003915
+      ZhuQueFX_13: -6414657432623694181
+      ZhuQueFX_14: -8089704921165465065
+      ZhuQueFX_15: 5985593134521237137
+      ZhuQueFX_16: -3594615012656610286
+      ZhuQueFX_17: -3632774640733715250
+      ZhuQueFX_18: -5696977308020916109
+      ZhuQueFX_19: 4177327066877732830
+      ZhuQueFX_2: -4164099658187057648
+      ZhuQueFX_20: 5772313519061214785
+      ZhuQueFX_21: 8740212596107030621
+      ZhuQueFX_22: -7086037315226440861
+      ZhuQueFX_23: 7915641079866621143
+      ZhuQueFX_24: 1848392830850446046
+      ZhuQueFX_25: -6845703287258045361
+      ZhuQueFX_26: -1247524969642031650
+      ZhuQueFX_27: 1268617431283430766
+      ZhuQueFX_28: -3038684005864391262
+      ZhuQueFX_29: 4164348727231997848
+      ZhuQueFX_3: -4180397731904400364
+      ZhuQueFX_30: 4509596906912545752
+      ZhuQueFX_31: -5771481236821998719
+      ZhuQueFX_32: 5092473041406427794
+      ZhuQueFX_33: 6659193128458809160
+      ZhuQueFX_34: -7476659352863507912
+      ZhuQueFX_35: 456683094651938734
+      ZhuQueFX_36: -3853140820297529443
+      ZhuQueFX_37: -9190124244703526038
+      ZhuQueFX_38: -2322320446234873023
+      ZhuQueFX_39: -6387843659972869940
+      ZhuQueFX_4: -5072812562406703304
+      ZhuQueFX_40: 6802505995542067521
+      ZhuQueFX_41: 5564094448229429954
+      ZhuQueFX_42: 8039636979553871410
+      ZhuQueFX_43: -7326239974378889907
+      ZhuQueFX_44: -2768850376844132407
+      ZhuQueFX_45: -7516857786704058970
+      ZhuQueFX_46: 1552596152048224081
+      ZhuQueFX_47: -2950317511340515890
+      ZhuQueFX_48: -6938059269094052147
+      ZhuQueFX_49: 1146228368157615218
+      ZhuQueFX_5: -1457354051109249108
+      ZhuQueFX_50: -2494700433830543368
+      ZhuQueFX_51: 1345717213615807745
+      ZhuQueFX_52: -3411088434283585893
+      ZhuQueFX_53: -4644477820501992255
+      ZhuQueFX_54: 6481601296883407706
+      ZhuQueFX_55: 3789389729410712288
+      ZhuQueFX_56: -3621402696833527627
+      ZhuQueFX_57: -8854459919428221587
+      ZhuQueFX_58: -4555221350217714305
+      ZhuQueFX_59: 2711412155641441985
+      ZhuQueFX_6: -1673367456252508559
+      ZhuQueFX_60: 3450786311106618917
+      ZhuQueFX_61: -3896956367189536265
+      ZhuQueFX_62: -6739338301336905115
+      ZhuQueFX_63: 882177576974291143
+      ZhuQueFX_64: -8099317902300932324
+      ZhuQueFX_65: 1855330914138285209
+      ZhuQueFX_66: 6783573732306870161
+      ZhuQueFX_67: 321989304366849282
+      ZhuQueFX_68: 8046641581868164597
+      ZhuQueFX_69: 8463945329699111814
+      ZhuQueFX_7: 2469319558687420663
+      ZhuQueFX_70: -3797027558007136308
+      ZhuQueFX_71: 3428045199962104441
+      ZhuQueFX_72: -2164470316130158993
+      ZhuQueFX_73: 6616143218246555207
+      ZhuQueFX_74: -1392260129451571085
+      ZhuQueFX_75: -2949672558373822981
+      ZhuQueFX_76: 6439537505794662369
+      ZhuQueFX_77: 6148104817251647303
+      ZhuQueFX_78: -3920105684830611073
+      ZhuQueFX_8: -149885111523330911
+      ZhuQueFX_9: 8721006846150242316
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

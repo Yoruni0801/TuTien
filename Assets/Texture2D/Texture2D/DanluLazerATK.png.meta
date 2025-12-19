@@ -1,0 +1,1508 @@
+fileFormatVersion: 2
+guid: d9121b461671d4e4f9d32f28a93790e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -32664350277311111
+    second: DanluLazerATK_0
+  - first:
+      213: -2917495474420620482
+    second: DanluLazerATK_1
+  - first:
+      213: -3503440020859544906
+    second: DanluLazerATK_2
+  - first:
+      213: -3233507837499579589
+    second: DanluLazerATK_3
+  - first:
+      213: -7193023285714371099
+    second: DanluLazerATK_4
+  - first:
+      213: 428114003485971009
+    second: DanluLazerATK_5
+  - first:
+      213: -202404809538648707
+    second: DanluLazerATK_6
+  - first:
+      213: -3927212398449374400
+    second: DanluLazerATK_7
+  - first:
+      213: -5530946139332783545
+    second: DanluLazerATK_8
+  - first:
+      213: -5734600723083125480
+    second: DanluLazerATK_9
+  - first:
+      213: -8334757023110429046
+    second: DanluLazerATK_10
+  - first:
+      213: -1163352883092249923
+    second: DanluLazerATK_11
+  - first:
+      213: 3353725450523772444
+    second: DanluLazerATK_12
+  - first:
+      213: 2413186242411661686
+    second: DanluLazerATK_13
+  - first:
+      213: 1066793817840801905
+    second: DanluLazerATK_14
+  - first:
+      213: -6731570871825567242
+    second: DanluLazerATK_15
+  - first:
+      213: -4422548044516088849
+    second: DanluLazerATK_16
+  - first:
+      213: 7342284987432312390
+    second: DanluLazerATK_17
+  - first:
+      213: -5481357526443072748
+    second: DanluLazerATK_18
+  - first:
+      213: 994598678033616945
+    second: DanluLazerATK_19
+  - first:
+      213: 1544056758202977178
+    second: DanluLazerATK_20
+  - first:
+      213: -9060243955778480113
+    second: DanluLazerATK_21
+  - first:
+      213: -50266002776098946
+    second: DanluLazerATK_22
+  - first:
+      213: -8037569599680749477
+    second: DanluLazerATK_23
+  - first:
+      213: 2033642677728299883
+    second: DanluLazerATK_24
+  - first:
+      213: 5587083351340837211
+    second: DanluLazerATK_25
+  - first:
+      213: 8308913021958109567
+    second: DanluLazerATK_26
+  - first:
+      213: -8778754450900139478
+    second: DanluLazerATK_27
+  - first:
+      213: -109905525272915805
+    second: DanluLazerATK_28
+  - first:
+      213: 8069324192305277436
+    second: DanluLazerATK_29
+  - first:
+      213: 7673883146320621340
+    second: DanluLazerATK_30
+  - first:
+      213: 2409375514392857985
+    second: DanluLazerATK_31
+  - first:
+      213: 8646620861357595059
+    second: DanluLazerATK_32
+  - first:
+      213: 2789068634884639248
+    second: DanluLazerATK_33
+  - first:
+      213: 4818821344661191847
+    second: DanluLazerATK_34
+  - first:
+      213: 6441646518301467756
+    second: DanluLazerATK_35
+  - first:
+      213: 4993718177082288176
+    second: DanluLazerATK_36
+  - first:
+      213: -6776208514071856915
+    second: DanluLazerATK_37
+  - first:
+      213: 9151346179380599745
+    second: DanluLazerATK_38
+  - first:
+      213: 3313835356553114401
+    second: DanluLazerATK_39
+  - first:
+      213: -9009996261079169626
+    second: DanluLazerATK_40
+  - first:
+      213: 7837925355249194847
+    second: DanluLazerATK_41
+  - first:
+      213: -3030664265110911376
+    second: DanluLazerATK_42
+  - first:
+      213: -2922589392226898254
+    second: DanluLazerATK_43
+  - first:
+      213: 6415967313144378131
+    second: DanluLazerATK_44
+  - first:
+      213: -1914379850681574842
+    second: DanluLazerATK_45
+  - first:
+      213: -9109747081988157632
+    second: DanluLazerATK_46
+  - first:
+      213: 757411521391829864
+    second: DanluLazerATK_47
+  - first:
+      213: 163795586254821802
+    second: DanluLazerATK_48
+  - first:
+      213: 3277632281417474384
+    second: DanluLazerATK_49
+  - first:
+      213: 7533768531783924426
+    second: DanluLazerATK_50
+  - first:
+      213: -2673408715766499347
+    second: DanluLazerATK_51
+  - first:
+      213: -6726487787505975263
+    second: DanluLazerATK_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DanluLazerATK_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1622
+        width: 168
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975e6ec42f3fb8ff0800000000000000
+      internalID: -32664350277311111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1622
+        width: 190
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e336955d259f287d0800000000000000
+      internalID: -2917495474420620482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_2
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1622
+        width: 190
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba97c0fcd7416fc0800000000000000
+      internalID: -3503440020859544906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_3
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1622
+        width: 190
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33656fe0c54023d0800000000000000
+      internalID: -3233507837499579589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_4
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1622
+        width: 190
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edb1e19e6f3d2c90800000000000000
+      internalID: -7193023285714371099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_5
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1622
+        width: 180
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142d62dfa67f0f500800000000000000
+      internalID: 428114003485971009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_6
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1622
+        width: 180
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d754e9ae5e9e03df0800000000000000
+      internalID: -202404809538648707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_7
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1622
+        width: 180
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b4ae0812dbf79c0800000000000000
+      internalID: -3927212398449374400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_8
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1366
+        width: 180
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742504d5ac12e33b0800000000000000
+      internalID: -5530946139332783545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1366
+        width: 180
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d9eeb860b9a60b0800000000000000
+      internalID: -5734600723083125480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_10
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1366
+        width: 180
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a868f4c95aef45c80800000000000000
+      internalID: -8334757023110429046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_11
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1366
+        width: 180
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db22cde67b0fadfe0800000000000000
+      internalID: -1163352883092249923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_12
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1366
+        width: 180
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1608a84783da8e20800000000000000
+      internalID: 3353725450523772444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_13
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1366
+        width: 180
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6798ec31a1c5d7120800000000000000
+      internalID: 2413186242411661686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_14
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1366
+        width: 180
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178dbf043530ece00800000000000000
+      internalID: 1066793817840801905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_15
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1366
+        width: 168
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1787c15f7a492a0800000000000000
+      internalID: -6731570871825567242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_16
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1110
+        width: 184
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe325843cf3ff92c0800000000000000
+      internalID: -4422548044516088849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_17
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1110
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e16938b4905e560800000000000000
+      internalID: 7342284987432312390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_18
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1110
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41362750f5e4ee3b0800000000000000
+      internalID: -5481357526443072748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_19
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1110
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13054426a368dcd00800000000000000
+      internalID: 994598678033616945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_20
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1110
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bcab9d0779d6510800000000000000
+      internalID: 1544056758202977178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_21
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1110
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08917d102c834280800000000000000
+      internalID: -9060243955778480113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_22
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 1110
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e777048365b6d4ff0800000000000000
+      internalID: -50266002776098946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_23
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 1110
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50ec81b801d47090800000000000000
+      internalID: -8037569599680749477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_24
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 854
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bc11e9d33f83c10800000000000000
+      internalID: 2033642677728299883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_25
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 854
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b596b27d4be498d40800000000000000
+      internalID: 5587083351340837211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_26
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 854
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f793e67fe503f4370800000000000000
+      internalID: 8308913021958109567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_27
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 854
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22c7b7b6599b2680800000000000000
+      internalID: -8778754450900139478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_28
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 854
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0514fc189897ef0800000000000000
+      internalID: -109905525272915805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_29
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 854
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf962db899ffbff60800000000000000
+      internalID: 8069324192305277436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_30
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 854
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f2c48401c1f7a60800000000000000
+      internalID: 7673883146320621340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_31
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 854
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d09e1d342df6120800000000000000
+      internalID: 2409375514392857985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_32
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 598
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b993b49cd7fef770800000000000000
+      internalID: 8646620861357595059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_33
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 598
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a8b747523c4b620800000000000000
+      internalID: 2789068634884639248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_34
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 598
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acb9945b74efd240800000000000000
+      internalID: 4818821344661191847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_35
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 598
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64adfb0163556950800000000000000
+      internalID: 6441646518301467756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_36
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 598
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038a66569304d4540800000000000000
+      internalID: 4993718177082288176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_37
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 598
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8f4c2224216f1a0800000000000000
+      internalID: -6776208514071856915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_38
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 598
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbdb9e3ddc100f70800000000000000
+      internalID: 9151346179380599745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_39
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 598
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1237a7703bb1dfd20800000000000000
+      internalID: 3313835356553114401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_40
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 342
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a547c6332016f280800000000000000
+      internalID: -9009996261079169626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_41
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 342
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57d7af5597e5cc60800000000000000
+      internalID: 7837925355249194847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_42
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 342
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076089478eae0f5d0800000000000000
+      internalID: -3030664265110911376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_43
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 342
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2beadfbae60e077d0800000000000000
+      internalID: -2922589392226898254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_44
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 342
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313fc7e27481a0950800000000000000
+      internalID: 6415967313144378131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_45
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 342
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a95fa2ba1ce65e0800000000000000
+      internalID: -1914379850681574842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_46
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 342
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fc1706b4da39180800000000000000
+      internalID: -9109747081988157632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_47
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 342
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863295904cdd28a00800000000000000
+      internalID: 757411521391829864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_48
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 86
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9de76c73be54200800000000000000
+      internalID: 163795586254821802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_49
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 86
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051ed3eb13d7c7d20800000000000000
+      internalID: 3277632281417474384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_50
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 86
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca3ff460925d8860800000000000000
+      internalID: 7533768531783924426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_51
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 87
+        width: 168
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7fd45ffe426ead0800000000000000
+      internalID: -2673408715766499347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanluLazerATK_52
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 86
+        width: 168
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12004b7eef6b6a2a0800000000000000
+      internalID: -6726487787505975263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DanluLazerATK_0: -32664350277311111
+      DanluLazerATK_1: -2917495474420620482
+      DanluLazerATK_10: -8334757023110429046
+      DanluLazerATK_11: -1163352883092249923
+      DanluLazerATK_12: 3353725450523772444
+      DanluLazerATK_13: 2413186242411661686
+      DanluLazerATK_14: 1066793817840801905
+      DanluLazerATK_15: -6731570871825567242
+      DanluLazerATK_16: -4422548044516088849
+      DanluLazerATK_17: 7342284987432312390
+      DanluLazerATK_18: -5481357526443072748
+      DanluLazerATK_19: 994598678033616945
+      DanluLazerATK_2: -3503440020859544906
+      DanluLazerATK_20: 1544056758202977178
+      DanluLazerATK_21: -9060243955778480113
+      DanluLazerATK_22: -50266002776098946
+      DanluLazerATK_23: -8037569599680749477
+      DanluLazerATK_24: 2033642677728299883
+      DanluLazerATK_25: 5587083351340837211
+      DanluLazerATK_26: 8308913021958109567
+      DanluLazerATK_27: -8778754450900139478
+      DanluLazerATK_28: -109905525272915805
+      DanluLazerATK_29: 8069324192305277436
+      DanluLazerATK_3: -3233507837499579589
+      DanluLazerATK_30: 7673883146320621340
+      DanluLazerATK_31: 2409375514392857985
+      DanluLazerATK_32: 8646620861357595059
+      DanluLazerATK_33: 2789068634884639248
+      DanluLazerATK_34: 4818821344661191847
+      DanluLazerATK_35: 6441646518301467756
+      DanluLazerATK_36: 4993718177082288176
+      DanluLazerATK_37: -6776208514071856915
+      DanluLazerATK_38: 9151346179380599745
+      DanluLazerATK_39: 3313835356553114401
+      DanluLazerATK_4: -7193023285714371099
+      DanluLazerATK_40: -9009996261079169626
+      DanluLazerATK_41: 7837925355249194847
+      DanluLazerATK_42: -3030664265110911376
+      DanluLazerATK_43: -2922589392226898254
+      DanluLazerATK_44: 6415967313144378131
+      DanluLazerATK_45: -1914379850681574842
+      DanluLazerATK_46: -9109747081988157632
+      DanluLazerATK_47: 757411521391829864
+      DanluLazerATK_48: 163795586254821802
+      DanluLazerATK_49: 3277632281417474384
+      DanluLazerATK_5: 428114003485971009
+      DanluLazerATK_50: 7533768531783924426
+      DanluLazerATK_51: -2673408715766499347
+      DanluLazerATK_52: -6726487787505975263
+      DanluLazerATK_6: -202404809538648707
+      DanluLazerATK_7: -3927212398449374400
+      DanluLazerATK_8: -5530946139332783545
+      DanluLazerATK_9: -5734600723083125480
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

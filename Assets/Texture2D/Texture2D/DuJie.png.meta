@@ -1,0 +1,1768 @@
+fileFormatVersion: 2
+guid: 0d63b762cb2031045b019a67e32d4737
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6476303019537340556
+    second: DuJie_0
+  - first:
+      213: -4838194072181517506
+    second: DuJie_1
+  - first:
+      213: 4570767365675618111
+    second: DuJie_2
+  - first:
+      213: -4778714449929243944
+    second: DuJie_3
+  - first:
+      213: -5484198613472974726
+    second: DuJie_4
+  - first:
+      213: -2724041014746788965
+    second: DuJie_5
+  - first:
+      213: 6822999471984739774
+    second: DuJie_6
+  - first:
+      213: 3676468961482647100
+    second: DuJie_7
+  - first:
+      213: 8179151250027196523
+    second: DuJie_8
+  - first:
+      213: 8410940432789838794
+    second: DuJie_9
+  - first:
+      213: -5848528069959554803
+    second: DuJie_10
+  - first:
+      213: -2566453299256965469
+    second: DuJie_11
+  - first:
+      213: -4890661336956478381
+    second: DuJie_12
+  - first:
+      213: 6391852053454708399
+    second: DuJie_13
+  - first:
+      213: -7681846577493502618
+    second: DuJie_14
+  - first:
+      213: 4090465372790217461
+    second: DuJie_15
+  - first:
+      213: 6223483234641729401
+    second: DuJie_16
+  - first:
+      213: 8431867387867787168
+    second: DuJie_17
+  - first:
+      213: 8367982279112680279
+    second: DuJie_18
+  - first:
+      213: -429412374103041326
+    second: DuJie_19
+  - first:
+      213: 4873093201937758347
+    second: DuJie_20
+  - first:
+      213: -6072233563590161516
+    second: DuJie_21
+  - first:
+      213: 982312655754039556
+    second: DuJie_22
+  - first:
+      213: -7766633348279658192
+    second: DuJie_23
+  - first:
+      213: -8160409745264760492
+    second: DuJie_24
+  - first:
+      213: -1491021228663504547
+    second: DuJie_25
+  - first:
+      213: 8284889057650796071
+    second: DuJie_26
+  - first:
+      213: 2406997978545636803
+    second: DuJie_27
+  - first:
+      213: -8562489552765624429
+    second: DuJie_28
+  - first:
+      213: 4927903524523482128
+    second: DuJie_29
+  - first:
+      213: 9030653181917313254
+    second: DuJie_30
+  - first:
+      213: 529601405500287414
+    second: DuJie_31
+  - first:
+      213: 1642612331870742756
+    second: DuJie_32
+  - first:
+      213: 36610174837791207
+    second: DuJie_33
+  - first:
+      213: 4463392596093750361
+    second: DuJie_34
+  - first:
+      213: 4100596812626327050
+    second: DuJie_35
+  - first:
+      213: 4089857518701546167
+    second: DuJie_36
+  - first:
+      213: 9041744236874184698
+    second: DuJie_37
+  - first:
+      213: -4667232830793327037
+    second: DuJie_38
+  - first:
+      213: -452015095418139016
+    second: DuJie_39
+  - first:
+      213: -8351007453551629995
+    second: DuJie_40
+  - first:
+      213: 6421396779355316339
+    second: DuJie_41
+  - first:
+      213: -342323618120492257
+    second: DuJie_42
+  - first:
+      213: -6946024345788730484
+    second: DuJie_43
+  - first:
+      213: -3928926420101340070
+    second: DuJie_44
+  - first:
+      213: 142006080976127496
+    second: DuJie_45
+  - first:
+      213: 871083820597204863
+    second: DuJie_46
+  - first:
+      213: -1709903886398437377
+    second: DuJie_47
+  - first:
+      213: 8456281270816376545
+    second: DuJie_48
+  - first:
+      213: -1458323460440700416
+    second: DuJie_49
+  - first:
+      213: 3174809333410958796
+    second: DuJie_50
+  - first:
+      213: 1833531736053820020
+    second: DuJie_51
+  - first:
+      213: -375865238177718165
+    second: DuJie_52
+  - first:
+      213: 216919554913682648
+    second: DuJie_53
+  - first:
+      213: -1547209479714525918
+    second: DuJie_54
+  - first:
+      213: -340614764611169830
+    second: DuJie_55
+  - first:
+      213: 6123725841960454379
+    second: DuJie_56
+  - first:
+      213: 6976530698544164093
+    second: DuJie_57
+  - first:
+      213: 4783513247416470411
+    second: DuJie_58
+  - first:
+      213: -1238207310791133665
+    second: DuJie_59
+  - first:
+      213: 6534395027675352555
+    second: DuJie_60
+  - first:
+      213: -5299539588708385999
+    second: DuJie_61
+  - first:
+      213: 3916666951556826572
+    second: DuJie_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DuJie_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 862
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c881059884370e950800000000000000
+      internalID: 6476303019537340556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 862
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33583d00284bdcb0800000000000000
+      internalID: -4838194072181517506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_2
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 862
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f0b0eb3b0ae6f30800000000000000
+      internalID: 4570767365675618111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_3
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 862
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2f0f8c6889eadb0800000000000000
+      internalID: -4778714449929243944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_4
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 862
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78e046ea6634e3b0800000000000000
+      internalID: -5484198613472974726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_5
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 862
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b4c623123423ad0800000000000000
+      internalID: -2724041014746788965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_6
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 684
+        width: 66
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb50456bed920be50800000000000000
+      internalID: 6822999471984739774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_7
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 762
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c362cecaa01750330800000000000000
+      internalID: 3676468961482647100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_8
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 606
+        width: 47
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6030161abe228170800000000000000
+      internalID: 8179151250027196523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 462
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb9863b2c9a9b470800000000000000
+      internalID: 8410940432789838794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_10
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 462
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09e82b05bad5dea0800000000000000
+      internalID: -5848528069959554803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_11
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 462
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6c82d6250226cd0800000000000000
+      internalID: -2566453299256965469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_12
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 462
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cd8f50d61e02cb0800000000000000
+      internalID: -4890661336956478381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_13
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 461
+        width: 87
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faed40fb39b64b850800000000000000
+      internalID: 6391852053454708399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_14
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 481
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6651379ec39946590800000000000000
+      internalID: -7681846577493502618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 85
+        width: 71
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa5237959044c830800000000000000
+      internalID: 4090465372790217461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_16
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 95
+        width: 66
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9775b6a47014e5650800000000000000
+      internalID: 6223483234641729401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_17
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 373
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af6f0f17b2040570800000000000000
+      internalID: 8431867387867787168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_18
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 342
+        width: 11
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75366412c8b012470800000000000000
+      internalID: 8367982279112680279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_19
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 307
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da5e6b88bb6a0af0800000000000000
+      internalID: -429412374103041326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_20
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 338
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88fedac274b0a340800000000000000
+      internalID: 4873093201937758347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_21
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 312
+        width: 7
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b0109feb71bbba0800000000000000
+      internalID: -6072233563590161516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_22
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 205
+        width: 41
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4011798e720e1ad00800000000000000
+      internalID: 982312655754039556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_23
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 290
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039961f7e10673490800000000000000
+      internalID: -7766633348279658192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_24
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 259
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459abd7829660ce80800000000000000
+      internalID: -8160409745264760492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_25
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 273
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5102f0a714de4be0800000000000000
+      internalID: -1491021228663504547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_26
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 264
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726ebc4e3b6d9f270800000000000000
+      internalID: 8284889057650796071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_27
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 249
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5cb4e98ef576120800000000000000
+      internalID: 2406997978545636803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_28
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 223
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f59662e1deb2980800000000000000
+      internalID: -8562489552765624429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_29
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 171
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c1e9a752e636440800000000000000
+      internalID: 4927903524523482128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_30
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 201
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8bee5f833535d70800000000000000
+      internalID: 9030653181917313254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_31
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 208
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9646f1ca5895700800000000000000
+      internalID: 529601405500287414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_32
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 204
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8e4d0863bbbc610800000000000000
+      internalID: 1642612331870742756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_33
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 210
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e91f5292c0128000800000000000000
+      internalID: 36610174837791207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_34
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 176
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cc6470be721fd30800000000000000
+      internalID: 4463392596093750361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_35
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 174
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06f0bf331f38e830800000000000000
+      internalID: 4100596812626327050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_36
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 189
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba8a288eb712c830800000000000000
+      internalID: 4089857518701546167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_37
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 194
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af732dc6a7aba7d70800000000000000
+      internalID: 9041744236874184698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_38
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 173
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ed58ce778aa3fb0800000000000000
+      internalID: -4667232830793327037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_39
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 137
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ecc746aae1ab9f0800000000000000
+      internalID: -452015095418139016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_40
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 143
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5596a6e67f24b1c80800000000000000
+      internalID: -8351007453551629995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_41
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 90
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370af4b49526d1950800000000000000
+      internalID: 6421396779355316339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_42
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 141
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b93b7ab72df3bf0800000000000000
+      internalID: -342323618120492257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_43
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 109
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c833c0cb8a3ca9f90800000000000000
+      internalID: -6946024345788730484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_44
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 131
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54663dbc36a979c0800000000000000
+      internalID: -3928926420101340070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_45
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 105
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806078c37c188f100800000000000000
+      internalID: 142006080976127496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_46
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 93
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f775940ae16b61c00800000000000000
+      internalID: 871083820597204863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_47
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 99
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7492b89733548e0800000000000000
+      internalID: -1709903886398437377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_48
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 113
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e68cc3330fba5570800000000000000
+      internalID: 8456281270816376545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_49
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 109
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a40dc0a8ef2cbe0800000000000000
+      internalID: -1458323460440700416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_50
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 80
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd0e8394403f0c20800000000000000
+      internalID: 3174809333410958796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_51
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 95
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47aa4e34663027910800000000000000
+      internalID: 1833531736053820020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_52
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 92
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60effaae88a8caf0800000000000000
+      internalID: -375865238177718165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_53
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 95
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d447779f27a20300800000000000000
+      internalID: 216919554913682648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_54
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 100
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22daf78fc25378ae0800000000000000
+      internalID: -1547209479714525918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_55
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 77
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1191e1da4e54bf0800000000000000
+      internalID: -340614764611169830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_56
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 87
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8cee75538dbf450800000000000000
+      internalID: 6123725841960454379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_57
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 61
+        width: 67
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc255305bd91d060800000000000000
+      internalID: 6976530698544164093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_58
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 61
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b42a254f3726240800000000000000
+      internalID: 4783513247416470411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_59
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 63
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16b00ad20101dee0800000000000000
+      internalID: -1238207310791133665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_60
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 65
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed0bae28a5deaa50800000000000000
+      internalID: 6534395027675352555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_61
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 69
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bbaed72d04476b0800000000000000
+      internalID: -5299539588708385999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuJie_62
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 66
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc58e0f47dbca5630800000000000000
+      internalID: 3916666951556826572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DuJie_0: 6476303019537340556
+      DuJie_1: -4838194072181517506
+      DuJie_10: -5848528069959554803
+      DuJie_11: -2566453299256965469
+      DuJie_12: -4890661336956478381
+      DuJie_13: 6391852053454708399
+      DuJie_14: -7681846577493502618
+      DuJie_15: 4090465372790217461
+      DuJie_16: 6223483234641729401
+      DuJie_17: 8431867387867787168
+      DuJie_18: 8367982279112680279
+      DuJie_19: -429412374103041326
+      DuJie_2: 4570767365675618111
+      DuJie_20: 4873093201937758347
+      DuJie_21: -6072233563590161516
+      DuJie_22: 982312655754039556
+      DuJie_23: -7766633348279658192
+      DuJie_24: -8160409745264760492
+      DuJie_25: -1491021228663504547
+      DuJie_26: 8284889057650796071
+      DuJie_27: 2406997978545636803
+      DuJie_28: -8562489552765624429
+      DuJie_29: 4927903524523482128
+      DuJie_3: -4778714449929243944
+      DuJie_30: 9030653181917313254
+      DuJie_31: 529601405500287414
+      DuJie_32: 1642612331870742756
+      DuJie_33: 36610174837791207
+      DuJie_34: 4463392596093750361
+      DuJie_35: 4100596812626327050
+      DuJie_36: 4089857518701546167
+      DuJie_37: 9041744236874184698
+      DuJie_38: -4667232830793327037
+      DuJie_39: -452015095418139016
+      DuJie_4: -5484198613472974726
+      DuJie_40: -8351007453551629995
+      DuJie_41: 6421396779355316339
+      DuJie_42: -342323618120492257
+      DuJie_43: -6946024345788730484
+      DuJie_44: -3928926420101340070
+      DuJie_45: 142006080976127496
+      DuJie_46: 871083820597204863
+      DuJie_47: -1709903886398437377
+      DuJie_48: 8456281270816376545
+      DuJie_49: -1458323460440700416
+      DuJie_5: -2724041014746788965
+      DuJie_50: 3174809333410958796
+      DuJie_51: 1833531736053820020
+      DuJie_52: -375865238177718165
+      DuJie_53: 216919554913682648
+      DuJie_54: -1547209479714525918
+      DuJie_55: -340614764611169830
+      DuJie_56: 6123725841960454379
+      DuJie_57: 6976530698544164093
+      DuJie_58: 4783513247416470411
+      DuJie_59: -1238207310791133665
+      DuJie_6: 6822999471984739774
+      DuJie_60: 6534395027675352555
+      DuJie_61: -5299539588708385999
+      DuJie_62: 3916666951556826572
+      DuJie_7: 3676468961482647100
+      DuJie_8: 8179151250027196523
+      DuJie_9: 8410940432789838794
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
